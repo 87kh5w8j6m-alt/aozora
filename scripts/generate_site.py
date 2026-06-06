@@ -4,47 +4,53 @@ from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
 def format_date(iso_str):
-    dt_utc = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+    dt_utc = datetime.fromisoformat(iso_str.replace('Z', '+00:00'))
     jst = timezone(timedelta(hours=9))
     dt_jst = dt_utc.astimezone(jst)
-    return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
+    return dt_jst.strftime('%Y-%m-%d %H:%M:%S')
 
 def render_post(post):
-    # エラーが出やすい箇所の書き方を変えました
-    raw_text = post.get("text", "")
-    text = "  
-".join(raw_text.splitlines())
+    raw_text = post.get('text', '')
+    # エラーが出やすい箇所を極限までバラバラに書きました
+    lines = raw_text.splitlines()
+    br_tag = '  
+'
+    text = br_tag.join(lines)
     
-    date = format_date(post["createdAt"])
-    stats = f"❤️ {post['likeCount']} | 🔄 {post['repostCount']} | 💬 {post['replyCount']}"
+    date = format_date(post['createdAt'])
+    l_cnt = post['likeCount']
+    r_cnt = post['repostCount']
+    c_cnt = post['replyCount']
+    stats = f'❤️ {l_cnt} | 🔄 {r_cnt} | 💬 {c_cnt}'
     
-    images_html = ""
-    if post.get("embed") and post["embed"].get("$type") == "app.bsky.embed.images#view":
-        for img in post["embed"]["images"]:
-            thumb_url = img["thumb"]
-            images_html += f'<img src="{thumb_url}" class="post-image" loading="lazy">'
+    images_html = ''
+    embed = post.get('embed')
+    if embed and embed.get('$type') == 'app.bsky.embed.images#view':
+        for img in embed['images']:
+            thumb = img['thumb']
+            images_html += f'<img src="{thumb}" class="post-image" loading="lazy">'
             
     try:
-        parts = post["uri"].split("/")
+        parts = post['uri'].split('/')
         did = parts[2]
         rkey = parts[4]
-        post_url = f"https://bsky.app/profile/{did}/post/{rkey}"
+        post_url = f'https://bsky.app/profile/{did}/post/{rkey}'
     except:
-        post_url = "#"
+        post_url = '#'
 
-    return f"""
+    return f'''
     <div class="post">
         <div class="post-meta"><a href="{post_url}" target="_blank">{date}</a></div>
         <div class="post-text">{text}</div>
         {images_html}
         <div class="post-stats">{stats}</div>
     </div>
-    """
+    '''
 
 def generate_html(posts ):
-    sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
+    sorted_posts = sorted(posts.values(), key=lambda x: x['createdAt'], reverse=True)
     
-    base_html = """
+    base_html = '''
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -90,48 +96,48 @@ def generate_html(posts ):
     </script>
 </body>
 </html>
-"""
+'''
 
     # Index
     search_html = '<div class="search-box"><input type="text" id="search-input" placeholder="キーワード検索..." onkeyup="search()"></div>'
-    index_content = search_html + "".join([render_post(p) for p in sorted_posts[:100]])
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="最新投稿", content=index_content))
+    index_content = search_html + ''.join([render_post(p) for p in sorted_posts[:100]])
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write(base_html.format(title='最新投稿', content=index_content))
 
     # Images
-    img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
-    with open("images.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="画像一覧", content=img_content))
+    img_content = ''.join([render_post(p) for p in sorted_posts if p.get('embed') and p['embed'].get('$type') == 'app.bsky.embed.images#view'])
+    with open('images.html', 'w', encoding='utf-8') as f:
+        f.write(base_html.format(title='画像一覧', content=img_content))
 
     # Ranking
-    top_liked = sorted(sorted_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
-    ranking_content = "<h3>いいねランキング</h3>" + "".join([render_post(p) for p in top_liked])
-    with open("ranking.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="ランキング", content=ranking_content))
+    top_liked = sorted(sorted_posts, key=lambda x: x['likeCount'], reverse=True)[:50]
+    ranking_content = '<h3>いいねランキング</h3>' + ''.join([render_post(p) for p in top_liked])
+    with open('ranking.html', 'w', encoding='utf-8') as f:
+        f.write(base_html.format(title='ランキング', content=ranking_content))
 
     # Archive
     archive_map = defaultdict(list)
     for post in sorted_posts:
-        dt_utc = datetime.fromisoformat(post["createdAt"].replace("Z", "+00:00"))
+        dt_utc = datetime.fromisoformat(post['createdAt'].replace('Z', '+00:00'))
         jst = timezone(timedelta(hours=9))
         dt_jst = dt_utc.astimezone(jst)
-        month = dt_jst.strftime("%Y-%m")
+        month = dt_jst.strftime('%Y-%m')
         archive_map[month].append(post)
     
-    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(m_posts)}件)</li>' for m, m_posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
-    with open("archive.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="月別アーカイブ", content=archive_list))
+    archive_list = '<ul>' + ''.join([f'<li><a href="archive_{m}.html">{m}</a> ({len(m_posts)}件)</li>' for m, m_posts in sorted(archive_map.items(), reverse=True)]) + '</ul>'
+    with open('archive.html', 'w', encoding='utf-8') as f:
+        f.write(base_html.format(title='月別アーカイブ', content=archive_list))
         
     for month, m_posts in archive_map.items():
-        m_content = "".join([render_post(p) for p in m_posts])
-        with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
+        m_content = ''.join([render_post(p) for p in m_posts])
+        with open(f'archive_{month}.html', 'w', encoding='utf-8') as f:
+            f.write(base_html.format(title=f'アーカイブ: {month}', content=m_content))
 
-if __name__ == "__main__":
-    data_path = "data/posts.json"
+if __name__ == '__main__':
+    data_path = 'data/posts.json'
     if os.path.exists(data_path):
-        with open(data_path, "r", encoding="utf-8") as f:
+        with open(data_path, 'r', encoding='utf-8') as f:
             posts = json.load(f)
         generate_html(posts)
     else:
-        print("No data found.")
+        print('No data found.')
