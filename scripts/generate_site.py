@@ -5,10 +5,7 @@ from collections import defaultdict
 
 def format_date(iso_str):
     dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
-    # 日本時間（UTC+9）に変換
-    jst = timezone(timedelta(hours=9))
-    dt_jst = dt_utc.astimezone(jst)
-    return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
+    return dt.strftime("%Y-%m-%d %H:%M:%S")
 
 def render_post(post):
     text = post["text"].replace("\n", "  
@@ -110,11 +107,7 @@ def generate_html(posts ):
     # Archive
     archive_map = defaultdict(list)
     for post in sorted_posts:
-        # アーカイブの月名も日本時間に基づいて分類するように修正
-        dt_utc = datetime.fromisoformat(post["createdAt"].replace("Z", "+00:00"))
-        jst = timezone(timedelta(hours=9))
-        dt_jst = dt_utc.astimezone(jst)
-        month = dt_jst.strftime("%Y-%m")
+        month = post["createdAt"][:7]
         archive_map[month].append(post)
     
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
