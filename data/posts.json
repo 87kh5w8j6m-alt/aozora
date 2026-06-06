@@ -1,0 +1,36 @@
+{
+  "at://did:plc:sample/app.bsky.feed.post/1": {
+    "uri": "at://did:plc:sample/app.bsky.feed.post/1",
+    "cid": "cid1",
+    "author": "sample.bsky.social",
+    "text": "これはbskylogのプロトタイプテスト投稿です！ #bskylog",
+    "createdAt": "2026-06-05T10:00:00.000Z",
+    "replyCount": 1,
+    "repostCount": 2,
+    "likeCount": 10,
+    "indexedAt": "2026-06-05T10:00:00.000Z",
+    "tags": ["bskylog"]
+  },
+  "at://did:plc:sample/app.bsky.feed.post/2": {
+    "uri": "at://did:plc:sample/app.bsky.feed.post/2",
+    "cid": "cid2",
+    "author": "sample.bsky.social",
+    "text": "画像付きの投稿テストです。",
+    "createdAt": "2026-06-05T11:00:00.000Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 5,
+    "indexedAt": "2026-06-05T11:00:00.000Z",
+    "tags": [],
+    "embed": {
+      "$type": "app.bsky.embed.images#view",
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sample/cid@jpeg",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sample/cid@jpeg",
+          "alt": "Test Image"
+        }
+      ]
+    }
+  }
+}
