@@ -4,23 +4,25 @@ from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
 def format_date(iso_str):
-    # Blueskyからの日時（UTC）を読み込む
     dt_utc = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
-    # 日本時間（UTC+9）に変換
     jst = timezone(timedelta(hours=9))
     dt_jst = dt_utc.astimezone(jst)
     return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
 
 def render_post(post):
-    text = post["text"].replace("\n", "  
-")
+    # エラーが出やすい箇所の書き方を変えました
+    raw_text = post.get("text", "")
+    text = "  
+".join(raw_text.splitlines())
+    
     date = format_date(post["createdAt"])
     stats = f"❤️ {post['likeCount']} | 🔄 {post['repostCount']} | 💬 {post['replyCount']}"
     
     images_html = ""
     if post.get("embed") and post["embed"].get("$type") == "app.bsky.embed.images#view":
         for img in post["embed"]["images"]:
-            images_html += f'<img src="{img["thumb"]}" class="post-image" loading="lazy">'
+            thumb_url = img["thumb"]
+            images_html += f'<img src="{thumb_url}" class="post-image" loading="lazy">'
             
     try:
         parts = post["uri"].split("/")
