@@ -8,15 +8,22 @@ def fetch_posts():
     app_password = os.environ.get("BSKY_APP_PASSWORD")
     
     if not handle or not app_password:
-        print("Error: BSKY_HANDLE and BSKY_APP_PASSWORD must be set.")
+        print("Error: BSKY_HANDLE and BSKY_APP_PASSWORD must be set in GitHub Secrets.")
         return
+
+    print(f"Attempting to login as {handle}...")
 
     # Create session
     resp = requests.post(
         "https://bsky.social/xrpc/com.atproto.server.createSession",
         json={"identifier": handle, "password": app_password}
-    )
-    resp.raise_for_status()
+     )
+    
+    if resp.status_code != 200:
+        print(f"Login Failed! Status: {resp.status_code}")
+        print(f"Response: {resp.text}")
+        return
+
     session = resp.json()
     access_token = session["access_token"]
     did = session["did"]
@@ -32,15 +39,13 @@ def fetch_posts():
         posts_db = {}
 
     params = {"actor": did, "limit": 100}
-    cursor = None
     
-    # Fetch posts (simplified for prototype: fetch latest 100)
-    # In real use, we might loop with cursor until we hit known posts
+    # Fetch posts
     resp = requests.get(
         "https://bsky.social/xrpc/app.bsky.feed.getAuthorFeed",
         params=params,
         headers=headers
-    )
+     )
     resp.raise_for_status()
     feed = resp.json().get("feed", [])
 
@@ -49,11 +54,8 @@ def fetch_posts():
         post = item["post"]
         uri = post["uri"]
         
-        # Only save if not already in DB
         if uri not in posts_db:
             record = post["record"]
-            
-            # Extract basic info
             post_data = {
                 "uri": uri,
                 "cid": post["cid"],
@@ -65,27 +67,15 @@ def fetch_posts():
                 "likeCount": post.get("likeCount", 0),
                 "indexedAt": post["indexedAt"],
                 "embed": post.get("embed"),
-                "labels": post.get("labels", []),
             }
-            
-            # Extract tags from facets if present
-            tags = []
-            if "facets" in record:
-                for facet in record["facets"]:
-                    for feature in facet.get("features", []):
-                        if feature.get("$type") == "app.bsky.richtext.facet#tag":
-                            tags.append(feature["tag"])
-            post_data["tags"] = tags
-
             posts_db[uri] = post_data
             new_count += 1
 
-    # Save back to JSON
     os.makedirs("data", exist_ok=True)
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(posts_db, f, ensure_ascii=False, indent=2)
 
-    print(f"Fetched {len(feed)} posts. Added {new_count} new posts.")
+    print(f"Successfully fetched {len(feed)} posts. Added {new_count} new posts.")
 
 if __name__ == "__main__":
     fetch_posts()
