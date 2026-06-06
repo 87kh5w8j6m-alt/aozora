@@ -25,8 +25,13 @@ def fetch_posts():
         return
 
     session = resp.json()
-    access_token = session["access_token"]
-    did = session["did"]
+    # ここを access_token から accessJwt に修正しました
+    access_token = session.get("accessJwt")
+    did = session.get("did")
+
+    if not access_token:
+        print("Error: accessJwt not found in response.")
+        return
 
     headers = {"Authorization": f"Bearer {access_token}"}
     
@@ -41,6 +46,7 @@ def fetch_posts():
     params = {"actor": did, "limit": 100}
     
     # Fetch posts
+    print("Fetching posts from Bluesky...")
     resp = requests.get(
         "https://bsky.social/xrpc/app.bsky.feed.getAuthorFeed",
         params=params,
