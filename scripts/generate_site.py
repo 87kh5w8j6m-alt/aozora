@@ -110,14 +110,13 @@ def generate_html(posts ):
     # Archive
     archive_map = defaultdict(list)
     for post in sorted_posts:
-        # アーカイブの月名も日本時間に基づいて分類するように修正
         dt_utc = datetime.fromisoformat(post["createdAt"].replace("Z", "+00:00"))
         jst = timezone(timedelta(hours=9))
         dt_jst = dt_utc.astimezone(jst)
         month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
     
-    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
+    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(m_posts)}件)</li>' for m, m_posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="月別アーカイブ", content=archive_list))
         
