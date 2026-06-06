@@ -1,15 +1,23 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
-def format_date(iso_str):
+# 日本時間 (JST) のタイムゾーンを定義
+JST = timezone(timedelta(hours=+9), 'JST')
+
+def get_jst_datetime(iso_str):
+    """ISO文字列(UTC)を読み込み、JSTのdatetimeオブジェクトに変換する"""
     dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
-    return dt.strftime("%Y-%m-%d %H:%M:%S")
+    return dt.astimezone(JST)
+
+def format_date(iso_str):
+    """JSTに変換した上で、表示用の文字列にフォーマットする"""
+    dt_jst = get_jst_datetime(iso_str)
+    return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
 
 def render_post(post):
-    text = post["text"].replace("\n", "  
-")
+    text = post["text"].replace("\n", "<br>")
     date = format_date(post["createdAt"])
     stats = f"❤️ {post['likeCount']} | 🔄 {post['repostCount']} | 💬 {post['replyCount']}"
     
@@ -35,7 +43,8 @@ def render_post(post):
     </div>
     """
 
-def generate_html(posts ):
+def generate_html(posts):
+    # ソートは元のISO文字列(UTC)のままでも時間順の比較として正常に機能します
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
     # Base template: タイトルを「青空の記憶」に変更
@@ -107,7 +116,9 @@ def generate_html(posts ):
     # Archive
     archive_map = defaultdict(list)
     for post in sorted_posts:
-        month = post["createdAt"][:7]
+        # 日本時間に変換してから月（YYYY-MM）を取得する
+        dt_jst = get_jst_datetime(post["createdAt"])
+        month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
     
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
