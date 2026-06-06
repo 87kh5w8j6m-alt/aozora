@@ -57,7 +57,7 @@ def generate_html(posts):
 </head>
 <body>
     <header>
-        <h1>bskylog</h1>
+        <h1>青空の記憶</h1>
         <nav>
             <a href="index.html">ホーム</a> | 
             <a href="images.html">画像一覧</a> | 
@@ -70,7 +70,7 @@ def generate_html(posts):
         {content}
     </main>
     <footer>
-        <p>&copy; 2026 bskylog</p>
+        <p>&copy; 2026 青空の記憶</p>
     </footer>
     <script>
         function search() {{
