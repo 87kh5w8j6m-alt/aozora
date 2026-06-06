@@ -1,14 +1,19 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 
 def format_date(iso_str):
-    dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
-    return dt.strftime("%Y-%m-%d %H:%M:%S")
+    # Blueskyからの日時（UTC）を読み込む
+    dt_utc = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+    # 日本時間（UTC+9）に変換
+    jst = timezone(timedelta(hours=9))
+    dt_jst = dt_utc.astimezone(jst)
+    return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
 
 def render_post(post):
-    text = post["text"].replace("\n", "<br>")
+    text = post["text"].replace("\n", "  
+")
     date = format_date(post["createdAt"])
     stats = f"❤️ {post['likeCount']} | 🔄 {post['repostCount']} | 💬 {post['replyCount']}"
     
@@ -34,10 +39,9 @@ def render_post(post):
     </div>
     """
 
-def generate_html(posts):
+def generate_html(posts ):
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
-    # Base template using double braces for CSS/JS
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -73,7 +77,7 @@ def generate_html(posts):
         <p>&copy; 2026 青空の記憶</p>
     </footer>
     <script>
-        function search() {{
+        function search( ) {{
             const query = document.getElementById('search-input').value.toLowerCase();
             const posts = document.querySelectorAll('.post');
             posts.forEach(post => {{
@@ -106,7 +110,11 @@ def generate_html(posts):
     # Archive
     archive_map = defaultdict(list)
     for post in sorted_posts:
-        month = post["createdAt"][:7]
+        # アーカイブの月名も日本時間に基づいて分類するように修正
+        dt_utc = datetime.fromisoformat(post["createdAt"].replace("Z", "+00:00"))
+        jst = timezone(timedelta(hours=9))
+        dt_jst = dt_utc.astimezone(jst)
+        month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
     
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
