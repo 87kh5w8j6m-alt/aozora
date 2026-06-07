@@ -43,15 +43,23 @@ def fetch_posts():
     else:
         posts_db = {}
 
+    # 【自動判定】既存データに "isRepost" フィールドがなければ、初回フルスキャンモードにします
+    has_repost_field = any("isRepost" in p for p in posts_db.values())
+    is_initial_full_fetch = not has_repost_field
+
+    if is_initial_full_fetch:
+        print("【初回モード】データ構造更新のため、過去の投稿をすべてスキャンします（数分かかります）")
+    else:
+        print("【日常モード】最近の投稿のみを効率的に取得します")
+
     print("Fetching posts from Bluesky...")
     
-    # ページネーション用の初期設定
     params = {"actor": did, "limit": 100}
     cursor = None
     new_count = 0
     total_fetched = 0
+    page_count = 0
 
-    # すべての投稿を取得するためのループ
     while True:
         if cursor:
             params["cursor"] = cursor
@@ -68,37 +76,51 @@ def fetch_posts():
 
         data = resp.json()
         feed = data.get("feed", [])
+        if not feed:
+            break
+            
         total_fetched += len(feed)
+        page_count += 1
 
-        # 投稿データをデータベース(辞書)にマッピングして保存
         for item in feed:
             post = item["post"]
             uri = post["uri"]
+            record = post["record"]
+            
+            # 🔄 リポスト判定のロジック
+            reason = item.get("reason")
+            is_repost = reason and reason.get("$type") == "app.bsky.feed.defs#reasonRepost"
+            
+            post_data = {
+                "uri": uri,
+                "cid": post["cid"],
+                "author": post["author"]["handle"],
+                "authorName": post["author"].get("displayName", ""), # 表示名（名前）を追加
+                "text": record.get("text", ""),
+                "createdAt": record.get("createdAt"),
+                "replyCount": post.get("replyCount", 0),
+                "repostCount": post.get("repostCount", 0),
+                "likeCount": post.get("likeCount", 0),
+                "indexedAt": post["indexedAt"],
+                "embed": post.get("embed"),
+                "isRepost": bool(is_repost), # リポストフラグを保存
+            }
             
             if uri not in posts_db:
-                record = post["record"]
-                post_data = {
-                    "uri": uri,
-                    "cid": post["cid"],
-                    "author": post["author"]["handle"],
-                    "text": record.get("text", ""),
-                    "createdAt": record.get("createdAt"),
-                    "replyCount": post.get("replyCount", 0),
-                    "repostCount": post.get("repostCount", 0),
-                    "likeCount": post.get("likeCount", 0),
-                    "indexedAt": post["indexedAt"],
-                    "embed": post.get("embed"),
-                }
-                posts_db[uri] = post_data
                 new_count += 1
+                
+            # 既存データも含め、新しいデータ構造（isRepost等）で上書き更新します
+            posts_db[uri] = post_data
 
-        # 次のページがあるか（カーソルが存在するか）確認
         cursor = data.get("cursor")
         if not cursor:
-            # カーソルがなければ全件取得完了
             break
 
-        # API制限を避けるため、ゆっくり取得（1.5秒待機）
+        # 日常モードかつ5ページ（500件）以上進んだら、安全にループを抜けます
+        if not is_initial_full_fetch and page_count >= 5:
+            print("最近の投稿の同期が完了しました。")
+            break
+
         print(f"Fetched {total_fetched} posts so far... waiting 1.5 seconds.")
         time.sleep(1.5)
 
@@ -107,7 +129,7 @@ def fetch_posts():
         json.dump(posts_db, f, ensure_ascii=False, indent=2)
 
     print(f"Successfully fetched a total of {total_fetched} posts.")
-    print(f"Added {new_count} new posts to the archive.")
+    print(f"Added/Updated archive successfully.")
 
 if __name__ == "__main__":
     fetch_posts()
