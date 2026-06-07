@@ -59,7 +59,7 @@ def render_post(post):
 def generate_html(posts):
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
-    # Base template: 日付見出し用のスタイル (.archive-day-heading) を追加
+    # Base template: ナビゲーションに「検索」を追加し、古いJSを削除
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -74,8 +74,9 @@ def generate_html(posts):
         .post-stats {{ font-size: 0.8em; color: #444; margin-top: 0.5em; }}
         .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
         nav {{ margin-bottom: 2em; }}
-        .search-box {{ margin-bottom: 2em; }}
-         /* 月別アーカイブ内の日付見出し用スタイル */
+        .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
+        .search-box input {{ flex: 1; }}
+        /* 月別アーカイブ内の日付見出し用スタイル */
         .archive-day-heading {{
             margin-top: 2.5em;
             padding: 0.3em 0.6em;
@@ -84,26 +85,12 @@ def generate_html(posts):
             border-radius: 0 4px 4px 0;
             font-size: 1.2em;
         }}
-        /* 👤 投稿アカウント用のスタイル */
-        .post-author {{
-            font-size: 0.95em;
-            margin-bottom: 0.2em;
-        }}
-        .post-author strong {{
-            color: var(--text-main);
-        }}
-        .post-author span {{
-            color: #666;
-            font-size: 0.85em;
-            margin-left: 0.4em;
-        }}
-        /* 🔄 リポストバッジ用のスタイル */
-        .repost-badge {{
-            color: #17bf63;
-            font-size: 0.85em;
-            font-weight: bold;
-            margin-bottom: 0.4em;
-        }}
+        /* 投稿アカウント用のスタイル */
+        .post-author {{ font-size: 0.95em; margin-bottom: 0.2em; }}
+        .post-author strong {{ color: var(--text-main); }}
+        .post-author span {{ color: #666; font-size: 0.85em; margin-left: 0.4em; }}
+        /* リポストバッジ用のスタイル */
+        .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
     </style>
 </head>
 <body>
@@ -114,7 +101,8 @@ def generate_html(posts):
             <a href="images.html">画像一覧</a> | 
             <a href="ranking.html">ランキング</a> | 
             <a href="archive.html">月別アーカイブ</a> | 
-            <a href="archive_daily.html">日別アーカイブ</a>
+            <a href="archive_daily.html">日別アーカイブ</a> | 
+            <a href="search.html">🔍 検索</a>
         </nav>
     </header>
     <main>
@@ -124,49 +112,108 @@ def generate_html(posts):
     <footer>
         <p>&copy; 2026 青空の記憶</p>
     </footer>
-    <script>
-        function search( ) {{
-            const query = document.getElementById('search-input').value.toLowerCase();
-            const posts = document.querySelectorAll('.post');
-            posts.forEach(post => {{
-                const text = post.innerText.toLowerCase();
-                post.style.display = text.includes(query) ? 'block' : 'none';
-            }});
-        }}
-    </script>
 </body>
 </html>
 """
 
-    # Index
-    search_html = '<div class="search-box"><input type="text" id="search-input" placeholder="キーワード検索..." onkeyup="search()"></div>'
-    index_content = search_html + "".join([render_post(p) for p in sorted_posts[:100]])
+    # ─── 検索用インデックスデータの作成 ───
+    # JSで検索しやすいように、小文字化したテキストと完成済みのHTMLをペアにして保存します
+    search_data = []
+    for post in sorted_posts:
+        search_data.append({
+            "text": post.get("text", "").lower(),
+            "html": render_post(post)
+        })
+    with open("search_index.json", "w", encoding="utf-8") as f:
+        json.dump(search_data, f, ensure_ascii=False)
+
+    # ─── 検索専用ページ (search.html) の生成 ───
+    search_page_content = """
+    <div class="search-box">
+        <input type="text" id="global-search-input" placeholder="1.5万件の全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
+        <button onclick="executeSearch()">検索</button>
+    </div>
+    <div id="search-status" style="margin-bottom: 1em; color: #666; font-size: 0.9em;"></div>
+    <div id="search-results"></div>
+
+    <script>
+        let searchIndex = null;
+
+        async function executeSearch() {
+            const query = document.getElementById('global-search-input').value.toLowerCase().trim();
+            const statusDiv = document.getElementById('search-status');
+            const resultsDiv = document.getElementById('search-results');
+
+            if (!query) return;
+
+            statusDiv.innerHTML = "検索データを読み込み中...";
+            resultsDiv.innerHTML = "";
+
+            try {
+                // 初回のみJSONをダウンロード（1.5万件分キャッシュします）
+                if (!searchIndex) {
+                    const res = await fetch('search_index.json');
+                    searchIndex = await res.json();
+                }
+
+                // テキストにキーワードが含まれるものを抽出
+                const matches = searchIndex.filter(item => item.text.includes(query));
+
+                statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
+
+                if (matches.length > 0) {
+                    // 表示が重くならないように、最大200件で表示を打ち切る
+                    const limit = Math.min(matches.length, 200);
+                    let resultHtml = "";
+                    for(let i = 0; i < limit; i++) {
+                        resultHtml += matches[i].html;
+                    }
+                    if(matches.length > 200) {
+                        resultHtml += `<div style="padding: 1em; text-align: center; color: #666; background: #f9f9f9; border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。キーワードを絞り込んでください。</div>`;
+                    }
+                    resultsDiv.innerHTML = resultHtml;
+                } else {
+                    resultsDiv.innerHTML = "<p>該当する投稿はありませんでした。</p>";
+                }
+            } catch (error) {
+                statusDiv.innerHTML = "検索用データの読み込みに失敗しました。";
+                console.error(error);
+            }
+        }
+    </script>
+    """
+    with open("search.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="全件検索", content=search_page_content))
+
+
+    # ─── Index (ホーム) ───
+    index_content = "".join([render_post(p) for p in sorted_posts[:100]])
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="最新投稿", content=index_content))
 
-    # Images
+    # ─── Images ───
     img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
     with open("images.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="画像一覧", content=img_content))
 
-    # Ranking (自分のオリジナル投稿のみを抽出)
-    
-    # 全データの中から一番多く登場するハンドル名（＝あなたのアカウント）を自動特定
+    # ─── Ranking ───
     author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
-    my_handle = author_counts.most_common(1)[0][0]
+    if author_counts:
+        my_handle = author_counts.most_common(1)[0][0]
+    else:
+        my_handle = None
 
-    # 「著者が自分」かつ「リポストフラグが付いていない」ものだけを厳選
     original_posts = [
         p for p in sorted_posts 
         if p.get("author") == my_handle and not p.get("isRepost")
     ]
     
     top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
-    ranking_content = "<h3>いいねランキング</h3>" + "".join([render_post(p) for p in top_liked])
+    ranking_content = "".join([render_post(p) for p in top_liked])
     with open("ranking.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="ランキング", content=ranking_content))
+        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content))
 
-    # 月別 & 日別アーカイブのデータ振り分け
+    # ─── 月別 & 日別アーカイブのデータ振り分け ───
     archive_map = defaultdict(list)
     archive_map_daily = defaultdict(list)
     
@@ -181,7 +228,7 @@ def generate_html(posts):
         day = dt_jst.strftime("%Y-%m-%d")
         archive_map_daily[day].append(post)
     
-    # ─── 月別アーカイブの生成 (改修部分) ───
+    # 月別アーカイブの生成
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="月別アーカイブ", content=archive_list))
@@ -189,22 +236,18 @@ def generate_html(posts):
     for month, m_posts in archive_map.items():
         m_content = ""
         current_day = None
-        
         for post in m_posts:
             dt_jst = get_jst_datetime(post["createdAt"])
             day_str = dt_jst.strftime("%Y-%m-%d")
-            
-            # ループ内で日付が変わったタイミングを検知して見出しを挿入
             if day_str != current_day:
                 current_day = day_str
                 m_content += f'<h3 class="archive-day-heading">{day_str}</h3>'
-                
             m_content += render_post(post)
             
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
 
-    # ─── 日別アーカイブの生成 ───
+    # 日別アーカイブの生成
     archive_daily_list = "<ul>" + "".join([f'<li><a href="archive_{d}.html">{d}</a> ({len(posts)}件)</li>' for d, posts in sorted(archive_map_daily.items(), reverse=True)]) + "</ul>"
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
