@@ -135,3 +135,46 @@ def generate_html(posts):
         
         # 日別用 (YYYY-MM-DD)
         day = dt_jst.strftime("%Y-%m-%d")
+        archive_map_daily[day].append(post)
+    
+    # ─── 月別アーカイブの生成 (改修部分) ───
+    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
+    with open("archive.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="月別アーカイブ", content=archive_list))
+        
+    for month, m_posts in archive_map.items():
+        m_content = ""
+        current_day = None
+        
+        for post in m_posts:
+            dt_jst = get_jst_datetime(post["createdAt"])
+            day_str = dt_jst.strftime("%Y-%m-%d")
+            
+            # ループ内で日付が変わったタイミングを検知して見出しを挿入
+            if day_str != current_day:
+                current_day = day_str
+                m_content += f'<h3 class="archive-day-heading">{day_str}</h3>'
+                
+            m_content += render_post(post)
+            
+        with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
+
+    # ─── 日別アーカイブの生成 ───
+    archive_daily_list = "<ul>" + "".join([f'<li><a href="archive_{d}.html">{d}</a> ({len(posts)}件)</li>' for d, posts in sorted(archive_map_daily.items(), reverse=True)]) + "</ul>"
+    with open("archive_daily.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
+        
+    for day, d_posts in archive_map_daily.items():
+        d_content = "".join([render_post(p) for p in d_posts])
+        with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
+
+if __name__ == "__main__":
+    data_path = "data/posts.json"
+    if os.path.exists(data_path):
+        with open(data_path, "r", encoding="utf-8") as f:
+            posts = json.load(f)
+        generate_html(posts)
+    else:
+        print("No data found.")
