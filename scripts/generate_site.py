@@ -1,7 +1,7 @@
 import json
 import os
 from datetime import datetime, timezone, timedelta
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 # 日本時間 (JST) のタイムゾーンを定義
 JST = timezone(timedelta(hours=+9), 'JST')
@@ -149,8 +149,18 @@ def generate_html(posts):
     with open("images.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="画像一覧", content=img_content))
 
-    # Ranking (リポストを除外)
-    original_posts = [p for p in sorted_posts if not p.get("isRepost")]
+    # Ranking (自分のオリジナル投稿のみを抽出)
+    
+    # 全データの中から一番多く登場するハンドル名（＝あなたのアカウント）を自動特定
+    author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
+    my_handle = author_counts.most_common(1)[0][0]
+
+    # 「著者が自分」かつ「リポストフラグが付いていない」ものだけを厳選
+    original_posts = [
+        p for p in sorted_posts 
+        if p.get("author") == my_handle and not p.get("isRepost")
+    ]
+    
     top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
     ranking_content = "<h3>いいねランキング</h3>" + "".join([render_post(p) for p in top_liked])
     with open("ranking.html", "w", encoding="utf-8") as f:
