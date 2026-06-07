@@ -5034,7 +5034,7 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
-    "isRepost": false
+    "isRepost": true
   },
   "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mlswj7ndqk2v": {
     "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mlswj7ndqk2v",
@@ -5478,7 +5478,7 @@
     "likeCount": 0,
     "indexedAt": "2024-05-12T10:37:17.724Z",
     "embed": null,
-    "isRepost": false
+    "isRepost": true
   },
   "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ksbxcwiyx225": {
     "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ksbxcwiyx225",
@@ -5492,7 +5492,7 @@
     "likeCount": 1,
     "indexedAt": "2024-05-12T10:34:54.083Z",
     "embed": null,
-    "isRepost": false
+    "isRepost": true
   },
   "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ksc4kdlr6k2f": {
     "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ksc4kdlr6k2f",
@@ -5519,7 +5519,7 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
-    "isRepost": false
+    "isRepost": true
   },
   "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mlmezpvwp325": {
     "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mlmezpvwp325",
