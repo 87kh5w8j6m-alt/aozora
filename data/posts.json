@@ -71,8 +71,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 128,
-    "likeCount": 550,
+    "repostCount": 129,
+    "likeCount": 555,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -288,7 +288,7 @@
     "createdAt": "2026-06-05T10:08:47.392Z",
     "replyCount": 0,
     "repostCount": 16,
-    "likeCount": 67,
+    "likeCount": 68,
     "indexedAt": "2026-06-05T10:08:53.963Z",
     "embed": {
       "images": [
@@ -718,7 +718,7 @@
     "text": "",
     "createdAt": "2026-06-03T22:06:47.860Z",
     "replyCount": 3,
-    "repostCount": 90,
+    "repostCount": 91,
     "likeCount": 388,
     "indexedAt": "2026-06-03T22:06:54.070Z",
     "embed": {
@@ -921,7 +921,7 @@
     "createdAt": "2026-06-02T21:25:08.451Z",
     "replyCount": 0,
     "repostCount": 91,
-    "likeCount": 372,
+    "likeCount": 373,
     "indexedAt": "2026-06-02T21:25:16.078Z",
     "embed": {
       "images": [
@@ -196891,6 +196891,451 @@
     "likeCount": 3,
     "indexedAt": "2023-04-28T15:17:07.441Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5x2hnjc2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5x2hnjc2l",
+    "cid": "bafyreiaswfh5t364lyihaxwcpewlxqgaouxfdn74ccxmxsgqcecosjz5re",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "つい最近、記録投稿の手順を変えたから",
+    "createdAt": "2026-06-07T12:24:34.626Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:24:34.860Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5vgtggc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5vgtggc2n",
+    "cid": "bafyreibbzz6rrdia2ju3sxzyamrqhplmcik6z3kfnd5eqex6vlrzfuoo4e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "「メイドさんは食べるだけ」のラジオ　～市ノ瀬さんを愛でるだけ～ 第5回聴取終了。",
+    "createdAt": "2026-06-07T12:23:40.485Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:23:40.665Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnl4y3dh762b",
+        "cid": "bafyreie5uq6cqaukybrtjllvmq5hxw5ntzp3siuyrzkeudl5ix2ifx435y",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-05T21:56:34.961789Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "$type": "app.bsky.embed.external#external",
+              "description": "インターネットラジオステーション＜音泉＞はアニメ・ゲーム・声優系を中心としたラジオを配信するサイトです。24時間毎日いつでも好きな時、好きな番組がカンタンに聴けます！移動時や作業中におすすめのスマートフォンアプリでも配信中！音泉プレミアムサポーターだけが楽しめるアプリ限定番組は必聴です！",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreidzfgj5rtw6z3msui4eynyhvopm6vopc46x2ooe6slbopqxkcbrte"
+                },
+                "mimeType": "image/jpeg",
+                "size": 458990
+              },
+              "title": "インターネットラジオステーション＜音泉＞",
+              "uri": "https://www.onsen.ag/program/meitabe-radio/"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.onsen.ag/program/meitabe-radio/"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 157,
+                "byteStart": 114
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "音泉"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 165,
+                "byteStart": 158
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "メイ食べ"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 179,
+                "byteStart": 166
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "メイ食べラジオ"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 202,
+                "byteStart": 180
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "「メイドさんは食べるだけ」のラジオ　～市ノ瀬さんを愛でるだけ～ 第5回視聴終了 https://www.onsen.ag/program/meitabe-radio/ #音泉 #メイ食べ #メイ食べラジオ",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-05T21:56:38.573Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://www.onsen.ag/program/meitabe-radio/",
+              "title": "インターネットラジオステーション＜音泉＞",
+              "description": "インターネットラジオステーション＜音泉＞はアニメ・ゲーム・声優系を中心としたラジオを配信するサイトです。24時間毎日いつでも好きな時、好きな番組がカンタンに聴けます！移動時や作業中におすすめのスマートフォンアプリでも配信中！音泉プレミアムサポーターだけが楽しめるアプリ限定番組は必聴です！",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidzfgj5rtw6z3msui4eynyhvopm6vopc46x2ooe6slbopqxkcbrte"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5tq4g7227": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5tq4g7227",
+    "cid": "bafyreicu735u3xetqrm4lssba32xfmq7sva2nfyjapbd4w7bsgxagbiazq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "ラジオ番組の記録が「視聴」になっていたのでログ対策",
+    "createdAt": "2026-06-07T12:22:43.109Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:22:43.265Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5skoxtk27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5skoxtk27",
+    "cid": "bafyreihg6p3shp37tmxecagryl5dm44pioyjmz6ngvkfl5mcnnzncjmely",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第45回聴取終了。",
+    "createdAt": "2026-06-07T12:22:03.870Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:22:04.461Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnlbeqqxax23",
+        "cid": "bafyreic5ftcx7vu3ldcfqv3yko6gycszlnvkkcwvuutbtwbmiryjhm3d2m",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-05T23:15:15.468367Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第45回視聴終了。",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-05T23:15:16.567Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5qw5fc22j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5qw5fc22j",
+    "cid": "bafyreig4nrrayddyjdklhabcydubxtg4u67vjig4s2elivlknmhi5w5cgm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "佐倉綾音 論理×ロンリー 第62回聴取終了 ゲスト：ヤーレンズ",
+    "createdAt": "2026-06-07T12:21:08.768Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:21:09.463Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnimgrca5a2u",
+        "cid": "bafyreicniexmnj2xww3mkxfu23asg7kguzo5wg764tc4s4f2g7u6nmwitm",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-04T21:55:15.387071Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "佐倉綾音 論理×ロンリー 第62回視聴終了。ゲスト：ヤーレンズ",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-04T21:55:16.168Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5qgxydq2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5qgxydq2j",
+    "cid": "bafyreicetegbrxfv2ombwsbxssmgaef7gbzcasdxuyepze7vz6rl3sjuqa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "F1モナコGP決勝レースのお時間",
+    "createdAt": "2026-06-07T12:20:51.988760Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:20:53.061Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5oluwg224": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5oluwg224",
+    "cid": "bafyreihfl7cbbjc6b46d4hhu2djmormfogdufp7nl5gkp4tsqak6xb7mb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "田村ゆかりの乙女心♡症候群 第465回聴取終了。",
+    "createdAt": "2026-06-07T12:19:50.896Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:19:51.659Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnnhpl7xte2u",
+        "cid": "bafyreign5pkfxgikz3wt4kyr6mx24jhoqbthy35226y7xznnn4gur2hquy",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-06T20:14:00.974251Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "田村ゆかりの乙女心♡症候群 第465回視聴終了。",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-06T20:14:01.762Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5nnwbns26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnp5nnwbns26",
+    "cid": "bafyreihlsbs272qumqwnwyxwaubbdlrzpfaygajk7ojrhyek4veh4lsum4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "堀江由衣の天使のたまご 第1236回聴取終了。「ドSほっちゃんの辛口ジンジャーエール」の名前は魅力的だけれど\n#堀江由衣 #天使のたまご",
+    "createdAt": "2026-06-07T12:19:19.483Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T12:19:20.267Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnl2ep3yl22h",
+        "cid": "bafyreicfbexc264iahez67o5ossvklg76kc2dqj6d4yll7fq7sahwxtndq",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-05T21:09:58.023919Z",
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "堀江由衣"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 164,
+                "byteStart": 151
+              }
+            },
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "天使のたまご"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 184,
+                "byteStart": 165
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "堀江由衣の天使のたまご 第1236回視聴終了。「ドSほっちゃんの辛口ジンジャーエール」の名前は魅力的だけれど\n#堀江由衣 #天使のたまご",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-05T21:09:58.662Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
     "isRepost": false
   }
 }
