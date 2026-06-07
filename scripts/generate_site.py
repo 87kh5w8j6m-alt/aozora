@@ -149,8 +149,9 @@ def generate_html(posts):
     with open("images.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="画像一覧", content=img_content))
 
-    # Ranking
-    top_liked = sorted(sorted_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
+    # Ranking (リポストを除外)
+    original_posts = [p for p in sorted_posts if not p.get("isRepost")]
+    top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
     ranking_content = "<h3>いいねランキング</h3>" + "".join([render_post(p) for p in top_liked])
     with open("ranking.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="ランキング", content=ranking_content))
