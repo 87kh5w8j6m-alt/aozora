@@ -34,8 +34,21 @@ def render_post(post):
     except:
         post_url = "#"
 
+    # 元Postの投稿アカウント情報を組み立て
+    author_handle = post.get("author", "unknown")
+    author_name = post.get("authorName", "")
+    display_name = author_name if author_name else f"@{author_handle}"
+    author_html = f'<div class="post-author"><strong>{display_name}</strong><span>@{author_handle}</span></div>'
+
+    # リポスト時のバッジ表示
+    repost_html = ""
+    if post.get("isRepost"):
+        repost_html = '<div class="repost-badge">🔄 リポスト</div>'
+
     return f"""
     <div class="post">
+        {repost_html}
+        {author_html}
         <div class="post-meta"><a href="{post_url}" target="_blank">{date}</a></div>
         <div class="post-text">{text}</div>
         {images_html}
@@ -62,7 +75,7 @@ def generate_html(posts):
         .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
         nav {{ margin-bottom: 2em; }}
         .search-box {{ margin-bottom: 2em; }}
-        /* 月別アーカイブ内の日付見出し用スタイル */
+         /* 月別アーカイブ内の日付見出し用スタイル */
         .archive-day-heading {{
             margin-top: 2.5em;
             padding: 0.3em 0.6em;
@@ -70,6 +83,26 @@ def generate_html(posts):
             border-left: 5px solid #0076d1;
             border-radius: 0 4px 4px 0;
             font-size: 1.2em;
+        }}
+        /* 👤 投稿アカウント用のスタイル */
+        .post-author {{
+            font-size: 0.95em;
+            margin-bottom: 0.2em;
+        }}
+        .post-author strong {{
+            color: var(--text-main);
+        }}
+        .post-author span {{
+            color: #666;
+            font-size: 0.85em;
+            margin-left: 0.4em;
+        }}
+        /* 🔄 リポストバッジ用のスタイル */
+        .repost-badge {{
+            color: #17bf63;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 0.4em;
         }}
     </style>
 </head>
