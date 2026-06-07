@@ -130,7 +130,7 @@ def generate_html(posts):
     # ─── 検索専用ページ (search.html) の生成 ───
     search_page_content = """
     <div class="search-box">
-        <input type="text" id="global-search-input" placeholder="1.5万件の全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
+        <input type="text" id="global-search-input" placeholder="全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
         <button onclick="executeSearch()">検索</button>
     </div>
     <div id="search-status" style="margin-bottom: 1em; color: #666; font-size: 0.9em;"></div>
