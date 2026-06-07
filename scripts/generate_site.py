@@ -134,4 +134,4 @@ def generate_html(posts):
         archive_map[month].append(post)
         
         # 日別用 (YYYY-MM-DD)
-        day = dt_jst.strftime("%Y-%m-%
+        day = dt_jst.strftime("%Y-%m-%d")
