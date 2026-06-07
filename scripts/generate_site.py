@@ -44,10 +44,9 @@ def render_post(post):
     """
 
 def generate_html(posts):
-    # ソートは元のISO文字列(UTC)のままでも時間順の比較として正常に機能します
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
-    # Base template: タイトルを「青空の記憶」に変更
+    # Base template: ナビゲーションに「日別アーカイブ」を追加
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -72,7 +71,8 @@ def generate_html(posts):
             <a href="index.html">ホーム</a> | 
             <a href="images.html">画像一覧</a> | 
             <a href="ranking.html">ランキング</a> | 
-            <a href="archive.html">アーカイブ</a>
+            <a href="archive.html">月別アーカイブ</a> | 
+            <a href="archive_daily.html">日別アーカイブ</a>
         </nav>
     </header>
     <main>
@@ -113,14 +113,22 @@ def generate_html(posts):
     with open("ranking.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="ランキング", content=ranking_content))
 
-    # Archive
+    # 月別 & 日別アーカイブのデータ振り分け
     archive_map = defaultdict(list)
+    archive_map_daily = defaultdict(list)
+    
     for post in sorted_posts:
-        # 日本時間に変換してから月（YYYY-MM）を取得する
         dt_jst = get_jst_datetime(post["createdAt"])
+        
+        # 月別用 (YYYY-MM)
         month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
+        
+        # 日別用 (YYYY-MM-DD)
+        day = dt_jst.strftime("%Y-%m-%d")
+        archive_map_daily[day].append(post)
     
+    # ─── 月別アーカイブの生成 ───
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="月別アーカイブ", content=archive_list))
@@ -129,6 +137,16 @@ def generate_html(posts):
         m_content = "".join([render_post(p) for p in m_posts])
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
+
+    # ─── 日別アーカイブの生成 (新規追加) ───
+    archive_daily_list = "<ul>" + "".join([f'<li><a href="archive_{d}.html">{d}</a> ({len(posts)}件)</li>' for d, posts in sorted(archive_map_daily.items(), reverse=True)]) + "</ul>"
+    with open("archive_daily.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
+        
+    for day, d_posts in archive_map_daily.items():
+        d_content = "".join([render_post(p) for p in d_posts])
+        with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
 
 if __name__ == "__main__":
     data_path = "data/posts.json"
