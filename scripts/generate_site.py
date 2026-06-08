@@ -84,51 +84,24 @@ def generate_html(posts):
     <title>青空の記憶 - {title}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <style>
-        /* 共通設定 */
-        :root {
-            /* ライトモード用の変数 */
-            --bg-color: #ffffff;
-            --text-color: #222222;
-            --link-color: #0076d1;
-            --border-color: #ccc;
-            --heading-bg: #f0f4f8;
-            --heading-text: #222222;
-            --count-text: #666666;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-                /* ダークモード用の変数 (コントラスト重視) */
-                --bg-color: #121212;
-                --text-color: #e0e0e0;
-                --link-color: #66b3ff;
-                --border-color: #333333;
-                /* 見出しを少し明るいグレーにして背景との差を作る */
-                --heading-bg: #2d2d2d; 
-                --heading-text: #ffffff;
-                --count-text: #aaaaaa;
-            }
-        }
-
-        body {
-            background-color: var(--bg-color) !important;
-            color: var(--text-color) !important;
-        }
-        a { color: var(--link-color) !important; }
-        .post { border-bottom: 1px solid var(--border-color) !important; }
-        
-        /* 日付見出しの調整 */
-        .archive-day-heading {
-            background-color: var(--heading-bg) !important;
-            color: var(--heading-text) !important;
-            border-left: 5px solid var(--link-color) !important;
+        .post {{ border-bottom: 1px solid #ccc; padding: 1em 0; }}
+        .post-meta {{ font-size: 0.8em; color: #666; }}
+        .post-stats {{ font-size: 0.8em; color: #444; margin-top: 0.5em; }}
+        .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
+        nav {{ margin-bottom: 2em; }}
+        .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
+        .search-box input {{ flex: 1; }}
+        .archive-day-heading {{
+            margin-top: 2.5em;
+            padding: 0.3em 0.6em;
+            background: #f0f4f8;
+            border-left: 5px solid #0076d1;
+            border-radius: 0 4px 4px 0;
+            font-size: 1.2em;
             display: flex;
             align-items: baseline;
             gap: 0.6em;
-            padding: 0.5em 0.8em;
-            border-radius: 0 4px 4px 0;
-            margin-top: 2.5em;
-        }
+        }}
         .day-post-count {{
             font-size: 0.7em;
             color: #888;
