@@ -57,6 +57,24 @@ def render_post(post):
 def generate_html(posts):
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
+    # ─── 月別 & 日別アーカイブのデータ振り分けを先に行う（件数カウントのため） ───
+    archive_map = defaultdict(list)
+    archive_map_daily = defaultdict(list)
+    
+    for post in sorted_posts:
+        dt_jst = get_jst_datetime(post["createdAt"])
+        month = dt_jst.strftime("%Y-%m")
+        archive_map[month].append(post)
+        day = dt_jst.strftime("%Y-%m-%d")
+        archive_map_daily[day].append(post)
+
+    # 見出しを生成する補助関数
+    def make_day_heading(day_str, count):
+        dt = datetime.strptime(day_str, "%Y-%m-%d")
+        wd = ["月", "火", "水", "木", "金", "土", "日"][dt.weekday()]
+        display_date = dt.strftime("%Y年%m月%d日")
+        return f'<h3 class="archive-day-heading">{display_date}({wd}) <span class="day-post-count">| {count} posts</span></h3>'
+
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -80,6 +98,14 @@ def generate_html(posts):
             border-left: 5px solid #0076d1;
             border-radius: 0 4px 4px 0;
             font-size: 1.2em;
+            display: flex;
+            align-items: baseline;
+            gap: 0.6em;
+        }}
+        .day-post-count {{
+            font-size: 0.7em;
+            color: #888;
+            font-weight: normal;
         }}
         .post-author {{ font-size: 0.95em; margin-bottom: 0.2em; }}
         .post-author strong {{ color: var(--text-main); }}
@@ -162,21 +188,39 @@ def generate_html(posts):
                 // 新しい順に並び替え
                 matches.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 
+                // 日ごとのヒット件数を集計 (JST基準)
+                const dayCounts = {};
+                matches.forEach(item => {
+                    const d = new Date(item.post.createdAt);
+                    const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+                    const yyyy = jstDate.getFullYear();
+                    const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+                    const dd = String(jstDate.getDate()).padStart(2, '0');
+                    const dayKey = `${yyyy}-${mm}-${dd}`;
+                    dayCounts[dayKey] = (dayCounts[dayKey] || 0) + 1;
+                });
+
                 let resultHtml = "";
                 let currentDay = "";
                 const limit = Math.min(matches.length, 200);
+                const weekdays = ["日", "月", "火", "水", "木", "金", "土"];
 
                 for (let i = 0; i < limit; i++) {
                     const post = matches[i].post;
                     
-                    // JSTに変換して YYYY-MM-DD を取得
                     const d = new Date(post.createdAt);
-                    d.setHours(d.getHours() + 9);
-                    const day = d.toISOString().substring(0, 10);
+                    const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+                    const yyyy = jstDate.getFullYear();
+                    const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+                    const dd = String(jstDate.getDate()).padStart(2, '0');
+                    const dayKey = `${yyyy}-${mm}-${dd}`;
+                    const wd = weekdays[jstDate.getDay()];
                     
-                    if (day !== currentDay) {
-                        resultHtml += `<h3 class="archive-day-heading">${day}</h3>`;
-                        currentDay = day;
+                    if (dayKey !== currentDay) {
+                        const count = dayCounts[dayKey];
+                        const displayDay = `${yyyy}年${mm}月${dd}日(${wd})`;
+                        resultHtml += `<h3 class="archive-day-heading">${displayDay} <span class="day-post-count">| ${count} posts</span></h3>`;
+                        currentDay = dayKey;
                     }
                     
                     resultHtml += renderPostInJS(post);
@@ -195,10 +239,15 @@ def generate_html(posts):
         function renderPostInJS(post) {
             const text = post.text ? post.text.replace(/\\n/g, "<br>") : "";
             
-            // 日付をJSTの文字列 (YYYY-MM-DD HH:MM:SS) に変換
             const d = new Date(post.createdAt);
-            d.setHours(d.getHours() + 9);
-            const dateStr = d.toISOString().replace('T', ' ').substring(0, 19);
+            const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+            const yyyy = jstDate.getFullYear();
+            const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+            const dd = String(jstDate.getDate()).padStart(2, '0');
+            const hh = String(jstDate.getHours()).padStart(2, '0');
+            const min = String(jstDate.getMinutes()).padStart(2, '0');
+            const sec = String(jstDate.getSeconds()).padStart(2, '0');
+            const dateStr = `${yyyy}-${mm}-${dd} ${hh}:${min}:${sec}`;
             
             const stats = `❤️ ${post.likeCount || 0} | 🔄 ${post.repostCount || 0} | 💬 ${post.replyCount || 0}`;
             
@@ -239,17 +288,18 @@ def generate_html(posts):
         f.write(base_html.format(title="全件検索", content=search_page_content))
 
 
-    # ─── Index (ホーム) : 日付見出しを追加 ───
+    # ─── Index (ホーム) : 日付見出しと件数を追加 ───
     index_content = ""
     current_day = None
     for post in sorted_posts[:100]:
         dt_jst = get_jst_datetime(post["createdAt"])
         day_str = dt_jst.strftime("%Y-%m-%d")
         
-        # 日付が変わったタイミングで見出しを挿入
         if day_str != current_day:
             current_day = day_str
-            index_content += f'<h3 class="archive-day-heading">{day_str}</h3>'
+            # 全投稿データから、その日の合計投稿数を取得
+            count = len(archive_map_daily[day_str])
+            index_content += make_day_heading(day_str, count)
             
         index_content += render_post(post)
         
@@ -278,18 +328,7 @@ def generate_html(posts):
     with open("ranking.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content))
 
-    # ─── 月別 & 日別アーカイブのデータ振り分け ───
-    archive_map = defaultdict(list)
-    archive_map_daily = defaultdict(list)
-    
-    for post in sorted_posts:
-        dt_jst = get_jst_datetime(post["createdAt"])
-        month = dt_jst.strftime("%Y-%m")
-        archive_map[month].append(post)
-        day = dt_jst.strftime("%Y-%m-%d")
-        archive_map_daily[day].append(post)
-    
-    # 月別アーカイブの生成
+    # ─── 月別 & 日別アーカイブの生成 ───
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="月別アーカイブ", content=archive_list))
@@ -302,19 +341,21 @@ def generate_html(posts):
             day_str = dt_jst.strftime("%Y-%m-%d")
             if day_str != current_day:
                 current_day = day_str
-                m_content += f'<h3 class="archive-day-heading">{day_str}</h3>'
+                count = len(archive_map_daily[day_str])
+                m_content += make_day_heading(day_str, count)
             m_content += render_post(post)
             
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
 
-    # 日別アーカイブの生成
     archive_daily_list = "<ul>" + "".join([f'<li><a href="archive_{d}.html">{d}</a> ({len(posts)}件)</li>' for d, posts in sorted(archive_map_daily.items(), reverse=True)]) + "</ul>"
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
         
     for day, d_posts in archive_map_daily.items():
-        d_content = "".join([render_post(p) for p in d_posts])
+        # 日別ページにも見出しを一つだけ付ける
+        count = len(d_posts)
+        d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
 
