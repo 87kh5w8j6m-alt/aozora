@@ -71,8 +71,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 133,
-    "likeCount": 567,
+    "repostCount": 134,
+    "likeCount": 568,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -613,7 +613,7 @@
     "createdAt": "2026-06-04T10:17:01.201Z",
     "replyCount": 0,
     "repostCount": 7,
-    "likeCount": 21,
+    "likeCount": 22,
     "indexedAt": "2026-06-04T10:17:06.466Z",
     "embed": {
       "images": [
@@ -3006,8 +3006,8 @@
     "text": "描いていたイラストが完成しました🐈🐈",
     "createdAt": "2026-05-24T12:58:21.807Z",
     "replyCount": 4,
-    "repostCount": 95,
-    "likeCount": 393,
+    "repostCount": 96,
+    "likeCount": 394,
     "indexedAt": "2026-05-24T12:58:21.875Z",
     "embed": {
       "images": [
@@ -197346,8 +197346,8 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 87,
-    "likeCount": 385,
+    "repostCount": 92,
+    "likeCount": 411,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -197432,6 +197432,34 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-08T08:33:27.660Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnrsdscv5d2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnrsdscv5d2r",
+    "cid": "bafyreid6qm4moz7tp2dmpfjadfem27yob65o2lo6zghrj34hstndipnqca",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "WWDC今夜か",
+    "createdAt": "2026-06-08T13:34:55.945112Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-08T13:34:56.762Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnro4i73ws2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnro4i73ws2l",
+    "cid": "bafyreid3za2mwkjr6puccgnmp63y6fwigoeh7pl5s3ja7pv27zsm25r3cm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "今週末はいよいよル・マンなんだけれど、同じくF1バルセロナ・カタロニアGPもあるのでどうやっても時間が足りない",
+    "createdAt": "2026-06-08T12:19:16.144Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-08T12:19:16.660Z",
     "embed": null,
     "isRepost": false
   }
