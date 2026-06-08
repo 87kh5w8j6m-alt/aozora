@@ -197347,7 +197347,7 @@
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
     "repostCount": 92,
-    "likeCount": 415,
+    "likeCount": 417,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -197472,9 +197472,154 @@
     "createdAt": "2026-06-08T21:05:41.192763Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-06-08T21:05:41.766Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnsrkliny22o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnsrkliny22o",
+    "cid": "bafyreib4uric7alydog4xpfqgtqzlfq2jjwqyo2uxo52st7zj737ouru7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "写真が10枚貼れる！",
+    "createdAt": "2026-06-08T22:53:30.324Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-08T22:54:09.064Z",
+    "embed": {
+      "items": [
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibiqergw527gidxnvu5nqavgnvkrmljzx45h5qw6hvroy7n43yrn4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibiqergw527gidxnvu5nqavgnvkrmljzx45h5qw6hvroy7n43yrn4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiejqugn62x4d6htazny4abrndh5bnr27w6l53dfa64cjcepsa756q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiejqugn62x4d6htazny4abrndh5bnr27w6l53dfa64cjcepsa756q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicreqgtpxxwy2nteppjlirfnl3ozuiydycnk3voesfsty5lbsomwe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicreqgtpxxwy2nteppjlirfnl3ozuiydycnk3voesfsty5lbsomwe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiakyeffrykvgqwriqyo6opqufhj4wl3op35ztoxnhdn6idyblefku",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiakyeffrykvgqwriqyo6opqufhj4wl3op35ztoxnhdn6idyblefku",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiflobythe3qaiemacu4kzxiesrgrddycv5yr73pqimqacym6xgtri",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiflobythe3qaiemacu4kzxiesrgrddycv5yr73pqimqacym6xgtri",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidakn53xlold7gqzjefjftv7nh6t3g2hhbzh2oaloxiausanzfzye",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidakn53xlold7gqzjefjftv7nh6t3g2hhbzh2oaloxiausanzfzye",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifmxebxgx2fwnjakzwt5ckboltqxhtsuw5qf2o3mwapavu2hqpzxi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifmxebxgx2fwnjakzwt5ckboltqxhtsuw5qf2o3mwapavu2hqpzxi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigof33gp2qag5gdrafakwdnao4syr5i4pk3bgw3sthw2tg2oh7dim",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigof33gp2qag5gdrafakwdnao4syr5i4pk3bgw3sthw2tg2oh7dim",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigwrq7u65mlen6iqudowwd3nkjl3rtgvv7ne7npoaduxrvp7gizee",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigwrq7u65mlen6iqudowwd3nkjl3rtgvv7ne7npoaduxrvp7gizee",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihor63xkzvozuvch3mkbmeflh4akaq7gtauxse66wxxbtvcz7otcy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihor63xkzvozuvch3mkbmeflh4akaq7gtauxse66wxxbtvcz7otcy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        }
+      ],
+      "$type": "app.bsky.embed.gallery#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:fh7pc5jruunbublztep52mz3/app.bsky.feed.post/3mnsnlafcqs2o": {
+    "uri": "at://did:plc:fh7pc5jruunbublztep52mz3/app.bsky.feed.post/3mnsnlafcqs2o",
+    "cid": "bafyreighkzojozs2kiraxeuvk4xnpdnfl72pevefbixgiam5ukne2dxz6q",
+    "author": "buruburu2.bsky.social",
+    "authorName": "あるえ@skeb募集中",
+    "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
+    "createdAt": "2026-06-08T21:42:17.271Z",
+    "replyCount": 3,
+    "repostCount": 39,
+    "likeCount": 88,
+    "indexedAt": "2026-06-08T21:42:19.467Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fh7pc5jruunbublztep52mz3/bafkreifukno3jylysr2rwvoqlyw72kfnuyj6qz3tx25ngdsg5tbpmdltga",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fh7pc5jruunbublztep52mz3/bafkreifukno3jylysr2rwvoqlyw72kfnuyj6qz3tx25ngdsg5tbpmdltga",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1416,
+            "width": 820
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
