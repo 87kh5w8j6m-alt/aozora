@@ -34,13 +34,11 @@ def render_post(post):
     except:
         post_url = "#"
 
-    # 元Postの投稿アカウント情報を組み立て
     author_handle = post.get("author", "unknown")
     author_name = post.get("authorName", "")
     display_name = author_name if author_name else f"@{author_handle}"
     author_html = f'<div class="post-author"><strong>{display_name}</strong><span>@{author_handle}</span></div>'
 
-    # リポスト時のバッジ表示
     repost_html = ""
     if post.get("isRepost"):
         repost_html = '<div class="repost-badge">🔄 リポスト</div>'
@@ -59,7 +57,6 @@ def render_post(post):
 def generate_html(posts):
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
-    # Base template: ナビゲーションに「検索」を追加し、古いJSを削除
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -76,7 +73,6 @@ def generate_html(posts):
         nav {{ margin-bottom: 2em; }}
         .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
         .search-box input {{ flex: 1; }}
-        /* 月別アーカイブ内の日付見出し用スタイル */
         .archive-day-heading {{
             margin-top: 2.5em;
             padding: 0.3em 0.6em;
@@ -85,11 +81,9 @@ def generate_html(posts):
             border-radius: 0 4px 4px 0;
             font-size: 1.2em;
         }}
-        /* 投稿アカウント用のスタイル */
         .post-author {{ font-size: 0.95em; margin-bottom: 0.2em; }}
         .post-author strong {{ color: var(--text-main); }}
         .post-author span {{ color: #666; font-size: 0.85em; margin-left: 0.4em; }}
-        /* リポストバッジ用のスタイル */
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
     </style>
 </head>
@@ -117,12 +111,12 @@ def generate_html(posts):
 """
 
     # ─── 検索用インデックスデータの作成 ───
-    # JSで検索しやすいように、小文字化したテキストと完成済みのHTMLをペアにして保存します
     search_data = []
     for post in sorted_posts:
         search_data.append({
             "text": post.get("text", "").lower(),
-            "html": render_post(post)
+            "createdAt": post.get("createdAt"),
+            "post": post 
         })
     with open("search_index.json", "w", encoding="utf-8") as f:
         json.dump(search_data, f, ensure_ascii=False)
@@ -149,36 +143,95 @@ def generate_html(posts):
             statusDiv.innerHTML = "検索データを読み込み中...";
             resultsDiv.innerHTML = "";
 
-            try {
-                // 初回のみJSONをダウンロード（1.5万件分キャッシュします）
-                if (!searchIndex) {
+            if (!searchIndex) {
+                try {
                     const res = await fetch('search_index.json');
                     searchIndex = await res.json();
+                } catch (error) {
+                    statusDiv.innerHTML = "検索用データの読み込みに失敗しました。";
+                    console.error(error);
+                    return;
                 }
-
-                // テキストにキーワードが含まれるものを抽出
-                const matches = searchIndex.filter(item => item.text.includes(query));
-
-                statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
-
-                if (matches.length > 0) {
-                    // 表示が重くならないように、最大200件で表示を打ち切る
-                    const limit = Math.min(matches.length, 200);
-                    let resultHtml = "";
-                    for(let i = 0; i < limit; i++) {
-                        resultHtml += matches[i].html;
-                    }
-                    if(matches.length > 200) {
-                        resultHtml += `<div style="padding: 1em; text-align: center; color: #666; background: #f9f9f9; border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。キーワードを絞り込んでください。</div>`;
-                    }
-                    resultsDiv.innerHTML = resultHtml;
-                } else {
-                    resultsDiv.innerHTML = "<p>該当する投稿はありませんでした。</p>";
-                }
-            } catch (error) {
-                statusDiv.innerHTML = "検索用データの読み込みに失敗しました。";
-                console.error(error);
             }
+
+            // テキストで絞り込み
+            let matches = searchIndex.filter(item => item.text.includes(query));
+            statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
+
+            if (matches.length > 0) {
+                // 新しい順に並び替え
+                matches.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+
+                let resultHtml = "";
+                let currentDay = "";
+                const limit = Math.min(matches.length, 200);
+
+                for (let i = 0; i < limit; i++) {
+                    const post = matches[i].post;
+                    
+                    // JSTに変換して YYYY-MM-DD を取得
+                    const d = new Date(post.createdAt);
+                    d.setHours(d.getHours() + 9);
+                    const day = d.toISOString().substring(0, 10);
+                    
+                    if (day !== currentDay) {
+                        resultHtml += `<h3 class="archive-day-heading">${day}</h3>`;
+                        currentDay = day;
+                    }
+                    
+                    resultHtml += renderPostInJS(post);
+                }
+
+                if(matches.length > 200) {
+                    resultHtml += `<div style="padding: 1em; text-align: center; color: #666; background: #f9f9f9; border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。</div>`;
+                }
+                resultsDiv.innerHTML = resultHtml;
+            } else {
+                resultsDiv.innerHTML = "<p>該当する投稿はありませんでした。</p>";
+            }
+        }
+
+        // Pythonの render_post と同じHTMLを生成するJS関数
+        function renderPostInJS(post) {
+            const text = post.text ? post.text.replace(/\\n/g, "<br>") : "";
+            
+            // 日付をJSTの文字列 (YYYY-MM-DD HH:MM:SS) に変換
+            const d = new Date(post.createdAt);
+            d.setHours(d.getHours() + 9);
+            const dateStr = d.toISOString().replace('T', ' ').substring(0, 19);
+            
+            const stats = `❤️ ${post.likeCount || 0} | 🔄 ${post.repostCount || 0} | 💬 ${post.replyCount || 0}`;
+            
+            let imagesHtml = "";
+            if (post.embed && post.embed['$type'] === 'app.bsky.embed.images#view') {
+                post.embed.images.forEach(img => {
+                    imagesHtml += `<img src="${img.thumb}" class="post-image" loading="lazy">`;
+                });
+            }
+
+            let postUrl = "#";
+            try {
+                const parts = post.uri.split("/");
+                postUrl = `https://bsky.app/profile/${parts[2]}/post/${parts[4]}`;
+            } catch (e) {}
+
+            const authorHandle = post.author || "unknown";
+            const authorName = post.authorName || "";
+            const displayName = authorName ? authorName : `@${authorHandle}`;
+            const authorHtml = `<div class="post-author"><strong>${displayName}</strong><span>@${authorHandle}</span></div>`;
+
+            const repostHtml = post.isRepost ? '<div class="repost-badge">🔄 リポスト</div>' : "";
+
+            return `
+            <div class="post">
+                ${repostHtml}
+                ${authorHtml}
+                <div class="post-meta"><a href="${postUrl}" target="_blank">${dateStr}</a></div>
+                <div class="post-text">${text}</div>
+                ${imagesHtml}
+                <div class="post-stats">${stats}</div>
+            </div>
+            `;
         }
     </script>
     """
@@ -186,8 +239,20 @@ def generate_html(posts):
         f.write(base_html.format(title="全件検索", content=search_page_content))
 
 
-    # ─── Index (ホーム) ───
-    index_content = "".join([render_post(p) for p in sorted_posts[:100]])
+    # ─── Index (ホーム) : 日付見出しを追加 ───
+    index_content = ""
+    current_day = None
+    for post in sorted_posts[:100]:
+        dt_jst = get_jst_datetime(post["createdAt"])
+        day_str = dt_jst.strftime("%Y-%m-%d")
+        
+        # 日付が変わったタイミングで見出しを挿入
+        if day_str != current_day:
+            current_day = day_str
+            index_content += f'<h3 class="archive-day-heading">{day_str}</h3>'
+            
+        index_content += render_post(post)
+        
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="最新投稿", content=index_content))
 
@@ -219,12 +284,8 @@ def generate_html(posts):
     
     for post in sorted_posts:
         dt_jst = get_jst_datetime(post["createdAt"])
-        
-        # 月別用 (YYYY-MM)
         month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
-        
-        # 日別用 (YYYY-MM-DD)
         day = dt_jst.strftime("%Y-%m-%d")
         archive_map_daily[day].append(post)
     
