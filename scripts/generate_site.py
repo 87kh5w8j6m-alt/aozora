@@ -84,9 +84,32 @@ def generate_html(posts):
     <title>青空の記憶 - {title}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <style>
-        .post {{ border-bottom: 1px solid #ccc; padding: 1em 0; }}
-        .post-meta {{ font-size: 0.8em; color: #666; }}
-        .post-stats {{ font-size: 0.8em; color: #444; margin-top: 0.5em; }}
+        :root {{
+            --post-border: #ccc;
+            --meta-text: #666;
+            --stats-text: #444;
+            --heading-bg: #f0f4f8;
+            --heading-border: #0076d1;
+            --author-span: #666;
+            --search-msg-bg: #f9f9f9;
+            --search-msg-text: #666;
+        }}
+        @media (prefers-color-scheme: dark) {{
+            :root {{
+                --post-border: #444;
+                --meta-text: #aaa;
+                --stats-text: #ccc;
+                --heading-bg: #1e293b;
+                --heading-border: #38bdf8;
+                --author-span: #aaa;
+                --search-msg-bg: #2d2d2d;
+                --search-msg-text: #ccc;
+            }}
+        }}
+
+        .post {{ border-bottom: 1px solid var(--post-border); padding: 1em 0; }}
+        .post-meta {{ font-size: 0.8em; color: var(--meta-text); }}
+        .post-stats {{ font-size: 0.8em; color: var(--stats-text); margin-top: 0.5em; }}
         .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
         nav {{ margin-bottom: 2em; }}
         .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
@@ -94,8 +117,8 @@ def generate_html(posts):
         .archive-day-heading {{
             margin-top: 2.5em;
             padding: 0.3em 0.6em;
-            background: #f0f4f8;
-            border-left: 5px solid #0076d1;
+            background: var(--heading-bg);
+            border-left: 5px solid var(--heading-border);
             border-radius: 0 4px 4px 0;
             font-size: 1.2em;
             display: flex;
@@ -104,12 +127,12 @@ def generate_html(posts):
         }}
         .day-post-count {{
             font-size: 0.7em;
-            color: #888;
+            color: var(--meta-text);
             font-weight: normal;
         }}
         .post-author {{ font-size: 0.95em; margin-bottom: 0.2em; }}
         .post-author strong {{ color: var(--text-main); }}
-        .post-author span {{ color: #666; font-size: 0.85em; margin-left: 0.4em; }}
+        .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
     </style>
 </head>
@@ -153,7 +176,7 @@ def generate_html(posts):
         <input type="text" id="global-search-input" placeholder="全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
         <button onclick="executeSearch()">検索</button>
     </div>
-    <div id="search-status" style="margin-bottom: 1em; color: #666; font-size: 0.9em;"></div>
+    <div id="search-status" style="margin-bottom: 1em; color: var(--meta-text); font-size: 0.9em;"></div>
     <div id="search-results"></div>
 
     <script>
@@ -227,7 +250,7 @@ def generate_html(posts):
                 }
 
                 if(matches.length > 200) {
-                    resultHtml += `<div style="padding: 1em; text-align: center; color: #666; background: #f9f9f9; border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。</div>`;
+                    resultHtml += `<div style="padding: 1em; text-align: center; color: var(--search-msg-text); background: var(--search-msg-bg); border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。</div>`;
                 }
                 resultsDiv.innerHTML = resultHtml;
             } else {
