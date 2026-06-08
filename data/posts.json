@@ -71,8 +71,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 131,
-    "likeCount": 559,
+    "repostCount": 132,
+    "likeCount": 564,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -582,7 +582,7 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 484,
+        "likeCount": 487,
         "replyCount": 0,
         "repostCount": 373,
         "quoteCount": 4,
@@ -1084,7 +1084,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 109,
-    "likeCount": 516,
+    "likeCount": 518,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2324,7 +2324,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 453,
+    "likeCount": 454,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -197336,6 +197336,89 @@
       },
       "$type": "app.bsky.embed.record#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnqa3fnd3c2r": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnqa3fnd3c2r",
+    "cid": "bafyreienvttathdqkakt6zycbr53lr3dnf2ihhgoqta4sa6mpkhrg2tilm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "text": "",
+    "createdAt": "2026-06-07T22:35:27.784Z",
+    "replyCount": 0,
+    "repostCount": 71,
+    "likeCount": 298,
+    "indexedAt": "2026-06-07T22:35:44.466Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidctjsunfrhh6glbqn3z6db7ia2ntajcyplzvhumi6uv64zenraba",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidctjsunfrhh6glbqn3z6db7ia2ntajcyplzvhumi6uv64zenraba",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqqs6ez4u24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqqs6ez4u24",
+    "cid": "bafyreibs5p4ypddxkuddqrrlpzaj7jg2szajtqxhotf5e44i72oszcjt4q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-08T03:34:30.713003Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-08T03:34:31.960Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqemoajf727": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqemoajf727",
+    "cid": "bafyreibkxtuu6crwipotyhg33664ksm7cmt2lefzyjqv7ll2rzjwhu7nie",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "一級建築士矩子の設計思考 第5巻読了。",
+    "createdAt": "2026-06-07T23:56:41.061577Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-07T23:56:42.264Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqemdrlxd24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnqemdrlxd24",
+    "cid": "bafyreibwi2cob73h4ofjog4re7detrrurstegpdufhu66vnuinkpt4ka2m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "一級建築士矩子の設計思考 第4巻読了。",
+    "createdAt": "2026-06-07T23:56:30.256228Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-07T23:56:31.360Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnq34iurhn2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnq34iurhn2v",
+    "cid": "bafyreievwhvsbzcfbomueargsavvxpmbvltwy426zxxnh5aixao3eabwke",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "おはよ",
+    "createdAt": "2026-06-07T21:06:35.537477Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-07T21:06:36.068Z",
+    "embed": null,
     "isRepost": false
   }
 }
