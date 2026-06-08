@@ -71,8 +71,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 132,
-    "likeCount": 564,
+    "repostCount": 133,
+    "likeCount": 567,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -582,9 +582,9 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 487,
+        "likeCount": 489,
         "replyCount": 0,
-        "repostCount": 373,
+        "repostCount": 374,
         "quoteCount": 4,
         "indexedAt": "2026-06-04T09:57:38.861Z",
         "embeds": [
@@ -197346,8 +197346,8 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 71,
-    "likeCount": 298,
+    "repostCount": 86,
+    "likeCount": 372,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -197418,6 +197418,20 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-07T21:06:36.068Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnrbipav442u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnrbipav442u",
+    "cid": "bafyreibs6oewinzgz5bvuphe5suclk7uvqo2vwcomk43wf4u46mbck6u3u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "昨夜のF1モナコGPは赤旗になったあたりで寝た。",
+    "createdAt": "2026-06-08T08:33:26.568884Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-08T08:33:27.660Z",
     "embed": null,
     "isRepost": false
   }
