@@ -71,8 +71,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 134,
-    "likeCount": 568,
+    "repostCount": 135,
+    "likeCount": 571,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -582,9 +582,9 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 489,
+        "likeCount": 490,
         "replyCount": 0,
-        "repostCount": 374,
+        "repostCount": 375,
         "quoteCount": 4,
         "indexedAt": "2026-06-04T09:57:38.861Z",
         "embeds": [
@@ -3855,7 +3855,7 @@
     "createdAt": "2026-05-19T23:44:20.506Z",
     "replyCount": 1,
     "repostCount": 100,
-    "likeCount": 408,
+    "likeCount": 407,
     "indexedAt": "2026-05-19T23:44:27.773Z",
     "embed": {
       "images": [
@@ -197346,8 +197346,8 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 417,
+    "repostCount": 95,
+    "likeCount": 431,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -197602,9 +197602,9 @@
     "authorName": "あるえ@skeb募集中",
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
-    "replyCount": 3,
-    "repostCount": 39,
-    "likeCount": 88,
+    "replyCount": 4,
+    "repostCount": 75,
+    "likeCount": 205,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -197621,5 +197621,233 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mntethumlu23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mntethumlu23",
+    "cid": "bafyreigkxad2ebt222a5ehrqyj4vjhslexjoocv6zk6cbeq7mbysoo27em",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "カルーセルって、ニュルブルクリンク北コースにあるすり鉢状の深いバンクがついたU字型の左ヘアピンコーナーでしょ。荒れた路面とコンクリートの斜面が特徴で、ドライバーの技術と度胸が試されるサーキットの代名詞的存在だって知ってるんだから！",
+    "createdAt": "2026-06-09T04:38:24.061015Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-09T04:38:29.762Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:jasgevvttpjmqfk6lv5eqq7t/app.bsky.feed.post/3mnsx3h42is24": {
+    "uri": "at://did:plc:jasgevvttpjmqfk6lv5eqq7t/app.bsky.feed.post/3mnsx3h42is24",
+    "cid": "bafyreigqkjhdinii7yge4hndqhyagvfzcqiglnbipl5jqrj2mqmmcsovri",
+    "author": "ficohiko.bsky.social",
+    "authorName": "ficohico",
+    "text": "10枚投稿テストとしてとろっとび10選\n\n#Blueskyねこ部",
+    "createdAt": "2026-06-09T00:32:24.851Z",
+    "replyCount": 1,
+    "repostCount": 34,
+    "likeCount": 121,
+    "indexedAt": "2026-06-09T00:33:05.679Z",
+    "embed": {
+      "items": [
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreif544rco4nkt73uqdk6esqt3kddcf7uamuhyaiev3xjurrzuz5k74",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreif544rco4nkt73uqdk6esqt3kddcf7uamuhyaiev3xjurrzuz5k74",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreifrbkr3nqlur4s4v4zyjxkkvgsdxqzhw7ad6rleixj2itpjq75j4q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreifrbkr3nqlur4s4v4zyjxkkvgsdxqzhw7ad6rleixj2itpjq75j4q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreib73zqj5waji64jofxasb7zo2twmimgaokhmzezjckwy72igyio6q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreib73zqj5waji64jofxasb7zo2twmimgaokhmzezjckwy72igyio6q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreifcobjdun6rm6vnwamznsptri3jy5iqj64mwspe35nycjqrsk7evu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreifcobjdun6rm6vnwamznsptri3jy5iqj64mwspe35nycjqrsk7evu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreicprzv7nngyxwi6zihe34la4fgb2hdaorsw4dpbznwjfmqq43p3f4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreicprzv7nngyxwi6zihe34la4fgb2hdaorsw4dpbznwjfmqq43p3f4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreibphwjcdf43kw5vocwjlebqdjw3724mfvqqspuym3bjkolv2oqd3a",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreibphwjcdf43kw5vocwjlebqdjw3724mfvqqspuym3bjkolv2oqd3a",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreieuehngf5l2v35ia7jrva2n4r7gojrbb4kkfe6yqm6ppe32lolccy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreieuehngf5l2v35ia7jrva2n4r7gojrbb4kkfe6yqm6ppe32lolccy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreigsjd76gjdn65s4bpbv4qii3e7gip5bvobo2graxkatke6sdnbqfa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreigsjd76gjdn65s4bpbv4qii3e7gip5bvobo2graxkatke6sdnbqfa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3400,
+            "width": 2249
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreidvs7tcqn6zhuec7do43yslncyi2fbz5yxkx33twukea7a7imcwzq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreidvs7tcqn6zhuec7do43yslncyi2fbz5yxkx33twukea7a7imcwzq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreia3an72jfyzcoxk5s3cx6r22lpfn5hcws3tmq4zk5tigstvnzfyze",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jasgevvttpjmqfk6lv5eqq7t/bafkreia3an72jfyzcoxk5s3cx6r22lpfn5hcws3tmq4zk5tigstvnzfyze",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        }
+      ],
+      "$type": "app.bsky.embed.gallery#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnsv2mdnuc2q": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnsv2mdnuc2q",
+    "cid": "bafyreigwev5ncuwysp4ga2rli6dkqyaoynnu64i3ibr7tiwsmnmzvhyfvi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "text": "",
+    "createdAt": "2026-06-08T23:56:09.308Z",
+    "replyCount": 1,
+    "repostCount": 136,
+    "likeCount": 587,
+    "indexedAt": "2026-06-08T23:56:29.166Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihsdwy5zlrgsqobeybuadovnkglupbdsvu7aowcozejuotmci36bi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihsdwy5zlrgsqobeybuadovnkglupbdsvu7aowcozejuotmci36bi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mntcurga3f2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mntcurga3f2s",
+    "cid": "bafyreihmy3rw7ibefdd2m74facuabepszi4muaqxdw6f4seibyvwunroxi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-09T04:03:21.066675Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-09T04:03:25.767Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnst3jxjkc27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnst3jxjkc27",
+    "cid": "bafyreif2ixcolmu7wgadpd6ctog23utn3nkcfevz2xh5zdvpzj23l22w5m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "APIで取得しても10枚の写真は表示されないや",
+    "createdAt": "2026-06-08T23:20:52.880Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-08T23:20:58.966Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicqg6fij2ovg3u2dvi6ys7r65rqfofumfjhsle2fcdpog4qmvkkpe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicqg6fij2ovg3u2dvi6ys7r65rqfofumfjhsle2fcdpog4qmvkkpe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 558,
+            "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnssqrxxec27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnssqrxxec27",
+    "cid": "bafyreic6swfdrz4n73nj5x4vckgpwgec7ypr2rhhke4oxy6pnouprvvsxa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "なるほどー",
+    "createdAt": "2026-06-08T23:14:52.189Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-08T23:14:53.060Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnssdtavjs27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnssdtavjs27",
+    "cid": "bafyreiapgimneu3eok7ggw5htie2vjfegs4or74of3mplhdpptkvscpjum",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "ということはアップデートしないと見られなかった？",
+    "createdAt": "2026-06-08T23:07:37.324Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-08T23:07:38.064Z",
+    "embed": null,
+    "isRepost": false
   }
 }
