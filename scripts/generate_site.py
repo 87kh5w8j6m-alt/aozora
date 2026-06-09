@@ -57,16 +57,21 @@ def render_post(post):
 def generate_html(posts):
     sorted_posts = sorted(posts.values(), key=lambda x: x["createdAt"], reverse=True)
     
-    # ─── 月別 & 日別アーカイブのデータ振り分けを先に行う（件数カウントのため） ───
+    # ─── 各種アーカイブのデータ振り分け ───
     archive_map = defaultdict(list)
     archive_map_daily = defaultdict(list)
+    archive_map_same_day = defaultdict(list) # 月-日 (MM-DD) をキーにする辞書
     
     for post in sorted_posts:
         dt_jst = get_jst_datetime(post["createdAt"])
         month = dt_jst.strftime("%Y-%m")
         archive_map[month].append(post)
+        
         day = dt_jst.strftime("%Y-%m-%d")
         archive_map_daily[day].append(post)
+        
+        mm_dd = dt_jst.strftime("%m-%d")
+        archive_map_same_day[mm_dd].append(post)
 
     # 見出しを生成する補助関数
     def make_day_heading(day_str, count):
@@ -134,30 +139,23 @@ def generate_html(posts):
         .post-author strong {{ color: var(--text-main); }}
         .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
-        
-        /* 同日アーカイブのスタイル */
-        .same-day-archive {{
-            margin-top: 3em;
-            padding: 1.5em;
-            background: var(--search-msg-bg);
-            border-radius: 8px;
+
+        /* ボタンの共通スタイル（ダークモード対応） */
+        .all-years-btn {{
+            display: inline-block;
+            padding: 0.8em 2em;
+            background-color: var(--heading-border);
+            color: #fff !important;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: opacity 0.2s, transform 0.2s;
         }}
-        .same-day-archive h4 {{
-            margin-top: 0;
-            margin-bottom: 0.8em;
-            color: var(--stats-text);
-            font-size: 1em;
-        }}
-        .same-day-archive ul {{
-            list-style-type: none;
-            padding-left: 0;
-            display: flex;
-            gap: 1em;
-            flex-wrap: wrap;
-            margin: 0;
-        }}
-        .same-day-archive li {{
-            margin-bottom: 0;
+        .all-years-btn:hover {{
+            opacity: 0.9;
+            transform: translateY(-1px);
+            text-decoration: none;
         }}
 
         /* トップに戻るボタンのスタイル */
@@ -206,7 +204,6 @@ def generate_html(posts):
         <p>&copy; 2026 青空の記憶</p>
     </footer>
 
-    <!-- トップに戻るボタン -->
     <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
 
     <script>
@@ -278,10 +275,8 @@ def generate_html(posts):
             statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
 
             if (matches.length > 0) {
-                // 新しい順に並び替え
                 matches.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 
-                // 日ごとのヒット件数を集計 (JST基準)
                 const dayCounts = {};
                 matches.forEach(item => {
                     const d = new Date(item.post.createdAt);
@@ -328,7 +323,6 @@ def generate_html(posts):
             }
         }
 
-        // Pythonの render_post と同じHTMLを生成するJS関数
         function renderPostInJS(post) {
             const text = post.text ? post.text.replace(/\\n/g, "<br>") : "";
             
@@ -381,7 +375,7 @@ def generate_html(posts):
         f.write(base_html.format(title="全件検索", content=search_page_content))
 
 
-    # ─── Index (ホーム) : 日付見出しと件数を追加 ───
+    # ─── Index (ホーム) ───
     index_content = ""
     current_day = None
     for post in sorted_posts[:100]:
@@ -390,7 +384,6 @@ def generate_html(posts):
         
         if day_str != current_day:
             current_day = day_str
-            # 全投稿データから、その日の合計投稿数を取得
             count = len(archive_map_daily[day_str])
             index_content += make_day_heading(day_str, count)
             
@@ -421,7 +414,7 @@ def generate_html(posts):
     with open("ranking.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content))
 
-    # ─── 月別 & 日別アーカイブの生成 ───
+    # ─── 月別アーカイブの生成 ───
     archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="月別アーカイブ", content=archive_list))
@@ -441,36 +434,64 @@ def generate_html(posts):
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
 
+    # ─── 日別アーカイブの一覧生成 ───
     archive_daily_list = "<ul>" + "".join([f'<li><a href="archive_{d}.html">{d}</a> ({len(posts)}件)</li>' for d, posts in sorted(archive_map_daily.items(), reverse=True)]) + "</ul>"
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
         
-    # ─── 日別アーカイブの生成 & 全ての年の同日のポストへのリンク追加 ───
-    all_daily_keys = sorted(archive_map_daily.keys(), reverse=True)
-    
+    # ─── 個別の日別アーカイブの生成（ボタン配置） ───
     for day, d_posts in archive_map_daily.items():
         count = len(d_posts)
         d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
         
-        # 同じ日付（月-日）を持つ別の年を検索
-        current_mm_dd = day[5:] # 'YYYY-MM-DD' から 'MM-DD' を抽出
-        same_day_links = []
-        for other_day in all_daily_keys:
-            if other_day.endswith(current_mm_dd) and other_day != day:
-                other_count = len(archive_map_daily[other_day])
-                other_year = other_day[:4]
-                same_day_links.append(f'<li><a href="archive_{other_day}.html">{other_year}年</a> ({other_count}件)</li>')
+        # 'YYYY-MM-DD' から 'MM-DD' を抽出
+        mm_dd = day[5:] 
+        dt_sample = datetime.strptime(day, "%Y-%m-%d")
+        display_mm_dd = dt_sample.strftime("%m月%d日")
         
-        # リンクが存在する場合のみ下部に追記
-        if same_day_links:
-            same_day_html = '<div class="same-day-archive">'
-            same_day_html += '<h4>🗓️ 過去の同じ日の投稿</h4><ul>'
-            same_day_html += "".join(same_day_links)
-            same_day_html += '</ul></div>'
-            d_content += same_day_html
+        # 最下部に「すべての年の同日post」への誘導ボタンを追加
+        button_html = f"""
+        <div style="text-align: center; margin-top: 3.5em; margin-bottom: 2em;">
+            <a href="archive_all_{mm_dd}.html" class="all-years-btn">
+                🗓️ すべての年の {display_mm_dd} のポストを見る
+            </a>
+        </div>
+        """
+        d_content += button_html
             
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
+
+    # ─── 全年度同日まとめページ (archive_all_MM-DD.html) の生成 ───
+    for mm_dd, sd_posts in archive_map_same_day.items():
+        m, d = mm_dd.split("-")
+        display_title = f"{int(m)}月{int(d)}日のすべての年の投稿"
+        
+        sd_content = ""
+        current_year = None
+        
+        # 該当する月日のポストを年ごとに見出しで区切って出力
+        for post in sd_posts:
+            dt_jst = get_jst_datetime(post["createdAt"])
+            year_str = dt_jst.strftime("%Y年")
+            
+            if year_str != current_year:
+                current_year = year_str
+                # その年の「YYYY-MM-DD」を復元してその日の投稿数を取得
+                full_date_str = dt_jst.strftime("%Y-%m-%d")
+                year_day_count = len(archive_map_daily[full_date_str])
+                
+                # 年別のヘッダーを挿入
+                sd_content += f"""
+                <h3 class="archive-day-heading">
+                    {year_str}{int(m)}月{int(d)}日 <span class="day-post-count">| {year_day_count} posts</span>
+                </h3>
+                """
+            
+            sd_content += render_post(post)
+            
+        with open(f"archive_all_{mm_dd}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=display_title, content=sd_content))
 
 if __name__ == "__main__":
     data_path = "data/posts.json"
