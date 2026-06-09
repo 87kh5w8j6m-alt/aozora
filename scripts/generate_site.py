@@ -204,7 +204,7 @@ def generate_html(posts):
         <p>&copy; 2026 青空の記憶</p>
     </footer>
 
-    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
+    <button id="page-top-btn" onclick="scrollToTop()">🔼</button>
 
     <script>
         // スクロール検知でボタンの表示/非表示を切り替え
