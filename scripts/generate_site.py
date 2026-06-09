@@ -135,6 +135,31 @@ def generate_html(posts):
         .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
         
+        /* 同日アーカイブのスタイル */
+        .same-day-archive {{
+            margin-top: 3em;
+            padding: 1.5em;
+            background: var(--search-msg-bg);
+            border-radius: 8px;
+        }}
+        .same-day-archive h4 {{
+            margin-top: 0;
+            margin-bottom: 0.8em;
+            color: var(--stats-text);
+            font-size: 1em;
+        }}
+        .same-day-archive ul {{
+            list-style-type: none;
+            padding-left: 0;
+            display: flex;
+            gap: 1em;
+            flex-wrap: wrap;
+            margin: 0;
+        }}
+        .same-day-archive li {{
+            margin-bottom: 0;
+        }}
+
         /* トップに戻るボタンのスタイル */
         #page-top-btn {{
             position: fixed;
@@ -156,7 +181,7 @@ def generate_html(posts):
         #page-top-btn:hover {{
             opacity: 1;
             transform: translateY(-2px);
-            color: #fff; /* ホバー時の文字色を強制的に白に */
+            color: #fff;
             text-decoration: none;
         }}
     </style>
@@ -181,7 +206,8 @@ def generate_html(posts):
         <p>&copy; 2026 青空の記憶</p>
     </footer>
 
-    <button id="page-top-btn" onclick="scrollToTop()">⇧</button>
+    <!-- トップに戻るボタン -->
+    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
 
     <script>
         // スクロール検知でボタンの表示/非表示を切り替え
@@ -419,10 +445,30 @@ def generate_html(posts):
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
         
+    # ─── 日別アーカイブの生成 & 全ての年の同日のポストへのリンク追加 ───
+    all_daily_keys = sorted(archive_map_daily.keys(), reverse=True)
+    
     for day, d_posts in archive_map_daily.items():
-        # 日別ページにも見出しを一つだけ付ける
         count = len(d_posts)
         d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
+        
+        # 同じ日付（月-日）を持つ別の年を検索
+        current_mm_dd = day[5:] # 'YYYY-MM-DD' から 'MM-DD' を抽出
+        same_day_links = []
+        for other_day in all_daily_keys:
+            if other_day.endswith(current_mm_dd) and other_day != day:
+                other_count = len(archive_map_daily[other_day])
+                other_year = other_day[:4]
+                same_day_links.append(f'<li><a href="archive_{other_day}.html">{other_year}年</a> ({other_count}件)</li>')
+        
+        # リンクが存在する場合のみ下部に追記
+        if same_day_links:
+            same_day_html = '<div class="same-day-archive">'
+            same_day_html += '<h4>🗓️ 過去の同じ日の投稿</h4><ul>'
+            same_day_html += "".join(same_day_links)
+            same_day_html += '</ul></div>'
+            d_content += same_day_html
+            
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
 
