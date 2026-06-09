@@ -134,6 +134,31 @@ def generate_html(posts):
         .post-author strong {{ color: var(--text-main); }}
         .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
+        
+        /* トップに戻るボタンのスタイル */
+        #page-top-btn {{
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: none;
+            padding: 10px 16px;
+            background-color: var(--heading-border);
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            z-index: 1000;
+            opacity: 0.8;
+            font-size: 0.9em;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: opacity 0.3s, transform 0.2s;
+        }}
+        #page-top-btn:hover {{
+            opacity: 1;
+            transform: translateY(-2px);
+            color: #fff; /* ホバー時の文字色を強制的に白に */
+            text-decoration: none;
+        }}
     </style>
 </head>
 <body>
@@ -155,6 +180,25 @@ def generate_html(posts):
     <footer>
         <p>&copy; 2026 青空の記憶</p>
     </footer>
+
+    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
+
+    <script>
+        // スクロール検知でボタンの表示/非表示を切り替え
+        window.addEventListener('scroll', function() {{
+            const btn = document.getElementById('page-top-btn');
+            if (window.scrollY > 400) {{
+                btn.style.display = 'block';
+            }} else {{
+                btn.style.display = 'none';
+            }}
+        }});
+
+        // 一番上へ滑らかにスクロールする関数
+        function scrollToTop() {{
+            window.scrollTo({{ top: 0, behavior: 'smooth' }});
+        }}
+    </script>
 </body>
 </html>
 """
