@@ -613,7 +613,7 @@
     "createdAt": "2026-06-04T10:17:01.201Z",
     "replyCount": 0,
     "repostCount": 7,
-    "likeCount": 23,
+    "likeCount": 24,
     "indexedAt": "2026-06-04T10:17:06.466Z",
     "embed": {
       "images": [
@@ -718,8 +718,8 @@
     "text": "",
     "createdAt": "2026-06-03T22:06:47.860Z",
     "replyCount": 3,
-    "repostCount": 91,
-    "likeCount": 388,
+    "repostCount": 92,
+    "likeCount": 389,
     "indexedAt": "2026-06-03T22:06:54.070Z",
     "embed": {
       "images": [
@@ -1084,7 +1084,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 109,
-    "likeCount": 518,
+    "likeCount": 519,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2324,7 +2324,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 454,
+    "likeCount": 455,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -197603,8 +197603,8 @@
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 4,
-    "repostCount": 81,
-    "likeCount": 217,
+    "repostCount": 85,
+    "likeCount": 231,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -197631,7 +197631,7 @@
     "createdAt": "2026-06-09T04:38:24.061015Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-06-09T04:38:29.762Z",
     "embed": null,
     "isRepost": false
@@ -197643,9 +197643,9 @@
     "authorName": "ficohico",
     "text": "10枚投稿テストとしてとろっとび10選\n\n#Blueskyねこ部",
     "createdAt": "2026-06-09T00:32:24.851Z",
-    "replyCount": 2,
-    "repostCount": 41,
-    "likeCount": 136,
+    "replyCount": 3,
+    "repostCount": 44,
+    "likeCount": 158,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -197762,8 +197762,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 139,
-    "likeCount": 615,
+    "repostCount": 148,
+    "likeCount": 663,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -197848,6 +197848,78 @@
     "likeCount": 1,
     "indexedAt": "2026-06-08T23:07:38.064Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnuegwwnm22i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnuegwwnm22i",
+    "cid": "bafyreifwk4waxlptshg63csuzwatpkqeiz5wijzqia6lok72s2yscqq3ku",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "2026年のAIがあれば自分用のはすぐ出来た",
+    "createdAt": "2026-06-09T14:04:08.935Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-09T14:04:11.665Z",
+    "embed": {
+      "media": {
+        "images": [
+          {
+            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifspkymz2mtttouubzkzzksqocettjyegxuohf7uhaymyn7verc4m",
+            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifspkymz2mtttouubzkzzksqocettjyegxuohf7uhaymyn7verc4m",
+            "alt": "",
+            "aspectRatio": {
+              "height": 427,
+              "width": 832
+            }
+          }
+        ],
+        "$type": "app.bsky.embed.images#view"
+      },
+      "record": {
+        "record": {
+          "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3k373ka26jx2r",
+          "cid": "bafyreihwymebpvj763p7r3ev2x52g677av4xivryufa2qevf4qxisasnkm",
+          "author": {
+            "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+            "handle": "jiminynseries.bsky.social",
+            "displayName": "じみニー",
+            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+            "associated": {
+              "chat": {
+                "allowIncoming": "following"
+              },
+              "activitySubscription": {
+                "allowSubscriptions": "followers"
+              }
+            },
+            "viewer": {
+              "muted": false,
+              "blockedBy": false
+            },
+            "labels": [],
+            "createdAt": "2023-04-28T15:10:42.311Z"
+          },
+          "value": {
+            "$type": "app.bsky.feed.post",
+            "createdAt": "2023-07-23T14:33:07.391Z",
+            "langs": [
+              "ja"
+            ],
+            "text": "blueskyにもTwilogみたいなサービスが欲しいけど"
+          },
+          "labels": [],
+          "likeCount": 7,
+          "replyCount": 1,
+          "repostCount": 2,
+          "quoteCount": 1,
+          "indexedAt": "2023-07-23T14:33:07.391Z",
+          "embeds": [],
+          "$type": "app.bsky.embed.record#viewRecord"
+        }
+      },
+      "$type": "app.bsky.embed.recordWithMedia#view"
+    },
     "isRepost": false
   }
 }
