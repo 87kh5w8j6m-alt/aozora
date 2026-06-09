@@ -197602,9 +197602,9 @@
     "authorName": "あるえ@skeb募集中",
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
-    "replyCount": 4,
-    "repostCount": 85,
-    "likeCount": 231,
+    "replyCount": 5,
+    "repostCount": 86,
+    "likeCount": 237,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -197644,8 +197644,8 @@
     "text": "10枚投稿テストとしてとろっとび10選\n\n#Blueskyねこ部",
     "createdAt": "2026-06-09T00:32:24.851Z",
     "replyCount": 3,
-    "repostCount": 44,
-    "likeCount": 158,
+    "repostCount": 45,
+    "likeCount": 160,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -197762,8 +197762,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 148,
-    "likeCount": 663,
+    "repostCount": 150,
+    "likeCount": 669,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -197920,6 +197920,20 @@
       },
       "$type": "app.bsky.embed.recordWithMedia#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnv4jmelbj2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnv4jmelbj2p",
+    "cid": "bafyreigjyn5a6e4oxzurqu5z2uy6p76nwvuab3gxju77mvh6hcwbvnzhou",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "おはよ",
+    "createdAt": "2026-06-09T21:15:07.873602Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-09T21:15:08.464Z",
+    "embed": null,
     "isRepost": false
   }
 }
