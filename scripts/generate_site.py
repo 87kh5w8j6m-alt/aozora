@@ -93,7 +93,6 @@ def generate_html(posts):
         display_date = dt.strftime("%Y年%m月%d日")
         return f'<h3 class="archive-day-heading">{display_date}({wd}) <span class="day-post-count">| {count} posts</span></h3>'
 
-    # ↓ 修正: JavaScript部分の `}` を `}}` に修正しました
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -113,7 +112,6 @@ def generate_html(posts):
             --search-msg-bg: #f9f9f9;
             --search-msg-text: #666;
             --icon-bg: #ddd;
-            --cal-bg-hover: rgba(0, 118, 209, 0.1);
         }}
         @media (prefers-color-scheme: dark) {{
             :root {{
@@ -126,7 +124,6 @@ def generate_html(posts):
                 --search-msg-bg: #2d2d2d;
                 --search-msg-text: #ccc;
                 --icon-bg: #444;
-                --cal-bg-hover: rgba(56, 189, 248, 0.15);
             }}
         }}
 
@@ -181,58 +178,6 @@ def generate_html(posts):
             transition: opacity 0.3s, transform 0.2s;
         }}
         #page-top-btn:hover {{ opacity: 1; transform: translateY(-2px); color: #fff; text-decoration: none; }}
-
-        /* カレンダー用スタイル */
-        .calendar-table {{
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 3em;
-            table-layout: fixed;
-        }}
-        .calendar-table th {{
-            background-color: var(--heading-bg);
-            text-align: center;
-            padding: 0.5em 0;
-            border: 1px solid var(--post-border);
-            font-size: 0.9em;
-        }}
-        .calendar-table td {{
-            border: 1px solid var(--post-border);
-            text-align: center;
-            vertical-align: top;
-            padding: 0;
-            height: 60px;
-        }}
-        .calendar-table td.has-posts a {{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-            height: 100%;
-            text-decoration: none;
-            color: var(--heading-border);
-            font-weight: bold;
-            transition: background-color 0.2s;
-        }}
-        .calendar-table td.has-posts a:hover {{
-            background-color: var(--cal-bg-hover);
-        }}
-        .calendar-table td.no-posts {{
-            color: var(--meta-text);
-            opacity: 0.4;
-            padding-top: 0.5em;
-        }}
-        .cal-count {{
-            display: inline-block;
-            font-size: 0.65em;
-            color: #fff;
-            background-color: var(--heading-border);
-            padding: 2px 6px;
-            border-radius: 10px;
-            margin-top: 4px;
-            font-weight: normal;
-        }}
     </style>
 </head>
 <body>
@@ -417,32 +362,198 @@ def generate_html(posts):
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
 
-    cal_content = ""
-    cal = calendar.Calendar(firstweekday=6)
-    weekdays_header = ["日", "月", "火", "水", "木", "金", "土"]
+    # === UI型の日別カレンダー生成 ===
+    cal = calendar.Calendar(firstweekday=0) # 月曜始まり
+    weekdays_header = ["月", "火", "水", "木", "金", "土", "日"]
+    
+    if archive_map:
+        oldest_month = min(archive_map.keys())
+        newest_month = max(archive_map.keys())
+        
+        sy, sm = map(int, oldest_month.split('-'))
+        ey, em = map(int, newest_month.split('-'))
+        all_months = []
+        y, m = sy, sm
+        while (y < ey) or (y == ey and m <= em):
+            all_months.append(f"{y}-{m:02d}")
+            m += 1
+            if m > 12:
+                m = 1
+                y += 1
+    else:
+        all_months = []
 
-    for month_str in sorted(archive_map.keys(), reverse=True):
+    cal_content = f"""
+    <style>
+        .calendar-ui {{
+            max-width: 420px;
+            margin: 2em auto;
+            background: var(--heading-bg, #f0f4f8);
+            border: 1px solid var(--post-border);
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            padding: 1.5em;
+        }}
+        .cal-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.2em;
+        }}
+        .cal-header button {{
+            background: #0056b3;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 38px;
+            height: 38px;
+            font-size: 1.2em;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.2s;
+            padding: 0;
+            line-height: 1;
+        }}
+        .cal-header button:hover {{ opacity: 0.8; }}
+        .cal-header button:disabled {{ background: #ccc; cursor: not-allowed; opacity: 0.5; }}
+        .cal-title {{ font-size: 1.3em; font-weight: bold; color: #0056b3; margin: 0; }}
+        
+        .cal-table-wrapper table {{ width: 100%; border-collapse: separate; border-spacing: 4px; margin: 0; table-layout: fixed; }}
+        .cal-table-wrapper th {{ text-align: center; font-size: 0.95em; padding: 6px 0; border: none; background: transparent; color: var(--meta-text); font-weight: bold; }}
+        .cal-table-wrapper th.w-sat {{ color: #7b94ce; }}
+        .cal-table-wrapper th.w-sun {{ color: #d08282; }}
+        .cal-table-wrapper td {{
+            text-align: center; vertical-align: middle; height: 42px; border-radius: 6px; font-weight: bold; border: none; padding: 0; font-size: 1.1em;
+        }}
+        .cal-table-wrapper td a {{
+            display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;
+            text-decoration: none; color: inherit; border-radius: 6px;
+        }}
+        /* ポストなしの色 */
+        .cal-td-no-post {{ background-color: #e2e2e2; color: #fff; }}
+        .cal-td-no-post.w-sat {{ background-color: #bac4dc; }}
+        .cal-td-no-post.w-sun {{ background-color: #e2c6c6; }}
+        /* ポストありの色 */
+        .cal-td-has-post {{ background-color: #8c8c8c; color: #fff; }}
+        .cal-td-has-post.w-sat {{ background-color: #7b94ce; }}
+        .cal-td-has-post.w-sun {{ background-color: #d08282; }}
+        .cal-td-has-post:hover {{ filter: brightness(0.9); }}
+        
+        .cal-footer {{ text-align: center; margin-top: 1.5em; border-top: 1px solid var(--post-border); padding-top: 1.5em; }}
+        .cal-footer a {{ color: #0056b3; font-weight: bold; text-decoration: none; font-size: 1.1em; }}
+        .cal-footer a:hover {{ text-decoration: underline; }}
+        
+        @media (prefers-color-scheme: dark) {{
+            .cal-header button {{ background: #38bdf8; }}
+            .cal-title {{ color: #38bdf8; }}
+            .cal-td-no-post {{ background-color: #444; color: #888; }}
+            .cal-td-no-post.w-sat {{ background-color: #3b4b72; color: #777; }}
+            .cal-td-no-post.w-sun {{ background-color: #6e4040; color: #777; }}
+            .cal-footer a {{ color: #38bdf8; }}
+        }}
+    </style>
+    <div class="calendar-ui">
+        <div class="cal-header">
+            <button id="cal-prev" onclick="changeMonth(-1)">&#10094;</button>
+            <h2 id="cal-title" class="cal-title"></h2>
+            <button id="cal-next" onclick="changeMonth(1)">&#10095;</button>
+        </div>
+        <div id="cal-tables">
+    """
+
+    for month_str in all_months:
         y, m = map(int, month_str.split("-"))
         month_cal = cal.monthdayscalendar(y, m)
         
-        cal_content += f'<h3 class="archive-day-heading" style="margin-bottom: 1em;">{y}年{m}月</h3>\n'
-        cal_content += '<table class="calendar-table">\n'
-        cal_content += '<tr>' + "".join([f'<th>{wd}</th>' for wd in weekdays_header]) + '</tr>\n'
+        cal_content += f'<div class="month-table" data-month="{month_str}" style="display: none;">\n'
+        cal_content += '<div class="cal-table-wrapper"><table>\n'
+        cal_content += '<tr>'
+        for i, wd in enumerate(weekdays_header):
+            cls = 'w-sat' if i == 5 else 'w-sun' if i == 6 else ''
+            cal_content += f'<th class="{cls}">{wd}</th>'
+        cal_content += '</tr>\n'
         
         for week in month_cal:
             cal_content += '<tr>\n'
-            for day in week:
+            for i, day in enumerate(week):
                 if day == 0:
                     cal_content += '<td></td>'
                 else:
                     date_key = f"{y}-{m:02d}-{day:02d}"
+                    cls_day = 'w-sat' if i == 5 else 'w-sun' if i == 6 else ''
+                    
                     if date_key in archive_map_daily:
                         count = len(archive_map_daily[date_key])
-                        cal_content += f'<td class="has-posts"><a href="archive_{date_key}.html">{day}<span class="cal-count">{count}件</span></a></td>'
+                        cal_content += f'<td class="cal-td-has-post {cls_day}"><a href="archive_{date_key}.html" title="{count}件のポスト">{day}</a></td>'
                     else:
-                        cal_content += f'<td class="no-posts">{day}</td>'
+                        cal_content += f'<td class="cal-td-no-post {cls_day}">{day}</td>'
             cal_content += '</tr>\n'
-        cal_content += '</table>\n'
+        cal_content += '</table></div>\n</div>\n'
+
+    cal_content += f"""
+        </div>
+        <div class="cal-footer">
+            <a href="#" id="one-year-ago-link">1年前の今日のポストを見る</a>
+        </div>
+    </div>
+    <script>
+        const monthTables = document.querySelectorAll('.month-table');
+        let currentMonthIndex = monthTables.length - 1;
+
+        function showMonth(index) {{
+            if (index < 0 || index >= monthTables.length) return;
+            
+            monthTables.forEach(t => t.style.display = 'none');
+            const targetTable = monthTables[index];
+            targetTable.style.display = 'block';
+            
+            const monthStr = targetTable.getAttribute('data-month');
+            const [y, m] = monthStr.split('-');
+            document.getElementById('cal-title').innerText = `${{y}}年${{parseInt(m)}}月`;
+            
+            currentMonthIndex = index;
+            document.getElementById('cal-prev').disabled = (index === 0);
+            document.getElementById('cal-next').disabled = (index === monthTables.length - 1);
+        }}
+
+        function changeMonth(dir) {{
+            showMonth(currentMonthIndex + dir);
+        }}
+
+        const availableDays = {json.dumps(list(archive_map_daily.keys()))};
+        
+        const today = new Date();
+        const targetYear = today.getFullYear() - 1;
+        const targetMonth = String(today.getMonth() + 1).padStart(2, '0');
+        const targetDay = String(today.getDate()).padStart(2, '0');
+        const targetDateStr = `${{targetYear}}-${{targetMonth}}-${{targetDay}}`;
+        
+        const linkEl = document.getElementById('one-year-ago-link');
+        if (availableDays.includes(targetDateStr)) {{
+            linkEl.href = `archive_${{targetDateStr}}.html`;
+        }} else {{
+            linkEl.href = "#";
+            linkEl.onclick = function(e) {{
+                e.preventDefault();
+                alert(`1年前の今日 (${{targetYear}}年${{parseInt(targetMonth)}}月${{parseInt(targetDay)}}日) はポストがありません。`);
+            }};
+        }}
+
+        if (monthTables.length > 0) {{
+            const currentRealMonth = `${{today.getFullYear()}}-${{String(today.getMonth() + 1).padStart(2, '0')}}`;
+            let targetIdx = monthTables.length - 1;
+            for (let i = 0; i < monthTables.length; i++) {{
+                if (monthTables[i].getAttribute('data-month') === currentRealMonth) {{
+                    targetIdx = i;
+                    break;
+                }}
+            }}
+            showMonth(targetIdx);
+        }}
+    </script>
+    """
 
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別カレンダー", content=cal_content))
