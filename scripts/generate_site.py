@@ -1,6 +1,15 @@
+「SyntaxError: unterminated triple-quoted string literal」というエラーは、**`"""`（トリプルクォート）で始まり囲まれた文字列が、正しく閉じられていない**という構文エラーです。
+
+エラーが「107行目で検出された」と出ていることと、前回お渡ししたコードが全体で300行近くあることを踏まえると、おそらくGitHub Actionsの環境へコードを貼り付ける際、またはファイルを保存する際に、コードが途中で見切れてしまった（最後までコピー・保存されていない）可能性が非常に高いです。
+
+お手数ですが、以下の完全なコードを右上の「コピー」ボタンから再度コピーし、`scripts/generate_site.py` の中身を**一番上から一番下まで全て上書き**して保存し直してみてください。（ファイルの末尾の `if __name__ == "__main__":` の部分まで入っているか確認してみてください）
+
+念のため、前回と同じ修正済みの全コードを掲載します。
+
+```python
 import json
 import os
-import calendar # ★ カレンダー生成用に追加
+import calendar
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict, Counter
 
@@ -104,4 +113,389 @@ def generate_html(posts):
     <style>
         :root {{
             --post-border: #ccc;
-            --meta-text: #
+            --meta-text: #666;
+            --stats-text: #444;
+            --heading-bg: #f0f4f8;
+            --heading-border: #0076d1;
+            --author-span: #666;
+            --search-msg-bg: #f9f9f9;
+            --search-msg-text: #666;
+            --icon-bg: #ddd;
+            --cal-bg-hover: rgba(0, 118, 209, 0.1);
+        }}
+        @media (prefers-color-scheme: dark) {{
+            :root {{
+                --post-border: #444;
+                --meta-text: #aaa;
+                --stats-text: #ccc;
+                --heading-bg: #1e293b;
+                --heading-border: #38bdf8;
+                --author-span: #aaa;
+                --search-msg-bg: #2d2d2d;
+                --search-msg-text: #ccc;
+                --icon-bg: #444;
+                --cal-bg-hover: rgba(56, 189, 248, 0.15);
+            }}
+        }}
+
+        .post {{ border-bottom: 1px solid var(--post-border); padding: 1em 0; }}
+        .post-meta {{ font-size: 0.8em; color: var(--meta-text); }}
+        .post-stats {{ font-size: 0.8em; color: var(--stats-text); margin-top: 0.5em; }}
+        .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
+        nav {{ margin-bottom: 2em; }}
+        .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
+        .search-box input {{ flex: 1; }}
+        
+        .post-header {{ display: flex; align-items: center; gap: 12px; margin-bottom: 0.6em; }}
+        .author-meta {{ display: flex; flex-direction: column; gap: 2px; }}
+        .author-icon {{ width: 42px; height: 42px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }}
+        .author-icon-placeholder {{ width: 42px; height: 42px; border-radius: 50%; background-color: var(--icon-bg); flex-shrink: 0; }}
+        
+        .archive-day-heading {{
+            margin-top: 2.5em;
+            padding: 0.3em 0.6em;
+            background: var(--heading-bg);
+            border-left: 5px solid var(--heading-border);
+            border-radius: 0 4px 4px 0;
+            font-size: 1.2em;
+            display: flex;
+            align-items: baseline;
+            gap: 0.6em;
+        }}
+        .day-post-count {{ font-size: 0.7em; color: var(--meta-text); font-weight: normal; }}
+        .post-author {{ font-size: 0.95em; margin-bottom: 0; line-height: 1.2; }}
+        .post-author strong {{ color: var(--text-main); }}
+        .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
+        .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
+
+        .all-years-btn {{
+            display: inline-block;
+            padding: 0.8em 2em;
+            background-color: var(--heading-border);
+            color: #fff !important;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: opacity 0.2s, transform 0.2s;
+        }}
+        .all-years-btn:hover {{ opacity: 0.9; transform: translateY(-1px); text-decoration: none; }}
+
+        #page-top-btn {{
+            position: fixed; bottom: 20px; right: 20px; display: none;
+            padding: 10px 16px; background-color: var(--heading-border); color: #fff;
+            border: none; border-radius: 50px; cursor: pointer; z-index: 1000;
+            opacity: 0.8; font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: opacity 0.3s, transform 0.2s;
+        }}
+        #page-top-btn:hover {{ opacity: 1; transform: translateY(-2px); color: #fff; text-decoration: none; }}
+
+        /* カレンダー用スタイル */
+        .calendar-table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 3em;
+            table-layout: fixed;
+        }}
+        .calendar-table th {{
+            background-color: var(--heading-bg);
+            text-align: center;
+            padding: 0.5em 0;
+            border: 1px solid var(--post-border);
+            font-size: 0.9em;
+        }}
+        .calendar-table td {{
+            border: 1px solid var(--post-border);
+            text-align: center;
+            vertical-align: top;
+            padding: 0;
+            height: 60px;
+        }}
+        .calendar-table td.has-posts a {{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            text-decoration: none;
+            color: var(--heading-border);
+            font-weight: bold;
+            transition: background-color 0.2s;
+        }}
+        .calendar-table td.has-posts a:hover {{
+            background-color: var(--cal-bg-hover);
+        }}
+        .calendar-table td.no-posts {{
+            color: var(--meta-text);
+            opacity: 0.4;
+            padding-top: 0.5em;
+        }}
+        .cal-count {{
+            display: inline-block;
+            font-size: 0.65em;
+            color: #fff;
+            background-color: var(--heading-border);
+            padding: 2px 6px;
+            border-radius: 10px;
+            margin-top: 4px;
+            font-weight: normal;
+        }}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>青空の記憶</h1>
+        <nav>
+            <a href="index.html">ホーム</a> | 
+            <a href="images.html">画像一覧</a> | 
+            <a href="ranking.html">ランキング</a> | 
+            <a href="archive.html">月別アーカイブ</a> | 
+            <a href="archive_daily.html">📅 日別カレンダー</a> | 
+            <a href="search.html">🔍 検索</a>
+        </nav>
+    </header>
+    <main>
+        <h2>{title}</h2>
+        {content}
+    </main>
+    <footer>
+        <p>&copy; 2026 青空の記憶</p>
+    </footer>
+
+    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
+
+    <script>
+        window.addEventListener('scroll', function() {{
+            const btn = document.getElementById('page-top-btn');
+            if (window.scrollY > 400) {{
+                btn.style.display = 'block';
+            } else {{
+                btn.style.display = 'none';
+            }}
+        }});
+        function scrollToTop() {{ window.scrollTo({{ top: 0, behavior: 'smooth' }}); }}
+    </script>
+</body>
+</html>
+"""
+
+    search_data = []
+    for post in sorted_posts:
+        search_data.append({
+            "text": post.get("text", "").lower(),
+            "createdAt": post.get("createdAt"),
+            "post": post 
+        })
+    with open("search_index.json", "w", encoding="utf-8") as f:
+        json.dump(search_data, f, ensure_ascii=False)
+
+    search_page_content = """
+    <div class="search-box">
+        <input type="text" id="global-search-input" placeholder="全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
+        <button onclick="executeSearch()">検索</button>
+    </div>
+    <div id="search-status" style="margin-bottom: 1em; color: var(--meta-text); font-size: 0.9em;"></div>
+    <div id="search-results"></div>
+    <script>
+        let searchIndex = null;
+        async function executeSearch() {
+            const query = document.getElementById('global-search-input').value.toLowerCase().trim();
+            const statusDiv = document.getElementById('search-status');
+            const resultsDiv = document.getElementById('search-results');
+            if (!query) return;
+            statusDiv.innerHTML = "検索データを読み込み中...";
+            resultsDiv.innerHTML = "";
+            if (!searchIndex) {
+                try {
+                    const res = await fetch('search_index.json');
+                    searchIndex = await res.json();
+                } catch (error) {
+                    statusDiv.innerHTML = "検索用データの読み込みに失敗しました。"; return;
+                }
+            }
+            let matches = searchIndex.filter(item => item.text.includes(query));
+            statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
+            if (matches.length > 0) {
+                matches.sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+                const dayCounts = {};
+                matches.forEach(item => {
+                    const d = new Date(item.post.createdAt);
+                    const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+                    const yyyy = jstDate.getFullYear();
+                    const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+                    const dd = String(jstDate.getDate()).padStart(2, '0');
+                    const dayKey = `${yyyy}-${mm}-${dd}`;
+                    dayCounts[dayKey] = (dayCounts[dayKey] || 0) + 1;
+                });
+                let resultHtml = ""; let currentDay = ""; const limit = Math.min(matches.length, 200);
+                const weekdays = ["日", "月", "火", "水", "木", "金", "土"];
+                for (let i = 0; i < limit; i++) {
+                    const post = matches[i].post;
+                    const d = new Date(post.createdAt);
+                    const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+                    const yyyy = jstDate.getFullYear();
+                    const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+                    const dd = String(jstDate.getDate()).padStart(2, '0');
+                    const dayKey = `${yyyy}-${mm}-${dd}`;
+                    const wd = weekdays[jstDate.getDay()];
+                    if (dayKey !== currentDay) {
+                        const count = dayCounts[dayKey];
+                        const displayDay = `${yyyy}年${mm}月${dd}日(${wd})`;
+                        resultHtml += `<h3 class="archive-day-heading">${displayDay} <span class="day-post-count">| ${count} posts</span></h3>`;
+                        currentDay = dayKey;
+                    }
+                    resultHtml += renderPostInJS(post);
+                }
+                if(matches.length > 200) { resultHtml += `<div style="padding: 1em; text-align: center; color: var(--search-msg-text); background: var(--search-msg-bg); border-radius: 8px;">※結果が多すぎるため、最新の200件のみ表示しています。</div>`; }
+                resultsDiv.innerHTML = resultHtml;
+            } else { resultsDiv.innerHTML = "<p>該当する投稿はありませんでした。</p>"; }
+        }
+        function renderPostInJS(post) {
+            const text = post.text ? post.text.replace(/\\n/g, "<br>") : "";
+            const d = new Date(post.createdAt);
+            const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
+            const yyyy = jstDate.getFullYear(); const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
+            const dd = String(jstDate.getDate()).padStart(2, '0'); const hh = String(jstDate.getHours()).padStart(2, '0');
+            const min = String(jstDate.getMinutes()).padStart(2, '0'); const sec = String(jstDate.getSeconds()).padStart(2, '0');
+            const dateStr = `${yyyy}-${mm}-${dd} ${hh}:${min}:${sec}`;
+            const stats = `❤️ ${post.likeCount || 0} | 🔄 ${post.repostCount || 0} | 💬 ${post.replyCount || 0}`;
+            let imagesHtml = "";
+            if (post.embed && post.embed['$type'] === 'app.bsky.embed.images#view') {
+                post.embed.images.forEach(img => { imagesHtml += `<img src="${img.thumb}" class="post-image" loading="lazy">`; });
+            }
+            let postUrl = "#";
+            try { const parts = post.uri.split("/"); postUrl = `https://bsky.app/profile/${parts[2]}/post/${parts[4]}`; } catch (e) {}
+            const authorHandle = post.author || "unknown"; const authorName = post.authorName || "";
+            const displayName = authorName ? authorName : `@${authorHandle}`;
+            const avatarUrl = post.authorAvatar || post.avatar;
+            const iconHtml = avatarUrl ? `<img src="${avatarUrl}" class="author-icon" loading="lazy" alt="">` : '<div class="author-icon-placeholder"></div>';
+            const authorHtml = `<div class="post-header">${iconHtml}<div class="author-meta"><div class="post-author"><strong>${displayName}</strong><span>@${authorHandle}</span></div><div class="post-meta"><a href="${postUrl}" target="_blank">${dateStr}</a></div></div></div>`;
+            const repostHtml = post.isRepost ? '<div class="repost-badge">🔄 リポスト</div>' : "";
+            return `<div class="post">${repostHtml}${authorHtml}<div class="post-text">${text}</div>${imagesHtml}<div class="post-stats">${stats}</div></div>`;
+        }
+    </script>
+    """
+    with open("search.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="全件検索", content=search_page_content))
+
+    index_content = ""
+    current_day = None
+    for post in sorted_posts[:100]:
+        dt_jst = get_jst_datetime(post["createdAt"])
+        day_str = dt_jst.strftime("%Y-%m-%d")
+        if day_str != current_day:
+            current_day = day_str
+            count = len(archive_map_daily[day_str])
+            index_content += make_day_heading(day_str, count)
+        index_content += render_post(post)
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="最新投稿", content=index_content))
+
+    img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
+    with open("images.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="画像一覧", content=img_content))
+
+    author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
+    if author_counts:
+        my_handle = author_counts.most_common(1)[0][0]
+    else:
+        my_handle = None
+    original_posts = [p for p in sorted_posts if p.get("author") == my_handle and not p.get("isRepost")]
+    top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
+    ranking_content = "".join([render_post(p) for p in top_liked])
+    with open("ranking.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content))
+
+    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
+    with open("archive.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="月別アーカイブ", content=archive_list))
+        
+    for month, m_posts in archive_map.items():
+        m_content = ""
+        current_day = None
+        for post in m_posts:
+            dt_jst = get_jst_datetime(post["createdAt"])
+            day_str = dt_jst.strftime("%Y-%m-%d")
+            if day_str != current_day:
+                current_day = day_str
+                count = len(archive_map_daily[day_str])
+                m_content += make_day_heading(day_str, count)
+            m_content += render_post(post)
+        with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
+
+    cal_content = ""
+    cal = calendar.Calendar(firstweekday=6)
+    weekdays_header = ["日", "月", "火", "水", "木", "金", "土"]
+
+    for month_str in sorted(archive_map.keys(), reverse=True):
+        y, m = map(int, month_str.split("-"))
+        month_cal = cal.monthdayscalendar(y, m)
+        
+        cal_content += f'<h3 class="archive-day-heading" style="margin-bottom: 1em;">{y}年{m}月</h3>\n'
+        cal_content += '<table class="calendar-table">\n'
+        cal_content += '<tr>' + "".join([f'<th>{wd}</th>' for wd in weekdays_header]) + '</tr>\n'
+        
+        for week in month_cal:
+            cal_content += '<tr>\n'
+            for day in week:
+                if day == 0:
+                    cal_content += '<td></td>'
+                else:
+                    date_key = f"{y}-{m:02d}-{day:02d}"
+                    if date_key in archive_map_daily:
+                        count = len(archive_map_daily[date_key])
+                        cal_content += f'<td class="has-posts"><a href="archive_{date_key}.html">{day}<span class="cal-count">{count}件</span></a></td>'
+                    else:
+                        cal_content += f'<td class="no-posts">{day}</td>'
+            cal_content += '</tr>\n'
+        cal_content += '</table>\n'
+
+    with open("archive_daily.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="日別カレンダー", content=cal_content))
+
+    for day, d_posts in archive_map_daily.items():
+        count = len(d_posts)
+        d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
+        mm_dd = day[5:] 
+        dt_sample = datetime.strptime(day, "%Y-%m-%d")
+        display_mm_dd = dt_sample.strftime("%m月%d日")
+        button_html = f"""
+        <div style="text-align: center; margin-top: 3.5em; margin-bottom: 2em;">
+            <a href="archive_all_{mm_dd}.html" class="all-years-btn">
+                🗓️ すべての年の {display_mm_dd} のポストを見る
+            </a>
+        </div>
+        """
+        d_content += button_html
+        with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
+
+    for mm_dd, sd_posts in archive_map_same_day.items():
+        m, d = mm_dd.split("-")
+        display_title = f"{int(m)}月{int(d)}日のすべての年の投稿"
+        sd_content = ""
+        current_year = None
+        for post in sd_posts:
+            dt_jst = get_jst_datetime(post["createdAt"])
+            year_str = dt_jst.strftime("%Y年")
+            if year_str != current_year:
+                current_year = year_str
+                full_date_str = dt_jst.strftime("%Y-%m-%d")
+                year_day_count = len(archive_map_daily[full_date_str])
+                sd_content += f'<h3 class="archive-day-heading">{year_str}{int(m)}月{int(d)}日 <span class="day-post-count">| {year_day_count} posts</span></h3>'
+            sd_content += render_post(post)
+        with open(f"archive_all_{mm_dd}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=display_title, content=sd_content))
+
+if __name__ == "__main__":
+    data_path = "data/posts.json"
+    if os.path.exists(data_path):
+        with open(data_path, "r", encoding="utf-8") as f:
+            posts = json.load(f)
+        generate_html(posts)
+    else:
+        print("No data found.")
+
+```
