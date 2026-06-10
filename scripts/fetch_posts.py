@@ -96,6 +96,7 @@ def fetch_posts():
                 "cid": post["cid"],
                 "author": post["author"]["handle"],
                 "authorName": post["author"].get("displayName", ""), # 表示名（名前）を追加
+                "authorAvatar": post["author"].get("avatar", ""), # ★アイコン（アバター）URLを追加
                 "text": record.get("text", ""),
                 "createdAt": record.get("createdAt"),
                 "replyCount": post.get("replyCount", 0),
