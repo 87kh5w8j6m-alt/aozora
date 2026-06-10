@@ -584,7 +584,7 @@
         "labels": [],
         "likeCount": 490,
         "replyCount": 0,
-        "repostCount": 375,
+        "repostCount": 374,
         "quoteCount": 4,
         "indexedAt": "2026-06-04T09:57:38.861Z",
         "embeds": [
@@ -197602,9 +197602,9 @@
     "authorName": "あるえ@skeb募集中",
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
-    "replyCount": 5,
-    "repostCount": 86,
-    "likeCount": 237,
+    "replyCount": 6,
+    "repostCount": 88,
+    "likeCount": 241,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -197645,7 +197645,7 @@
     "createdAt": "2026-06-09T00:32:24.851Z",
     "replyCount": 3,
     "repostCount": 45,
-    "likeCount": 160,
+    "likeCount": 162,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -197762,8 +197762,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 150,
-    "likeCount": 669,
+    "repostCount": 151,
+    "likeCount": 674,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -197934,6 +197934,28 @@
     "likeCount": 1,
     "indexedAt": "2026-06-09T21:15:08.464Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvad5uc3o22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvad5uc3o22",
+    "cid": "bafyreibtfldoz2mve4r7emirv6ksusxdzdup662t6riviw3fk2akfx6s2m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "J SPORTSオンデマンド | レビュー 第7戦 フォーラムエイト・ラリージャパン2026 WRC世界ラリー選手権 2026 https://jod.jsports.co.jp/p/motor/wrc/110525-V",
+    "createdAt": "2026-06-09T22:23:04.363262Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-09T22:23:07.362Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wrc/110525-V",
+        "title": "レビュー 第7戦 フォーラムエイト・ラリージャパン2026 WRC世界ラリー選手権 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "レビュー 第7戦 フォーラムエイト・ラリージャパン2026 WRC世界ラリー選手権 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiehw6a43epbuvzm2jczqdeeax5ftrgi6mi322cdmioomh35jqzxv4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
