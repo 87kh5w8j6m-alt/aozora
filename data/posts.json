@@ -72,7 +72,7 @@
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
     "repostCount": 135,
-    "likeCount": 572,
+    "likeCount": 573,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -1083,8 +1083,8 @@
     "text": "",
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
-    "repostCount": 109,
-    "likeCount": 519,
+    "repostCount": 110,
+    "likeCount": 520,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2107,7 +2107,7 @@
     "createdAt": "2026-05-29T21:21:28.498Z",
     "replyCount": 0,
     "repostCount": 147,
-    "likeCount": 579,
+    "likeCount": 578,
     "indexedAt": "2026-05-29T21:21:34.474Z",
     "embed": {
       "images": [
@@ -197347,7 +197347,7 @@
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 435,
+    "likeCount": 437,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -197603,8 +197603,8 @@
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 6,
-    "repostCount": 88,
-    "likeCount": 241,
+    "repostCount": 90,
+    "likeCount": 247,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -197644,8 +197644,8 @@
     "text": "10枚投稿テストとしてとろっとび10選\n\n#Blueskyねこ部",
     "createdAt": "2026-06-09T00:32:24.851Z",
     "replyCount": 3,
-    "repostCount": 45,
-    "likeCount": 162,
+    "repostCount": 57,
+    "likeCount": 192,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -197762,8 +197762,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 151,
-    "likeCount": 674,
+    "repostCount": 154,
+    "likeCount": 687,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -197956,6 +197956,42 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvx7c33ek2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvx7c33ek2a",
+    "cid": "bafyreibk6vftigwq63jd3z3djzeqrxaesdvxkixfg7ukfxjl5zddprznem",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "女子大生監督、庄野涼香の決断が繋いだFets高砂NIWA Racingロードスターの富士24時間完走「強引だったかもしれないけど、やってよかった」  - https://www.as-web.jp/domestic/1324117",
+    "createdAt": "2026-06-10T05:12:31.978416Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-10T05:12:33.762Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1324117",
+        "title": "女子大生監督、庄野涼香の決断が繋いだFets高砂NIWA Racingロードスターの富士24時間完走「強引だったかもしれないけど、やってよかった」 | 国内レース他 | autosport web",
+        "description": "　6月5〜7日に静岡県の富士スピードウェイで開催されたENEOSスーパー耐久シリーズ2026 Empowered by",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiedty3xq2tqp3lvkxwpkqab75qd7i324fxcovchvifbg4bcpled74"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvuclkw4s22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnvuclkw4s22",
+    "cid": "bafyreihizmxl3ipmwrohw3k3kwcmrmfscodrg6sb3wq2duq3tyk7mfhj6u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-10T04:20:42.408Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-10T04:20:42.667Z",
+    "embed": null,
     "isRepost": false
   }
 }
