@@ -37,7 +37,24 @@ def render_post(post):
     author_handle = post.get("author", "unknown")
     author_name = post.get("authorName", "")
     display_name = author_name if author_name else f"@{author_handle}"
-    author_html = f'<div class="post-author"><strong>{display_name}</strong><span>@{author_handle}</span></div>'
+    
+    # アイコン画像の取得（プロパティが存在しない場合はプレースホルダー）
+    avatar_url = post.get("authorAvatar") or post.get("avatar")
+    if avatar_url:
+        icon_html = f'<img src="{avatar_url}" class="author-icon" loading="lazy" alt="">'
+    else:
+        icon_html = '<div class="author-icon-placeholder"></div>'
+
+    # アイコンと名前・日付を横並びにするヘッダー構造
+    author_html = f"""
+    <div class="post-header">
+        {icon_html}
+        <div class="author-meta">
+            <div class="post-author"><strong>{display_name}</strong><span>@{author_handle}</span></div>
+            <div class="post-meta"><a href="{post_url}" target="_blank">{date}</a></div>
+        </div>
+    </div>
+    """
 
     repost_html = ""
     if post.get("isRepost"):
@@ -47,7 +64,6 @@ def render_post(post):
     <div class="post">
         {repost_html}
         {author_html}
-        <div class="post-meta"><a href="{post_url}" target="_blank">{date}</a></div>
         <div class="post-text">{text}</div>
         {images_html}
         <div class="post-stats">{stats}</div>
@@ -60,7 +76,7 @@ def generate_html(posts):
     # ─── 各種アーカイブのデータ振り分け ───
     archive_map = defaultdict(list)
     archive_map_daily = defaultdict(list)
-    archive_map_same_day = defaultdict(list) # 月-日 (MM-DD) をキーにする辞書
+    archive_map_same_day = defaultdict(list)
     
     for post in sorted_posts:
         dt_jst = get_jst_datetime(post["createdAt"])
@@ -98,6 +114,7 @@ def generate_html(posts):
             --author-span: #666;
             --search-msg-bg: #f9f9f9;
             --search-msg-text: #666;
+            --icon-bg: #ddd;
         }}
         @media (prefers-color-scheme: dark) {{
             :root {{
@@ -109,6 +126,7 @@ def generate_html(posts):
                 --author-span: #aaa;
                 --search-msg-bg: #2d2d2d;
                 --search-msg-text: #ccc;
+                --icon-bg: #444;
             }}
         }}
 
@@ -119,6 +137,13 @@ def generate_html(posts):
         nav {{ margin-bottom: 2em; }}
         .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
         .search-box input {{ flex: 1; }}
+        
+        /* 投稿者ヘッダー周りのスタイル */
+        .post-header {{ display: flex; align-items: center; gap: 12px; margin-bottom: 0.6em; }}
+        .author-meta {{ display: flex; flex-direction: column; gap: 2px; }}
+        .author-icon {{ width: 42px; height: 42px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }}
+        .author-icon-placeholder {{ width: 42px; height: 42px; border-radius: 50%; background-color: var(--icon-bg); flex-shrink: 0; }}
+        
         .archive-day-heading {{
             margin-top: 2.5em;
             padding: 0.3em 0.6em;
@@ -135,12 +160,12 @@ def generate_html(posts):
             color: var(--meta-text);
             font-weight: normal;
         }}
-        .post-author {{ font-size: 0.95em; margin-bottom: 0.2em; }}
+        .post-author {{ font-size: 0.95em; margin-bottom: 0; line-height: 1.2; }}
         .post-author strong {{ color: var(--text-main); }}
         .post-author span {{ color: var(--author-span); font-size: 0.85em; margin-left: 0.4em; }}
         .repost-badge {{ color: #17bf63; font-size: 0.85em; font-weight: bold; margin-bottom: 0.4em; }}
 
-        /* ボタンの共通スタイル（ダークモード対応） */
+        /* ボタンの共通スタイル */
         .all-years-btn {{
             display: inline-block;
             padding: 0.8em 2em;
@@ -204,10 +229,9 @@ def generate_html(posts):
         <p>&copy; 2026 青空の記憶</p>
     </footer>
 
-    <button id="page-top-btn" onclick="scrollToTop()">🔼</button>
+    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
 
     <script>
-        // スクロール検知でボタンの表示/非表示を切り替え
         window.addEventListener('scroll', function() {{
             const btn = document.getElementById('page-top-btn');
             if (window.scrollY > 400) {{
@@ -217,7 +241,6 @@ def generate_html(posts):
             }}
         }});
 
-        // 一番上へ滑らかにスクロールする関数
         function scrollToTop() {{
             window.scrollTo({{ top: 0, behavior: 'smooth' }});
         }}
@@ -270,7 +293,6 @@ def generate_html(posts):
                 }
             }
 
-            // テキストで絞り込み
             let matches = searchIndex.filter(item => item.text.includes(query));
             statusDiv.innerHTML = `<strong>${matches.length}</strong> 件見つかりました。（最新順）`;
 
@@ -354,7 +376,22 @@ def generate_html(posts):
             const authorHandle = post.author || "unknown";
             const authorName = post.authorName || "";
             const displayName = authorName ? authorName : `@${authorHandle}`;
-            const authorHtml = `<div class="post-author"><strong>${displayName}</strong><span>@${authorHandle}</span></div>`;
+            
+            // JS側でのアイコン判定
+            const avatarUrl = post.authorAvatar || post.avatar;
+            const iconHtml = avatarUrl 
+                ? `<img src="${avatarUrl}" class="author-icon" loading="lazy">` 
+                : '<div class="author-icon-placeholder"></div>';
+
+            const authorHtml = `
+            <div class="post-header">
+                ${iconHtml}
+                <div class="author-meta">
+                    <div class="post-author"><strong>${displayName}</strong><span>@${authorHandle}</span></div>
+                    <div class="post-meta"><a href="${postUrl}" target="_blank">${dateStr}</a></div>
+                </div>
+            </div>
+            `;
 
             const repostHtml = post.isRepost ? '<div class="repost-badge">🔄 リポスト</div>' : "";
 
@@ -362,7 +399,6 @@ def generate_html(posts):
             <div class="post">
                 ${repostHtml}
                 ${authorHtml}
-                <div class="post-meta"><a href="${postUrl}" target="_blank">${dateStr}</a></div>
                 <div class="post-text">${text}</div>
                 ${imagesHtml}
                 <div class="post-stats">${stats}</div>
@@ -439,17 +475,15 @@ def generate_html(posts):
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="日別アーカイブ", content=archive_daily_list))
         
-    # ─── 個別の日別アーカイブの生成（ボタン配置） ───
+    # ─── 個別の日別アーカイブの生成 ───
     for day, d_posts in archive_map_daily.items():
         count = len(d_posts)
         d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
         
-        # 'YYYY-MM-DD' から 'MM-DD' を抽出
         mm_dd = day[5:] 
         dt_sample = datetime.strptime(day, "%Y-%m-%d")
         display_mm_dd = dt_sample.strftime("%m月%d日")
         
-        # 最下部に「すべての年の同日post」への誘導ボタンを追加
         button_html = f"""
         <div style="text-align: center; margin-top: 3.5em; margin-bottom: 2em;">
             <a href="archive_all_{mm_dd}.html" class="all-years-btn">
@@ -462,7 +496,7 @@ def generate_html(posts):
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
 
-    # ─── 全年度同日まとめページ (archive_all_MM-DD.html) の生成 ───
+    # ─── 全年度同日まとめページの生成 ───
     for mm_dd, sd_posts in archive_map_same_day.items():
         m, d = mm_dd.split("-")
         display_title = f"{int(m)}月{int(d)}日のすべての年の投稿"
@@ -470,18 +504,15 @@ def generate_html(posts):
         sd_content = ""
         current_year = None
         
-        # 該当する月日のポストを年ごとに見出しで区切って出力
         for post in sd_posts:
             dt_jst = get_jst_datetime(post["createdAt"])
             year_str = dt_jst.strftime("%Y年")
             
             if year_str != current_year:
                 current_year = year_str
-                # その年の「YYYY-MM-DD」を復元してその日の投稿数を取得
                 full_date_str = dt_jst.strftime("%Y-%m-%d")
                 year_day_count = len(archive_map_daily[full_date_str])
                 
-                # 年別のヘッダーを挿入
                 sd_content += f"""
                 <h3 class="archive-day-heading">
                     {year_str}{int(m)}月{int(d)}日 <span class="day-post-count">| {year_day_count} posts</span>
