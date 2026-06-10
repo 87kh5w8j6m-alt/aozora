@@ -93,6 +93,7 @@ def generate_html(posts):
         display_date = dt.strftime("%Y年%m月%d日")
         return f'<h3 class="archive-day-heading">{display_date}({wd}) <span class="day-post-count">| {count} posts</span></h3>'
 
+    # ↓ 修正: JavaScript部分の `}` を `}}` に修正しました
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -261,7 +262,7 @@ def generate_html(posts):
             const btn = document.getElementById('page-top-btn');
             if (window.scrollY > 400) {{
                 btn.style.display = 'block';
-            } else {{
+            }} else {{
                 btn.style.display = 'none';
             }}
         }});
