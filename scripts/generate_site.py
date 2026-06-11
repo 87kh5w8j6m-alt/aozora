@@ -290,7 +290,7 @@ def generate_html(posts):
         <h1 style="margin-bottom: 0.5rem;"><a href="index.html" style="text-decoration: none; color: inherit;">青空の記憶</a></h1>
     </header>
     
-    <!-- 2カラムコンテンツ部 -->
+   <!-- 2カラムコンテンツ部 -->
     <div class="layout-container">
         <!-- 左カラム: 各種メニュー、検索、カレンダー -->
         <aside class="sidebar">
@@ -301,8 +301,6 @@ def generate_html(posts):
                     <li><a href="images.html">🖼️ 画像一覧</a></li>
                     <li><a href="ranking.html">🔥 ランキング</a></li>
                     <li><a href="archive.html">📅 月別アーカイブ</a></li>
-                    <li><a href="archive_daily.html">📅 日別カレンダー</a></li>
-                    <li><a href="search.html">🔍 検索</a></li>
                 </ul>
             </section>
 
