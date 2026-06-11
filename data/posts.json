@@ -569,8 +569,8 @@
           "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:urj4pkche2yvpr5ilj4ykteu/bafkreihkhwjzrrsev4t5mhgupufvz4thjsrlz4jkvx7psjv5lnvdl3khae",
           "associated": {
             "chat": {
-              "allowIncoming": "none",
-              "allowGroupInvites": "none"
+              "allowIncoming": "following",
+              "allowGroupInvites": "following"
             },
             "activitySubscription": {
               "allowSubscriptions": "followers"
@@ -643,8 +643,8 @@
     "text": "夢宮あおいちゃん💙おねがいアイプリ✨",
     "createdAt": "2026-06-04T10:17:01.201Z",
     "replyCount": 0,
-    "repostCount": 7,
-    "likeCount": 24,
+    "repostCount": 8,
+    "likeCount": 25,
     "indexedAt": "2026-06-04T10:17:06.466Z",
     "embed": {
       "images": [
@@ -197826,7 +197826,7 @@
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 437,
+    "likeCount": 438,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -198591,7 +198591,7 @@
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
     "repostCount": 78,
-    "likeCount": 324,
+    "likeCount": 325,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198737,8 +198737,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 444,
+    "repostCount": 100,
+    "likeCount": 463,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198833,6 +198833,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-11T13:03:30.362Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo24wjm6k22x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo24wjm6k22x",
+    "cid": "bafyreicaahb3ygqhp4s6cp3bndfifhykxtipz4xitybfvjojvslggan6g4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-11T21:05:39.794966Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T21:05:40.463Z",
     "embed": null,
     "isRepost": false
   }
