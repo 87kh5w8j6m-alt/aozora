@@ -612,7 +612,7 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 491,
+        "likeCount": 492,
         "replyCount": 0,
         "repostCount": 374,
         "quoteCount": 4,
@@ -3160,7 +3160,7 @@
     "createdAt": "2026-05-24T12:58:21.807Z",
     "replyCount": 4,
     "repostCount": 96,
-    "likeCount": 395,
+    "likeCount": 396,
     "indexedAt": "2026-05-24T12:58:21.875Z",
     "embed": {
       "images": [
@@ -198656,8 +198656,8 @@
     "text": "「リリカルなのは」新作アニメ全12話の最速上映会を7月に開催、チケット価格は10万円\r\nhttps://natalie.mu/comic/news/675764?utm_source=bluesky&utm_medium=social\r\n\r\n#なのはEXGV",
     "createdAt": "2026-06-11T19:12:09+09:00",
     "replyCount": 0,
-    "repostCount": 9,
-    "likeCount": 5,
+    "repostCount": 10,
+    "likeCount": 8,
     "indexedAt": "2026-06-11T10:12:12.365Z",
     "embed": {
       "images": [
@@ -198738,7 +198738,7 @@
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 437,
+    "likeCount": 442,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198768,6 +198768,71 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-10T21:57:40.660Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzdzeamo22i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzdzeamo22i",
+    "cid": "bafyreicfmphthdmpvbi3eygv4a5qrsy5becwp4j6ui4xgw24qalb5qenbm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "TOYOTA Racingのページに青い鳥がまだいた！",
+    "createdAt": "2026-06-11T13:39:51.820Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T13:39:54.660Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidiv6bdxgbdiyisad2737zhqi3ww4ewpqaar7uixjfrlcc3gw5a4q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidiv6bdxgbdiyisad2737zhqi3ww4ewpqaar7uixjfrlcc3gw5a4q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 505,
+            "width": 1282
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzdwogufs2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzdwogufs2i",
+    "cid": "bafyreieykhz4mtaqtvt3iftqhjof3k6jtcfxt2cqlqcmk3u5ih63asxexq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ル・マン24時間：H2デモンストレーション#Le Mans#Hydrogen#TR LH2 Racing Prototype jp.toyota-racing-newsroom.com/blog/wec/art...",
+    "createdAt": "2026-06-11T13:38:21.850Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T13:38:22.362Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.toyota-racing-newsroom.com/blog/wec/artikel/2026-le-mans-24-hours-lh2-demo-laps",
+        "title": "本文 - 2026 Le Mans 24 Hours: LH2 Demo Laps - TOYOTA RACING Newsroom",
+        "description": "2026 Le Mans 24 Hours: LH2 Demo Laps"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzbydeq622i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnzbydeq622i",
+    "cid": "bafyreihnx3x4cgays3mpuv7hhprtyf6b6l3fklp7ncmsmbhvsn3aih5imy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Xperia 1 VIIIの購入報告が続々上がっている",
+    "createdAt": "2026-06-11T13:03:29.872Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T13:03:30.362Z",
     "embed": null,
     "isRepost": false
   }
