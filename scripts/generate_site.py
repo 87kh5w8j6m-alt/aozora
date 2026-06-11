@@ -93,6 +93,7 @@ def generate_html(posts):
         display_date = dt.strftime("%Y年%m月%d日")
         return f'<h3 class="archive-day-heading">{display_date}({wd}) <span class="day-post-count">| {count} posts</span></h3>'
 
+    # ベースHTMLテンプレート (2カラムレイアウト向け)
     base_html = """
 <!DOCTYPE html>
 <html lang="ja">
@@ -112,6 +113,7 @@ def generate_html(posts):
             --search-msg-bg: #f9f9f9;
             --search-msg-text: #666;
             --icon-bg: #ddd;
+            --sidebar-bg: #fdfdfd;
         }}
         @media (prefers-color-scheme: dark) {{
             :root {{
@@ -124,16 +126,87 @@ def generate_html(posts):
                 --search-msg-bg: #2d2d2d;
                 --search-msg-text: #ccc;
                 --icon-bg: #444;
+                --sidebar-bg: #182232;
             }}
+        }}
+
+        body {{
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 10px 20px;
+        }}
+
+        /* 2カラムレイアウト用のGrid定義 */
+        .layout-container {{
+            display: grid;
+            grid-template-columns: 320px 1s;
+            grid-template-columns: minmax(300px, 350px) 1fr;
+            gap: 2rem;
+            margin-top: 1.5rem;
+            align-items: start;
+        }}
+
+        /* 左カラム：サイドバー */
+        .sidebar {{
+            position: sticky;
+            top: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            background: var(--sidebar-bg);
+            border: 1px solid var(--post-border);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+            box-sizing: border-box;
+        }}
+
+        /* 右カラム：メインコンテンツ */
+        .main-content {{
+            min-width: 0; /* フレックス/グリッドアイテムの縮小を可能にする */
+        }}
+
+        /* サイドバー用メニューリスト */
+        .sidebar-menu {{
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }}
+        .sidebar-menu li a {{
+            display: block;
+            padding: 0.5rem 0.8rem;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: background 0.2s;
+            font-weight: bold;
+        }}
+        .sidebar-menu li a:hover {{
+            background: var(--heading-bg);
         }}
 
         .post {{ border-bottom: 1px solid var(--post-border); padding: 1em 0; }}
         .post-meta {{ font-size: 0.8em; color: var(--meta-text); }}
         .post-stats {{ font-size: 0.8em; color: var(--stats-text); margin-top: 0.5em; }}
         .post-image {{ max-width: 100%; border-radius: 8px; margin-top: 0.5em; }}
-        nav {{ margin-bottom: 2em; }}
-        .search-box {{ margin-bottom: 2em; display: flex; gap: 0.5em; }}
-        .search-box input {{ flex: 1; }}
+        
+        /* 検索ボックス */
+        .search-box {{
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 0;
+        }}
+        .search-box input {{
+            flex: 1;
+            margin-bottom: 0;
+            padding: 6px 12px;
+        }}
+        .search-box button {{
+            padding: 6px 12px;
+            margin-bottom: 0;
+        }}
         
         .post-header {{ display: flex; align-items: center; gap: 12px; margin-bottom: 0.6em; }}
         .author-meta {{ display: flex; flex-direction: column; gap: 2px; }}
@@ -141,7 +214,7 @@ def generate_html(posts):
         .author-icon-placeholder {{ width: 42px; height: 42px; border-radius: 50%; background-color: var(--icon-bg); flex-shrink: 0; }}
         
         .archive-day-heading {{
-            margin-top: 2.5em;
+            margin-top: 1.5rem;
             padding: 0.3em 0.6em;
             background: var(--heading-bg);
             border-left: 5px solid var(--heading-border);
@@ -178,31 +251,91 @@ def generate_html(posts):
             transition: opacity 0.3s, transform 0.2s;
         }}
         #page-top-btn:hover {{ opacity: 1; transform: translateY(-2px); color: #fff; text-decoration: none; }}
+
+        /* トースト通知 */
+        #toast-notification {{
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background-color: #333;
+            color: #fff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            z-index: 9999;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            opacity: 0;
+            pointer-events: none;
+        }}
+        #toast-notification.show {{
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }}
+
+        /* レスポンシブ対応 (タブレット・スマホ) */
+        @media (max-width: 768px) {{
+            .layout-container {{
+                grid-template-columns: 1fr;
+            }}
+            .sidebar {{
+                position: static;
+                width: 100%;
+            }}
+        }}
     </style>
 </head>
 <body>
-    <header>
-        <h1>青空の記憶</h1>
-        <nav>
-            <a href="index.html">ホーム</a> | 
-            <a href="images.html">画像一覧</a> | 
-            <a href="ranking.html">ランキング</a> | 
-            <a href="archive.html">月別アーカイブ</a> | 
-            <a href="archive_daily.html">📅 日別カレンダー</a> | 
-            <a href="search.html">🔍 検索</a>
-        </nav>
+    <header style="margin-bottom: 1.5rem;">
+        <h1 style="margin-bottom: 0.5rem;"><a href="index.html" style="text-decoration: none; color: inherit;">青空の記憶</a></h1>
     </header>
-    <main>
-        <h2>{title}</h2>
-        {content}
-    </main>
+    
+    <!-- 2カラムコンテンツ部 -->
+    <div class="layout-container">
+        <!-- 左カラム: 各種メニュー、検索、カレンダー -->
+        <aside class="sidebar">
+            <section>
+                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">メニュー</h4>
+                <ul class="sidebar-menu">
+                    <li><a href="index.html">🏠 ホーム</a></li>
+                    <li><a href="images.html">🖼️ 画像一覧</a></li>
+                    <li><a href="ranking.html">🔥 ランキング</a></li>
+                    <li><a href="archive.html">📅 月別アーカイブ</a></li>
+                    <li><a href="archive_daily.html">📅 日別カレンダー</a></li>
+                    <li><a href="search.html">🔍 検索</a></li>
+                </ul>
+            </section>
+
+            <section>
+                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">キーワード検索</h4>
+                <div class="search-box">
+                    <input type="text" id="sidebar-search-input" placeholder="アーカイブから探す..." onkeydown="if(event.key==='Enter') executeSidebarSearch()">
+                    <button onclick="executeSidebarSearch()">🔍</button>
+                </div>
+            </section>
+
+            <section id="sidebar-calendar-container">
+                <!-- ここにカレンダーウィジェットが挿入されます -->
+                {calendar_widget}
+            </section>
+        </aside>
+
+        <!-- 右カラム: メインコンテンツ -->
+        <main class="main-content">
+            <h2>{title}</h2>
+            {content}
+        </main>
+    </div>
+
     <footer>
-        <p>&copy; 2026 青空の記憶</p>
+        <p style="text-align: center; margin-top: 3rem;">&copy; 2026 青空の記憶</p>
     </footer>
 
     <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
+    <div id="toast-notification"></div>
 
     <script>
+        // スムーススクロールトップ
         window.addEventListener('scroll', function() {{
             const btn = document.getElementById('page-top-btn');
             if (window.scrollY > 400) {{
@@ -212,6 +345,24 @@ def generate_html(posts):
             }}
         }});
         function scrollToTop() {{ window.scrollTo({{ top: 0, behavior: 'smooth' }}); }}
+
+        // カスタムトースト通知表示用
+        function showToast(message) {{
+            const toast = document.getElementById('toast-notification');
+            toast.innerText = message;
+            toast.classList.add('show');
+            setTimeout(() => {{
+                toast.classList.remove('show');
+            }}, 3000);
+        }}
+
+        // サイドバー検索の実行 (search.htmlにクエリを引き継いで遷移する)
+        function executeSidebarSearch() {{
+            const query = document.getElementById('sidebar-search-input').value.trim();
+            if (query) {{
+                window.location.href = `search.html?q=${{encodeURIComponent(query)}}`;
+            }}
+        }}
     </script>
 </body>
 </html>
@@ -227,6 +378,7 @@ def generate_html(posts):
     with open("search_index.json", "w", encoding="utf-8") as f:
         json.dump(search_data, f, ensure_ascii=False)
 
+    # 検索ページ用コンテンツ (サイドバーの検索インプットから自動発火するように修正)
     search_page_content = """
     <div class="search-box">
         <input type="text" id="global-search-input" placeholder="全投稿からキーワード検索..." onkeydown="if(event.key==='Enter') executeSearch()">
@@ -236,6 +388,17 @@ def generate_html(posts):
     <div id="search-results"></div>
     <script>
         let searchIndex = null;
+        
+        // ページロード時にURLパラメータからクエリがあれば自動検索
+        window.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const q = params.get('q');
+            if (q) {
+                document.getElementById('global-search-input').value = q;
+                executeSearch();
+            }
+        });
+
         async function executeSearch() {
             const query = document.getElementById('global-search-input').value.toLowerCase().trim();
             const statusDiv = document.getElementById('search-status');
@@ -313,56 +476,8 @@ def generate_html(posts):
         }
     </script>
     """
-    with open("search.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="全件検索", content=search_page_content))
 
-    index_content = ""
-    current_day = None
-    for post in sorted_posts[:100]:
-        dt_jst = get_jst_datetime(post["createdAt"])
-        day_str = dt_jst.strftime("%Y-%m-%d")
-        if day_str != current_day:
-            current_day = day_str
-            count = len(archive_map_daily[day_str])
-            index_content += make_day_heading(day_str, count)
-        index_content += render_post(post)
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="最新投稿", content=index_content))
-
-    img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
-    with open("images.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="画像一覧", content=img_content))
-
-    author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
-    if author_counts:
-        my_handle = author_counts.most_common(1)[0][0]
-    else:
-        my_handle = None
-    original_posts = [p for p in sorted_posts if p.get("author") == my_handle and not p.get("isRepost")]
-    top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
-    ranking_content = "".join([render_post(p) for p in top_liked])
-    with open("ranking.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content))
-
-    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
-    with open("archive.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="月別アーカイブ", content=archive_list))
-        
-    for month, m_posts in archive_map.items():
-        m_content = ""
-        current_day = None
-        for post in m_posts:
-            dt_jst = get_jst_datetime(post["createdAt"])
-            day_str = dt_jst.strftime("%Y-%m-%d")
-            if day_str != current_day:
-                current_day = day_str
-                count = len(archive_map_daily[day_str])
-                m_content += make_day_heading(day_str, count)
-            m_content += render_post(post)
-        with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content))
-
-    # === UI型の日別カレンダー生成 ===
+    # === カレンダーUIのパーツ構成 ===
     cal = calendar.Calendar(firstweekday=0) # 月曜始まり
     weekdays_header = ["月", "火", "水", "木", "金", "土", "日"]
     
@@ -383,31 +498,30 @@ def generate_html(posts):
     else:
         all_months = []
 
-    cal_content = f"""
+    cal_widget_html = f"""
     <style>
         .calendar-ui {{
-            max-width: 420px;
-            margin: 2em auto;
             background: var(--heading-bg, #f0f4f8);
             border: 1px solid var(--post-border);
             border-radius: 12px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-            padding: 1.5em;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.03);
+            padding: 1rem;
+            font-size: 0.9em;
         }}
         .cal-header {{
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 1.2em;
+            margin-bottom: 0.8rem;
         }}
         .cal-header button {{
             background: #0056b3;
             color: #fff;
             border: none;
             border-radius: 50%;
-            width: 38px;
-            height: 38px;
-            font-size: 1.2em;
+            width: 30px;
+            height: 30px;
+            font-size: 1em;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -418,18 +532,18 @@ def generate_html(posts):
         }}
         .cal-header button:hover {{ opacity: 0.8; }}
         .cal-header button:disabled {{ background: #ccc; cursor: not-allowed; opacity: 0.5; }}
-        .cal-title {{ font-size: 1.3em; font-weight: bold; color: #0056b3; margin: 0; }}
+        .cal-title {{ font-size: 1.1em; font-weight: bold; color: #0056b3; margin: 0; }}
         
-        .cal-table-wrapper table {{ width: 100%; border-collapse: separate; border-spacing: 4px; margin: 0; table-layout: fixed; }}
-        .cal-table-wrapper th {{ text-align: center; font-size: 0.95em; padding: 6px 0; border: none; background: transparent; color: var(--meta-text); font-weight: bold; }}
+        .cal-table-wrapper table {{ width: 100%; border-collapse: separate; border-spacing: 2px; margin: 0; table-layout: fixed; }}
+        .cal-table-wrapper th {{ text-align: center; font-size: 0.8em; padding: 4px 0; border: none; background: transparent; color: var(--meta-text); font-weight: bold; }}
         .cal-table-wrapper th.w-sat {{ color: #7b94ce; }}
         .cal-table-wrapper th.w-sun {{ color: #d08282; }}
         .cal-table-wrapper td {{
-            text-align: center; vertical-align: middle; height: 42px; border-radius: 6px; font-weight: bold; border: none; padding: 0; font-size: 1.1em;
+            text-align: center; vertical-align: middle; height: 32px; border-radius: 4px; font-weight: bold; border: none; padding: 0; font-size: 0.95em;
         }}
         .cal-table-wrapper td a {{
             display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;
-            text-decoration: none; color: inherit; border-radius: 6px;
+            text-decoration: none; color: inherit; border-radius: 4px;
         }}
         /* ポストなしの色 */
         .cal-td-no-post {{ background-color: #e2e2e2; color: #fff; }}
@@ -441,8 +555,8 @@ def generate_html(posts):
         .cal-td-has-post.w-sun {{ background-color: #d08282; }}
         .cal-td-has-post:hover {{ filter: brightness(0.9); }}
         
-        .cal-footer {{ text-align: center; margin-top: 1.5em; border-top: 1px solid var(--post-border); padding-top: 1.5em; }}
-        .cal-footer a {{ color: #0056b3; font-weight: bold; text-decoration: none; font-size: 1.1em; }}
+        .cal-footer {{ text-align: center; margin-top: 1rem; border-top: 1px solid var(--post-border); padding-top: 0.8rem; }}
+        .cal-footer a {{ color: #0056b3; font-weight: bold; text-decoration: none; font-size: 0.95em; }}
         .cal-footer a:hover {{ text-decoration: underline; }}
         
         @media (prefers-color-scheme: dark) {{
@@ -467,32 +581,32 @@ def generate_html(posts):
         y, m = map(int, month_str.split("-"))
         month_cal = cal.monthdayscalendar(y, m)
         
-        cal_content += f'<div class="month-table" data-month="{month_str}" style="display: none;">\n'
-        cal_content += '<div class="cal-table-wrapper"><table>\n'
-        cal_content += '<tr>'
+        cal_widget_html += f'<div class="month-table" data-month="{month_str}" style="display: none;">\n'
+        cal_widget_html += '<div class="cal-table-wrapper"><table>\n'
+        cal_widget_html += '<tr>'
         for i, wd in enumerate(weekdays_header):
             cls = 'w-sat' if i == 5 else 'w-sun' if i == 6 else ''
-            cal_content += f'<th class="{cls}">{wd}</th>'
-        cal_content += '</tr>\n'
+            cal_widget_html += f'<th class="{cls}">{wd}</th>'
+        cal_widget_html += '</tr>\n'
         
         for week in month_cal:
-            cal_content += '<tr>\n'
+            cal_widget_html += '<tr>\n'
             for i, day in enumerate(week):
                 if day == 0:
-                    cal_content += '<td></td>'
+                    cal_widget_html += '<td></td>'
                 else:
                     date_key = f"{y}-{m:02d}-{day:02d}"
                     cls_day = 'w-sat' if i == 5 else 'w-sun' if i == 6 else ''
                     
                     if date_key in archive_map_daily:
                         count = len(archive_map_daily[date_key])
-                        cal_content += f'<td class="cal-td-has-post {cls_day}"><a href="archive_{date_key}.html" title="{count}件のポスト">{day}</a></td>'
+                        cal_widget_html += f'<td class="cal-td-has-post {cls_day}"><a href="archive_{date_key}.html" title="{count}件のポスト">{day}</a></td>'
                     else:
-                        cal_content += f'<td class="cal-td-no-post {cls_day}">{day}</td>'
-            cal_content += '</tr>\n'
-        cal_content += '</table></div>\n</div>\n'
+                        cal_widget_html += f'<td class="cal-td-no-post {cls_day}">{day}</td>'
+            cal_widget_html += '</tr>\n'
+        cal_widget_html += '</table></div>\n</div>\n'
 
-    cal_content += f"""
+    cal_widget_html += f"""
         </div>
         <div class="cal-footer">
             <a href="#" id="one-year-ago-link">1年前の今日のポストを見る</a>
@@ -537,7 +651,7 @@ def generate_html(posts):
             linkEl.href = "#";
             linkEl.onclick = function(e) {{
                 e.preventDefault();
-                alert(`1年前の今日 (${{targetYear}}年${{parseInt(targetMonth)}}月${{parseInt(targetDay)}}日) はポストがありません。`);
+                showToast(`1年前の今日 (${{targetYear}}年${{parseInt(targetMonth)}}月${{parseInt(targetDay)}}日) はポストがありません。`);
             }};
         }}
 
@@ -555,9 +669,66 @@ def generate_html(posts):
     </script>
     """
 
-    with open("archive_daily.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="日別カレンダー", content=cal_content))
+    # 1. 検索ページの書き出し
+    with open("search.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="全件検索", content=search_page_content, calendar_widget=cal_widget_html))
 
+    # 2. トップページ (index.html) の書き出し
+    index_content = ""
+    current_day = None
+    for post in sorted_posts[:100]:
+        dt_jst = get_jst_datetime(post["createdAt"])
+        day_str = dt_jst.strftime("%Y-%m-%d")
+        if day_str != current_day:
+            current_day = day_str
+            count = len(archive_map_daily[day_str])
+            index_content += make_day_heading(day_str, count)
+        index_content += render_post(post)
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="最新投稿", content=index_content, calendar_widget=cal_widget_html))
+
+    # 3. 画像一覧の書き出し
+    img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
+    with open("images.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="画像一覧", content=img_content, calendar_widget=cal_widget_html))
+
+    # 4. ランキングの書き出し
+    author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
+    if author_counts:
+        my_handle = author_counts.most_common(1)[0][0]
+    else:
+        my_handle = None
+    original_posts = [p for p in sorted_posts if p.get("author") == my_handle and not p.get("isRepost")]
+    top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
+    ranking_content = "".join([render_post(p) for p in top_liked])
+    with open("ranking.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content, calendar_widget=cal_widget_html))
+
+    # 5. 月別アーカイブの書き出し
+    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
+    with open("archive.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="月別アーカイブ", content=archive_list, calendar_widget=cal_widget_html))
+        
+    for month, m_posts in archive_map.items():
+        m_content = ""
+        current_day = None
+        for post in m_posts:
+            dt_jst = get_jst_datetime(post["createdAt"])
+            day_str = dt_jst.strftime("%Y-%m-%d")
+            if day_str != current_day:
+                current_day = day_str
+                count = len(archive_map_daily[day_str])
+                m_content += make_day_heading(day_str, count)
+            m_content += render_post(post)
+        with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
+            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content, calendar_widget=cal_widget_html))
+
+    # 6. カレンダー単体（別ページ）の書き出し
+    with open("archive_daily.html", "w", encoding="utf-8") as f:
+        # このページ内ではカレンダーウィジェットが中央（content）に表示されるように空にします
+        f.write(base_html.format(title="日別カレンダー", content=cal_widget_html, calendar_widget=""))
+
+    # 7. 日別アーカイブの書き出し
     for day, d_posts in archive_map_daily.items():
         count = len(d_posts)
         d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
@@ -573,8 +744,9 @@ def generate_html(posts):
         """
         d_content += button_html
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content))
+            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content, calendar_widget=cal_widget_html))
 
+    # 8. 同日アーカイブ（過去すべての年の同日）の書き出し
     for mm_dd, sd_posts in archive_map_same_day.items():
         m, d = mm_dd.split("-")
         display_title = f"{int(m)}月{int(d)}日のすべての年の投稿"
@@ -590,7 +762,7 @@ def generate_html(posts):
                 sd_content += f'<h3 class="archive-day-heading">{year_str}{int(m)}月{int(d)}日 <span class="day-post-count">| {year_day_count} posts</span></h3>'
             sd_content += render_post(post)
         with open(f"archive_all_{mm_dd}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=display_title, content=sd_content))
+            f.write(base_html.format(title=display_title, content=sd_content, calendar_widget=cal_widget_html))
 
 if __name__ == "__main__":
     data_path = "data/posts.json"
