@@ -75,7 +75,7 @@
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
     "repostCount": 135,
-    "likeCount": 573,
+    "likeCount": 574,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -569,7 +569,8 @@
           "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:urj4pkche2yvpr5ilj4ykteu/bafkreihkhwjzrrsev4t5mhgupufvz4thjsrlz4jkvx7psjv5lnvdl3khae",
           "associated": {
             "chat": {
-              "allowIncoming": "following"
+              "allowIncoming": "none",
+              "allowGroupInvites": "none"
             },
             "activitySubscription": {
               "allowSubscriptions": "followers"
@@ -611,7 +612,7 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 490,
+        "likeCount": 491,
         "replyCount": 0,
         "repostCount": 374,
         "quoteCount": 4,
@@ -1134,7 +1135,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 110,
-    "likeCount": 519,
+    "likeCount": 520,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -1310,7 +1311,7 @@
     "createdAt": "2026-06-01T03:08:17.927Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 375,
+    "likeCount": 376,
     "indexedAt": "2026-06-01T03:08:24.173Z",
     "embed": {
       "images": [
@@ -2205,7 +2206,7 @@
     "createdAt": "2026-05-29T21:21:28.498Z",
     "replyCount": 0,
     "repostCount": 147,
-    "likeCount": 578,
+    "likeCount": 579,
     "indexedAt": "2026-05-29T21:21:34.474Z",
     "embed": {
       "images": [
@@ -2436,7 +2437,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 455,
+    "likeCount": 456,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -2848,7 +2849,7 @@
     "createdAt": "2026-05-26T21:37:25.935Z",
     "replyCount": 1,
     "repostCount": 115,
-    "likeCount": 481,
+    "likeCount": 482,
     "indexedAt": "2026-05-26T21:37:31.280Z",
     "embed": {
       "images": [
@@ -2921,7 +2922,7 @@
     "createdAt": "2026-05-25T21:35:44.532Z",
     "replyCount": 0,
     "repostCount": 116,
-    "likeCount": 469,
+    "likeCount": 470,
     "indexedAt": "2026-05-25T21:35:54.678Z",
     "embed": {
       "images": [
@@ -3159,7 +3160,7 @@
     "createdAt": "2026-05-24T12:58:21.807Z",
     "replyCount": 4,
     "repostCount": 96,
-    "likeCount": 394,
+    "likeCount": 395,
     "indexedAt": "2026-05-24T12:58:21.875Z",
     "embed": {
       "images": [
@@ -4056,7 +4057,7 @@
     "createdAt": "2026-05-19T23:44:20.506Z",
     "replyCount": 1,
     "repostCount": 100,
-    "likeCount": 407,
+    "likeCount": 408,
     "indexedAt": "2026-05-19T23:44:27.773Z",
     "embed": {
       "images": [
@@ -198091,8 +198092,8 @@
     "text": "monoの敷島桜子ちゃん～(*‘∀‘)",
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 6,
-    "repostCount": 91,
-    "likeCount": 249,
+    "repostCount": 98,
+    "likeCount": 263,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -198134,8 +198135,8 @@
     "text": "10枚投稿テストとしてとろっとび10選\n\n#Blueskyねこ部",
     "createdAt": "2026-06-09T00:32:24.851Z",
     "replyCount": 3,
-    "repostCount": 57,
-    "likeCount": 195,
+    "repostCount": 58,
+    "likeCount": 198,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -198254,7 +198255,7 @@
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
     "repostCount": 155,
-    "likeCount": 691,
+    "likeCount": 693,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198562,7 +198563,7 @@
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
     "repostCount": 114,
-    "likeCount": 413,
+    "likeCount": 414,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -198589,8 +198590,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 77,
-    "likeCount": 322,
+    "repostCount": 78,
+    "likeCount": 324,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198607,5 +198608,167 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnz7nsjhos2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnz7nsjhos2y",
+    "cid": "bafyreie7syi6jtzd2saz2mn4xohuivpwqw5ymvgir4cfkvjsrdl6na6mna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | ル・マン盛り上げ特番 (公式練習①) 第3戦 ル・マン24時間レース(フランス) 【限定】FIA 世界耐久選手権(WEC) 2026 https://jod.jsports.co.jp/p/motor/wec/111405-V",
+    "createdAt": "2026-06-11T12:21:48.667979Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T12:21:49.566Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wec/111405-V",
+        "title": "ル・マン盛り上げ特番 (公式練習①) 第3戦 ル・マン24時間レース(フランス) 【限定】FIA 世界耐久選手権(WEC) 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "ル・マン盛り上げ特番 (公式練習①) 第3戦 ル・マン24時間レース(フランス) 【限定】FIA 世界耐久選手権(WEC) 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidpgmhth2wfkkzjisdnddcappb3ndsofptgqehlilkphxdesbhlvm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnz4aygyto2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnz4aygyto2l",
+    "cid": "bafyreidol3mj5ewqyk7sjbqqei2j7vw6ap6c63kvskymsoqoamvtdiggxe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第62話視聴終了。",
+    "createdAt": "2026-06-11T11:20:57.175365Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-11T11:20:58.060Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mnyyfzim6x2v": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mnyyfzim6x2v",
+    "cid": "bafyreidcwwmc5y7gdckztawzozmndwpsvzihsuqeyhta5as353z5if2pkm",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "「リリカルなのは」新作アニメ全12話の最速上映会を7月に開催、チケット価格は10万円\r\nhttps://natalie.mu/comic/news/675764?utm_source=bluesky&utm_medium=social\r\n\r\n#なのはEXGV",
+    "createdAt": "2026-06-11T19:12:09+09:00",
+    "replyCount": 0,
+    "repostCount": 9,
+    "likeCount": 5,
+    "indexedAt": "2026-06-11T10:12:12.365Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreiehx2chqfcxdr3d4y4jjjaayo3jxqms4hdclw6gp2lv6fqosjb7my",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreiehx2chqfcxdr3d4y4jjjaayo3jxqms4hdclw6gp2lv6fqosjb7my",
+          "alt": "",
+          "aspectRatio": {
+            "height": 675,
+            "width": 1200
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnyc5a6uba2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnyc5a6uba2s",
+    "cid": "bafyreidpxuyc6ld3xopz4nwz6vz56gtrtuudciv2w3wky5ahlcg4mdtama",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-11T03:33:33.944132Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-11T03:33:34.663Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxvsgy3ie2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxvsgy3ie2z",
+    "cid": "bafyreifvr5b6mrxddscut4ejg7v5zrx32idsaj2ilnabdjw3gmt52a4ji4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ニュルやスパ、デイトナ24時間はスタートパートとゴールパートしか日本語実況解説つかないけれど、ル・マン24時間は本当に24時間実況解説がつくのでやはり特別",
+    "createdAt": "2026-06-10T23:52:46.568286Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-10T23:52:47.861Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxvpnl6v72l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxvpnl6v72l",
+    "cid": "bafyreibjanke6fdldahvlqv4sa643ypcqhhrpvweirtawjwpv6k4krol74",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第3戦 ル・マン24時間レース(フランス) 【限定】【日本語実況・解説付き】FIA 世界耐久選手権(WEC) 2026 https://jod.jsports.co.jp/p/motor/wec/111406-V",
+    "createdAt": "2026-06-10T23:51:12.921198Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-10T23:51:14.464Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wec/111406-V",
+        "title": "予選 第3戦 ル・マン24時間レース(フランス) 【限定】【日本語実況・解説付き】FIA 世界耐久選手権(WEC) 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第3戦 ル・マン24時間レース(フランス) 【限定】【日本語実況・解説付き】FIA 世界耐久選手権(WEC) 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid5d3n54klevkyua6to2kime3f3qti5zwtugbdxkfda6v2y43mzwi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnxopcwups2r": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mnxopcwups2r",
+    "cid": "bafyreig2eelxizykbsgvgkssgxraxkvisctwr2muvgasvxnjuak43euuzi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-10T21:45:46.594Z",
+    "replyCount": 0,
+    "repostCount": 96,
+    "likeCount": 437,
+    "indexedAt": "2026-06-10T21:45:57.361Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreialrn4eljq7guyrwy7njygvoiqyk5uu4cxjpczcoqtougddb7zkwe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreialrn4eljq7guyrwy7njygvoiqyk5uu4cxjpczcoqtougddb7zkwe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxpels66y2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mnxpels66y2r",
+    "cid": "bafyreif26zmbjdb6mspa7krepisikp25bxbtx6vj2ifnllyqbw3fiykxra",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第63回聴取終了",
+    "createdAt": "2026-06-10T21:57:40.004604Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-10T21:57:40.660Z",
+    "embed": null,
+    "isRepost": false
   }
 }
