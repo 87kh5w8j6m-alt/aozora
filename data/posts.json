@@ -74,8 +74,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 136,
-    "likeCount": 577,
+    "repostCount": 138,
+    "likeCount": 578,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -754,7 +754,7 @@
     "text": "",
     "createdAt": "2026-06-03T22:06:47.860Z",
     "replyCount": 3,
-    "repostCount": 93,
+    "repostCount": 94,
     "likeCount": 391,
     "indexedAt": "2026-06-03T22:06:54.070Z",
     "embed": {
@@ -967,7 +967,7 @@
     "text": "",
     "createdAt": "2026-06-02T21:25:08.451Z",
     "replyCount": 0,
-    "repostCount": 91,
+    "repostCount": 92,
     "likeCount": 375,
     "indexedAt": "2026-06-02T21:25:16.078Z",
     "embed": {
@@ -197826,7 +197826,7 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 97,
+    "repostCount": 98,
     "likeCount": 441,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
@@ -198255,7 +198255,7 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 157,
+    "repostCount": 158,
     "likeCount": 697,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
@@ -198591,7 +198591,7 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 80,
+    "repostCount": 81,
     "likeCount": 330,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
@@ -198738,8 +198738,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 107,
-    "likeCount": 479,
+    "repostCount": 108,
+    "likeCount": 482,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 83,
-    "likeCount": 338,
+    "repostCount": 88,
+    "likeCount": 360,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199002,9 +199002,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ry3hbexak5ytsum7aazhpkbv/bafkreienc27b7pfsjflwvh645zh7ywb3ruwgshwqziv3ilo5mqsksjnl3i",
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
-    "replyCount": 2,
-    "repostCount": 626,
-    "likeCount": 851,
+    "replyCount": 3,
+    "repostCount": 641,
+    "likeCount": 877,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1073,
-    "likeCount": 1049,
+    "repostCount": 1092,
+    "likeCount": 1098,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 115,
-    "likeCount": 488,
+    "repostCount": 126,
+    "likeCount": 545,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199121,6 +199121,34 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrj7i5luxwwc67v4yrwdkdzayvy32eco7pd23gfoenne6hobghie"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3smv7vws2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3smv7vws2o",
+    "cid": "bafyreibryw2cb4s2lsg6maxyhnf56dftqb3rldk27dhm5gvi3q4oz467q4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "X年前の今日のpostとか、あの日あの時の自分のpostを取り出しやすくなった",
+    "createdAt": "2026-06-12T13:06:39.022Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-12T13:06:42.466Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid666neshjs2mkcfohl3pfckoozcefr6jgzvhh3hz2eg4kixu75yy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid666neshjs2mkcfohl3pfckoozcefr6jgzvhh3hz2eg4kixu75yy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 844,
+            "width": 1252
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
