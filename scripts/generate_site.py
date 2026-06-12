@@ -298,15 +298,15 @@ def generate_html(posts):
             <section>
                 <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">メニュー</h4>
                 <ul class="sidebar-menu">
-                    <li><a href="index.html">🏠 ホーム</a></li>
-                    <li><a href="images.html">🖼️ 画像一覧</a></li>
-                    <li><a href="ranking.html">🔥 ランキング</a></li>
-                    <li><a href="archive.html">📅 月別アーカイブ</a></li>
+                    <li><a href="index.html">ホーム</a></li>
+                    <li><a href="images.html">画像一覧</a></li>
+                    <li><a href="ranking.html">いいねランキング</a></li>
+                    <li><a href="archive.html">月別アーカイブ</a></li>
                 </ul>
             </section>
 
             <section>
-                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">キーワード検索</h4>
+                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">検索</h4>
                 <div class="search-box">
                     <input type="text" id="sidebar-search-input" placeholder="アーカイブから探す..." onkeydown="if(event.key==='Enter') executeSidebarSearch()">
                     <button onclick="executeSidebarSearch()">🔍</button>
@@ -737,7 +737,7 @@ def generate_html(posts):
         button_html = f"""
         <div style="text-align: center; margin-top: 3.5em; margin-bottom: 2em;">
             <a href="archive_all_{mm_dd}.html" class="all-years-btn">
-                🗓️ すべての年の {display_mm_dd} のポストを見る
+                すべての年の {display_mm_dd} のポストを見る
             </a>
         </div>
         """
