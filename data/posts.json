@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 82,
-    "likeCount": 334,
+    "repostCount": 83,
+    "likeCount": 338,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 2,
-    "repostCount": 619,
-    "likeCount": 834,
+    "repostCount": 626,
+    "likeCount": 851,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1063,
-    "likeCount": 1033,
+    "repostCount": 1073,
+    "likeCount": 1049,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 113,
-    "likeCount": 477,
+    "repostCount": 115,
+    "likeCount": 488,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199077,5 +199077,51 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3poivt7c2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3poivt7c2i",
+    "cid": "bafyreido73ennkh4wg7t77oavi2rs3faxltjdeonrrcya47uktb6v26fvm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC／IMSA最高峰の2030年規則概要が発表。開発自由度の確保とコスト削減を両立する単一プラットフォームに  - www.as-web.jp/sports-car/1... どうなるか見てみよう",
+    "createdAt": "2026-06-12T12:13:51.993Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-12T12:13:55.764Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1325157",
+        "title": "WEC／IMSA最高峰の2030年規則概要が発表。開発自由度の確保とコスト削減を両立する単一プラットフォームに | ニュース | autosport web",
+        "description": "FIA国際自動車連盟、ACOフランス西部自動車クラブ、IMSA（インターナショナル・モータースポーツ・アソシエーション）は、2030年のWEC世界耐久選手権お",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihusmdfmewj54mb2qcn5c3p5vhvtcmbvccnm7aybwqtcr7nvaz3um"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3pcg2ijs2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo3pcg2ijs2i",
+    "cid": "bafyreiftaz4ekf7gtw32arkw2oxxnljw3zqczvld75pwtpqigldf4hwfba",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ガスリー、モナコGPの3位表彰台を取り戻す！　再審請求でペナルティ撤回  - jp.motorsport.com/f1/news/fia-... ワォ！表彰台が返って来た！？でもモナコの表彰台に登るというあの瞬間は返ってこないんだ…。",
+    "createdAt": "2026-06-12T12:07:06.346Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-12T12:07:09.265Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/fia-stewards-overturn-pierre-gaslys-penalties-restore-monaco-gp-podium/10829446/",
+        "title": "ガスリー、モナコGPの3位表彰台を取り戻す！　再審請求でペナルティ撤回",
+        "description": "F1モナコGPのスチュワードは、アルピーヌが申し立てた再審請求を認めてペナルティを撤回。ピエール・ガスリーが3位を取り戻した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrj7i5luxwwc67v4yrwdkdzayvy32eco7pd23gfoenne6hobghie"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
