@@ -197827,7 +197827,7 @@
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
     "repostCount": 99,
-    "likeCount": 442,
+    "likeCount": 444,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -198094,7 +198094,7 @@
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 6,
     "repostCount": 98,
-    "likeCount": 264,
+    "likeCount": 265,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -198256,7 +198256,7 @@
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
     "repostCount": 159,
-    "likeCount": 699,
+    "likeCount": 701,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198563,8 +198563,8 @@
     "text": "",
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
-    "repostCount": 116,
-    "likeCount": 418,
+    "repostCount": 117,
+    "likeCount": 419,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -198591,8 +198591,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 82,
-    "likeCount": 331,
+    "repostCount": 83,
+    "likeCount": 335,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198738,8 +198738,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 484,
+    "repostCount": 110,
+    "likeCount": 487,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198976,7 +198976,7 @@
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
     "repostCount": 89,
-    "likeCount": 367,
+    "likeCount": 369,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
-    "repostCount": 652,
-    "likeCount": 895,
+    "repostCount": 656,
+    "likeCount": 900,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1113,
-    "likeCount": 1126,
+    "repostCount": 1117,
+    "likeCount": 1134,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 128,
-    "likeCount": 557,
+    "repostCount": 129,
+    "likeCount": 561,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199210,6 +199210,29 @@
     "likeCount": 1,
     "indexedAt": "2026-06-12T21:50:56.666Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo5en5q3pc2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo5en5q3pc2o",
+    "cid": "bafyreifd3ieiufchzqoymlwqa6zay4jwpksbnozivuq43mimlxpspppgja",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「Gemini 3.5 Live Translate」でのリアルタイム翻訳で英語実況解説のレースをかなり自然に聴けるようになった！！ k-tai.watch.impress.co.jp/docs/news/21...",
+    "createdAt": "2026-06-13T04:01:35.034Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T04:01:38.365Z",
+    "embed": {
+      "external": {
+        "uri": "https://k-tai.watch.impress.co.jp/docs/news/2115943.html",
+        "title": "Google翻訳アプリで70言語のリアルタイム音声翻訳が可能に、新モデル「Gemini 3.5 Live Translate」登場",
+        "description": "グーグルは9日（現地時間）、70以上の言語を自動検出してリアルタイムに翻訳する音声モデル「Gemini 3.5 Live Translate」の提供を開始した。話者の声のトーンやペースを保ちながら連続的に翻訳を生成し、自然な対話を実現する。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjrv6n2upiguty766jtsil4vyjmi4odsydtk4qhsb5hkemfjjhju"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
