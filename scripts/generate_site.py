@@ -380,15 +380,15 @@ def generate_html(posts):
             <section>
                 <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">メニュー</h4>
                 <ul class="sidebar-menu">
-                    <li><a href="index.html">🏠 ホーム</a></li>
-                    <li><a href="images.html">🖼️ 画像一覧</a></li>
-                    <li><a href="ranking.html">🔥 ランキング</a></li>
-                    <li><a href="archive.html">📂 アーカイブ</a></li>
+                    <li><a href="index.html">ホーム</a></li>
+                    <li><a href="images.html">画像一覧</a></li>
+                    <li><a href="ranking.html">いいねランキング</a></li>
+                    <li><a href="archive.html">アーカイブ</a></li>
                 </ul>
             </section>
 
             <section>
-                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">キーワード検索</h4>
+                <h4 style="margin-top: 0; margin-bottom: 0.8rem; font-size: 1.1em; border-bottom: 2px solid var(--heading-border); padding-bottom: 4px;">検索</h4>
                 <div class="search-box">
                     <input type="text" id="sidebar-search-input" placeholder="アーカイブから探す..." onkeydown="if(event.key==='Enter') executeSidebarSearch()">
                     <button onclick="executeSidebarSearch()">🔍</button>
@@ -412,7 +412,7 @@ def generate_html(posts):
         <p style="text-align: center; margin-top: 3rem;">&copy; 2026 青空の記憶</p>
     </footer>
 
-    <button id="page-top-btn" onclick="scrollToTop()">↑ トップ</button>
+    <button id="page-top-btn" onclick="scrollToTop()">△</button>
     <div id="toast-notification"></div>
 
     <script>
@@ -803,7 +803,7 @@ def generate_html(posts):
 
     # 5. 月別アーカイブの書き出し (ここでアコーディオンHTMLをメインコンテンツとして渡す)
     with open("archive.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="月別アーカイブ一覧", content=archive_accordion_html, calendar_widget=cal_widget_html))
+        f.write(base_html.format(title="アーカイブ一覧", content=archive_accordion_html, calendar_widget=cal_widget_html))
         
     for month, m_posts in archive_map.items():
         m_content = ""
