@@ -87,13 +87,13 @@ def generate_html(posts):
         mm_dd = dt_jst.strftime("%m-%d")
         archive_map_same_day[mm_dd].append(post)
 
-    # --- アコーディオンメニューの生成 ---
+    # --- アコーディオンメニューの生成 (別ページのメインコンテンツ用) ---
     years_map = defaultdict(dict)
     for month_str, posts_in_month in archive_map.items():
         y, m = month_str.split('-')
         years_map[y][m] = len(posts_in_month)
     
-    archive_accordion_html = ""
+    archive_accordion_html = '<ul class="archive-page-accordion">\n'
     for year in sorted(years_map.keys(), reverse=True):
         archive_accordion_html += f'<li><button class="accordion-btn">📅 {year}年</button>\n'
         archive_accordion_html += '<ul class="accordion-content">\n'
@@ -101,8 +101,9 @@ def generate_html(posts):
             month_key = f"{year}-{month}"
             count = years_map[year][month]
             display_month = int(month) # 先頭の0を取る
-            archive_accordion_html += f'<li><a href="archive_{month_key}.html">{display_month}月 ({count})</a></li>\n'
+            archive_accordion_html += f'<li><a href="archive_{month_key}.html">{display_month}月 ({count}件)</a></li>\n'
         archive_accordion_html += '</ul></li>\n'
+    archive_accordion_html += '</ul>\n'
     # ----------------------------------
 
     def make_day_heading(day_str, count):
@@ -205,18 +206,31 @@ def generate_html(posts):
             background: var(--heading-bg);
         }}
 
-        /* アコーディオンメニュー用のスタイル */
+        /* アコーディオンメニュー用のスタイル (メインコンテンツ領域用) */
+        .archive-page-accordion {{
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            max-width: 600px;
+        }}
+        .archive-page-accordion > li {{
+            margin-bottom: 0.8rem;
+            border: 1px solid var(--post-border);
+            border-radius: 8px;
+            background: var(--sidebar-bg);
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+        }}
         .accordion-btn {{
             background: none;
             border: none;
             width: 100%;
             text-align: left;
-            padding: 0.5rem 0.8rem;
-            font-size: 1em;
+            padding: 1rem 1.5rem;
+            font-size: 1.1em;
             font-weight: bold;
             color: inherit;
             cursor: pointer;
-            border-radius: 6px;
             transition: background 0.2s;
             display: flex;
             justify-content: space-between;
@@ -237,22 +251,23 @@ def generate_html(posts):
             max-height: 0;
             overflow: hidden;
             transition: max-height 0.3s ease-out;
-            padding-left: 0;
+            padding: 0;
             margin: 0;
             list-style: none;
         }}
         .accordion-content li a {{
             display: block;
             font-weight: normal;
-            font-size: 0.9em;
-            padding: 0.4rem 0.8rem 0.4rem 2.2rem;
+            font-size: 1em;
+            padding: 0.8rem 1rem 0.8rem 2.5rem;
             text-decoration: none;
-            border-radius: 6px;
             color: var(--meta-text);
+            border-top: 1px solid var(--post-border);
             transition: background 0.2s;
         }}
         .accordion-content li a:hover {{
             background: var(--heading-bg);
+            color: var(--heading-border);
         }}
 
         .post {{ border-bottom: 1px solid var(--post-border); padding: 1em 0; }}
@@ -368,7 +383,7 @@ def generate_html(posts):
                     <li><a href="index.html">🏠 ホーム</a></li>
                     <li><a href="images.html">🖼️ 画像一覧</a></li>
                     <li><a href="ranking.html">🔥 ランキング</a></li>
-                    {archive_accordion}
+                    <li><a href="archive.html">📂 アーカイブ</a></li>
                 </ul>
             </section>
 
@@ -753,7 +768,7 @@ def generate_html(posts):
 
     # 1. 検索ページの書き出し
     with open("search.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="全件検索", content=search_page_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="全件検索", content=search_page_content, calendar_widget=cal_widget_html))
 
     # 2. トップページ (index.html) の書き出し
     index_content = ""
@@ -767,12 +782,12 @@ def generate_html(posts):
             index_content += make_day_heading(day_str, count)
         index_content += render_post(post)
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="最新投稿", content=index_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="最新投稿", content=index_content, calendar_widget=cal_widget_html))
 
     # 3. 画像一覧の書き出し
     img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
     with open("images.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="画像一覧", content=img_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="画像一覧", content=img_content, calendar_widget=cal_widget_html))
 
     # 4. ランキングの書き出し
     author_counts = Counter([p.get("author") for p in sorted_posts if p.get("author")])
@@ -784,12 +799,11 @@ def generate_html(posts):
     top_liked = sorted(original_posts, key=lambda x: x["likeCount"], reverse=True)[:50]
     ranking_content = "".join([render_post(p) for p in top_liked])
     with open("ranking.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content, calendar_widget=cal_widget_html))
 
-    # 5. 月別アーカイブの書き出し
-    archive_list = "<ul>" + "".join([f'<li><a href="archive_{m}.html">{m}</a> ({len(posts)}件)</li>' for m, posts in sorted(archive_map.items(), reverse=True)]) + "</ul>"
+    # 5. 月別アーカイブの書き出し (ここでアコーディオンHTMLをメインコンテンツとして渡す)
     with open("archive.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="月別アーカイブ一覧", content=archive_list, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="月別アーカイブ一覧", content=archive_accordion_html, calendar_widget=cal_widget_html))
         
     for month, m_posts in archive_map.items():
         m_content = ""
@@ -803,12 +817,12 @@ def generate_html(posts):
                 m_content += make_day_heading(day_str, count)
             m_content += render_post(post)
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+            f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content, calendar_widget=cal_widget_html))
 
     # 6. カレンダー単体（別ページ）の書き出し
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         # このページ内ではカレンダーウィジェットが中央（content）に表示されるように空にします
-        f.write(base_html.format(title="日別カレンダー", content=cal_widget_html, calendar_widget="", archive_accordion=archive_accordion_html))
+        f.write(base_html.format(title="日別カレンダー", content=cal_widget_html, calendar_widget=""))
 
     # 7. 日別アーカイブの書き出し
     for day, d_posts in archive_map_daily.items():
@@ -826,7 +840,7 @@ def generate_html(posts):
         """
         d_content += button_html
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+            f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content, calendar_widget=cal_widget_html))
 
     # 8. 同日アーカイブ（過去すべての年の同日）の書き出し
     for mm_dd, sd_posts in archive_map_same_day.items():
@@ -844,7 +858,7 @@ def generate_html(posts):
                 sd_content += f'<h3 class="archive-day-heading">{year_str}{int(m)}月{int(d)}日 <span class="day-post-count">| {year_day_count} posts</span></h3>'
             sd_content += render_post(post)
         with open(f"archive_all_{mm_dd}.html", "w", encoding="utf-8") as f:
-            f.write(base_html.format(title=display_title, content=sd_content, calendar_widget=cal_widget_html, archive_accordion=archive_accordion_html))
+            f.write(base_html.format(title=display_title, content=sd_content, calendar_widget=cal_widget_html))
 
 if __name__ == "__main__":
     data_path = "data/posts.json"
