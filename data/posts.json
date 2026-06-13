@@ -197826,8 +197826,8 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 98,
-    "likeCount": 441,
+    "repostCount": 99,
+    "likeCount": 442,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -198255,8 +198255,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 158,
-    "likeCount": 697,
+    "repostCount": 159,
+    "likeCount": 699,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198591,8 +198591,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 81,
-    "likeCount": 330,
+    "repostCount": 82,
+    "likeCount": 331,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198738,8 +198738,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 482,
+    "repostCount": 109,
+    "likeCount": 484,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 88,
-    "likeCount": 360,
+    "repostCount": 89,
+    "likeCount": 367,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
-    "repostCount": 641,
-    "likeCount": 877,
+    "repostCount": 652,
+    "likeCount": 895,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1092,
-    "likeCount": 1098,
+    "repostCount": 1113,
+    "likeCount": 1126,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 126,
-    "likeCount": 545,
+    "repostCount": 128,
+    "likeCount": 556,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199150,6 +199150,66 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo54mbv7oi2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo54mbv7oi2m",
+    "cid": "bafyreiayetlpqqqiixo45pqdz7oxhiafemnslvitdtsn6f7xtahx6ltyo4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "続けてF1バルセロナカタロニアGP FP2見る",
+    "createdAt": "2026-06-13T01:37:55.348088Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T01:37:55.967Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4yah2quh2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4yah2quh2n",
+    "cid": "bafyreiezjmi3rf3wpaiggit32fau33lqzfflafxoqo4qeqkiajzucjta7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バルセロナカタロニアGP FP1見る",
+    "createdAt": "2026-06-13T00:19:43.199558Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-13T00:19:43.763Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4rgtykaq2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4rgtykaq2n",
+    "cid": "bafyreihfdwmryjfdj6gyh7ns4vj4ppnjfk5e45mna77sx26c22dm367ynu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1237回聴取終了。",
+    "createdAt": "2026-06-12T22:18:01.925007Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-12T22:18:05.571Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4pwfidjx2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo4pwfidjx2o",
+    "cid": "bafyreifzhacip7zdgslfgt6n7aylcvu5p6tuc3vvkddx6xd4ol6sig6iim",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-12T21:50:56.040881Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-12T21:50:56.666Z",
+    "embed": null,
     "isRepost": false
   }
 }
