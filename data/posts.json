@@ -569,8 +569,8 @@
           "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:urj4pkche2yvpr5ilj4ykteu/bafkreihkhwjzrrsev4t5mhgupufvz4thjsrlz4jkvx7psjv5lnvdl3khae",
           "associated": {
             "chat": {
-              "allowIncoming": "following",
-              "allowGroupInvites": "following"
+              "allowIncoming": "none",
+              "allowGroupInvites": "none"
             },
             "activitySubscription": {
               "allowSubscriptions": "followers"
@@ -198137,7 +198137,7 @@
     "createdAt": "2026-06-09T00:32:24.851Z",
     "replyCount": 3,
     "repostCount": 62,
-    "likeCount": 200,
+    "likeCount": 202,
     "indexedAt": "2026-06-09T00:33:05.679Z",
     "embed": {
       "items": [
@@ -198255,8 +198255,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 159,
-    "likeCount": 701,
+    "repostCount": 166,
+    "likeCount": 741,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198563,8 +198563,8 @@
     "text": "",
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 419,
+    "repostCount": 118,
+    "likeCount": 420,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -198591,8 +198591,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 83,
-    "likeCount": 335,
+    "repostCount": 84,
+    "likeCount": 336,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198738,8 +198738,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 110,
-    "likeCount": 487,
+    "repostCount": 111,
+    "likeCount": 490,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 89,
-    "likeCount": 369,
+    "repostCount": 91,
+    "likeCount": 375,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
-    "repostCount": 656,
-    "likeCount": 900,
+    "repostCount": 658,
+    "likeCount": 909,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1117,
-    "likeCount": 1134,
+    "repostCount": 1120,
+    "likeCount": 1144,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 129,
-    "likeCount": 561,
+    "repostCount": 130,
+    "likeCount": 564,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199233,6 +199233,81 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6g4pnkcv2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6g4pnkcv2c",
+    "cid": "bafyreiewfzgn3rgriud7h6t2rrbjtksfc3auxtgtgnrng5auvbq7bxqe3i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2026年WEC第3戦ル・マン24時間レース、スタート！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-13T14:00:49.726023Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T14:00:50.760Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6eb62w7c2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6eb62w7c2b",
+    "cid": "bafyreiegn7ejqqrmyuuxk7s3sooo3uhrksk5xwfxqpxjkkelersrn7py4m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今年はルマンド買うの忘れた",
+    "createdAt": "2026-06-13T13:27:32.473Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-13T13:27:32.864Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6dvvfynb24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6dvvfynb24",
+    "cid": "bafyreihtvnuemnflqno4ibxuambvgkbfrcwsu42sln4k6gc5juxwynfhou",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSの放送はじまた。\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-13T13:21:13.675662Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T13:21:14.364Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6dl6z5ik2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo6dl6z5ik2w",
+    "cid": "bafyreicscfenhpfgcajycwvx2pxabko4fm6xnm7ohevz25ffy5g7zx6oce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ル・マン24時間レース待機",
+    "createdAt": "2026-06-13T13:15:15.267Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T13:15:15.761Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo65qv3zfk2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo65qv3zfk2o",
+    "cid": "bafyreibvy3kvpakjstamv2psv5si53tjef7pfgwlfmt6g5qopxph2wgloa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "じみスタ号の12ヶ月点検いてきた。今回からお世話になるディーラーが変ったので担当とはじめまして。ついでにCX-5も試乗してきた。",
+    "createdAt": "2026-06-13T11:31:03.751Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-13T11:31:06.861Z",
+    "embed": null,
     "isRepost": false
   }
 }
