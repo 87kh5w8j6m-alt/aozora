@@ -74,8 +74,8 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 138,
-    "likeCount": 578,
+    "repostCount": 140,
+    "likeCount": 581,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -133,7 +133,7 @@
     "createdAt": "2026-06-05T22:57:28.964Z",
     "replyCount": 0,
     "repostCount": 4,
-    "likeCount": 12,
+    "likeCount": 13,
     "indexedAt": "2026-06-05T22:57:42.660Z",
     "embed": {
       "images": [
@@ -755,7 +755,7 @@
     "createdAt": "2026-06-03T22:06:47.860Z",
     "replyCount": 3,
     "repostCount": 94,
-    "likeCount": 391,
+    "likeCount": 392,
     "indexedAt": "2026-06-03T22:06:54.070Z",
     "embed": {
       "images": [
@@ -1177,8 +1177,8 @@
     "text": "",
     "createdAt": "2026-06-01T21:52:31.290Z",
     "replyCount": 0,
-    "repostCount": 89,
-    "likeCount": 445,
+    "repostCount": 91,
+    "likeCount": 449,
     "indexedAt": "2026-06-01T21:52:37.875Z",
     "embed": {
       "images": [
@@ -1310,8 +1310,8 @@
     "text": "",
     "createdAt": "2026-06-01T03:08:17.927Z",
     "replyCount": 0,
-    "repostCount": 97,
-    "likeCount": 376,
+    "repostCount": 99,
+    "likeCount": 380,
     "indexedAt": "2026-06-01T03:08:24.173Z",
     "embed": {
       "images": [
@@ -2611,8 +2611,8 @@
     "text": "",
     "createdAt": "2026-05-28T01:51:11.123Z",
     "replyCount": 0,
-    "repostCount": 116,
-    "likeCount": 505,
+    "repostCount": 118,
+    "likeCount": 508,
     "indexedAt": "2026-05-28T01:51:20.579Z",
     "embed": {
       "images": [
@@ -3217,8 +3217,8 @@
     "text": "",
     "createdAt": "2026-05-24T08:22:57.717Z",
     "replyCount": 1,
-    "repostCount": 142,
-    "likeCount": 572,
+    "repostCount": 144,
+    "likeCount": 576,
     "indexedAt": "2026-05-24T08:24:10.376Z",
     "embed": {
       "images": [
@@ -3641,8 +3641,8 @@
     "text": "",
     "createdAt": "2026-05-23T01:24:00.104Z",
     "replyCount": 1,
-    "repostCount": 149,
-    "likeCount": 574,
+    "repostCount": 151,
+    "likeCount": 578,
     "indexedAt": "2026-05-23T01:24:06.278Z",
     "embed": {
       "images": [
@@ -197826,8 +197826,8 @@
     "text": "",
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
-    "repostCount": 99,
-    "likeCount": 447,
+    "repostCount": 101,
+    "likeCount": 452,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -198255,8 +198255,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 173,
-    "likeCount": 798,
+    "repostCount": 176,
+    "likeCount": 804,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198563,8 +198563,8 @@
     "text": "",
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
-    "repostCount": 118,
-    "likeCount": 420,
+    "repostCount": 120,
+    "likeCount": 425,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -198591,8 +198591,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 84,
-    "likeCount": 337,
+    "repostCount": 85,
+    "likeCount": 340,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198738,8 +198738,8 @@
     "text": "",
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 493,
+    "repostCount": 113,
+    "likeCount": 499,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 90,
-    "likeCount": 379,
+    "repostCount": 91,
+    "likeCount": 380,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
-    "repostCount": 663,
-    "likeCount": 917,
+    "repostCount": 665,
+    "likeCount": 920,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,7 +199031,7 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1125,
+    "repostCount": 1124,
     "likeCount": 1153,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 130,
-    "likeCount": 573,
+    "repostCount": 133,
+    "likeCount": 578,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199369,5 +199369,310 @@
     "indexedAt": "2026-06-13T21:31:35.268Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moazg545py2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moazg545py2w",
+    "cid": "bafyreidfpepfuykaxjar4vbrysddvchqolaohfgzpa3bieqpojnakfchg4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今年のル・マン24時間は17時間視聴でした。お疲れ様でした！改めてTOYOTA7号車優勝おめでとう🎉また来年！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:51:26.355755Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:51:27.470Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaxeml3zk2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaxeml3zk2w",
+    "cid": "bafyreihncwxby7amqezurqoxrkieczbinjhjbf3pbmppxxe3h5opnnrulq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "東京オートサロン開幕からトヨタ社内抗争勃発!? 中嶋裕樹副社長「モリゾウの力を借りずにル・マンで優勝します！」  | 自動車情報サイト【新車・中古車】 - carview! carview.yahoo.co.jp/news/detail/...",
+    "createdAt": "2026-06-14T14:14:48.918Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:14:52.363Z",
+    "embed": {
+      "external": {
+        "uri": "https://carview.yahoo.co.jp/news/detail/7b6d8a35dae9e97b1cb4e7e5164373820713bcdc/",
+        "title": "東京オートサロン開幕からトヨタ社内抗争勃発!? 中嶋裕樹副社長「モリゾウの力を借りずにル・マンで優勝します！」（AUTOSPORT web） | 自動車情報・ニュース - carview!",
+        "description": "1月9日、千葉県の幕張メッセで開幕した東京オートサロン2026で、TOYOTA GAZOO Racingがプレスカンファレンスを行い、トヨタ自動車の“モリゾウ”こと豊田章男会長、中嶋裕樹副社長／TOYOTA RACING会長が登壇し...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaz3ctunmxt6gonnrqfqjarx3t2mug4e7ajggq6pk5srvuvsrdbue"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaxbt5sjq2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaxbt5sjq2m",
+    "cid": "bafyreia32g23pzuzzvvtjgp5i3asy6fyvrqig5ks6nct7qgwi27m6pztxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "オートサロンで啖呵を切った中嶋副社長はル・マン24時間のトロフィーをモリゾウさんの前に叩き付けられるね！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:13:14.352434Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-14T14:13:15.262Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moax4iqnkg2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moax4iqnkg2m",
+    "cid": "bafyreif746ksw7ywrjcmsmfbpxxrcybmnbxdsrayiqc3ybuds2jdewzc7e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "文句なしの優勝だよ！！ https://x.com/toyotaracing_jp/status/2066161102640091605?s=46&t=36XzOgvOGqco1OLwBrMehA\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:10:15.979049Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-14T14:10:17.160Z",
+    "embed": {
+      "external": {
+        "uri": "https://x.com/toyotaracing_jp/status/2066161102640091605?s=46&t=36XzOgvOGqco1OLwBrMehA",
+        "title": "TOYOTA RACING WEC【公式】 (@ToyotaRacing_JP) on X",
+        "description": "＼＼＼#LeMans24 𝐖𝐈𝐍𝐍𝐄𝐑🏆 ／／／\n\n        2026年 ル・マン24時間レース\n       TOYOTA RACING 7号車 優勝\n\n#TOYOTARACING #TR010HYBRID #WEC #WECjp #LeMans24jp",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif3mwddl4led67vqocxrvi3hzgw42eirbr5xdostsxxj6rrpoi7qq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawzfjey222": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawzfjey222",
+    "cid": "bafyreibfbnngh7v4achnzd2sxo5udcuanrucy7qgj5cgibbo3gmojo7jm4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ギリギリッ！ギリッギリの燃料！薄氷を渡り切った先の勝利！！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:08:31.794877Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:08:32.561Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawujdjiv2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawujdjiv2m",
+    "cid": "bafyreigvqvdg4fc6sf6sdmyp34ro5vaefcxqhoq5mrw2iget5lro4jj2vq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "総員旗振れー\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:05:47.724402Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:05:48.765Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawsq2t5s2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawsq2t5s2j",
+    "cid": "bafyreiezxh3rgtb3bhsor7n5ykooc3wdfziukypqxnkvsvo3sznm6hwi2u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "やった！やった！！やったぞ！！！やったぞおおおぉぉぉぉぉ！！！！！！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:04:48.101651Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:04:48.763Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawqsgqkw24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawqsgqkw24",
+    "cid": "bafyreifxqywh6qphzvborvjrrp6phxighxk2uimlwtm6jh6bolimovbmhe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "いやぁったああぁぁあぁぁあぁぁぁぁ！！！！！TOYOTA Le Mans24h総合優勝だーーーーー！！！！！！うわああぁぁあぁぁ、おめでとー！！！！！やったーーーー！！！！！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:03:41.932976Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:03:44.261Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawlrajbv2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawlrajbv2h",
+    "cid": "bafyreic5i5a7eyzegpic3u6y3zkp73iaynwlcdxu6dzrzxz6a4z6b7bkeu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "24時間経過！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:00:54.476286Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:00:55.063Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawkz6tbx2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moawkz6tbx2g",
+    "cid": "bafyreiced3eeu23oaklxudzzwlz7s3ry2v6wjphn3i64fmyu6d4d22utfi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "泣いても笑ってもファイナルラップ！！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T14:00:29.105190Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T14:00:29.864Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moau72fifo2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moau72fifo2j",
+    "cid": "bafyreibhd3ts4unqhmrfkcqlmnaobgrfaldqyuclrexvnr5zdwjq6dxd3u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ラストピットストップ！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T13:18:00.245105Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T13:18:00.963Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaqgxzx6s2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaqgxzx6s2w",
+    "cid": "bafyreib7y7a2aozonnwkpnvqqgfzvmefjgihopx45icz4votuwhnp7sbcq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2016年のル・マンはポルシェ陣営のパブリックビューイングで見ていた x.com/jiminynserie...",
+    "createdAt": "2026-06-14T12:10:51.855Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-14T12:10:56.163Z",
+    "embed": {
+      "external": {
+        "uri": "https://x.com/jiminynseries/status/1919185503511052299?s=20",
+        "title": "じみニー (@jiminynseries) on X",
+        "description": "2016年のルマン24時間耐久レースはポルシェジャパン主催のパブリックビューイングを見に来ていたけれども、なんだかんだでみんな日本人としてトヨタの優勝をお祝いムードだったところに例のI have no power!があったもんだから、ポルシェの優勝を喜んでいいのか複雑な空気になっていた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifhd3jqnfsfpvbmpvk65l4idosjkxiidhm6hp63u4ddtzgzt7ck4m"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaneoeaf22w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaneoeaf22w",
+    "cid": "bafyreife34ducv2bpmlfr244bsclrllzfccnxljhmjmd2zly7r74iuyf54",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "実況解説陣が誰も…ルールを把握していないのである！！ #WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T11:15:53.371Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T11:15:53.761Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moam5sxswq22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moam5sxswq22",
+    "cid": "bafyreie3iduspaojk575wfphpqbj2voqopimg4bxhj6g5bprpnbclvlksu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "7号車も前に出た！！1-2体勢！！ヤンヤ！ヤンヤ！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T10:54:08.559021Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T10:54:09.662Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaluemfmn2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moaluemfmn2t",
+    "cid": "bafyreigiayxtftvutyorl4pvlbzmgizx744x52ugzopjlj7fec2b44q2hy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "8号車がリスタートでトップ奪還！！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T10:48:50.939974Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T10:48:53.162Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moacxwrjgk2u": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moacxwrjgk2u",
+    "cid": "bafyreihcdbilp2kfyknxneicy7doqrdnt5r635wig3z66uo4xu2s3cglwy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-14T08:09:48.569Z",
+    "replyCount": 2,
+    "repostCount": 231,
+    "likeCount": 861,
+    "indexedAt": "2026-06-14T08:10:00.461Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibz2p4brtqxewwht4b3nnfmznhqwbbb2wi6mz6bdrilpvslqzzxyi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibz2p4brtqxewwht4b3nnfmznhqwbbb2wi6mz6bdrilpvslqzzxyi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1312,
+            "width": 1450
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mo5tjdplyk27": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mo5tjdplyk27",
+    "cid": "bafyreif5p5bdrsk6itlabhag73ncj5compwkjmrcn5pul6oobh546pd7nm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-13T08:27:53.217Z",
+    "replyCount": 2,
+    "repostCount": 133,
+    "likeCount": 588,
+    "indexedAt": "2026-06-13T08:27:58.665Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihzqbhu725ejbg6dzw6llfcyoqxa57hk23qbpcwi2iy7o4aglphpi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihzqbhu725ejbg6dzw6llfcyoqxa57hk23qbpcwi2iy7o4aglphpi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
