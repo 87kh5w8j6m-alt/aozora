@@ -1135,7 +1135,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 111,
-    "likeCount": 522,
+    "likeCount": 523,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2437,7 +2437,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 457,
+    "likeCount": 458,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -197827,7 +197827,7 @@
     "createdAt": "2026-06-07T22:35:27.784Z",
     "replyCount": 0,
     "repostCount": 99,
-    "likeCount": 445,
+    "likeCount": 447,
     "indexedAt": "2026-06-07T22:35:44.466Z",
     "embed": {
       "images": [
@@ -198094,7 +198094,7 @@
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 6,
     "repostCount": 98,
-    "likeCount": 265,
+    "likeCount": 267,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -198255,8 +198255,8 @@
     "text": "",
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
-    "repostCount": 172,
-    "likeCount": 786,
+    "repostCount": 173,
+    "likeCount": 798,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198592,7 +198592,7 @@
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
     "repostCount": 84,
-    "likeCount": 336,
+    "likeCount": 337,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198739,7 +198739,7 @@
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 491,
+    "likeCount": 493,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 91,
-    "likeCount": 376,
+    "repostCount": 90,
+    "likeCount": 379,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199003,8 +199003,8 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
-    "repostCount": 659,
-    "likeCount": 910,
+    "repostCount": 663,
+    "likeCount": 917,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1121,
-    "likeCount": 1147,
+    "repostCount": 1125,
+    "likeCount": 1153,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199060,7 +199060,7 @@
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
     "repostCount": 130,
-    "likeCount": 566,
+    "likeCount": 573,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199307,6 +199307,66 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-13T11:31:06.861Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moa6mdqc6n2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moa6mdqc6n2h",
+    "cid": "bafyreic6guioxiyugpt4aw3ymnjgshh4wh3bilz3sugcx34m4eiij3i3fu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "8号車がトップ！\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T06:51:44.024672Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T06:51:44.664Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo7p2vztre2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo7p2vztre2r",
+    "cid": "bafyreigynhtfkcscj6jxflawba45mvnbjg2hw5f25oo25gbwbodh5hr7cm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "8号車にドライブスルーペナルティでガッカリしていたら38号車がトラブル発生でガレージイン\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-14T02:13:30.997832Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-14T02:13:33.861Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo7fycx5og2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo7fycx5og2h",
+    "cid": "bafyreieajxwnvbc2idardv2iek2uvmuq4xgrwzjal2pp4kmia7qoo656pq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ミュルサンヌのコースアウトでラウンドアバウト周って戻ってくることが出来たの！？\n#WEC #WECjp #LeMans24jp",
+    "createdAt": "2026-06-13T23:31:02.170624Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-13T23:31:07.475Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo77cpelqe24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mo77cpelqe24",
+    "cid": "bafyreib6v7p6il5a7554hwkvudhploosnx72mkru33kzyvxraxoudlmgmu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-13T21:31:34.669253Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-13T21:31:35.268Z",
     "embed": null,
     "isRepost": false
   }
