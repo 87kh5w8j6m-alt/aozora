@@ -198592,7 +198592,7 @@
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
     "repostCount": 85,
-    "likeCount": 341,
+    "likeCount": 342,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198739,7 +198739,7 @@
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 501,
+    "likeCount": 502,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
     "repostCount": 669,
-    "likeCount": 924,
+    "likeCount": 926,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1126,
-    "likeCount": 1154,
+    "repostCount": 1127,
+    "likeCount": 1157,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 358,
-    "likeCount": 1263,
+    "repostCount": 366,
+    "likeCount": 1309,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199656,8 +199656,8 @@
     "text": "",
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
-    "repostCount": 135,
-    "likeCount": 604,
+    "repostCount": 137,
+    "likeCount": 609,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
       "images": [
@@ -199897,8 +199897,8 @@
     "text": "",
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
-    "repostCount": 96,
-    "likeCount": 420,
+    "repostCount": 100,
+    "likeCount": 443,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -199951,6 +199951,49 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-14T21:31:27.360Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moeauplwac2r": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moeauplwac2r",
+    "cid": "bafyreicvxrj77jhlts6obrzqtok6guuubdpjyh7r6a7lpv2mlzebewvfma",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-15T21:42:51.853Z",
+    "replyCount": 1,
+    "repostCount": 48,
+    "likeCount": 191,
+    "indexedAt": "2026-06-15T21:42:57.466Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiagkav5r6pwgtpvnzrnwmuf6xjd7zqestpr7n46go6vl2fzmnamq4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiagkav5r6pwgtpvnzrnwmuf6xjd7zqestpr7n46go6vl2fzmnamq4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moe7pekgsn2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moe7pekgsn2z",
+    "cid": "bafyreihdspruzdtlzjgzuio23crcidtlcyctjrcgiqcg5crnjcvweawmwy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-15T21:21:58.229165Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-15T21:21:58.861Z",
     "embed": null,
     "isRepost": false
   }
