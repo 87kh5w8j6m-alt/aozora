@@ -569,8 +569,8 @@
           "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:urj4pkche2yvpr5ilj4ykteu/bafkreihkhwjzrrsev4t5mhgupufvz4thjsrlz4jkvx7psjv5lnvdl3khae",
           "associated": {
             "chat": {
-              "allowIncoming": "none",
-              "allowGroupInvites": "none"
+              "allowIncoming": "following",
+              "allowGroupInvites": "following"
             },
             "activitySubscription": {
               "allowSubscriptions": "followers"
@@ -198094,7 +198094,7 @@
     "createdAt": "2026-06-08T21:42:17.271Z",
     "replyCount": 6,
     "repostCount": 99,
-    "likeCount": 271,
+    "likeCount": 272,
     "indexedAt": "2026-06-08T21:42:19.467Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 370,
-    "likeCount": 1332,
+    "repostCount": 371,
+    "likeCount": 1336,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199898,7 +199898,7 @@
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
     "repostCount": 102,
-    "likeCount": 455,
+    "likeCount": 456,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -199964,7 +199964,7 @@
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
     "repostCount": 106,
-    "likeCount": 436,
+    "likeCount": 441,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200006,8 +200006,8 @@
     "text": "はい！君の！\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
-    "repostCount": 76,
-    "likeCount": 249,
+    "repostCount": 79,
+    "likeCount": 266,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200034,8 +200034,8 @@
     "text": "カフェ店員さんなコーヒーさん☕\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
-    "repostCount": 77,
-    "likeCount": 235,
+    "repostCount": 80,
+    "likeCount": 241,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -200351,6 +200351,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mogpblx4bb2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mogpblx4bb2w",
+    "cid": "bafyreigibfkdx4j3vawogb4bltmdsxivb5vijhqtaufstpgsvlzefyx6zu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-16T21:05:55.612413Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-16T21:05:56.482Z",
+    "embed": null,
     "isRepost": false
   }
 }
