@@ -2437,7 +2437,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 459,
+    "likeCount": 460,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -3218,7 +3218,7 @@
     "createdAt": "2026-05-24T08:22:57.717Z",
     "replyCount": 1,
     "repostCount": 144,
-    "likeCount": 577,
+    "likeCount": 578,
     "indexedAt": "2026-05-24T08:24:10.376Z",
     "embed": {
       "images": [
@@ -198256,7 +198256,7 @@
     "createdAt": "2026-06-08T23:56:09.308Z",
     "replyCount": 2,
     "repostCount": 179,
-    "likeCount": 813,
+    "likeCount": 814,
     "indexedAt": "2026-06-08T23:56:29.166Z",
     "embed": {
       "images": [
@@ -198564,7 +198564,7 @@
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
     "repostCount": 121,
-    "likeCount": 428,
+    "likeCount": 429,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -198591,8 +198591,8 @@
     "text": "",
     "createdAt": "2026-06-09T23:43:22.141Z",
     "replyCount": 1,
-    "repostCount": 85,
-    "likeCount": 342,
+    "repostCount": 86,
+    "likeCount": 343,
     "indexedAt": "2026-06-09T23:43:29.065Z",
     "embed": {
       "images": [
@@ -198739,7 +198739,7 @@
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 502,
+    "likeCount": 503,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -198975,8 +198975,8 @@
     "text": "",
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
-    "repostCount": 91,
-    "likeCount": 383,
+    "repostCount": 92,
+    "likeCount": 384,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 3,
     "repostCount": 672,
-    "likeCount": 931,
+    "likeCount": 932,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199032,7 +199032,7 @@
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
     "repostCount": 1129,
-    "likeCount": 1162,
+    "likeCount": 1163,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 371,
-    "likeCount": 1336,
+    "repostCount": 372,
+    "likeCount": 1341,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199657,7 +199657,7 @@
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
     "repostCount": 139,
-    "likeCount": 614,
+    "likeCount": 617,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
       "images": [
@@ -199963,8 +199963,8 @@
     "text": "",
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
-    "repostCount": 106,
-    "likeCount": 441,
+    "repostCount": 107,
+    "likeCount": 448,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200007,7 +200007,7 @@
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
     "repostCount": 79,
-    "likeCount": 266,
+    "likeCount": 273,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 80,
-    "likeCount": 241,
+    "likeCount": 252,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -200365,6 +200365,172 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-16T21:05:56.482Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moifssdyuc2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moifssdyuc2v",
+    "cid": "bafyreiflrlk5coicwew5xrwmnpoyosqofwb4g5cgfkq3b2exrewrk72jyy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昔は富士でAsLMS見られたのになあ",
+    "createdAt": "2026-06-17T13:21:55.294Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-17T13:21:58.568Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moifrcqjv22v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moifrcqjv22v",
+    "cid": "bafyreiee3e25gpw6x4pwjsiqwlex3np2jvw7pagauzidm4ns77m22nn24i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アジア選手権なのに？ AsLMSボスが全戦欧州開催を示唆「中東に行かないならセパンを残す意味がない」  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-06-17T13:21:05.372Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-17T13:21:10.563Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1326665",
+        "title": "アジア選手権なのに？ AsLMSボスが全戦欧州開催を示唆「中東に行かないならセパンを残す意味がない」 | ニュース | autosport web",
+        "description": "チャンピオンシップの運営組織であるALMEM（アジアン・ル・マン・エンデュランス・マネジメント）のボス、フレデリック・ルキアンCEOによると、ドバイとアブダビ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidzc3vzxeivxfymffcnp5ljugsiid5ggtviqgvocxrao3stxqfpmq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3m4pq64vjzs2d": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3m4pq64vjzs2d",
+    "cid": "bafyreib7q4uoiyz62k2chezac3sis5rp5eyct57gqtgcgh7guhkxylp2vy",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "黒須あろま😈白玉みかん😇スターライト学園制服✨\nプリパラ✨アイカツ",
+    "createdAt": "2025-11-03T09:42:21.719Z",
+    "replyCount": 0,
+    "repostCount": 8,
+    "likeCount": 30,
+    "indexedAt": "2025-11-03T09:42:27.925Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreifxdryyaa6sc2qjnywu3mdr732p4qupdf4k3wym67wvprhbmsmcii",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreifxdryyaa6sc2qjnywu3mdr732p4qupdf4k3wym67wvprhbmsmcii",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2000,
+            "width": 1409
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3moi2lrlaxc2e": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3moi2lrlaxc2e",
+    "cid": "bafyreih67y7ckwguumafsadxrdyyp7eavasfhi5g6nzwwr26rdm4724ure",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "好実いのりちゃん🩷おねがいアイプリ✨",
+    "createdAt": "2026-06-17T10:01:08.432Z",
+    "replyCount": 0,
+    "repostCount": 6,
+    "likeCount": 9,
+    "indexedAt": "2026-06-17T10:01:13.365Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiaawiq6ck4nhgtmhzbirkkd5bpdg6ovgk3wx5fih6eguy32zfaz6i",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiaawiq6ck4nhgtmhzbirkkd5bpdg6ovgk3wx5fih6eguy32zfaz6i",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moidmcevnk2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moidmcevnk2j",
+    "cid": "bafyreifmpuvrwbs5yjc5qtbfeb3p6eydme5y4pciwajr5ga4bohtxw4hdy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "黒ごまきなこわらび餅大好きな白くままだ売ってたので確保",
+    "createdAt": "2026-06-17T12:42:28.777500Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-17T12:42:30.964Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicvzswmaijlpgp7erpql2ot7f2twucegcvqtulz4jxdb6rxnw7564",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicvzswmaijlpgp7erpql2ot7f2twucegcvqtulz4jxdb6rxnw7564",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mohnjvkhtc2j": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mohnjvkhtc2j",
+    "cid": "bafyreif6nsuqdzfmfgi6odwqk7kiejov7762w2nklg7onyuuvqt76r2jli",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-17T06:07:26.856Z",
+    "replyCount": 4,
+    "repostCount": 107,
+    "likeCount": 429,
+    "indexedAt": "2026-06-17T06:07:36.763Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigwdrnj2o5pseg4gmuedraqzuctaxfzl2eyhdkfjftelb5c6erjcy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigwdrnj2o5pseg4gmuedraqzuctaxfzl2eyhdkfjftelb5c6erjcy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mohjsyjq3d2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mohjsyjq3d2x",
+    "cid": "bafyreiab4bys3l7x2v2cefa3evpzzgdgylgvsxe52ct3ixhjvhhrscnbn4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-17T05:00:56.143305Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-17T05:00:57.762Z",
     "embed": null,
     "isRepost": false
   }
