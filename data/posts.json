@@ -2206,7 +2206,7 @@
     "createdAt": "2026-05-29T21:21:28.498Z",
     "replyCount": 0,
     "repostCount": 147,
-    "likeCount": 583,
+    "likeCount": 582,
     "indexedAt": "2026-05-29T21:21:34.474Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 373,
-    "likeCount": 1345,
+    "repostCount": 375,
+    "likeCount": 1348,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199897,8 +199897,8 @@
     "text": "",
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
-    "repostCount": 103,
-    "likeCount": 458,
+    "repostCount": 104,
+    "likeCount": 459,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -199963,8 +199963,8 @@
     "text": "",
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
-    "repostCount": 108,
-    "likeCount": 450,
+    "repostCount": 110,
+    "likeCount": 452,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200034,8 +200034,8 @@
     "text": "カフェ店員さんなコーヒーさん☕\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
-    "repostCount": 80,
-    "likeCount": 253,
+    "repostCount": 81,
+    "likeCount": 254,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -200500,8 +200500,8 @@
     "text": "",
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
-    "repostCount": 121,
-    "likeCount": 522,
+    "repostCount": 125,
+    "likeCount": 527,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200596,8 +200596,8 @@
     "text": "",
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
-    "repostCount": 83,
-    "likeCount": 362,
+    "repostCount": 87,
+    "likeCount": 393,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200627,6 +200627,108 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-17T22:40:35.061Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3molr5fzunt2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3molr5fzunt2g",
+    "cid": "bafyreidnqgsjz4itu2frkwd7vsvo5habhr2ouyduw5wlv6xgwikm5p4lz4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-18T21:22:41.358224Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-18T21:22:41.962Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mol4agfuur2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mol4agfuur2o",
+    "cid": "bafyreiftfwhunajdzaqrbrnbpdodg6yi5ste3xho73nminxggdjbgnw3xa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying 永遠の海 ～A Song for Zephyr～ - Choro Club Feat. Senoo (「ARIA The ORIGINATION」ORIGINAL SOUNDTRACK)",
+    "createdAt": "2026-06-18T15:08:33.751862Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-18T15:08:34.464Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiahz3jayefnd42iyiarp5hde2fq6bunhp7orhugutis4bm3kzuwvi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiahz3jayefnd42iyiarp5hde2fq6bunhp7orhugutis4bm3kzuwvi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 492,
+            "width": 500
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mokyoxq6z62s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mokyoxq6z62s",
+    "cid": "bafyreicyunj4j7oi3sfnki7bsuejsq622zl6eahv3c5lkkceozyc6ibeuy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第63話視聴終了。",
+    "createdAt": "2026-06-18T14:05:06.718906Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-18T14:05:07.464Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mokt6wpl222r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mokt6wpl222r",
+    "cid": "bafyreiewvvam4rlowpcllg7b36643jkbfabrrzv2jh5qludoy2l3x2h2ma",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "なめられたら無効",
+    "createdAt": "2026-06-18T12:26:40.638Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 4,
+    "indexedAt": "2026-06-18T12:26:57.465Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6k4iket5u6zls5noye3x3wud6atxpsce6xlik27dhitoquw4zqq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6k4iket5u6zls5noye3x3wud6atxpsce6xlik27dhitoquw4zqq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 984,
+            "width": 1568
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moksuso2n52p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moksuso2n52p",
+    "cid": "bafyreiax3anfo2jg52qwbdvwxe67i26k753wtr26tlb4yyogaxn4ckc5s4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バルセロナカタロニアGP予選見る。もう決勝見た後だけどそれはそれ。",
+    "createdAt": "2026-06-18T12:21:00.336614Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-18T12:21:00.963Z",
     "embed": null,
     "isRepost": false
   }
