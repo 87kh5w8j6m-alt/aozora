@@ -612,7 +612,7 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 491,
+        "likeCount": 492,
         "replyCount": 0,
         "repostCount": 374,
         "quoteCount": 4,
@@ -6635,7 +6635,7 @@
     "createdAt": "2026-05-08T23:55:36.868Z",
     "replyCount": 5,
     "repostCount": 242,
-    "likeCount": 1025,
+    "likeCount": 1024,
     "indexedAt": "2026-05-08T23:55:43.081Z",
     "embed": {
       "images": [
@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 672,
-    "likeCount": 933,
+    "likeCount": 935,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199032,7 +199032,7 @@
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
     "repostCount": 1134,
-    "likeCount": 1165,
+    "likeCount": 1167,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -199629,7 +199629,7 @@
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
     "repostCount": 373,
-    "likeCount": 1342,
+    "likeCount": 1345,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199657,7 +199657,7 @@
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
     "repostCount": 140,
-    "likeCount": 618,
+    "likeCount": 619,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
       "images": [
@@ -199898,7 +199898,7 @@
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
     "repostCount": 103,
-    "likeCount": 457,
+    "likeCount": 458,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -199964,7 +199964,7 @@
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
     "repostCount": 108,
-    "likeCount": 449,
+    "likeCount": 450,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200500,8 +200500,8 @@
     "text": "",
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
-    "repostCount": 114,
-    "likeCount": 487,
+    "repostCount": 121,
+    "likeCount": 522,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200546,6 +200546,87 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-06-17T21:45:30.668Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojvb6nlsu23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojvb6nlsu23",
+    "cid": "bafyreigobbl467c356tuwxk3hkt4pb4uubamfxp2kmlt3smibqqcwvzeam",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-06-18T03:31:02.712616Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-18T03:31:07.373Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojhfzcbqw2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojhfzcbqw2v",
+    "cid": "bafyreiftnlgb7i2y3wecpo6ermyosjkmfc3ira54uqsivsytw7x6ko5zxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "新生イソッタ・フラスキーニの最初の活動が明らかに。将来はWECやIMSAで走る可能性も  - https://www.as-web.jp/sports-car/1326750",
+    "createdAt": "2026-06-17T23:23:12.576940Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-17T23:23:14.163Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1326750",
+        "title": "新生イソッタ・フラスキーニの最初の活動が明らかに。将来はWECやIMSAで走る可能性も | ニュース | autosport web",
+        "description": "　ハイクラス・レーシングは、イソッタ・フラスキーニと新たに結んだパートナーシップを、WEC世界耐久選手権やIMSAウェザーテック・スポーツカー選手権に持ち込む可",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid5ak22ddhjn5ofcgawvxktrpxafzccx4iqt3p2b5kpnr3iwx46ne"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mojdysjyws2x": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mojdysjyws2x",
+    "cid": "bafyreidzlspnwyqvbjrli5alqn4cmibxrpbvwy24f7vpspdhljqlny5u6y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-17T22:22:09.070Z",
+    "replyCount": 0,
+    "repostCount": 83,
+    "likeCount": 362,
+    "indexedAt": "2026-06-17T22:22:16.172Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiadgjkgycusofvmlfmn2ebyr5vm2u5lfpc235uodl4ec2j36mdbze",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiadgjkgycusofvmlfmn2ebyr5vm2u5lfpc235uodl4ec2j36mdbze",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojezr5ktg23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mojezr5ktg23",
+    "cid": "bafyreidcbbbtakjjhvlhmhvadzhiehhzzrqrctwthajpmax2e45m4eqwz4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第64回聴取終了",
+    "createdAt": "2026-06-17T22:40:33.359791Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-17T22:40:35.061Z",
     "embed": null,
     "isRepost": false
   }
