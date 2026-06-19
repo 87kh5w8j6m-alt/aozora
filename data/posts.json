@@ -199898,7 +199898,7 @@
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
     "repostCount": 104,
-    "likeCount": 459,
+    "likeCount": 460,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -199964,7 +199964,7 @@
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
     "repostCount": 110,
-    "likeCount": 453,
+    "likeCount": 454,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 81,
-    "likeCount": 254,
+    "likeCount": 255,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -200501,7 +200501,7 @@
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
     "repostCount": 130,
-    "likeCount": 535,
+    "likeCount": 536,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200596,8 +200596,8 @@
     "text": "",
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
-    "repostCount": 93,
-    "likeCount": 404,
+    "repostCount": 94,
+    "likeCount": 406,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200771,8 +200771,8 @@
     "text": "",
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 505,
+    "repostCount": 122,
+    "likeCount": 530,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200789,5 +200789,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3monzu5yg3s2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3monzu5yg3s2f",
+    "cid": "bafyreidnwgazmplr3lk4mlj6xioeq7fcg5cxvcm7dx2xh7jspf6uffc4pq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "mkr",
+    "createdAt": "2026-06-19T19:03:54.580Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-19T19:03:54.860Z",
+    "embed": null,
+    "isRepost": false
   }
 }
