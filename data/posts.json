@@ -200772,7 +200772,7 @@
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
     "repostCount": 125,
-    "likeCount": 551,
+    "likeCount": 552,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 129,
-    "likeCount": 485,
+    "repostCount": 130,
+    "likeCount": 496,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -200966,6 +200966,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-20T09:02:01.961Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moplxv2plk2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moplxv2plk2v",
+    "cid": "bafyreibgmbaw4vmnxioirww6zyhf2nyerjukvncaokockeg6rpdrfxy4pa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "blueskyのログ収集、1時間に1回動かせるようになった",
+    "createdAt": "2026-06-20T10:00:46.526Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T10:00:47.663Z",
     "embed": null,
     "isRepost": false
   }
