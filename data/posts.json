@@ -199059,8 +199059,8 @@
     "text": "",
     "createdAt": "2026-06-11T22:24:25.644Z",
     "replyCount": 0,
-    "repostCount": 135,
-    "likeCount": 587,
+    "repostCount": 136,
+    "likeCount": 588,
     "indexedAt": "2026-06-11T22:24:31.163Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 388,
-    "likeCount": 1366,
+    "repostCount": 389,
+    "likeCount": 1367,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199656,7 +199656,7 @@
     "text": "",
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
-    "repostCount": 142,
+    "repostCount": 143,
     "likeCount": 625,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 130,
-    "likeCount": 496,
+    "repostCount": 131,
+    "likeCount": 510,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -200982,6 +200982,155 @@
     "likeCount": 0,
     "indexedAt": "2026-06-20T10:00:47.663Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopqv7wpis2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopqv7wpis2b",
+    "cid": "bafyreihmal2iwczhvw34uyhhbsvuyozqdbqhuo37pgcpbyqpn3s4dxdsia",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "リンリンとニャンニャン〜〜〜！！！",
+    "createdAt": "2026-06-20T11:28:45.976Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T11:28:46.360Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3moppjuoyds2b",
+        "cid": "bafyreihu5nyxqahciuafwowtsrdu4vx4wj5rj3hr32yb52lxba4eabrxhu",
+        "author": {
+          "did": "did:plc:qriukts3uada7wlvdc6ef66s",
+          "handle": "unamikan.bsky.social",
+          "displayName": "みかん🍊",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false,
+            "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3lbg3bvwib52n"
+          },
+          "labels": [
+            {
+              "src": "did:plc:qriukts3uada7wlvdc6ef66s",
+              "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.actor.profile/self",
+              "cid": "bafyreiclr75vbqfbsqozuswio4cvioxiwje37khwwe77aa52vniumk565a",
+              "val": "!no-unauthenticated",
+              "cts": "1970-01-01T00:00:00.000Z"
+            }
+          ],
+          "createdAt": "2024-02-08T03:42:18.350Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-20T11:04:31.338Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 2048,
+                  "width": 1443
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreiavqve23tey5thjflingxifyiyi5z62l33k4aaush3iwimxsw2bte"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 766961
+                }
+              }
+            ]
+          },
+          "langs": [
+            "ja"
+          ],
+          "text": "四之宮リンリン🧸🐱ひみつのアイプリ✨"
+        },
+        "labels": [],
+        "likeCount": 6,
+        "replyCount": 0,
+        "repostCount": 3,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-20T11:04:36.564Z",
+        "embeds": [
+          {
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiavqve23tey5thjflingxifyiyi5z62l33k4aaush3iwimxsw2bte",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiavqve23tey5thjflingxifyiyi5z62l33k4aaush3iwimxsw2bte",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 2048,
+                  "width": 1443
+                }
+              }
+            ],
+            "$type": "app.bsky.embed.images#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3moppjuoyds2b": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3moppjuoyds2b",
+    "cid": "bafyreihu5nyxqahciuafwowtsrdu4vx4wj5rj3hr32yb52lxba4eabrxhu",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "四之宮リンリン🧸🐱ひみつのアイプリ✨",
+    "createdAt": "2026-06-20T11:04:31.338Z",
+    "replyCount": 0,
+    "repostCount": 3,
+    "likeCount": 6,
+    "indexedAt": "2026-06-20T11:04:36.564Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiavqve23tey5thjflingxifyiyi5z62l33k4aaush3iwimxsw2bte",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiavqve23tey5thjflingxifyiyi5z62l33k4aaush3iwimxsw2bte",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopqs26vxc2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopqs26vxc2b",
+    "cid": "bafyreibuktkpqmviy3pvnhhgdrvrwcufg6kniyzdzazm6rm6iwkubwfsna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アウディ、ポルシェを経てジェネシスへ。ロッテラーが明かす、新興ブランドで味わう「創造的」な挑戦の醍醐味  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-06-20T11:26:59.289Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T11:27:05.293Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1327095",
+        "title": "アウディ、ポルシェを経てジェネシスへ。ロッテラーが明かす、新興ブランドで味わう「創造的」な挑戦の醍醐味 | ニュース | autosport web",
+        "description": "日本での活動を経て、アウディやポルシェのワークスドライバーとして長年WEC世界耐久選手権の最高峰クラスで活躍し続け、伝統の『ル・マン24時間レース』では3度の",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihy47trwaljfddv4273w7nng3u5low7e2avomwggmcgrewcxiwtgm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
