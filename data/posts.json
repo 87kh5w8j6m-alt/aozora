@@ -199898,7 +199898,7 @@
     "createdAt": "2026-06-14T21:36:18.281Z",
     "replyCount": 1,
     "repostCount": 104,
-    "likeCount": 461,
+    "likeCount": 462,
     "indexedAt": "2026-06-14T21:36:25.066Z",
     "embed": {
       "images": [
@@ -200845,7 +200845,7 @@
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
     "repostCount": 131,
-    "likeCount": 510,
+    "likeCount": 513,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201055,9 +201055,9 @@
           "text": "四之宮リンリン🧸🐱ひみつのアイプリ✨"
         },
         "labels": [],
-        "likeCount": 6,
+        "likeCount": 7,
         "replyCount": 0,
-        "repostCount": 3,
+        "repostCount": 4,
         "quoteCount": 1,
         "indexedAt": "2026-06-20T11:04:36.564Z",
         "embeds": [
@@ -201091,8 +201091,8 @@
     "text": "四之宮リンリン🧸🐱ひみつのアイプリ✨",
     "createdAt": "2026-06-20T11:04:31.338Z",
     "replyCount": 0,
-    "repostCount": 3,
-    "likeCount": 6,
+    "repostCount": 4,
+    "likeCount": 7,
     "indexedAt": "2026-06-20T11:04:36.564Z",
     "embed": {
       "images": [
@@ -201131,6 +201131,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopsalcoir2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopsalcoir2a",
+    "cid": "bafyreigvdteoqrp5cyl2uz6sohsbxy3lsm2vxh3lprnn7mms3y4zxb3sbe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バルセロナカタロニアGP決勝レースはピット戦略が分かれて面白かったので別コメンタリーでもう一回見よう",
+    "createdAt": "2026-06-20T11:53:00.091906Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T11:53:00.963Z",
+    "embed": null,
     "isRepost": false
   }
 }
