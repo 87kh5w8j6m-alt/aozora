@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 128,
-    "likeCount": 472,
+    "repostCount": 129,
+    "likeCount": 485,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -200928,6 +200928,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-20T07:40:57.261Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopjlvygqm27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopjlvygqm27",
+    "cid": "bafyreihyywrtctlim3bcb263wcs3f7ba35jkcnvmntjtctqmbp7bpqewlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GTV 2026 ～SUPER GT トークバラエティ～ #2｜J SPORTSオンデマンド【公式】\nhttps://jod.jsports.co.jp/p/motor/supergt/110146-V",
+    "createdAt": "2026-06-20T09:18:16.883508Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T09:18:17.961Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/110146-V",
+        "title": "GTV 2026 ～SUPER GT トークバラエティ～ #2｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "GTV 2026 ～SUPER GT トークバラエティ～ #2を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigtqyrcpdwaez2fywdxcqqou6mv2nayjgsylqjgjt6o7i4plcv3hu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopiotn74b2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopiotn74b2a",
+    "cid": "bafyreihotpvpwk5k5xr7oykvl3gl43tov7ukug77qqp4yecxhss5r3rqw4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今期から投入した除湿機のおかげで雨の日でもお部屋が蒸し蒸ししなくて快適。だけれど除湿機のタンクの水の量にびっくり！除湿しないと溺れるわ",
+    "createdAt": "2026-06-20T09:02:01.223203Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T09:02:01.961Z",
     "embed": null,
     "isRepost": false
   }
