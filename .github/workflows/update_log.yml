@@ -1,8 +1,8 @@
 name: Update bskylog
 
 on:
-  schedule:
-    - cron: '47 * * * *'
+  # schedule:
+  #   - cron: '47 * * * *'
   workflow_dispatch:
 
 permissions:
