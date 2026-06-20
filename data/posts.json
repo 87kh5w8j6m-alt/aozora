@@ -74,7 +74,7 @@
     "text": "",
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
-    "repostCount": 142,
+    "repostCount": 143,
     "likeCount": 585,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
@@ -1135,7 +1135,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 111,
-    "likeCount": 523,
+    "likeCount": 524,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2437,7 +2437,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 460,
+    "likeCount": 461,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -198976,7 +198976,7 @@
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
     "repostCount": 92,
-    "likeCount": 384,
+    "likeCount": 386,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 382,
-    "likeCount": 1357,
+    "repostCount": 388,
+    "likeCount": 1365,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -199656,8 +199656,8 @@
     "text": "",
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
-    "repostCount": 141,
-    "likeCount": 622,
+    "repostCount": 142,
+    "likeCount": 625,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
       "images": [
@@ -199964,7 +199964,7 @@
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
     "repostCount": 110,
-    "likeCount": 455,
+    "likeCount": 456,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200006,8 +200006,8 @@
     "text": "はい！君の！\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
-    "repostCount": 79,
-    "likeCount": 276,
+    "repostCount": 81,
+    "likeCount": 279,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200501,7 +200501,7 @@
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
     "repostCount": 130,
-    "likeCount": 536,
+    "likeCount": 537,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200597,7 +200597,7 @@
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
     "repostCount": 94,
-    "likeCount": 407,
+    "likeCount": 408,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200771,8 +200771,8 @@
     "text": "",
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
-    "repostCount": 122,
-    "likeCount": 536,
+    "repostCount": 124,
+    "likeCount": 547,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200804,5 +200804,86 @@
     "indexedAt": "2026-06-19T19:03:54.860Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moostdkmte2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moostdkmte2t",
+    "cid": "bafyreihtxvyuxiwloci5humz7ovcdrsdjo4nplaglfsp6wg2tmsb6kpbpy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1238回聴取終了。リクエストする時はよく考えよう\n#堀江由衣 #天使のたまご #tentama",
+    "createdAt": "2026-06-20T02:30:49.526875Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T02:30:50.561Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moorkumokj2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moorkumokj2n",
+    "cid": "bafyreifgqc5hboqoe3n2wgeigyrllndpeu2cwla6hrpubxuwwsfa25wl5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "黒ネコ同盟の会報届いた！散らない桜の無限拾七イベントレポート嬉しい！配信チケット特典のブロマイドも同封！\n#堀江由衣 #黒ネコ同盟",
+    "createdAt": "2026-06-20T02:08:11.738214Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T02:08:12.663Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moolu5zhhk2r": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3moolu5zhhk2r",
+    "cid": "bafyreigglacdnk5l3swy7lqkmuqi2f5ai2rq3tlmp5v6op4turplopddgm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-20T00:26:01.966Z",
+    "replyCount": 1,
+    "repostCount": 80,
+    "likeCount": 268,
+    "indexedAt": "2026-06-20T00:26:15.262Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidt5cj7ddx7oviuivtwptw4m43huoa6yrkozvtuuw5j2mmgbiznoi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidt5cj7ddx7oviuivtwptw4m43huoa6yrkozvtuuw5j2mmgbiznoi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:th74kk4nm7u7zfodtg6fa6fc/app.bsky.feed.post/3moola65jxs2t": {
+    "uri": "at://did:plc:th74kk4nm7u7zfodtg6fa6fc/app.bsky.feed.post/3moola65jxs2t",
+    "cid": "bafyreiagcos2ckvxpkkg5zuoausgx45jmgdypeckq4y55rb4swjx53olim",
+    "author": "takerun21.bsky.social",
+    "authorName": "たけるん",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:th74kk4nm7u7zfodtg6fa6fc/bafkreihxxdkukykllcmmighkvsoik4uz4cxpj6xwpcjxfg5sx544kpk2ae",
+    "text": "プジョーCEOが2029年までの参戦継続を明言。改良型『9X8』の投入計画を再確認 www.as-web.jp/sports-car/1... うまくいかないとすぐに撤退する某メーカーと違い、毎年コテンパンに負けてもめげずに参戦を継続する根性は評価に値する  #wecjp",
+    "createdAt": "2026-06-20T00:14:51.006Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 3,
+    "indexedAt": "2026-06-20T00:14:57.264Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1327032?all",
+        "title": "プジョーCEOが2029年までの参戦継続を明言。改良型『9X8』の投入計画を再確認 | ニュース | autosport web",
+        "description": "プジョーは、2027年のWEC世界耐久選手権に『9X8』のエボリューションモデルを導入する意向を改めて表明する一方、現在のレギュレーション・サイクルの残り期間",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:th74kk4nm7u7zfodtg6fa6fc/bafkreiegioexkaxtjrl65i6l64ii4sei6nl5pdswahyt3ddfp6agytelim"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": true
   }
 }
