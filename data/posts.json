@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 121,
-    "likeCount": 437,
+    "repostCount": 122,
+    "likeCount": 457,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -200898,6 +200898,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-20T02:59:30.366Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopemaxjbj24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopemaxjbj24",
+    "cid": "bafyreig3mev256isdvhwkiqb2ytwrlpjxoijozdqvapmw5pjt4h2yflu7a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ジムっていうかプールなんだけど、約9年ぶりにプール入ると泳げるか不安になったわ。一応泳げたから体育のプールの授業って大事だったんだなって今になって分かったわ。",
+    "createdAt": "2026-06-20T07:48:59.142729Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T07:49:00.263Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mope5ud6nt2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mope5ud6nt2t",
+    "cid": "bafyreidxylxurdaauzugagcvsvdfbffmaw5rxxsdejq7irltbrac7br6wi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "3169日ぶり、452週と5日ぶり、104か月と4日ぶり8年と247日ぶりのジム",
+    "createdAt": "2026-06-20T07:40:55.921804Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T07:40:57.261Z",
     "embed": null,
     "isRepost": false
   }
