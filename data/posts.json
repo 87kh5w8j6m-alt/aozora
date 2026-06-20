@@ -612,7 +612,7 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 495,
+        "likeCount": 496,
         "replyCount": 0,
         "repostCount": 375,
         "quoteCount": 4,
@@ -200007,7 +200007,7 @@
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
     "repostCount": 83,
-    "likeCount": 285,
+    "likeCount": 287,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200771,8 +200771,8 @@
     "text": "",
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
-    "repostCount": 125,
-    "likeCount": 552,
+    "repostCount": 126,
+    "likeCount": 554,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200845,7 +200845,7 @@
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
     "repostCount": 131,
-    "likeCount": 513,
+    "likeCount": 518,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201145,6 +201145,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-20T11:53:00.963Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopyqfyk7c2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopyqfyk7c2v",
+    "cid": "bafyreibvmdqlkd7gzxuofy7go5hpcthz6uhzlpzk6knrw6f2yglzfccpym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プリ♡プリライブ、東京公演はないんですか？",
+    "createdAt": "2026-06-20T13:49:14.490Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T13:49:15.159Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopyfffres2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mopyfffres2v",
+    "cid": "bafyreibldyox5prjxup7mkqatv72rbuo7neml7q6h355wgk4v2idq73dni",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プリプリライブにリンリンおらんやん",
+    "createdAt": "2026-06-20T13:43:04.775Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-20T13:43:04.962Z",
     "embed": null,
     "isRepost": false
   }
