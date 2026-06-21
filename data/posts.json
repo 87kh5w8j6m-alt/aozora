@@ -200597,7 +200597,7 @@
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 410,
+    "likeCount": 411,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200772,7 +200772,7 @@
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
     "repostCount": 128,
-    "likeCount": 562,
+    "likeCount": 563,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200845,7 +200845,7 @@
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
     "repostCount": 139,
-    "likeCount": 565,
+    "likeCount": 566,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201191,6 +201191,44 @@
     "likeCount": 3,
     "indexedAt": "2026-06-20T23:31:17.661Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moraw3bong2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moraw3bong2v",
+    "cid": "bafyreiaari5so7vnt4isczxe44c7zpxt7qe4dthuwfjrriceqa5xuwlmju",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期 第13話視聴終了。",
+    "createdAt": "2026-06-21T01:48:13.667727Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T01:48:14.365Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moravrbotj2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moravrbotj2l",
+    "cid": "bafyreid64xbbtldyusu6dmutrcvbno7t62bd4bod2tczcybc6qgngrazi4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 第2戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVE https://jod.jsports.co.jp/p/motor/supergt/110147-V",
+    "createdAt": "2026-06-21T01:48:03.163091Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T01:48:05.572Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/110147-V",
+        "title": "第2戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVE｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "第2戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVEを楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigiv6tnkxiq55momte452jqvasj35q6t2g6bs3nzgxdr7vnnngkcy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
