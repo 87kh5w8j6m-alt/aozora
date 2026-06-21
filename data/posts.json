@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 675,
-    "likeCount": 938,
+    "likeCount": 939,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -201316,7 +201316,7 @@
     "createdAt": "2026-06-21T12:12:06.539289Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-21T12:12:08.269Z",
     "embed": null,
     "isRepost": false
@@ -201330,8 +201330,8 @@
     "text": "",
     "createdAt": "2026-06-21T08:51:52.902Z",
     "replyCount": 0,
-    "repostCount": 80,
-    "likeCount": 341,
+    "repostCount": 90,
+    "likeCount": 384,
     "indexedAt": "2026-06-21T08:52:01.461Z",
     "embed": {
       "images": [
@@ -201348,5 +201348,58 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosi2wxju32b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosi2wxju32b",
+    "cid": "bafyreih77yv5jhyx4cctmweup77rrw3asbbmwrydjfhhe4ui2mkum2mo2a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "NDロードスターのデザイン完成されすぎていて次がどんなデザインでもなにかしら文句出るのでもう911みたいにずっとこのデザインでいいよ。",
+    "createdAt": "2026-06-21T13:28:52.911248Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T13:28:53.562Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosgzy7na22v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosgzy7na22v",
+    "cid": "bafyreidqxrqgevpwfrqtjus2hx6fvjh6obggb5xdpaqmwvu6qysbvveycu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「ひぐらしのなく頃に」新作TVアニメーション制作決定PV youtu.be/Tlv6sDFoljg?...",
+    "createdAt": "2026-06-21T13:10:27.449Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T13:10:31.064Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/Tlv6sDFoljg?si=gfHqAgipwtXFL3x3",
+        "title": "「ひぐらしのなく頃に」新作TVアニメーション制作決定PV",
+        "description": "YouTube video by KADOKAWAanime",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigex3wmd42cxoe7jasean3bxmfufdi7nde3lw74d4l6ewk2fqftlm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosgtxqjnq2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosgtxqjnq2i",
+    "cid": "bafyreif5pw27t6g4tvj3xkqfg6cvfnui4a2y2jad33ikohsefzgcjpd6ty",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "メイドさんは食べるだけ 第11話視聴終了。スズメちゃんがたまに口ずさむあの歌が節付きで聴けて嬉しい☺️はなの〜♪",
+    "createdAt": "2026-06-21T13:07:05.096996Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-21T13:07:06.260Z",
+    "embed": null,
+    "isRepost": false
   }
 }
