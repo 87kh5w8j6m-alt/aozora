@@ -201330,8 +201330,8 @@
     "text": "",
     "createdAt": "2026-06-21T08:51:52.902Z",
     "replyCount": 0,
-    "repostCount": 97,
-    "likeCount": 431,
+    "repostCount": 105,
+    "likeCount": 454,
     "indexedAt": "2026-06-21T08:52:01.461Z",
     "embed": {
       "images": [
@@ -201399,6 +201399,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-21T13:07:06.260Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosoc46oho22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mosoc46oho22",
+    "cid": "bafyreia7rxscui3vfgbtwc7ultx6zf4p7l7qfm63rwi2fzapg7so3py2zq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "6年生なのに！ 1巻読了 かわいい服はかわいいから",
+    "createdAt": "2026-06-21T15:20:15.652461Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T15:20:16.364Z",
     "embed": null,
     "isRepost": false
   }
