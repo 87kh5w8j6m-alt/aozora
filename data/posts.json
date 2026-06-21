@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 139,
-    "likeCount": 566,
+    "repostCount": 140,
+    "likeCount": 569,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201229,6 +201229,51 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morebqlvyc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morebqlvyc2n",
+    "cid": "bafyreihaxfdg62rslmbfynncqkhreg7ie3lyx7p2iwvbtwcfx5shkt2ne4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第75話視聴終了。",
+    "createdAt": "2026-06-21T02:48:26.309835Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T02:48:27.063Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mord3iq7nb2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mord3iq7nb2l",
+    "cid": "bafyreihvor6b6gy6geczl5fho3z23reswe5y3rdfrw3gkh5nobisjnn3uu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期 第15話視聴終了。",
+    "createdAt": "2026-06-21T02:27:02.973962Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T02:27:05.462Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morbl5jh272v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morbl5jh272v",
+    "cid": "bafyreif44fchisd7uwetilu7byhwvuelriinzzxb3tyee3xsgxgxqix57i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期 第14話視聴終了。",
+    "createdAt": "2026-06-21T02:00:00.668111Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T02:00:01.462Z",
+    "embed": null,
     "isRepost": false
   }
 }
