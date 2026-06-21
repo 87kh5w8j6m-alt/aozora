@@ -201275,5 +201275,20 @@
     "indexedAt": "2026-06-21T02:00:01.462Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mormbqkwei2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mormbqkwei2t",
+    "cid": "bafyreifkl2k4hla7iyns4xnywlv3zj2v5754jwgt227r24hrjdfiuardui",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第76話視聴終了。",
+    "createdAt": "2026-06-21T05:11:36.333070Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-21T05:11:36.964Z",
+    "embed": null,
+    "isRepost": false
   }
 }
