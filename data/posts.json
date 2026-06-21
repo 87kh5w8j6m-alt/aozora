@@ -199003,7 +199003,7 @@
     "text": "グループチャットに加え、プロフィールを共有したり、友達を招待してBlueskyで自分を見つけてもらったりするための新しい機能を導入しました。\n\nモバイルアプリで自分のプロフィール画面を開くと、共有用の矢印 ↗️ ボタンが新たに追加されているはずです。ここから、自分専用のQRコードを作成できます。他の人がこのQRコードをスキャンすれば、あなたを簡単に見つけ（そしてフォローも）できるようになります。",
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
-    "repostCount": 674,
+    "repostCount": 675,
     "likeCount": 937,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
@@ -201055,7 +201055,7 @@
           "text": "四之宮リンリン🧸🐱ひみつのアイプリ✨"
         },
         "labels": [],
-        "likeCount": 10,
+        "likeCount": 11,
         "replyCount": 0,
         "repostCount": 6,
         "quoteCount": 1,
@@ -201092,7 +201092,7 @@
     "createdAt": "2026-06-20T11:04:31.338Z",
     "replyCount": 0,
     "repostCount": 6,
-    "likeCount": 10,
+    "likeCount": 11,
     "indexedAt": "2026-06-20T11:04:36.564Z",
     "embed": {
       "images": [
@@ -201288,6 +201288,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-21T05:11:36.964Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morounnqrf2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3morounnqrf2z",
+    "cid": "bafyreicqdus425ryfy64tvnjf4ikqlrilemex2okgvr6fybvqgegenf7wu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第77話視聴終了。",
+    "createdAt": "2026-06-21T05:57:58.323810Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-21T05:57:59.259Z",
     "embed": null,
     "isRepost": false
   }
