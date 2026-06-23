@@ -106,6 +106,66 @@ def generate_html(posts):
     archive_accordion_html += '</ul>\n'
     # ----------------------------------
 
+    # --- 日別投稿数ランキングのHTML生成 ---
+    sorted_daily_counts = sorted(archive_map_daily.items(), key=lambda x: len(x[1]), reverse=True)
+    
+    activity_ranking_html = """
+    <p>これまでに投稿が多かった「活発な日」のランキングです。日付をクリックすると、その日の全ポストを見ることができます。</p>
+    <table class="activity-table" style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
+        <thead>
+            <tr style="border-bottom: 2px solid var(--heading-border); text-align: left;">
+                <th style="padding: 10px; width: 100px;">順位</th>
+                <th style="padding: 10px;">日付</th>
+                <th style="padding: 10px; text-align: right; width: 140px;">投稿数</th>
+            </tr>
+        </thead>
+        <tbody>
+    """
+    
+    prev_count = -1
+    display_rank = 1
+    
+    for idx, (day_str, day_posts) in enumerate(sorted_daily_counts):
+        count = len(day_posts)
+        
+        # 同一投稿数の場合は同じ順位にする処理
+        if count != prev_count:
+            display_rank = idx + 1
+        prev_count = count
+        
+        # 曜日を取得
+        dt = datetime.strptime(day_str, "%Y-%m-%d")
+        wd = ["月", "火", "水", "木", "金", "土", "日"][dt.weekday()]
+        
+        # 上位3名にはメダルを表示
+        rank_badge = ""
+        if display_rank == 1:
+            rank_badge = "🥇 "
+        elif display_rank == 2:
+            rank_badge = "🥈 "
+        elif display_rank == 3:
+            rank_badge = "🥉 "
+            
+        activity_ranking_html += f"""
+            <tr style="border-bottom: 1px solid var(--post-border);">
+                <td style="padding: 12px 10px; font-weight: bold; color: var(--heading-border);">
+                    {rank_badge}{display_rank}位
+                </td>
+                <td style="padding: 12px 10px;">
+                    <a href="archive_{day_str}.html" style="font-weight: bold;">{day_str} ({wd})</a>
+                </td>
+                <td style="padding: 12px 10px; text-align: right; font-weight: bold;">
+                    {count} <span style="font-size: 0.85em; font-weight: normal; color: var(--meta-text);">posts</span>
+                </td>
+            </tr>
+        """
+        
+    activity_ranking_html += """
+        </tbody>
+    </table>
+    """
+    # ----------------------------------
+
     def make_day_heading(day_str, count):
         dt = datetime.strptime(day_str, "%Y-%m-%d")
         wd = ["月", "火", "水", "木", "金", "土", "日"][dt.weekday()]
@@ -383,6 +443,7 @@ def generate_html(posts):
                     <li><a href="index.html">ホーム</a></li>
                     <li><a href="images.html">画像一覧</a></li>
                     <li><a href="ranking.html">いいねランキング</a></li>
+                    <li><a href="activity_ranking.html">📊 投稿数ランキング</a></li>
                     <li><a href="archive.html">アーカイブ</a></li>
                 </ul>
             </section>
@@ -801,7 +862,11 @@ def generate_html(posts):
     with open("ranking.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="いいねランキング トップ50", content=ranking_content, calendar_widget=cal_widget_html))
 
-    # 5. 月別アーカイブの書き出し (ここでアコーディオンHTMLをメインコンテンツとして渡す)
+    # 5. 【新規追加】投稿数ランキングの書き出し
+    with open("activity_ranking.html", "w", encoding="utf-8") as f:
+        f.write(base_html.format(title="投稿活動量（日別投稿数）ランキング", content=activity_ranking_html, calendar_widget=cal_widget_html))
+
+    # 6. 月別アーカイブの書き出し (ここでアコーディオンHTMLをメインコンテンツとして渡す)
     with open("archive.html", "w", encoding="utf-8") as f:
         f.write(base_html.format(title="アーカイブ一覧", content=archive_accordion_html, calendar_widget=cal_widget_html))
         
@@ -819,12 +884,12 @@ def generate_html(posts):
         with open(f"archive_{month}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {month}", content=m_content, calendar_widget=cal_widget_html))
 
-    # 6. カレンダー単体（別ページ）の書き出し
+    # 7. カレンダー単体（別ページ）の書き出し
     with open("archive_daily.html", "w", encoding="utf-8") as f:
         # このページ内ではカレンダーウィジェットが中央（content）に表示されるように空にします
         f.write(base_html.format(title="日別カレンダー", content=cal_widget_html, calendar_widget=""))
 
-    # 7. 日別アーカイブの書き出し
+    # 8. 日別アーカイブの書き出し
     for day, d_posts in archive_map_daily.items():
         count = len(d_posts)
         d_content = make_day_heading(day, count) + "".join([render_post(p) for p in d_posts])
@@ -842,7 +907,7 @@ def generate_html(posts):
         with open(f"archive_{day}.html", "w", encoding="utf-8") as f:
             f.write(base_html.format(title=f"アーカイブ: {day}", content=d_content, calendar_widget=cal_widget_html))
 
-    # 8. 同日アーカイブ（過去すべての年の同日）の書き出し
+    # 9. 同日アーカイブ（過去すべての年の同日）の書き出し
     for mm_dd, sd_posts in archive_map_same_day.items():
         m, d = mm_dd.split("-")
         display_title = f"{int(m)}月{int(d)}日のすべての年の投稿"
