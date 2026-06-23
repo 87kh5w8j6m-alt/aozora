@@ -1135,7 +1135,7 @@
     "createdAt": "2026-06-02T05:57:16.768Z",
     "replyCount": 1,
     "repostCount": 111,
-    "likeCount": 524,
+    "likeCount": 525,
     "indexedAt": "2026-06-02T05:57:32.771Z",
     "embed": {
       "images": [
@@ -2437,7 +2437,7 @@
     "createdAt": "2026-05-29T07:05:39.351Z",
     "replyCount": 0,
     "repostCount": 87,
-    "likeCount": 461,
+    "likeCount": 462,
     "indexedAt": "2026-05-29T07:05:50.571Z",
     "embed": {
       "images": [
@@ -198976,7 +198976,7 @@
     "createdAt": "2026-06-11T16:40:51.559Z",
     "replyCount": 3,
     "repostCount": 92,
-    "likeCount": 387,
+    "likeCount": 388,
     "indexedAt": "2026-06-11T16:41:08.761Z",
     "embed": {
       "images": [
@@ -201683,7 +201683,7 @@
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 439,
+    "likeCount": 446,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201779,6 +201779,52 @@
         "title": "FBIが作った「偽の町」　病院もデータセンターもまるで本物　約2000平米の巨大空間でサイバー捜査を訓練",
         "description": "米FBIが、住宅や病院、電力会社などを屋内に再現したサイバー捜査の訓練施設「Kinetic Cyber Range」を運用している。約2000平方メートルの偽の町で、2025年2月の開設以降1400人超を訓練してきた。各区画には実際に動くシステムを組み込み、現実の捜査さながらの実習を行う。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaflaxat3nezpkkmh223qcnnjykq6vmx2ypbaljzwzzmsphczguta"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxcldc3ws2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxcldc3ws2v",
+    "cid": "bafyreib5k4d3vf43vl5dz7v76jvd24iw4tsmhsqdflc5c6qqew4jfcesme",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FIAが『WRC27』の新技術規定を承認。ラリー2車両の“空力向上キット”装着と、2年間の最高峰クラス参戦枠を設定へ | autosport web\nTOYOTAだけが最上位クラスに参戦してその他のメーカーは下位クラスのクルマを魔改造して最上位クラスに仕立て上げるの耐久レースでも見た構図だな www.as-web.jp/rally/132792",
+    "createdAt": "2026-06-23T11:33:59.471Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T11:34:05.263Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/rally/1327927?all",
+        "title": "FIAが『WRC27』の新技術規定を承認。ラリー2車両の“空力向上キット”装着と、2年間の最高峰クラス参戦枠を設定へ | ニュース | autosport web",
+        "description": "6月23日、FIA国際自動車連盟は、WMSC世界モータースポーツ評議会を開き、2027年からWRC世界ラリー選手権のトップカテゴリーに採用される新たな技術規定",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifipu7ikbhjnysdcwiiq2nyjobdxbcze2rmxbo4gxfv33lwv4q4r4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxc7xlpa22v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxc7xlpa22v",
+    "cid": "bafyreicokxbchdoepytwj5t2qevbfx6pvzxvknxtx5iwg4wckzvgczt4ny",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フォーミュラE東京大会は開催継続。2026／27年カレンダーが公開、ブランズハッチ／ザントフォールト／COTAが追加 | 海外レース他 | autosport web www.as-web.jp/overseas/132...\n初開催から10シーズン見てたけど面白くならないから最近は見てないけれど、クローズドサーキットでやるならまた見てみようかな",
+    "createdAt": "2026-06-23T11:27:38.104Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T11:27:43.162Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/overseas/1327503?all#google_vignette",
+        "title": "フォーミュラE東京大会は開催継続。2026／27年カレンダーが公開、ブランズハッチ／ザントフォールト／COTAが追加 | 海外レース他 | autosport web",
+        "description": "6月23日、ABB",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7dovrc53x37ew3fgrfxeriheiimzukw2krizvhgwigoyeqxjivm"
       },
       "$type": "app.bsky.embed.external#view"
     },
