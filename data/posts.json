@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 675,
-    "likeCount": 942,
+    "likeCount": 943,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -201442,7 +201442,7 @@
     "createdAt": "2026-06-21T23:14:56.458Z",
     "replyCount": 1,
     "repostCount": 101,
-    "likeCount": 415,
+    "likeCount": 416,
     "indexedAt": "2026-06-21T23:15:06.364Z",
     "embed": {
       "images": [
@@ -201682,8 +201682,8 @@
     "text": "",
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 416,
+    "repostCount": 92,
+    "likeCount": 427,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201728,6 +201728,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-23T03:30:47.275Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mowyryzx6c24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mowyryzx6c24",
+    "cid": "bafyreifbf5gsi37bwswkothb54c3hukjhlofbeopi66vzbxyizkjtki3um",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "公演タイトル「謎解きはディナーショーの途中で」なので昼公演は謎が発生して終演する可能性が微レ存\n#堀江由衣 #黒ネコ同盟",
+    "createdAt": "2026-06-23T08:38:46.176459Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T08:38:47.489Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mowyryzw7224": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mowyryzw7224",
+    "cid": "bafyreidecc2uqlavjnzjuymybl2dntnuuekv6typyaob5bqrso7fira7om",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのディナーショー昼公演当選！！やった！！！夜公演は落選してたから危なかったー！\n#堀江由衣 #黒ネコ同盟",
+    "createdAt": "2026-06-23T08:38:46.175459Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T08:38:47.465Z",
     "embed": null,
     "isRepost": false
   }
