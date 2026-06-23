@@ -201331,7 +201331,7 @@
     "createdAt": "2026-06-21T08:51:52.902Z",
     "replyCount": 0,
     "repostCount": 132,
-    "likeCount": 604,
+    "likeCount": 605,
     "indexedAt": "2026-06-21T08:52:01.461Z",
     "embed": {
       "images": [
@@ -201682,8 +201682,8 @@
     "text": "",
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
-    "repostCount": 94,
-    "likeCount": 434,
+    "repostCount": 95,
+    "likeCount": 439,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201756,9 +201756,32 @@
     "createdAt": "2026-06-23T08:38:46.175459Z",
     "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-23T08:38:47.465Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mox567spa22w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mox567spa22w",
+    "cid": "bafyreih3awwfdiykqnqyurcgyfn2u7b7exo4x4xylessuzod73twhpvxwy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FBIが作った「偽の町」　病院もデータセンターもまるで本物　約2000平米の巨大空間でサイバー捜査を訓練 - ITmedia NEWS www.itmedia.co.jp/news/article... 「受講者は、止まったシステムの復旧という技術面と、慌てる関係者への説明の両方に同時に向き合うことになる。」やりたくないけどいい訓練",
+    "createdAt": "2026-06-23T09:57:10.903Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T09:57:13.961Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/articles/2606/23/news094.html",
+        "title": "FBIが作った「偽の町」　病院もデータセンターもまるで本物　約2000平米の巨大空間でサイバー捜査を訓練",
+        "description": "米FBIが、住宅や病院、電力会社などを屋内に再現したサイバー捜査の訓練施設「Kinetic Cyber Range」を運用している。約2000平方メートルの偽の町で、2025年2月の開設以降1400人超を訓練してきた。各区画には実際に動くシステムを組み込み、現実の捜査さながらの実習を行う。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaflaxat3nezpkkmh223qcnnjykq6vmx2ypbaljzwzzmsphczguta"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
