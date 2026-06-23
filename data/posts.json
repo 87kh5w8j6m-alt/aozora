@@ -201682,8 +201682,8 @@
     "text": "",
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
-    "repostCount": 95,
-    "likeCount": 447,
+    "repostCount": 96,
+    "likeCount": 454,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201828,6 +201828,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxj53cdnc2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxj53cdnc2p",
+    "cid": "bafyreiewsrcarfc2igwurxxwhgkzwhquej3ull3efjkpdqjzjzmd47xyhi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "これで昼夜落選してたら発狂してた",
+    "createdAt": "2026-06-23T13:31:17.521Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T13:31:20.270Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxj3wtjqs2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3moxj3wtjqs2w",
+    "cid": "bafyreidqvtkajcglkv42klznlonvd674zqvt4dxgqx72mtkixrwh65v4hi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "TLを見るにみんな東京大阪申し込んでるんだな。今回はビビって東京のみにしたので夜外れて焦ったけれど、なんとか昼当選して命拾いした",
+    "createdAt": "2026-06-23T13:30:39.288Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-23T13:30:42.261Z",
+    "embed": null,
     "isRepost": false
   }
 }
