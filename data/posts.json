@@ -201944,8 +201944,8 @@
     "text": "",
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
-    "repostCount": 82,
-    "likeCount": 345,
+    "repostCount": 84,
+    "likeCount": 352,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -201991,6 +201991,52 @@
     "likeCount": 0,
     "indexedAt": "2026-06-24T03:31:20.163Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozklnytjd2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozklnytjd2r",
+    "cid": "bafyreiep3zqbey764yibli7wkbpixkd4kuj5a636amrdfxazjoucqrebka",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | スポーツランドSUGO ラウンド1・ラウンド2 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026 https://jod.jsports.co.jp/p/motor/sro_japan/110596-V 瑶子女王殿下、ジャパンカップにいらしゃっていたの",
+    "createdAt": "2026-06-24T09:02:38.989267Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T09:02:40.760Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/sro_japan/110596-V",
+        "title": "スポーツランドSUGO ラウンド1・ラウンド2 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "スポーツランドSUGO ラウンド1・ラウンド2 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiadeufbl2jyu6gfwezjkyfgnqjaj2z5ekodzvev6aualq65nbriw4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozk377zkv2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozk377zkv2g",
+    "cid": "bafyreihwqe2axpvvv6ywusrmvl4nxg4cy6y52opzklugbwn7hewwmhqjo4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "写真共有サイト「PHOTOHITO」終了へ、18年の歴史に幕　カカクコム運営の老舗サイト - ITmedia NEWS\nhttps://www.itmedia.co.jp/news/articles/2606/24/news078.html Flickrは最近どう？",
+    "createdAt": "2026-06-24T08:53:26.586521Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T08:53:28.460Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/articles/2606/24/news078.html",
+        "title": "写真共有サイト「PHOTOHITO」終了へ、18年の歴史に幕　カカクコム運営の老舗サイト",
+        "description": "PHOTOHITO運営事務局は6月22日、写真共有サイト「PHOTOHITO」を9月30日午後3時に終了すると発表した。2008年の開始から18年で幕を閉じる。投稿写真の原寸大データをダウンロードできる機能を6月24日午後3時ごろから提供する。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreielewjrpybsg2txowbnn3doztve5eenqdswjuh6nnvhwfbmmbqiiq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
