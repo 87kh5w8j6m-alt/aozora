@@ -201944,8 +201944,8 @@
     "text": "",
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
-    "repostCount": 95,
-    "likeCount": 390,
+    "repostCount": 96,
+    "likeCount": 391,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202097,6 +202097,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-24T21:11:44.866Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp2xvz2fhc2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp2xvz2fhc2v",
+    "cid": "bafyreibofhqvlatsgnydbl6bw357m7rpgmbqi3dppinonzenv6lt4wyzuy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "6強はやばいって",
+    "createdAt": "2026-06-24T22:33:45.622Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T22:33:47.167Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp2wve3en22k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp2wve3en22k",
+    "cid": "bafyreigp2k6ggjrlvb7olqlyk5n7wystrd55qmlfjwyrsbrqv3e7wc2y6a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第65回聴取終了",
+    "createdAt": "2026-06-24T22:15:29.348757Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T22:15:30.065Z",
     "embed": null,
     "isRepost": false
   }
