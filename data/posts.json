@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 676,
-    "likeCount": 943,
+    "likeCount": 944,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -201944,8 +201944,8 @@
     "text": "",
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 372,
+    "repostCount": 92,
+    "likeCount": 375,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202034,6 +202034,29 @@
         "title": "写真共有サイト「PHOTOHITO」終了へ、18年の歴史に幕　カカクコム運営の老舗サイト",
         "description": "PHOTOHITO運営事務局は6月22日、写真共有サイト「PHOTOHITO」を9月30日午後3時に終了すると発表した。2008年の開始から18年で幕を閉じる。投稿写真の原寸大データをダウンロードできる機能を6月24日午後3時ごろから提供する。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreielewjrpybsg2txowbnn3doztve5eenqdswjuh6nnvhwfbmmbqiiq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozxmjfkg62a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mozxmjfkg62a",
+    "cid": "bafyreigmcge463jzwjctqsevuz5oaokqdowzecfnhbxefalsvrreet33xq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "flickrはまだまだ気に入って使ってるのよ https://www.flickr.com/photos/jiminynseries/",
+    "createdAt": "2026-06-24T12:55:46.834398Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T12:55:48.263Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.flickr.com/photos/jiminynseries/",
+        "title": "jiminy",
+        "description": "Explore jiminy’s 8,266 photos on Flickr!",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigncwbomwgrtrokovwattddvnxvae7gy4tbwbmzaco4trxt5lhomm"
       },
       "$type": "app.bsky.embed.external#view"
     },
