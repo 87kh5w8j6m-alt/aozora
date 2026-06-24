@@ -200772,7 +200772,7 @@
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
     "repostCount": 132,
-    "likeCount": 576,
+    "likeCount": 577,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -201331,7 +201331,7 @@
     "createdAt": "2026-06-21T08:51:52.902Z",
     "replyCount": 0,
     "repostCount": 132,
-    "likeCount": 607,
+    "likeCount": 608,
     "indexedAt": "2026-06-21T08:52:01.461Z",
     "embed": {
       "images": [
@@ -201944,8 +201944,8 @@
     "text": "",
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 375,
+    "repostCount": 93,
+    "likeCount": 379,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202057,6 +202057,29 @@
         "title": "jiminy",
         "description": "Explore jiminy’s 8,266 photos on Flickr!",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigncwbomwgrtrokovwattddvnxvae7gy4tbwbmzaco4trxt5lhomm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp25xfj2bs2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp25xfj2bs2v",
+    "cid": "bafyreig4gsivt44cwk2ptfhao3pfssndlhckw7sbalfixtcj6pf3ju74ly",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "青学自動車部チームがS耐富士24時間に初挑戦。学生メンバーがドライバー、メカニック、エンジニア、広報として徹夜の奮闘  - www.as-web.jp/domestic/132... 学生チームの24時間戦う姿はキャッチーだ。一方でディーラーチームは労働基準法を守るためにシフト制だったりするわけ。",
+    "createdAt": "2026-06-24T14:49:14.956Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-24T14:49:18.862Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1328185",
+        "title": "青学自動車部チームがS耐富士24時間に初挑戦。学生メンバーがドライバー、メカニック、エンジニア、広報として徹夜の奮闘 | 国内レース他 | autosport web",
+        "description": "6月5日（金）～7日（日）に静岡県・富士スピードウェイで開催されたENEOSスーパー耐久シリーズ 2026 Empowered by",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid7ra7r566udaibmipcnzdjkx46tl2qrpvk22nkzue2yqdejt6fpi"
       },
       "$type": "app.bsky.embed.external#view"
     },
