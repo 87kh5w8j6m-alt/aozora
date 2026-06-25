@@ -569,8 +569,8 @@
           "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:urj4pkche2yvpr5ilj4ykteu/bafkreihkhwjzrrsev4t5mhgupufvz4thjsrlz4jkvx7psjv5lnvdl3khae",
           "associated": {
             "chat": {
-              "allowIncoming": "following",
-              "allowGroupInvites": "following"
+              "allowIncoming": "none",
+              "allowGroupInvites": "none"
             },
             "activitySubscription": {
               "allowSubscriptions": "followers"
@@ -200034,8 +200034,8 @@
     "text": "カフェ店員さんなコーヒーさん☕\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
-    "repostCount": 81,
-    "likeCount": 259,
+    "repostCount": 82,
+    "likeCount": 260,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -202155,7 +202155,7 @@
     "createdAt": "2026-06-25T01:22:20.995Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 54,
+    "likeCount": 55,
     "indexedAt": "2026-06-25T01:22:32.159Z",
     "embed": {
       "images": [
@@ -202182,8 +202182,8 @@
     "text": "",
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
-    "repostCount": 75,
-    "likeCount": 334,
+    "repostCount": 76,
+    "likeCount": 344,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
