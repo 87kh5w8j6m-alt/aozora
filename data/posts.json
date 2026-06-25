@@ -199031,8 +199031,8 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1133,
-    "likeCount": 1169,
+    "repostCount": 1132,
+    "likeCount": 1168,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -202183,7 +202183,7 @@
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
     "repostCount": 80,
-    "likeCount": 376,
+    "likeCount": 378,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202214,6 +202214,29 @@
     "likeCount": 1,
     "indexedAt": "2026-06-25T21:24:38.763Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp5mlveiob2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp5mlveiob2k",
+    "cid": "bafyreibavlxpkmzbfzqwtk4ltlu3dgczumhhoct3vluava23o4raeoefcu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マツダ787Bがふたたびサルト・サーキットへ。優勝35周年を記念しル・マンクラシックでデモラン実施  - https://www.as-web.jp/sports-car/1328349",
+    "createdAt": "2026-06-25T23:49:13.162996Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-25T23:49:15.165Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1328349",
+        "title": "マツダ787Bがふたたびサルト・サーキットへ。優勝35周年を記念しル・マンクラシックでデモラン実施 | ニュース | autosport web",
+        "description": "　6月25日、マツダは7月2〜5日にフランスのサルト・サーキットで行われるヒストリックイベント『ル・マンクラシック2026』で、1991年のル・マン24時間優勝",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifo5qpn6uilcv56tvwwo2h36v6oyvf64wtk27k66blqv4if74t7ga"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
