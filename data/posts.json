@@ -201945,7 +201945,7 @@
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 393,
+    "likeCount": 394,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202144,5 +202144,33 @@
     "indexedAt": "2026-06-25T03:30:50.266Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:iw6lhy64v4lp5bfirzplbhoe/app.bsky.feed.post/3mp3bdht3fk2p": {
+    "uri": "at://did:plc:iw6lhy64v4lp5bfirzplbhoe/app.bsky.feed.post/3mp3bdht3fk2p",
+    "cid": "bafyreicyuy4ms2baxtjj3gybllnseiuac75j5ramirp3t77vlev3v4lfhe",
+    "author": "emptyblue7.bsky.social",
+    "authorName": "ふむふむ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iw6lhy64v4lp5bfirzplbhoe/bafkreifgch26ko4untpymm72l46ng7detqt7o5net3oulsmkit2jp5hb2u",
+    "text": "これは飼い主に名前を呼ばれ もじもじしてるとこ",
+    "createdAt": "2026-06-25T01:22:20.995Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 33,
+    "indexedAt": "2026-06-25T01:22:32.159Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iw6lhy64v4lp5bfirzplbhoe/bafkreifpm32wggatgtcw43oh4y6qno7xyddnvakd5dxkoklzcswnyad4pu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:iw6lhy64v4lp5bfirzplbhoe/bafkreifpm32wggatgtcw43oh4y6qno7xyddnvakd5dxkoklzcswnyad4pu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3773,
+            "width": 2914
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
