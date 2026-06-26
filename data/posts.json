@@ -202373,5 +202373,71 @@
     "indexedAt": "2026-06-26T11:17:05.878Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6xxiqqqk2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6xxiqqqk2u",
+    "cid": "bafyreigg6yqwpskaf4ovfofvgjruqehkdqlhdu4r7ixj2ze3asyjrmi754",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まるで買う予定ないけどMacBookの構成いじくって高いなーって言う奴やってる",
+    "createdAt": "2026-06-26T12:45:14.595Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T12:45:15.568Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mp5eegvaoc27": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mp5eegvaoc27",
+    "cid": "bafyreigmv5m7wqcjesvuitqvdeilrvyegjl46azuaucdmurfzfrqye2o4a",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-25T21:21:54.275Z",
+    "replyCount": 1,
+    "repostCount": 110,
+    "likeCount": 413,
+    "indexedAt": "2026-06-25T21:22:04.066Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibmo6yrfi2qakvctf33qqdwd4jjtxlgookkp55adovfydeahdcvpe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibmo6yrfi2qakvctf33qqdwd4jjtxlgookkp55adovfydeahdcvpe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6vxofgms2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6vxofgms2v",
+    "cid": "bafyreiccg6hq3c7p6ero3mjdgv4jqxyzfambhxjzl6tl2p4q3z6qio6tma",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2027年のIGTCカレンダー決定とともにSROが9月の鈴鹿1000kmでのスーパーGTとのコラボレーションを発表。GT300参戦実現へ  - www.as-web.jp/supergt/1328...",
+    "createdAt": "2026-06-26T12:09:33.031Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T12:09:40.161Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/supergt/1328659",
+        "title": "2027年のIGTCカレンダー決定とともにSROが9月の鈴鹿1000kmでのスーパーGTとのコラボレーションを発表。GT300参戦実現へ | ニュース | autosport web",
+        "description": "6月26日、GTワールドチャレンジ（GTWC）やインターコンチネンタルGTチャレンジ（IGTC）を運営するSROモータースポーツ・グループは、クラウドストライ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid4lnayonkvlnrjxquew7he74lbj2p5pab4hlyxeewmgb2nksx5li"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
