@@ -202399,7 +202399,7 @@
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
     "repostCount": 113,
-    "likeCount": 431,
+    "likeCount": 432,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202554,6 +202554,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-26T14:02:25.369Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7w6zpra223": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7w6zpra223",
+    "cid": "bafyreigekzjc2c7df6lzvscn4lj2grc77itwdjdzanvg3cgij7ahrbwcxi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1239回聴取終了。写真はみんな直す前提\n#天使のたまご",
+    "createdAt": "2026-06-26T21:46:18.968034Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T21:46:19.666Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7uicsjh22u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7uicsjh22u",
+    "cid": "bafyreihau6au7obp7lqqk6a72g7n7w256en5juc2zdxwxjepz5bjxhp3xm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-06-26T21:15:42.824770Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-26T21:15:43.667Z",
     "embed": null,
     "isRepost": false
   }
