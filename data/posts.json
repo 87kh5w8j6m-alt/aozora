@@ -202305,5 +202305,28 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6lwqyy5223": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6lwqyy5223",
+    "cid": "bafyreideu7hayusaibez3zccnftuf36sgbfo2njp7fp4xofjz74nyo3x6e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マツダ・ロードスターが商品改良。限定車で培った走りの技術と知見を織り込んだ特別仕様車を追加  - www.as-web.jp/car/1328579",
+    "createdAt": "2026-06-26T09:10:04.797Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T09:10:09.662Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/car/1328579",
+        "title": "マツダ・ロードスターが商品改良。限定車で培った走りの技術と知見を織り込んだ特別仕様車を追加 | クルマ | autosport web",
+        "description": "6月26日、マツダは小型オープンスポーツカー『ロードスター』のソフトトップモデルおよび、リトラクタブルハードトップモデルの『ロードスターRF』を商品改良し、同",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidvpnqoa5ok3al4uahals6oozhwg3cykmonezyi5oq24wguhpt2ta"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
