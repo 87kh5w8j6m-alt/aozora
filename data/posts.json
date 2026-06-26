@@ -201683,7 +201683,7 @@
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
     "repostCount": 108,
-    "likeCount": 497,
+    "likeCount": 498,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -202398,8 +202398,8 @@
     "text": "",
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
-    "repostCount": 111,
-    "likeCount": 417,
+    "repostCount": 112,
+    "likeCount": 422,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202539,6 +202539,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-26T12:53:58.866Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp74bibksa27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp74bibksa27",
+    "cid": "bafyreid7f7et3dkvi4h3wh36uazkjtryltukwyg73uje32gjw4xinan34a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "風呂ってたら揺れたけど出てきたら思ったよりデカくてビビってる",
+    "createdAt": "2026-06-26T14:02:23.934358Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T14:02:25.369Z",
     "embed": null,
     "isRepost": false
   }
