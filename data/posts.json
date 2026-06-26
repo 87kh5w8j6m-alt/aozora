@@ -200501,7 +200501,7 @@
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
     "repostCount": 132,
-    "likeCount": 546,
+    "likeCount": 547,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200597,7 +200597,7 @@
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 418,
+    "likeCount": 419,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200845,7 +200845,7 @@
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
     "repostCount": 149,
-    "likeCount": 603,
+    "likeCount": 604,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201442,7 +201442,7 @@
     "createdAt": "2026-06-21T23:14:56.458Z",
     "replyCount": 1,
     "repostCount": 101,
-    "likeCount": 421,
+    "likeCount": 422,
     "indexedAt": "2026-06-21T23:15:06.364Z",
     "embed": {
       "images": [
@@ -201683,7 +201683,7 @@
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
     "repostCount": 108,
-    "likeCount": 495,
+    "likeCount": 497,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201945,7 +201945,7 @@
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 402,
+    "likeCount": 404,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202183,7 +202183,7 @@
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
     "repostCount": 85,
-    "likeCount": 397,
+    "likeCount": 400,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202384,7 +202384,7 @@
     "createdAt": "2026-06-26T12:45:14.595Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-26T12:45:15.568Z",
     "embed": null,
     "isRepost": false
@@ -202398,8 +202398,8 @@
     "text": "",
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
-    "repostCount": 110,
-    "likeCount": 413,
+    "repostCount": 111,
+    "likeCount": 417,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202438,6 +202438,108 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6yzbqzwk2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6yzbqzwk2x",
+    "cid": "bafyreicsfcrawilm3qessw2wnd76ujcceivxtrfo66pbthkz3nj4ikolcu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第64話視聴終了。",
+    "createdAt": "2026-06-26T13:04:07.488746Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T13:04:08.261Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6ylow6i22u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6ylow6i22u",
+    "cid": "bafyreih62lfwqnfanv57ib7o6aqwufzccbnzpyled3zuq7go2qwfr5qx2e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "桁間違えた",
+    "createdAt": "2026-06-26T12:56:32.153Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-26T12:56:32.460Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6ylftqjs2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6ylftqjs2u",
+    "cid": "bafyreifwbhxub4bnvvmu4jfuovn5qgk26fmsrjh5ro2fxegvucxcn5ikfe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MBAならストレージ増やしても安く納まるから次はAIrかなーって思ってたのが先週。Airでもストレージ2TBにしたら90kも積まれて横転",
+    "createdAt": "2026-06-26T12:56:22.635Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-26T12:56:22.861Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6xxiqqqk2u",
+        "cid": "bafyreigg6yqwpskaf4ovfofvgjruqehkdqlhdu4r7ixj2ze3asyjrmi754",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-06-26T12:45:14.595Z",
+          "langs": [
+            "ja"
+          ],
+          "text": "まるで買う予定ないけどMacBookの構成いじくって高いなーって言う奴やってる"
+        },
+        "labels": [],
+        "likeCount": 1,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-06-26T12:45:15.568Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6yh4j5lc2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6yh4j5lc2u",
+    "cid": "bafyreiews5d2k7ffmpzlg6f6j2jr6533inwjhrl3ql56gt2iu4ws7iwskm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GTWC Asiaの富士ラウンド、行けたら行くくらいの感じだったが行こうかなー。",
+    "createdAt": "2026-06-26T12:53:58.633Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T12:53:58.866Z",
+    "embed": null,
     "isRepost": false
   }
 }
