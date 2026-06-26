@@ -199031,7 +199031,7 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1132,
+    "repostCount": 1133,
     "likeCount": 1168,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
@@ -202585,6 +202585,57 @@
     "likeCount": 1,
     "indexedAt": "2026-06-26T21:15:43.667Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mp7x3djfyc25": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mp7x3djfyc25",
+    "cid": "bafyreiai73zu7p3przo3urdrjg6eb2mcc6adcwsw57qudktizrtibu6wvy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-26T22:02:09.324Z",
+    "replyCount": 0,
+    "repostCount": 54,
+    "likeCount": 196,
+    "indexedAt": "2026-06-26T22:02:18.661Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib6fvgewc4go5q3plzo2shqvew3udrj333fxbwwot6bmqtxnh3twm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib6fvgewc4go5q3plzo2shqvew3udrj333fxbwwot6bmqtxnh3twm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7xug532t2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp7xug532t2i",
+    "cid": "bafyreieqn4nkdkatzika7nmbysetkpag6mje3hjcbzxf5wunxdicmxdr4e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「メイドさんは食べるだけ」のラジオ　～市ノ瀬さんを愛でるだけ～ 第6回聴取終了 https://www.onsen.ag/program/meitabe-radio/ #音泉 #メイ食べ #メイ食べラジオ",
+    "createdAt": "2026-06-26T22:16:10.451629Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T22:16:11.561Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.onsen.ag/program/meitabe-radio/",
+        "title": "インターネットラジオステーション音泉",
+        "description": "インターネットラジオステーション音泉はアニメ・ゲーム・声優系を中心としたラジオを配信するサイトです。24時間毎日いつでも好きな時、好きな番組がカンタンに聴けます！移動時や作業中におすすめのスマートフォンアプリでも配信中！音泉プレミアムサポーターだけが楽しめるアプリ限定番組は必聴です！",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibflo3xcta3n3jbthflifv5nnthvotehsxgj47gpj4vyseslp3ciu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
