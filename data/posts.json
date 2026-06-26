@@ -202155,7 +202155,7 @@
     "createdAt": "2026-06-25T01:22:20.995Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 56,
+    "likeCount": 57,
     "indexedAt": "2026-06-25T01:22:32.159Z",
     "embed": {
       "images": [
@@ -202249,9 +202249,61 @@
     "createdAt": "2026-06-26T03:30:59.098390Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-26T03:31:00.360Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62iwvej22c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62iwvej22c",
+    "cid": "bafyreihyziekpa47hwknastndkyocbyknxq52kepuiksxstyaiib3ltxlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "既出だったかー。でも除湿機のタンクに溜まる水はビックリしますね。我が家も今シーズンから導入したのでその水の量に驚きました。捨てるのは面倒というより楽しみです、どのくらい除湿できたか目に見えるので。そのうち面倒になるのかな",
+    "createdAt": "2026-06-26T03:58:07.597Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-26T03:58:09.470Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62dv54uc2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62dv54uc2c",
+    "cid": "bafyreidkuy6ycrwkbgxhnv57zcuv73mzhwdlvf7wfhd5ovlltr6hqxpxdq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "除湿機のタンクを加湿器のタンクに繋げば……！（笑）",
+    "createdAt": "2026-06-26T03:55:17.982Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-26T03:55:19.767Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62ab7i4w23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp62ab7i4w23",
+    "cid": "bafyreibtkwpir7n2eyvtxlu3wku3ewyrmzbxc7svmybvepoiuholt5jmna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ホンダF1、今季ADUOアップグレード2回獲得も新型パワーユニット投入は1回のみの予定。今夏＆来季の改善に注力  - https://jp.motorsport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833348/ きちんと発信していかないとHONDAにはF1のスピードについていく開発ペースがないと取られかねないのでは",
+    "createdAt": "2026-06-26T03:53:15.347294Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T03:53:16.561Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833348/",
+        "title": "ERROR: The request could not be satisfied",
+        "description": "https://jp.motorsport.com/f1/news/why-honda-will-just-use-one-of-its-two-upgrade-opportunities-in-f1-2026/10833348/"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
