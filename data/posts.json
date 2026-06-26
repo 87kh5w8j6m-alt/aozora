@@ -202183,7 +202183,7 @@
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
     "repostCount": 85,
-    "likeCount": 396,
+    "likeCount": 397,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202341,6 +202341,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-26T10:11:15.362Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6t2mr3z42n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6t2mr3z42n",
+    "cid": "bafyreicmvvwlvcp3fn5gjrzeszmpclkvescw2addjbr37bdn3nkpieznwa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まずはF1オーストリアGP FP1見るよ",
+    "createdAt": "2026-06-26T11:17:30.080356Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T11:17:30.861Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6szshkr42f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mp6szshkr42f",
+    "cid": "bafyreichdhq7c7rfvshm5tuvqdgcseu2gth5mjxhk3key5dulsabyo5at4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今週末はF1オーストリアGPとスパ24h",
+    "createdAt": "2026-06-26T11:17:02.468072Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-26T11:17:05.878Z",
     "embed": null,
     "isRepost": false
   }
