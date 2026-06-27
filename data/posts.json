@@ -202399,7 +202399,7 @@
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 447,
+    "likeCount": 448,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 142,
-    "likeCount": 680,
+    "repostCount": 145,
+    "likeCount": 688,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202860,8 +202860,23 @@
     "createdAt": "2026-06-27T21:11:17.237896Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-27T21:11:17.969Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcjvpvwsj2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcjvpvwsj2u",
+    "cid": "bafyreiearvmqpa2cmv4ploqffzsa3aob5htlj5623jnab3qgt5xkr2qqti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ようやくコナン側のプリキュアとコナンのコラボ回見た。",
+    "createdAt": "2026-06-27T22:44:20.834980Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T22:44:21.665Z",
     "embed": null,
     "isRepost": false
   }
