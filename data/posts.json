@@ -199656,8 +199656,8 @@
     "text": "",
     "createdAt": "2026-06-13T08:27:53.217Z",
     "replyCount": 2,
-    "repostCount": 144,
-    "likeCount": 627,
+    "repostCount": 145,
+    "likeCount": 628,
     "indexedAt": "2026-06-13T08:27:58.665Z",
     "embed": {
       "images": [
@@ -199963,8 +199963,8 @@
     "text": "",
     "createdAt": "2026-06-15T21:42:51.853Z",
     "replyCount": 2,
-    "repostCount": 114,
-    "likeCount": 466,
+    "repostCount": 115,
+    "likeCount": 467,
     "indexedAt": "2026-06-15T21:42:57.466Z",
     "embed": {
       "images": [
@@ -200500,8 +200500,8 @@
     "text": "",
     "createdAt": "2026-06-17T06:07:26.856Z",
     "replyCount": 4,
-    "repostCount": 132,
-    "likeCount": 547,
+    "repostCount": 133,
+    "likeCount": 548,
     "indexedAt": "2026-06-17T06:07:36.763Z",
     "embed": {
       "images": [
@@ -200596,8 +200596,8 @@
     "text": "",
     "createdAt": "2026-06-17T22:22:09.070Z",
     "replyCount": 0,
-    "repostCount": 97,
-    "likeCount": 418,
+    "repostCount": 98,
+    "likeCount": 419,
     "indexedAt": "2026-06-17T22:22:16.172Z",
     "embed": {
       "images": [
@@ -200771,8 +200771,8 @@
     "text": "",
     "createdAt": "2026-06-18T21:35:29.870Z",
     "replyCount": 1,
-    "repostCount": 131,
-    "likeCount": 576,
+    "repostCount": 132,
+    "likeCount": 577,
     "indexedAt": "2026-06-18T21:35:40.566Z",
     "embed": {
       "images": [
@@ -200844,8 +200844,8 @@
     "text": "",
     "createdAt": "2026-06-20T00:26:01.966Z",
     "replyCount": 3,
-    "repostCount": 148,
-    "likeCount": 603,
+    "repostCount": 149,
+    "likeCount": 604,
     "indexedAt": "2026-06-20T00:26:15.262Z",
     "embed": {
       "images": [
@@ -201330,8 +201330,8 @@
     "text": "",
     "createdAt": "2026-06-21T08:51:52.902Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 612,
+    "repostCount": 132,
+    "likeCount": 614,
     "indexedAt": "2026-06-21T08:52:01.461Z",
     "embed": {
       "images": [
@@ -201441,8 +201441,8 @@
     "text": "",
     "createdAt": "2026-06-21T23:14:56.458Z",
     "replyCount": 1,
-    "repostCount": 101,
-    "likeCount": 422,
+    "repostCount": 102,
+    "likeCount": 423,
     "indexedAt": "2026-06-21T23:15:06.364Z",
     "embed": {
       "images": [
@@ -201682,8 +201682,8 @@
     "text": "",
     "createdAt": "2026-06-22T21:48:48.294Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 498,
+    "repostCount": 109,
+    "likeCount": 499,
     "indexedAt": "2026-06-22T21:49:00.867Z",
     "embed": {
       "images": [
@@ -201944,8 +201944,8 @@
     "text": "",
     "createdAt": "2026-06-23T21:45:54.318Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 403,
+    "repostCount": 97,
+    "likeCount": 404,
     "indexedAt": "2026-06-23T21:46:09.597Z",
     "embed": {
       "images": [
@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 128,
-    "likeCount": 599,
+    "repostCount": 131,
+    "likeCount": 613,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202749,6 +202749,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-27T07:22:33.561Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpaydx5rqs2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpaydx5rqs2p",
+    "cid": "bafyreibebrhupaesk25tk5f4thjecog4savfk67exborasq4bdwghuy2ri",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "大塚国際美術館は全部見るのに1日半かかったなー。",
+    "createdAt": "2026-06-27T07:57:31.831Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T07:57:32.260Z",
     "embed": null,
     "isRepost": false
   }
