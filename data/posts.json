@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 136,
-    "likeCount": 638,
+    "repostCount": 138,
+    "likeCount": 645,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202802,6 +202802,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-27T11:43:28.362Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpbm3jsl742b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpbm3jsl742b",
+    "cid": "bafyreietnzp7tnaev7iyrbsf4zzhshohy2cmifhbl4lb2zwb7osprecqlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1オーストリアGP 予選のお時間",
+    "createdAt": "2026-06-27T13:50:43.606906Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T13:50:44.561Z",
     "embed": null,
     "isRepost": false
   }
