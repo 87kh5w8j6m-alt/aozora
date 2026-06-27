@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 122,
-    "likeCount": 563,
+    "repostCount": 125,
+    "likeCount": 579,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202686,9 +202686,32 @@
     "createdAt": "2026-06-27T03:14:58.404059Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-27T03:14:59.061Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpatnlfunj2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpatnlfunj2c",
+    "cid": "bafyreiexuzxqyuaikfhbonjvkaxlo7bvet546uwwxibqfqrxzvu4tajgpi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | ゴール ニュルブルクリンク24時間耐久レース 2026 https://jod.jsports.co.jp/p/motor/nuerburglink/110595-V",
+    "createdAt": "2026-06-27T06:33:25.731853Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T06:33:26.962Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/nuerburglink/110595-V",
+        "title": "ゴール ニュルブルクリンク24時間耐久レース 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "ゴール ニュルブルクリンク24時間耐久レース 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigshyuy2i74nhroqgihfeijuu4hhbmae2bwww2l4laqmz2dxijtgi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
