@@ -199031,7 +199031,7 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1133,
+    "repostCount": 1132,
     "likeCount": 1169,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 125,
-    "likeCount": 579,
+    "repostCount": 128,
+    "likeCount": 599,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202712,6 +202712,44 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpaxu32jua2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpaxu32jua2n",
+    "cid": "bafyreiex3oi6nj2r6plmdfhltp5blqpsarc5nahpudljvb4b4kzpbd3eia",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 最高のレース　第5戦鈴鹿サーキットでの頂上バトル スーパーフォーミュラ 2026 特別編 https://jod.jsports.co.jp/p/motor/super_formula/111849-V",
+    "createdAt": "2026-06-27T07:48:38.277943Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T07:48:39.961Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/111849-V",
+        "title": "最高のレース　第5戦鈴鹿サーキットでの頂上バトル スーパーフォーミュラ 2026 特別編｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "最高のレース　第5戦鈴鹿サーキットでの頂上バトル スーパーフォーミュラ 2026 特別編を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidk35qy2h5ok5acirl7grtghaxqilpukvwhl52jmzd724k6dfhjcm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpawffxxsc2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpawffxxsc2t",
+    "cid": "bafyreig5yiw4k2x5dv3qiugzwor2exmgm75znh2oekyneknwvrks4nzldy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "健康診断の結果が出た。昨年と大きく変わってない。つまり改善してない",
+    "createdAt": "2026-06-27T07:22:32.698619Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T07:22:33.561Z",
+    "embed": null,
     "isRepost": false
   }
 }
