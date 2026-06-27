@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 613,
+    "repostCount": 133,
+    "likeCount": 620,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202762,9 +202762,32 @@
     "createdAt": "2026-06-27T07:57:31.831Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-06-27T07:57:32.260Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpb4ezkusx2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpb4ezkusx2q",
+    "cid": "bafyreignkqt2shfghop6oegff6p57lskvoyfwwqmpcoueh5a5bejmhg4g4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | SUPER GTセパン名勝負を振り返る https://jod.jsports.co.jp/p/motor/supergt/111477-V セパンといえば雨宮RX7！！",
+    "createdAt": "2026-06-27T09:09:42.324774Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-27T09:09:43.486Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111477-V",
+        "title": "SUPER GTセパン名勝負を振り返る｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "SUPER GTセパン名勝負を振り返るを楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibdifkonrstxs4tasrzru5zhevaw4xqkhiobqof2b4odc3x2pdfvq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
