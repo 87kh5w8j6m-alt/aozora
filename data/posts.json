@@ -199628,8 +199628,8 @@
     "text": "",
     "createdAt": "2026-06-14T08:09:48.569Z",
     "replyCount": 3,
-    "repostCount": 391,
-    "likeCount": 1375,
+    "repostCount": 392,
+    "likeCount": 1376,
     "indexedAt": "2026-06-14T08:10:00.461Z",
     "embed": {
       "images": [
@@ -202905,7 +202905,7 @@
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 444,
+    "likeCount": 451,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -203198,6 +203198,21 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-06-28T12:56:09.260Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpe6rg3n4q22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpe6rg3n4q22",
+    "cid": "bafyreiabze2r26kc2lf3l2oamdxjhvjtq2zmgex7vpceiungcgkkjrpfku",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ラッセル優勝おめでとー！🏆\n#F1jp",
+    "createdAt": "2026-06-28T14:30:24.600224Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-28T14:30:25.560Z",
     "embed": null,
     "isRepost": false
   }
