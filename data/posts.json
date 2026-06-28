@@ -202155,7 +202155,7 @@
     "createdAt": "2026-06-25T01:22:20.995Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 57,
+    "likeCount": 56,
     "indexedAt": "2026-06-25T01:22:32.159Z",
     "embed": {
       "images": [
@@ -202597,7 +202597,7 @@
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
     "repostCount": 147,
-    "likeCount": 694,
+    "likeCount": 695,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202904,8 +202904,8 @@
     "text": "",
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
-    "repostCount": 50,
-    "likeCount": 186,
+    "repostCount": 68,
+    "likeCount": 239,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -202950,6 +202950,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-28T00:11:01.761Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpctzvcsw22p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpctzvcsw22p",
+    "cid": "bafyreiadoetw74piuygnubnh6sgxbewaallvuu2hetquszxsdiofcq3ur4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "5年前に400kで買ったMacBook Proと同じような構成を今組むと700kになる……。",
+    "createdAt": "2026-06-28T01:45:38.865Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T01:45:39.460Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpctu5o75s2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpctu5o75s2p",
+    "cid": "bafyreidmtolhnxxnu2oqindua2yyfs3k22cgug7mbt7hjwz2jc6bvjjyk4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "新しいトラックボールマウス届いた。静音スイッチになったのと、ボールの色が変わった。",
+    "createdAt": "2026-06-28T01:42:26.299Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T01:42:27.160Z",
     "embed": null,
     "isRepost": false
   }
