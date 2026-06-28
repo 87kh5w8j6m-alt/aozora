@@ -202183,7 +202183,7 @@
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
     "repostCount": 85,
-    "likeCount": 406,
+    "likeCount": 407,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202597,7 +202597,7 @@
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
     "repostCount": 147,
-    "likeCount": 692,
+    "likeCount": 694,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202892,6 +202892,64 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-27T23:47:22.766Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpcm5a6zrs24": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpcm5a6zrs24",
+    "cid": "bafyreiacnf3durpj4zb2wqx6rhnm32kkx3pkwm5kajkuwd5zafoopequnm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-27T23:24:21.002Z",
+    "replyCount": 0,
+    "repostCount": 50,
+    "likeCount": 186,
+    "indexedAt": "2026-06-27T23:24:28.061Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigjbqc54vj4jetvplj4rcpbjlx2l3gy6tzxzzhxjxpmxuakqi6dsi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigjbqc54vj4jetvplj4rcpbjlx2l3gy6tzxzzhxjxpmxuakqi6dsi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcq3k75yq2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcq3k75yq2d",
+    "cid": "bafyreianksnwmnlzjy6lzcxh2schzutjeblwup5g7uxq6y4g2fvwsk5num",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "上伊那ぼたん、酔へる姿は百合の花 第9話視聴終了。NDロードスター登場回",
+    "createdAt": "2026-06-28T00:34:58.722618Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T00:34:59.461Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcoqp3f4z2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpcoqp3f4z2f",
+    "cid": "bafyreigdbfntaxge6dqwoxph3kqdqlrj5pp4wsba5qvmiwqsfqlxhrjbbq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "上伊那ぼたん、酔へる姿は百合の花 第8話視聴終了。",
+    "createdAt": "2026-06-28T00:10:59.032300Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T00:11:01.761Z",
     "embed": null,
     "isRepost": false
   }
