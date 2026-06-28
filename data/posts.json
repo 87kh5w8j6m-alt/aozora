@@ -202398,8 +202398,8 @@
     "text": "",
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
-    "repostCount": 116,
-    "likeCount": 450,
+    "repostCount": 117,
+    "likeCount": 451,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 149,
-    "likeCount": 703,
+    "repostCount": 150,
+    "likeCount": 704,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202904,8 +202904,8 @@
     "text": "",
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 404,
+    "repostCount": 112,
+    "likeCount": 416,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -203023,7 +203023,7 @@
     "createdAt": "2026-06-28T08:30:54.455Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-06-28T08:30:57.961Z",
     "embed": {
       "external": {
@@ -203078,6 +203078,81 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-28T08:09:30.665Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdnymqgnk2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdnymqgnk2i",
+    "cid": "bafyreigmtspbiserbntwuwdevdqlptg2zjoh4r2oebycwtmqxlm7ktf67q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "熱中症でやらかして以来、連休の旅行計画なかなか立てる気にならんかったんだが、さっき思い立って仮の宿だけ押さえた。本当に行くかはまだ分からない。",
+    "createdAt": "2026-06-28T09:30:13.606Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T09:30:13.964Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdnuzkand2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdnuzkand2h",
+    "cid": "bafyreielwgmypg656s5vnfglhww5mgxcw7adzpcrrrb2sklt6ben4jfjfy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第22話視聴終了。しるく△\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-06-28T09:28:12.278655Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T09:28:12.864Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdn57yudc2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdn57yudc2i",
+    "cid": "bafyreidjzunfils7jzkh3ukug4wigwc6sk5utckhvrwjq4vwiswl3gwq2e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "エリア決めて仮の宿だけ抑えました。ルートやスポットはこれから。",
+    "createdAt": "2026-06-28T09:14:54.280Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-06-28T09:14:55.766Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdmica7m22i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdmica7m22i",
+    "cid": "bafyreicc6oll5gv3w7httfhs67qtfpn3lcxsin2ijtwr65pbonsw4vignq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "夏の旅行の計画が発生したかもしれない",
+    "createdAt": "2026-06-28T09:03:11.976Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-28T09:03:12.362Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdmc33unm23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdmc33unm23",
+    "cid": "bafyreihdysdglfu4prhg4gqpvnaw7w6bic6oqvmlj6kukherz3w6xtq5tm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第21話視聴終了。えっ！？難しくない！？\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-06-28T08:59:42.590397Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-28T08:59:43.360Z",
     "embed": null,
     "isRepost": false
   }
