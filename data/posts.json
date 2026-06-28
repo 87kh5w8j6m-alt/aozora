@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 675,
-    "likeCount": 945,
+    "likeCount": 946,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -202597,7 +202597,7 @@
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
     "repostCount": 152,
-    "likeCount": 706,
+    "likeCount": 707,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202904,8 +202904,8 @@
     "text": "",
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 440,
+    "repostCount": 120,
+    "likeCount": 444,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -203183,6 +203183,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-06-28T12:05:08.861Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdzitva3j2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpdzitva3j2j",
+    "cid": "bafyreihtzd3aujfwhpwxrwgvrofzp6x77oq467zjwp7erqvj4hnplx6nlm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "サンダルは擦れて足痛くなるから苦手で、夏でもお靴履いてた。が、もう暑すぎて無理なので今年はサンダル買った。なるべく痛くならなそうなやつで",
+    "createdAt": "2026-06-28T12:56:08.328811Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-06-28T12:56:09.260Z",
     "embed": null,
     "isRepost": false
   }
