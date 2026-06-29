@@ -203255,8 +203255,8 @@
     "text": "",
     "createdAt": "2026-06-29T00:57:27.609Z",
     "replyCount": 0,
-    "repostCount": 125,
-    "likeCount": 528,
+    "repostCount": 126,
+    "likeCount": 533,
     "indexedAt": "2026-06-29T00:57:35.959Z",
     "embed": {
       "images": [
@@ -203326,5 +203326,20 @@
     "indexedAt": "2026-06-29T12:30:41.366Z",
     "embed": null,
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgovxlel224": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgovxlel224",
+    "cid": "bafyreigkvj7byfw5ptdgjwy2olb3go5zf22oraa3pmsmgwgudoktilexxq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Vivaldiのマウスジェスチャーが染み付いているからSafariでも同じように使えないのが不満だったんだけれど、拡張機能作って大体実現出きたので満足！",
+    "createdAt": "2026-06-29T14:24:37.268Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-29T14:24:37.665Z",
+    "embed": null,
+    "isRepost": false
   }
 }
