@@ -202183,7 +202183,7 @@
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
     "repostCount": 85,
-    "likeCount": 409,
+    "likeCount": 410,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202905,7 +202905,7 @@
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
     "repostCount": 127,
-    "likeCount": 484,
+    "likeCount": 486,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -203255,8 +203255,8 @@
     "text": "",
     "createdAt": "2026-06-29T00:57:27.609Z",
     "replyCount": 0,
-    "repostCount": 116,
-    "likeCount": 481,
+    "repostCount": 118,
+    "likeCount": 500,
     "indexedAt": "2026-06-29T00:57:35.959Z",
     "embed": {
       "images": [
@@ -203273,5 +203273,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgdmbvzsu2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgdmbvzsu2q",
+    "cid": "bafyreicr3ve5jqi4ljt32q3oy524l7mkguzuv73cnqpcliul6pjtr5g5zm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "気を抜くと20年前のアニメの話ばっかりしてて絶望。絶望したっ！←",
+    "createdAt": "2026-06-29T11:02:20.458192Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-29T11:02:21.561Z",
+    "embed": null,
+    "isRepost": false
   }
 }
