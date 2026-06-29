@@ -202182,8 +202182,8 @@
     "text": "",
     "createdAt": "2026-06-25T06:44:36.751Z",
     "replyCount": 0,
-    "repostCount": 85,
-    "likeCount": 410,
+    "repostCount": 87,
+    "likeCount": 411,
     "indexedAt": "2026-06-25T06:44:45.562Z",
     "embed": {
       "images": [
@@ -202398,8 +202398,8 @@
     "text": "",
     "createdAt": "2026-06-25T21:21:54.275Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 453,
+    "repostCount": 118,
+    "likeCount": 454,
     "indexedAt": "2026-06-25T21:22:04.066Z",
     "embed": {
       "images": [
@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 154,
-    "likeCount": 713,
+    "repostCount": 156,
+    "likeCount": 714,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202904,7 +202904,7 @@
     "text": "",
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
-    "repostCount": 127,
+    "repostCount": 128,
     "likeCount": 486,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
@@ -203255,8 +203255,8 @@
     "text": "",
     "createdAt": "2026-06-29T00:57:27.609Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 500,
+    "repostCount": 122,
+    "likeCount": 513,
     "indexedAt": "2026-06-29T00:57:35.959Z",
     "embed": {
       "images": [
@@ -203288,5 +203288,43 @@
     "indexedAt": "2026-06-29T11:02:21.561Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgizpjhu227": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgizpjhu227",
+    "cid": "bafyreihhzj566ble6gjyhwp74qtdgp2kjv3d43oorhntj4cwhiaqt4nbhe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「上伊那ぼたん、酔へる姿は百合の花」オリジナルサウンドトラックを聴きながら街を歩くと登場人物になった気がして特別な気分になる music.youtube.com/playlist?lis...",
+    "createdAt": "2026-06-29T12:39:20.585Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-29T12:39:23.563Z",
+    "embed": {
+      "external": {
+        "uri": "https://music.youtube.com/playlist?list=OLAK5uy_lQi5QWUF03FL55tZukbaK2w8QFc4inusg",
+        "title": "TVアニメ「上伊那ぼたん、酔へる姿は百合の花」オリジナルサウンドトラック - Album by Kana Hashiguchi",
+        "description": "Listen to TVアニメ「上伊那ぼたん、酔へる姿は百合の花」オリジナルサウンドトラック by Kana Hashiguchi on YouTube Music - a dedicated music app with official songs, music videos, remixes, covers, and more.",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichievwbqgjnhdbufldxxmcn52hdegr3uxy5327uul2uvuhofm33a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:ual5hpaizdefqx5nwmy3lmoy/app.bsky.feed.post/3mpgik6a7ak2b": {
+    "uri": "at://did:plc:ual5hpaizdefqx5nwmy3lmoy/app.bsky.feed.post/3mpgik6a7ak2b",
+    "cid": "bafyreids3g6iof6k7kivxzvi3i2lm5zqckfae2f7di3o6u2bi5hggychie",
+    "author": "ikas2nd.bsky.social",
+    "authorName": "オイサン64〜悪霊の神々",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ual5hpaizdefqx5nwmy3lmoy/bafkreifumjdd5ihueey37uv4cmo4j6pnaxqi3b26h7qtjiv4dl3jgu4kii",
+    "text": "最近オシゴトで若い人と話してると、「とりあえずAIは使ってるのでサボってはないです」みたいな気色、ところどころにうかがはる。「まだできてなくて、ここから進めないんですよね、壁打ちはしてます」とて、パコイロットなるものの画面を、そっと示す者のありけるもいとをかし。",
+    "createdAt": "2026-06-29T12:30:39.138Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 1,
+    "indexedAt": "2026-06-29T12:30:41.366Z",
+    "embed": null,
+    "isRepost": true
   }
 }
