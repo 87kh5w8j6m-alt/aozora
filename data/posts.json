@@ -203255,8 +203255,8 @@
     "text": "",
     "createdAt": "2026-06-29T00:57:27.609Z",
     "replyCount": 0,
-    "repostCount": 126,
-    "likeCount": 533,
+    "repostCount": 127,
+    "likeCount": 538,
     "indexedAt": "2026-06-29T00:57:35.959Z",
     "embed": {
       "images": [
@@ -203339,6 +203339,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-06-29T14:24:37.665Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgqvs2rkc2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpgqvs2rkc2e",
+    "cid": "bafyreidogqzlnw4m724vnmkusignwp4fzlkigvdkhpvtizjeoeicgu2b4y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "右クリックの判定の処理が難しいな。理想的なかたちにはできないっぽい",
+    "createdAt": "2026-06-29T15:00:18.966Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-29T15:00:19.764Z",
     "embed": null,
     "isRepost": false
   }
