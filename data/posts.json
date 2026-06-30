@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 122,
-    "likeCount": 499,
+    "repostCount": 124,
+    "likeCount": 502,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203463,9 +203463,37 @@
     "createdAt": "2026-06-30T21:05:53.757297Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-06-30T21:05:54.283Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpjy33wizs2u": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpjy33wizs2u",
+    "cid": "bafyreihpvn56thl42qkxfs35qup2xbstwjzzew7lbemawzrftfdzruapqa",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-06-30T21:46:32.490Z",
+    "replyCount": 0,
+    "repostCount": 62,
+    "likeCount": 202,
+    "indexedAt": "2026-06-30T21:46:41.986Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicbqt76jisqsfncs4xibfvxbk3bh6dttzosg7g42rcdn4hxjsmmfq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicbqt76jisqsfncs4xibfvxbk3bh6dttzosg7g42rcdn4hxjsmmfq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
