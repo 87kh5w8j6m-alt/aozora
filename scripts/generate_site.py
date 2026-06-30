@@ -443,7 +443,7 @@ def generate_html(posts):
                     <li><a href="index.html">ホーム</a></li>
                     <li><a href="images.html">画像一覧</a></li>
                     <li><a href="ranking.html">いいねランキング</a></li>
-                    <li><a href="activity_ranking.html">投稿数ランキング</a></li>
+                    <li><a href="activity_ranking.html">📊 投稿数ランキング</a></li>
                     <li><a href="archive.html">アーカイブ</a></li>
                 </ul>
             </section>
@@ -560,7 +560,7 @@ def generate_html(posts):
         async function executeSearch() {
             const query = document.getElementById('global-search-input').value.toLowerCase().trim();
             const statusDiv = document.getElementById('search-status');
-            const resultsDiv = document.getElementById('search-results');
+            const Math_resultsDiv = document.getElementById('search-results');
             if (!query) return;
             statusDiv.innerHTML = "検索データを読み込み中...";
             resultsDiv.innerHTML = "";
@@ -635,7 +635,7 @@ def generate_html(posts):
     </script>
     """
 
-    # === カレンダーUIのパーツ構成 ===
+    # === カレンダーUI of パーツ構成 ===
     cal = calendar.Calendar(firstweekday=0) # 月曜始まり
     weekdays_header = ["月", "火", "水", "木", "金", "土", "日"]
     
@@ -843,7 +843,8 @@ def generate_html(posts):
             index_content += make_day_heading(day_str, count)
         index_content += render_post(post)
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(base_html.format(title="最新投稿", content=index_content, calendar_widget=cal_widget_html))
+        # titleに f"最新投稿 ({len(sorted_posts)} posts)" を指定して合計ポスト数を表示
+        f.write(base_html.format(title=f"最新投稿 ({len(sorted_posts)} posts)", content=index_content, calendar_widget=cal_widget_html))
 
     # 3. 画像一覧の書き出し
     img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
