@@ -612,9 +612,9 @@
           "text": "Bluesky のブランド・ガイドラインで\n\n正🙆‍♀ Bluesky\n誤🙅 BlueSky、Blue Sky、bluesky、BLUESKY\n\nというのが明確化されました。\n空白を入れずに、先頭の B のみ大文字"
         },
         "labels": [],
-        "likeCount": 497,
+        "likeCount": 498,
         "replyCount": 0,
-        "repostCount": 375,
+        "repostCount": 376,
         "quoteCount": 4,
         "indexedAt": "2026-06-04T09:57:38.861Z",
         "embeds": [
@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 111,
-    "likeCount": 448,
+    "repostCount": 114,
+    "likeCount": 455,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203436,6 +203436,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpiwyvijcu2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpiwyvijcu2s",
+    "cid": "bafyreifgyv5ghsz3bjukaoxy44msh6xsg67bg3wwef5ultmngbirwoftcm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "月が丸いですね",
+    "createdAt": "2026-06-30T11:54:44.094131Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-30T11:54:45.382Z",
+    "embed": null,
     "isRepost": false
   }
 }
