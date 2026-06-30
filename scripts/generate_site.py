@@ -843,8 +843,8 @@ def generate_html(posts):
             index_content += make_day_heading(day_str, count)
         index_content += render_post(post)
     with open("index.html", "w", encoding="utf-8") as f:
-        # titleに f"最新投稿 ({len(sorted_posts)} posts)" を指定して合計ポスト数を表示
-        f.write(base_html.format(title=f"最新投稿 ({len(sorted_posts)} posts)", content=index_content, calendar_widget=cal_widget_html))
+        # titleに f"最新投稿 ({len(sorted_posts):,} posts)" を指定して合計ポスト数を3桁カンマ区切りで表示
+        f.write(base_html.format(title=f"最新投稿 ({len(sorted_posts):,} posts)", content=index_content, calendar_widget=cal_widget_html))
 
     # 3. 画像一覧の書き出し
     img_content = "".join([render_post(p) for p in sorted_posts if p.get("embed") and p["embed"].get("$type") == "app.bsky.embed.images#view"])
