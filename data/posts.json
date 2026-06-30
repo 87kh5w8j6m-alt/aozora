@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 106,
-    "likeCount": 430,
+    "repostCount": 110,
+    "likeCount": 440,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203413,6 +203413,29 @@
     "likeCount": 0,
     "indexedAt": "2026-06-30T03:32:36.682Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpin2qwh5b2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpin2qwh5b2x",
+    "cid": "bafyreiegtugdc7ekixgthr2no423exdr656ml5ipzk3erg5yd4cztyeasa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "LINEカレンダー、スマホ標準カレンダーとの連携を開始　LINE上で予定の一括管理や編集が可能に - ITmedia Mobile\nhttps://www.itmedia.co.jp/mobile/articles/2606/30/news131.html 逆なんだよなー。LINEカレンダー上のものをスマホ標準カレンダーから見えるようにしてくれないと",
+    "createdAt": "2026-06-30T08:56:48.955306Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-06-30T08:56:50.684Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/mobile/articles/2606/30/news131.html",
+        "title": "LINEカレンダー、スマホ標準カレンダーとの連携を開始　LINE上で予定の一括管理や編集が可能に",
+        "description": "LINEヤフーは、LINEカレンダーとスマートフォンに標準搭載されているカレンダーとの連携機能の提供を開始した。スマートフォンのカレンダーに登録された予定をLINE上でまとめて閲覧や編集できるようになる。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiewwmsv5lgvpujx2cn73q36ew6a45kgpvzjb7lz65jtjpeatac5rm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
