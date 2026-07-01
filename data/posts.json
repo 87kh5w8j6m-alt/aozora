@@ -203477,8 +203477,8 @@
     "text": "",
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
-    "repostCount": 119,
-    "likeCount": 456,
+    "repostCount": 120,
+    "likeCount": 458,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203553,6 +203553,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-01T04:22:43.381Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mplnrggsml25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mplnrggsml25",
+    "cid": "bafyreifhlfpt3vjuxqf445yasuqetrpnuqd3c4m22aoeeizgf7m7qjawaq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "メイドさんは食べるだけ 第12話視聴終了。オープニングの口上と主題歌が特別沁みてくる\n#メイドさんは食べるだけ #メイ食べ",
+    "createdAt": "2026-07-01T13:47:29.013091Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-01T13:47:30.087Z",
     "embed": null,
     "isRepost": false
   }
