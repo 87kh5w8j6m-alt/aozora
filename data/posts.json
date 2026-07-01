@@ -199032,7 +199032,7 @@
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
     "repostCount": 1130,
-    "likeCount": 1168,
+    "likeCount": 1169,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 125,
-    "likeCount": 504,
+    "repostCount": 126,
+    "likeCount": 505,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203477,8 +203477,8 @@
     "text": "",
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 347,
+    "repostCount": 98,
+    "likeCount": 363,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203523,6 +203523,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-01T03:21:32.682Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpko7igc5c2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpko7igc5c2k",
+    "cid": "bafyreifcdl5aar74ulfvtzejfpyaeaacn5v5yaubl2locegrcs6o5bq3xm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2012年のWEC復活から毎年現地観戦していたのが、昨年は風邪ひいて連続記録が途絶えてしまった。",
+    "createdAt": "2026-07-01T04:22:42.128866Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-01T04:22:43.401Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpko7igb622k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpko7igb622k",
+    "cid": "bafyreibemrv76y73lizqf42x47vs7iilsm5zzk5ronheriaylzoc4dgeva",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "指定駐車券と指定席券を確保したのでWEC富士のために手配しなきゃいけないものはこれで終わり。あとは行くだけ。",
+    "createdAt": "2026-07-01T04:22:42.127866Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-01T04:22:43.381Z",
     "embed": null,
     "isRepost": false
   }
