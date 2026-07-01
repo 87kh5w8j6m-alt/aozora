@@ -201441,8 +201441,8 @@
     "text": "",
     "createdAt": "2026-06-21T23:14:56.458Z",
     "replyCount": 1,
-    "repostCount": 105,
-    "likeCount": 426,
+    "repostCount": 106,
+    "likeCount": 427,
     "indexedAt": "2026-06-21T23:15:06.364Z",
     "embed": {
       "images": [
@@ -203477,8 +203477,8 @@
     "text": "",
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
-    "repostCount": 89,
-    "likeCount": 325,
+    "repostCount": 92,
+    "likeCount": 347,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203495,5 +203495,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpkledr7yi2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpkledr7yi2q",
+    "cid": "bafyreiau2gqdc4jcky5ey2bjctf47akldzpazebpnaevjoha6ryifc5ypi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-07-01T03:31:42.380071Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-01T03:31:43.887Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpkks4ta7j2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpkks4ta7j2u",
+    "cid": "bafyreich2x3ae3jxc6myg4ajnlays76j4va4la4wuxr5l7b62zo46jp3te",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC富士の指定駐車券とグラスタ指定席を確保！",
+    "createdAt": "2026-07-01T03:21:31.349151Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-01T03:21:32.682Z",
+    "embed": null,
+    "isRepost": false
   }
 }
