@@ -203645,5 +203645,33 @@
     "indexedAt": "2026-07-02T03:32:51.491Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mpno7qradq2t": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mpno7qradq2t",
+    "cid": "bafyreihpa6qsbc4pot3bkdehe6ho3p4bjhiomsjfj6thrg32366a6n34eq",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
+    "createdAt": "2026-07-02T18:00:47+09:00",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 11,
+    "indexedAt": "2026-07-02T09:00:50.883Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicllvhfwdvje3ccvxr3tdqi3murqajk2kgl4imfzrcupj7xnwa3ry",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicllvhfwdvje3ccvxr3tdqi3murqajk2kgl4imfzrcupj7xnwa3ry",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1698,
+            "width": 1200
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
