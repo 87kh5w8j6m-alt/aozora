@@ -203773,7 +203773,7 @@
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 431,
+    "likeCount": 433,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203893,6 +203893,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-02T22:01:23.284Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpp6j43ej62j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpp6j43ej62j",
+    "cid": "bafyreicrerltjrcghuq2vgoeefd2ws2tdko272xehsije34bto2yruc2qe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "折りたたみ傘を新調した",
+    "createdAt": "2026-07-02T23:25:02.647070Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T23:25:05.490Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpp6fr7to22t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpp6fr7to22t",
+    "cid": "bafyreid7k6qxtkz7vl6pyrkk5j2syerw5r3z5qadngc5kpl4jn7n3slhr4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あぶねーっ！セーフ！",
+    "createdAt": "2026-07-02T23:23:11.504Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T23:23:12.585Z",
     "embed": null,
     "isRepost": false
   }
