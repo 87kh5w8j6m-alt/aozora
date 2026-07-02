@@ -203880,5 +203880,20 @@
     "indexedAt": "2026-07-02T21:09:06.517Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpoztic3ep22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpoztic3ep22",
+    "cid": "bafyreigfdorzs3ccphil6zgwbsos6op66g2d6eknofwxvvctzsgqjczjje",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第65話視聴終了。",
+    "createdAt": "2026-07-02T22:01:22.755063Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T22:01:23.284Z",
+    "embed": null,
+    "isRepost": false
   }
 }
