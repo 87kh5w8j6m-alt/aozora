@@ -203655,8 +203655,8 @@
     "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
-    "repostCount": 8,
-    "likeCount": 16,
+    "repostCount": 9,
+    "likeCount": 17,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
       "images": [
@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 400,
+    "repostCount": 94,
+    "likeCount": 408,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203848,6 +203848,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-07-02T12:59:07.285Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo6wefkrq2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo6wefkrq2k",
+    "cid": "bafyreiayvmrvtu5cykrjk6ncx3owhdv4c3hbyzopa66h3xtvil66klabrm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "魔法の姉妹ルルットリリィ 第8話視聴終了。",
+    "createdAt": "2026-07-02T13:59:48.246819Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T13:59:48.881Z",
     "embed": null,
     "isRepost": false
   }
