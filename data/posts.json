@@ -202597,7 +202597,7 @@
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
     "repostCount": 157,
-    "likeCount": 716,
+    "likeCount": 717,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -202905,7 +202905,7 @@
     "createdAt": "2026-06-27T23:24:21.002Z",
     "replyCount": 0,
     "repostCount": 131,
-    "likeCount": 498,
+    "likeCount": 499,
     "indexedAt": "2026-06-27T23:24:28.061Z",
     "embed": {
       "images": [
@@ -203256,7 +203256,7 @@
     "createdAt": "2026-06-29T00:57:27.609Z",
     "replyCount": 0,
     "repostCount": 136,
-    "likeCount": 575,
+    "likeCount": 576,
     "indexedAt": "2026-06-29T00:57:35.959Z",
     "embed": {
       "images": [
@@ -203382,7 +203382,7 @@
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
     "repostCount": 128,
-    "likeCount": 517,
+    "likeCount": 518,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203655,8 +203655,8 @@
     "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
-    "repostCount": 10,
-    "likeCount": 25,
+    "repostCount": 11,
+    "likeCount": 27,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
       "images": [
@@ -203773,7 +203773,7 @@
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 429,
+    "likeCount": 431,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203863,6 +203863,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-02T13:59:48.881Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpowulkh7x2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpowulkh7x2n",
+    "cid": "bafyreicvhoz33tjmnrb5f4p3hwweglog3rdovpypn5fbolipd64jc7mjgm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-07-02T21:08:18.248622Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-02T21:09:06.517Z",
     "embed": null,
     "isRepost": false
   }
