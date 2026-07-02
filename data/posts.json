@@ -203477,8 +203477,8 @@
     "text": "",
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
-    "repostCount": 129,
-    "likeCount": 489,
+    "repostCount": 130,
+    "likeCount": 488,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203655,7 +203655,7 @@
     "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
-    "repostCount": 7,
+    "repostCount": 8,
     "likeCount": 14,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
@@ -203683,8 +203683,8 @@
     "text": "今日はじみスタ号が納車から10周年の記念日！🎉全然飽きのこないから今でも乗り込むとテンション上がるし屋根を開けたらBlueskyな最高の相棒です。これからもよろしくね！",
     "createdAt": "2026-07-02T10:42:20.247671Z",
     "replyCount": 0,
-    "repostCount": 0,
-    "likeCount": 1,
+    "repostCount": 2,
+    "likeCount": 8,
     "indexedAt": "2026-07-02T10:42:21.685Z",
     "embed": {
       "images": [
@@ -203732,5 +203732,63 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpnwbzyokq2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpnwbzyokq2k",
+    "cid": "bafyreifdv5hv2gxzhpusdrek7l4sdpxrlxudcekcxpmo3m3fd2bnn4erxe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まだmacOSをTahoeにアップデートしていないんだけど、どうなの？そろそろこなれて来た？",
+    "createdAt": "2026-07-02T11:25:16.254993Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T11:25:16.884Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpnvn74sos2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpnvn74sos2i",
+    "cid": "bafyreidfmddxzpxikmcblbtxfi3tzmlbq7uxmavy2wn5ncd74c6pn6gmcy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お団子ぐぅかわいい",
+    "createdAt": "2026-07-02T11:13:37.552Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T11:13:37.686Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpmju6rrfk2h": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpmju6rrfk2h",
+    "cid": "bafyreif6oqgol3mb4p7u2ffsgfku5m2beps534ucgkwbtnrq4wrg2utui4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-01T22:10:07.430Z",
+    "replyCount": 0,
+    "repostCount": 90,
+    "likeCount": 381,
+    "indexedAt": "2026-07-01T22:10:22.583Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig7dk3vvggypuvlfr6rvsmwo34bqrkzpciwrbijil3qwyjqt4btde",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig7dk3vvggypuvlfr6rvsmwo34bqrkzpciwrbijil3qwyjqt4btde",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
