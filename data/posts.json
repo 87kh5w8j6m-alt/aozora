@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 82,
-    "likeCount": 261,
+    "likeCount": 262,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -203382,7 +203382,7 @@
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
     "repostCount": 128,
-    "likeCount": 515,
+    "likeCount": 517,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203478,7 +203478,7 @@
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
     "repostCount": 130,
-    "likeCount": 488,
+    "likeCount": 489,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203684,7 +203684,7 @@
     "createdAt": "2026-07-02T10:42:20.247671Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 9,
+    "likeCount": 10,
     "indexedAt": "2026-07-02T10:42:21.685Z",
     "embed": {
       "images": [
@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 387,
+    "repostCount": 92,
+    "likeCount": 400,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203803,6 +203803,51 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-02T12:42:58.189Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo65fp2532b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo65fp2532b",
+    "cid": "bafyreig75hw7kuih7ddafiyjzlvktt67lwfcve3muauoxznthz5uzqx22e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "定期券を継続購入",
+    "createdAt": "2026-07-02T13:45:50.770135Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T13:45:51.484Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo4rhklzj2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo4rhklzj2n",
+    "cid": "bafyreihd22xjyakwwrfua7csfahucr2n45coyijakkotnrv7t6fjrvzlcm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "魔法の姉妹ルルットリリィ 第7話視聴終了。",
+    "createdAt": "2026-07-02T13:21:16.169290Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T13:21:16.981Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo3jtkt5d2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo3jtkt5d2k",
+    "cid": "bafyreibgyxtgliahk5xh36pmm474q6zgsxwquryejh3eo6kc7rzd2u3o2e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "上伊那ぼたん、酔へる姿は百合の花 第12話視聴終了。",
+    "createdAt": "2026-07-02T12:59:06.593949Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-02T12:59:07.285Z",
     "embed": null,
     "isRepost": false
   }
