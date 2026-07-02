@@ -203656,7 +203656,7 @@
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
     "repostCount": 8,
-    "likeCount": 14,
+    "likeCount": 16,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
       "images": [
@@ -203684,7 +203684,7 @@
     "createdAt": "2026-07-02T10:42:20.247671Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 8,
+    "likeCount": 9,
     "indexedAt": "2026-07-02T10:42:21.685Z",
     "embed": {
       "images": [
@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 90,
-    "likeCount": 381,
+    "repostCount": 91,
+    "likeCount": 387,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203790,5 +203790,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo2mxduul2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpo2mxduul2w",
+    "cid": "bafyreidfkuwi63xdp5d2sonw5njtkqisfu65hks3wstpvy2kv2l3dqn4rq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのスクールカレンダーをめくり。水玉マステにボーディングチケット🎫水色リボンのほっちゃんかわいい！\n#堀江由衣",
+    "createdAt": "2026-07-02T12:42:57.430370Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-02T12:42:58.189Z",
+    "embed": null,
+    "isRepost": false
   }
 }
