@@ -203478,7 +203478,7 @@
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 488,
+    "likeCount": 489,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203655,8 +203655,8 @@
     "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
-    "repostCount": 5,
-    "likeCount": 11,
+    "repostCount": 7,
+    "likeCount": 14,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
       "images": [
@@ -203673,5 +203673,64 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpntvbh7zc2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpntvbh7zc2b",
+    "cid": "bafyreic5tgw24oz2xmf6w63kab7w3azcnqoxxctraarrur6gmp5gf7k2pu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日はじみスタ号が納車から10周年の記念日！🎉全然飽きのこないから今でも乗り込むとテンション上がるし屋根を開けたらBlueskyな最高の相棒です。これからもよろしくね！",
+    "createdAt": "2026-07-02T10:42:20.247671Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-02T10:42:21.685Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigwtlngcfymxawbds6olhjji6lcjixfzf7mjtyszjhwvbjnc4pv6q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigwtlngcfymxawbds6olhjji6lcjixfzf7mjtyszjhwvbjnc4pv6q",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreias5bp55nyseco4z7agsht3n75t4ocl2safimzucmq63ae4fqntoi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreias5bp55nyseco4z7agsht3n75t4ocl2safimzucmq63ae4fqntoi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif3w7vgbn2lbrwj4m62zociqc3kt7pnguzmyhreucszylkvsk7mjm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif3w7vgbn2lbrwj4m62zociqc3kt7pnguzmyhreucszylkvsk7mjm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichzjd6vcbsiv43weclebmgpe54ant7wy4243z24zxijkwaswwday",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichzjd6vcbsiv43weclebmgpe54ant7wy4243z24zxijkwaswwday",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
   }
 }
