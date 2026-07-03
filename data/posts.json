@@ -203382,7 +203382,7 @@
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
     "repostCount": 129,
-    "likeCount": 522,
+    "likeCount": 523,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -204049,8 +204049,23 @@
     "createdAt": "2026-07-03T20:46:04.082411Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-03T20:46:05.209Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprh3bv5u326": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprh3bv5u326",
+    "cid": "bafyreiel33oprcd5aisp4fwukdwgfyadtv6kad34jr3prfvbbornfoqbwq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1240回聴取終了。",
+    "createdAt": "2026-07-03T21:03:42.572781Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-03T21:03:43.181Z",
     "embed": null,
     "isRepost": false
   }
