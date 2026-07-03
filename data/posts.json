@@ -203925,5 +203925,20 @@
     "indexedAt": "2026-07-02T23:23:12.585Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppmad4qss2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppmad4qss2e",
+    "cid": "bafyreicmptxhbwffvivafxsvssy3f4ksxjknnthfqvfvseh7ipvgotquve",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-07-03T03:30:40.362603Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-03T03:30:41.885Z",
+    "embed": null,
+    "isRepost": false
   }
 }
