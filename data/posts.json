@@ -203773,7 +203773,7 @@
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
     "repostCount": 99,
-    "likeCount": 444,
+    "likeCount": 445,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -204049,7 +204049,7 @@
     "createdAt": "2026-07-03T20:46:04.082411Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-07-03T20:46:05.209Z",
     "embed": null,
     "isRepost": false
@@ -204078,8 +204078,8 @@
     "text": "",
     "createdAt": "2026-07-03T01:27:31.665Z",
     "replyCount": 2,
-    "repostCount": 115,
-    "likeCount": 427,
+    "repostCount": 116,
+    "likeCount": 437,
     "indexedAt": "2026-07-03T01:27:47.585Z",
     "embed": {
       "images": [
@@ -204109,6 +204109,49 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-03T21:58:24.586Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mprnlaudzc2h": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mprnlaudzc2h",
+    "cid": "bafyreigkfcyzs263tefyn4d45txpvlr6puynahpdg6w4efyvuuonged2ay",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-03T23:00:01.280Z",
+    "replyCount": 1,
+    "repostCount": 42,
+    "likeCount": 155,
+    "indexedAt": "2026-07-03T23:00:07.385Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibxjzpz7rfmepqmoh4daztojqclfvptsmool6vfywr3rdh5jcuh5m",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibxjzpz7rfmepqmoh4daztojqclfvptsmool6vfywr3rdh5jcuh5m",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprprby5eh2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprprby5eh2s",
+    "cid": "bafyreicfwfr3kg5ii2q5m67pbq7zn2ljikolyftp7gpypbjrstkzmjfkqa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第47回聴取終了。",
+    "createdAt": "2026-07-03T23:39:10.273912Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-03T23:39:11.388Z",
     "embed": null,
     "isRepost": false
   }
