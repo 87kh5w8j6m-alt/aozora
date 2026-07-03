@@ -2025,7 +2025,7 @@
     "createdAt": "2026-05-30T02:49:04.364890Z",
     "replyCount": 1,
     "repostCount": 2,
-    "likeCount": 105,
+    "likeCount": 104,
     "indexedAt": "2026-05-30T02:49:06.172Z",
     "embed": {
       "images": [
@@ -203478,7 +203478,7 @@
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
     "repostCount": 132,
-    "likeCount": 500,
+    "likeCount": 501,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -204011,6 +204011,29 @@
         "title": "S耐チャレンジ第2戦SUGOにいよいよSAKAE MOTORSPORTSのプロボックスが登場！「まずは完走」が目標 | 国内レース他 | autosport web",
         "description": "　7月4〜5日、宮城県のスポーツランドSUGOで行われるENEOSスーパー耐久シリーズ2026 Empowered by",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiarzcx4lznj5iiqucryuzsdso5wvdr2vtqnzfjohfelrgzi5g2fte"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpqigl3r7k2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpqigl3r7k2q",
+    "cid": "bafyreicpktnyubuok3vgzf4pfca5lxbxwwrfebxgr6ywi2qi3t6mjv6n4m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "私も4本しかなかった。夏クールなのに。全然知らんけどあらすじと脚本見てビビッと来たのは「きみが死ぬまで恋をしたい」\nkimishinu-anime.com",
+    "createdAt": "2026-07-03T11:55:15.791Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-03T11:55:23.586Z",
+    "embed": {
+      "external": {
+        "uri": "https://kimishinu-anime.com",
+        "title": "TVアニメ『きみが死ぬまで恋をしたい』公式サイト",
+        "description": "戦争用兵器として育てられる少女たちの生と死と恋の物語、待望のTVアニメ化。2026年7月放送開始！",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig5ho56buuczml6kakqyww3zdlbvyqx5ez3v55rwmnrlmqb7pmtzy"
       },
       "$type": "app.bsky.embed.external#view"
     },
