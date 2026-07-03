@@ -203477,8 +203477,8 @@
     "text": "",
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 498,
+    "repostCount": 132,
+    "likeCount": 499,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 98,
-    "likeCount": 441,
+    "repostCount": 99,
+    "likeCount": 442,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -203939,6 +203939,58 @@
     "likeCount": 0,
     "indexedAt": "2026-07-03T03:30:41.885Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppnvblult25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppnvblult25",
+    "cid": "bafyreid2ywedln2wg63jg4pgkzlttria3abociizjs2vyifvzbo2llvgzy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying episode Solo - るか・ななせ・かな・みほ from AIKATSU☆STARS! (BRILLIANT☆STARS [DISC1])",
+    "createdAt": "2026-07-03T04:00:17.188828Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-03T04:00:18.184Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibsus2kw6jyhekg52p5u7ins2oeo6jicxbebnwkslc4wsge3wbxxu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibsus2kw6jyhekg52p5u7ins2oeo6jicxbebnwkslc4wsge3wbxxu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 711,
+            "width": 800
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppnqmkcop2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mppnqmkcop2j",
+    "cid": "bafyreiabywdeswjoklzhpt4rrkbiqcykxsgvr456uwtvycgqdjiphoj4xu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "『アイカツスターズ！』11年ぶり新作映画、2027年初春に公開　当時のスタッフ再集結で映像解禁  | オリコンニュース（ORICON NEWS） https://www.oricon.co.jp/news/2465290/full/ ふぁっ！？",
+    "createdAt": "2026-07-03T03:57:40.899455Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 1,
+    "indexedAt": "2026-07-03T03:57:42.582Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.oricon.co.jp/news/2465290/full/",
+        "title": "『アイカツスターズ！』11年ぶり新作映画、2027年初春に公開　当時のスタッフ再集結で映像解禁 ",
+        "description": "ニュース｜　アニメ『アイカツスターズ！』の新作映画『アイカツスターズ！ 〜星々のProgress〜』が制作されることが決定し、2027年初春に劇場公開されることが発表された。『アイカツスターズ！』の新作映画は2016年の公開以来、11年ぶりとなる。あわせて特報映像とティザービジュアルが解禁となり、監督は佐藤照雄氏、シナリオは柿原優子氏が担当するなど、当時のクリエイターが再集結する。　本日3日より全国70館で上映スタートした、公開10周年を記念したリバイバル上映「『劇場版アイカツスターズ！』 -Anniversary Stars-」にて、本編上映後の後付け映像として新作映画『アイカツスターズ！ 〜星々のProgress（プログレス）〜』の特報映像がサプライズ発表。　特報映像では「10年分のありがとう」と共に流れる懐かしのテレビシリーズ映像に加え、『アイカツスターズ！ 〜星々のProgress〜』の新規カットも先行公開。ティザービジュアルでは、新たなドレスに身を包む虹野ゆめが描かれている。　また、ムビチケ前売り券の販売もスタートし、特典付き前売り券を購入すると、ティザービジュアルで描かれたゆめが使用されたA5クリアファイルが配布される。　『アイカツ！シリーズ』は、2012年に、データカードダス展開、テレビ放送がはじまった、トップアイドルを目指してアイドル活動(＝アイカツ！)に励む少女たちを描いた作品。これまでに『アイカツ！』『アイカツスターズ！』『アイカツフレンズ！』『アイカツオンパレード！』『アイカツプラネット！』とシリーズを展開してきた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifhwazjysjpy3zrzrshvfjygtcrqpxl63iyklb4j4uyqefque4di4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
