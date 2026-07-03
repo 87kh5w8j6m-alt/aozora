@@ -203992,5 +203992,28 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpqgrpfgj72y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpqgrpfgj72y",
+    "cid": "bafyreieitol5yctqnnkcaxg2x3lnsjxm4iiqzavfiohllknwazjuxkhadi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "S耐チャレンジ第2戦SUGOにいよいよSAKAE MOTORSPORTSのプロボックスが登場！「まずは完走」が目標  - https://www.as-web.jp/domestic/1330978 そもそも全日本プロボックス・サクシード選手権（JPSC）なるものがあるのね",
+    "createdAt": "2026-07-03T11:25:40.988596Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-03T11:25:42.486Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1330978",
+        "title": "S耐チャレンジ第2戦SUGOにいよいよSAKAE MOTORSPORTSのプロボックスが登場！「まずは完走」が目標 | 国内レース他 | autosport web",
+        "description": "　7月4〜5日、宮城県のスポーツランドSUGOで行われるENEOSスーパー耐久シリーズ2026 Empowered by",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiarzcx4lznj5iiqucryuzsdso5wvdr2vtqnzfjohfelrgzi5g2fte"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
