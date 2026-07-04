@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 116,
-    "likeCount": 503,
+    "repostCount": 120,
+    "likeCount": 514,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204486,6 +204486,29 @@
     "likeCount": 0,
     "indexedAt": "2026-07-04T10:55:45.283Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpt3physwc2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpt3physwc2i",
+    "cid": "bafyreid4ggtxh52dnjgp652p4hunymbo3274rhtpbjvzsh35w7255gzvhy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日はランチの後に星宮神社に御参りしてきた ﾌﾌｯﾋ！ flic.kr/p/2snd8nt",
+    "createdAt": "2026-07-04T12:45:35.108Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-04T12:45:39.685Z",
+    "embed": {
+      "external": {
+        "uri": "https://flic.kr/p/2snd8nt",
+        "title": "P7040011",
+        "description": "",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicudquvnt3n4yic4rfetbzng2fnc736d3ec74cz57virezkcb2ram"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
