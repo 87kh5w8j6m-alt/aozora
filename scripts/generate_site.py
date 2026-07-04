@@ -560,7 +560,7 @@ def generate_html(posts):
         async function executeSearch() {
             const query = document.getElementById('global-search-input').value.toLowerCase().trim();
             const statusDiv = document.getElementById('search-status');
-            const Math_resultsDiv = document.getElementById('search-results');
+            const resultsDiv = document.getElementById('search-results');
             if (!query) return;
             statusDiv.innerHTML = "検索データを読み込み中...";
             resultsDiv.innerHTML = "";
