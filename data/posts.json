@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 120,
-    "likeCount": 514,
+    "repostCount": 127,
+    "likeCount": 529,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204271,7 +204271,7 @@
     "createdAt": "2026-07-04T01:01:00.791Z",
     "replyCount": 0,
     "repostCount": 5,
-    "likeCount": 58,
+    "likeCount": 61,
     "indexedAt": "2026-07-04T01:01:12.982Z",
     "embed": {
       "images": [
@@ -204498,7 +204498,7 @@
     "createdAt": "2026-07-04T12:45:35.108Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-04T12:45:39.685Z",
     "embed": {
       "external": {
@@ -204506,6 +204506,29 @@
         "title": "P7040011",
         "description": "",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicudquvnt3n4yic4rfetbzng2fnc736d3ec74cz57virezkcb2ram"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpt5u4l7vc2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpt5u4l7vc2e",
+    "cid": "bafyreif6wboibz43woelnx2x2xxh6pwqjkftm6j3kplgkajp4q574rk7ly",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「一番のお気に入り」マコウィッキが語るポルシェGT3カーの真価。欧州3大24時間レースの違いと酷暑で活躍する標準装備  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-07-04T13:23:58.385Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-04T13:24:04.789Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1331109",
+        "title": "「一番のお気に入り」マコウィッキが語るポルシェGT3カーの真価。欧州3大24時間レースの違いと酷暑で活躍する標準装備 | ニュース | autosport web",
+        "description": "アルピーヌからWEC世界耐久選手権のハイパーカークラスに参戦しているフレデリック・マコウィッキは先週末、ベルギーで開催された『第78回トタルエナジーズ・スパ2",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibut45zcsz7winzt2bcodo74fvrv4lnrze3fh62udq2ryuyx26axe"
       },
       "$type": "app.bsky.embed.external#view"
     },
