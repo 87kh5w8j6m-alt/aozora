@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 129,
-    "likeCount": 523,
+    "repostCount": 130,
+    "likeCount": 524,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -203655,8 +203655,8 @@
     "text": "アニメ「〈物語〉シリーズ」新エピソード「業物語 かれんオウガ」は2026年冬放送\r\nhttps://natalie.mu/comic/news/678901?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
     "createdAt": "2026-07-02T18:00:47+09:00",
     "replyCount": 0,
-    "repostCount": 11,
-    "likeCount": 29,
+    "repostCount": 12,
+    "likeCount": 30,
     "indexedAt": "2026-07-02T09:00:50.883Z",
     "embed": {
       "images": [
@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 99,
-    "likeCount": 445,
+    "repostCount": 101,
+    "likeCount": 447,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -204078,8 +204078,8 @@
     "text": "",
     "createdAt": "2026-07-03T01:27:31.665Z",
     "replyCount": 2,
-    "repostCount": 116,
-    "likeCount": 437,
+    "repostCount": 118,
+    "likeCount": 440,
     "indexedAt": "2026-07-03T01:27:47.585Z",
     "embed": {
       "images": [
@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 42,
-    "likeCount": 155,
+    "repostCount": 63,
+    "likeCount": 242,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204153,6 +204153,74 @@
     "likeCount": 0,
     "indexedAt": "2026-07-03T23:39:11.388Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprts7hqoe25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprts7hqoe25",
+    "cid": "bafyreigc2hee724fky5jdi6gnyc3brmyaerudvcysctw6prtyhq5mjmupm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ギリ雨降ってない絶妙なお天気。こんなドライブもたまにはいい",
+    "createdAt": "2026-07-04T00:51:16.207979Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-04T00:51:17.784Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigb2xiur2yxuph6yvrrmvufj4noivijkbl23thde45i63lvh7l5aa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigb2xiur2yxuph6yvrrmvufj4noivijkbl23thde45i63lvh7l5aa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicm52cz5gy5v5hdtu33ohbppbycd77icd3wh4ei4yovaugf4kc4ma",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicm52cz5gy5v5hdtu33ohbppbycd77icd3wh4ei4yovaugf4kc4ma",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprsprrjsp27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mprsprrjsp27",
+    "cid": "bafyreifew65xrwod4xxvqbkb24navqjvbbtejjidirlxnoemfrsioijxla",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Blueskyではないけれど、霧がかった山に響く鳥のさえずりを聞きながらしばし佇んで心穏やか",
+    "createdAt": "2026-07-04T00:32:00.989169Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 2,
+    "indexedAt": "2026-07-04T00:32:05.581Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidbrxk7dmqidnehj2i35zdt4xb32zpenddac7nvsb3333exu6icmq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidbrxk7dmqidnehj2i35zdt4xb32zpenddac7nvsb3333exu6icmq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
