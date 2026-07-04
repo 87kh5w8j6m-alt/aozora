@@ -204122,7 +204122,7 @@
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
     "repostCount": 104,
-    "likeCount": 425,
+    "likeCount": 444,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204270,8 +204270,8 @@
     "text": "最近の我が家の人気スポット",
     "createdAt": "2026-07-04T01:01:00.791Z",
     "replyCount": 0,
-    "repostCount": 4,
-    "likeCount": 44,
+    "repostCount": 5,
+    "likeCount": 49,
     "indexedAt": "2026-07-04T01:01:12.982Z",
     "embed": {
       "images": [
@@ -204390,6 +204390,80 @@
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidz3hdgtm64urk6is6w23vbb4y6d2oa4kbgo2mj6fbnpvycjobraa",
           "alt": "ほりえぬいちゃんと",
           "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsf727uxq2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsf727uxq2s",
+    "cid": "bafyreibczu2lzj6a4sjmmfgto4ft4w7qevgqpumyqcv2wbspbcgyx3yfhu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1イギリスGP FP1見る",
+    "createdAt": "2026-07-04T06:02:40.911561Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-04T06:02:41.589Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsf4rpj2r23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsf4rpj2r23",
+    "cid": "bafyreie46xejvqnynsoxxr5tstsg4ni2jlxqkf5bzcgy3pj5c4y5rgfilm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "霧がかる名栗湖を愛でて古民家でランチして星宮神社にお参りするだけのドライブから無事帰宅！",
+    "createdAt": "2026-07-04T06:01:24.416084Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-07-04T06:01:25.983Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidbrxk7dmqidnehj2i35zdt4xb32zpenddac7nvsb3333exu6icmq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidbrxk7dmqidnehj2i35zdt4xb32zpenddac7nvsb3333exu6icmq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigb2xiur2yxuph6yvrrmvufj4noivijkbl23thde45i63lvh7l5aa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigb2xiur2yxuph6yvrrmvufj4noivijkbl23thde45i63lvh7l5aa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicrvtjhyqqqt7wowcfihdlzmrhytfxyet2jt5j6dtqi3nixmptrvm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicrvtjhyqqqt7wowcfihdlzmrhytfxyet2jt5j6dtqi3nixmptrvm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid2qrkut4pgvx7g3wvjv3oh5niahxs3soehcrmg2tqziqakeogep4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid2qrkut4pgvx7g3wvjv3oh5niahxs3soehcrmg2tqziqakeogep4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
             "height": 4000,
             "width": 3000
           }
