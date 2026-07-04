@@ -203478,7 +203478,7 @@
     "createdAt": "2026-06-30T21:46:32.490Z",
     "replyCount": 0,
     "repostCount": 133,
-    "likeCount": 503,
+    "likeCount": 504,
     "indexedAt": "2026-06-30T21:46:41.986Z",
     "embed": {
       "images": [
@@ -203773,7 +203773,7 @@
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 448,
+    "likeCount": 449,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -204079,7 +204079,7 @@
     "createdAt": "2026-07-03T01:27:31.665Z",
     "replyCount": 2,
     "repostCount": 120,
-    "likeCount": 453,
+    "likeCount": 454,
     "indexedAt": "2026-07-03T01:27:47.585Z",
     "embed": {
       "images": [
@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 115,
-    "likeCount": 491,
+    "repostCount": 116,
+    "likeCount": 503,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204471,6 +204471,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsvl36xfy2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpsvl36xfy2j",
+    "cid": "bafyreicqfw2tpr2m6gdmtpdtudrxwe76jlqof2gbweinbqe6ner22vgknm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1イギリスGP スプリントレース見てる。",
+    "createdAt": "2026-07-04T10:55:44.016280Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-04T10:55:45.283Z",
+    "embed": null,
     "isRepost": false
   }
 }
