@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 151,
-    "likeCount": 606,
+    "repostCount": 152,
+    "likeCount": 607,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204270,8 +204270,8 @@
     "text": "最近の我が家の人気スポット",
     "createdAt": "2026-07-04T01:01:00.791Z",
     "replyCount": 0,
-    "repostCount": 5,
-    "likeCount": 64,
+    "repostCount": 6,
+    "likeCount": 65,
     "indexedAt": "2026-07-04T01:01:12.982Z",
     "embed": {
       "images": [
@@ -204663,8 +204663,8 @@
     "text": "",
     "createdAt": "2026-07-04T21:48:07.873Z",
     "replyCount": 1,
-    "repostCount": 165,
-    "likeCount": 612,
+    "repostCount": 166,
+    "likeCount": 617,
     "indexedAt": "2026-07-04T21:48:21.486Z",
     "embed": {
       "images": [
@@ -204767,8 +204767,51 @@
     "createdAt": "2026-07-05T21:18:51.887091Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-05T21:18:52.588Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpwlcfh5xk27": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mpwlcfh5xk27",
+    "cid": "bafyreievnh2nugsrodqsvrdflhbktrlnro3vs7735nhdwtirmp3lwk27n4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-05T22:02:35.310Z",
+    "replyCount": 0,
+    "repostCount": 38,
+    "likeCount": 171,
+    "indexedAt": "2026-07-05T22:02:41.886Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibgrgz5rcuz5cczzfl33w5xqtd7yxn35tohvohr7gicxc4njvzxa4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibgrgz5rcuz5cczzfl33w5xqtd7yxn35tohvohr7gicxc4njvzxa4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpwmkkdqig2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpwmkkdqig2w",
+    "cid": "bafyreif3fwxq4dxjhqo6mzizqye6rrckgpusinyj5xqx6z24cvabdxpjai",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第469回聴取終了。",
+    "createdAt": "2026-07-05T22:25:01.611440Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-05T22:25:05.287Z",
     "embed": null,
     "isRepost": false
   }
