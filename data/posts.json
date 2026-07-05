@@ -203772,8 +203772,8 @@
     "text": "",
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 451,
+    "repostCount": 102,
+    "likeCount": 452,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -204121,7 +204121,7 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 149,
+    "repostCount": 150,
     "likeCount": 604,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
@@ -204636,6 +204636,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-05T07:22:37.083Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpvif33vw52v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpvif33vw52v",
+    "cid": "bafyreicclx6rhg345wkm7qhjjkh6wkigbkxibugkogkfa5kjhipc32hm4y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "買った時はそんなつもりなかったけど、除湿機が水着を乾かすのにちょうど良くて重宝している",
+    "createdAt": "2026-07-05T11:37:41.544141Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-05T11:37:44.281Z",
     "embed": null,
     "isRepost": false
   }
