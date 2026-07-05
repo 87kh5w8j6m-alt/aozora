@@ -204608,5 +204608,35 @@
     "indexedAt": "2026-07-05T01:18:06.782Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpv27vruaz2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpv27vruaz2u",
+    "cid": "bafyreialiq5l56obed3bevklyj2ecddg32tjnrlqqgmhmkmp6tpzindxhm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "前回はApple Watchを保護するバンドが必要なことを知らずに使えず、今回は保護するバンドを手に入れたけどスポーツバンドに交換するのを忘れたのでいまだにプールでApple Watchを使えてない。",
+    "createdAt": "2026-07-05T07:24:17.378730Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-05T07:24:18.482Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpv24v32cz2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpv24v32cz2t",
+    "cid": "bafyreid3lizdrkviz7zbguhucp74taf3euio3p5zrqiz563gh3fhquibau",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ジムのプールで泳いだ🏊",
+    "createdAt": "2026-07-05T07:22:36.096143Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-05T07:22:37.083Z",
+    "embed": null,
+    "isRepost": false
   }
 }
