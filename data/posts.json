@@ -200006,8 +200006,8 @@
     "text": "はい！君の！\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
-    "repostCount": 84,
-    "likeCount": 293,
+    "repostCount": 85,
+    "likeCount": 295,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 82,
-    "likeCount": 262,
+    "likeCount": 263,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -204664,7 +204664,7 @@
     "createdAt": "2026-07-04T21:48:07.873Z",
     "replyCount": 1,
     "repostCount": 170,
-    "likeCount": 627,
+    "likeCount": 628,
     "indexedAt": "2026-07-04T21:48:21.486Z",
     "embed": {
       "images": [
@@ -204781,8 +204781,8 @@
     "text": "",
     "createdAt": "2026-07-05T22:02:35.310Z",
     "replyCount": 0,
-    "repostCount": 78,
-    "likeCount": 424,
+    "repostCount": 86,
+    "likeCount": 456,
     "indexedAt": "2026-07-05T22:02:41.886Z",
     "embed": {
       "images": [
@@ -204828,6 +204828,29 @@
     "likeCount": 0,
     "indexedAt": "2026-07-06T03:30:44.982Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpx75uo3v32x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mpx75uo3v32x",
+    "cid": "bafyreifl2d4d4mbunp6nvva662s5ccxio5statro63htcxtm3zgsrp276q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": " 「シルバーストン特有のコースおよびピットレーンのレイアウトにより、セーフティカー導入後にセーフティカーライン1を2度目に通過したラップの終了時に同ラインを通過するまでに、一時的に周回遅れを解消した状態」 文字だけじゃ全然わからんhttps://www.as-web.jp/f1/1332286",
+    "createdAt": "2026-07-06T03:57:57.355096Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-06T03:57:58.881Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1332286",
+        "title": "サインツがセーフティカー規則違反で降格に。許可なく周回遅れを解消、異例の『1ペナルティラップ』が適用 | ニュース | autosport web",
+        "description": "　F1イギリスGP決勝後、ウイリアムズのカルロス・サインツがセーフティカー規則の違反に関して調査を受け、『1ペナルティラップ』という珍しい処分を受けた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifdmel3sbeqljmrmho7qxzh65xmg5uec6k5qq52b26eezwmqle3bi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
