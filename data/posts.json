@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 82,
-    "likeCount": 264,
+    "likeCount": 265,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -204121,8 +204121,8 @@
     "text": "",
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
-    "repostCount": 156,
-    "likeCount": 616,
+    "repostCount": 157,
+    "likeCount": 617,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204663,8 +204663,8 @@
     "text": "",
     "createdAt": "2026-07-04T21:48:07.873Z",
     "replyCount": 1,
-    "repostCount": 173,
-    "likeCount": 637,
+    "repostCount": 174,
+    "likeCount": 639,
     "indexedAt": "2026-07-04T21:48:21.486Z",
     "embed": {
       "images": [
@@ -204781,8 +204781,8 @@
     "text": "",
     "createdAt": "2026-07-05T22:02:35.310Z",
     "replyCount": 0,
-    "repostCount": 117,
-    "likeCount": 605,
+    "repostCount": 118,
+    "likeCount": 608,
     "indexedAt": "2026-07-05T22:02:41.886Z",
     "embed": {
       "images": [
@@ -204892,8 +204892,8 @@
     "text": "#ポニーテールの日\n髪結う直前のゴム咥えてのこの仕草\n…よ😚💕",
     "createdAt": "2026-07-06T22:48:05.200Z",
     "replyCount": 2,
-    "repostCount": 33,
-    "likeCount": 137,
+    "repostCount": 35,
+    "likeCount": 139,
     "indexedAt": "2026-07-06T22:48:06.882Z",
     "embed": {
       "images": [
@@ -204935,8 +204935,8 @@
     "text": "",
     "createdAt": "2026-07-07T02:03:44.735Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 454,
+    "repostCount": 111,
+    "likeCount": 464,
     "indexedAt": "2026-07-07T02:03:59.382Z",
     "embed": {
       "images": [
@@ -204964,7 +204964,7 @@
     "createdAt": "2026-07-07T11:19:46.061Z",
     "replyCount": 0,
     "repostCount": 3,
-    "likeCount": 7,
+    "likeCount": 8,
     "indexedAt": "2026-07-07T11:19:53.190Z",
     "embed": {
       "images": [
@@ -204981,5 +204981,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq2sody5qk27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq2sody5qk27",
+    "cid": "bafyreigclegy6e7d3dgaiczpduolnuhwxs6q7wcelmj4zpiodhslrbhcki",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "6分で追いつける「魔法少女リリカルなのは」シリーズ【最新作は毎週土曜25時放送！】 https://youtu.be/rkEsMDraWYw?si=TMpvCFgfuFAjAEzE",
+    "createdAt": "2026-07-07T14:25:11.090685Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-07T14:25:12.190Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/rkEsMDraWYw?si=TMpvCFgfuFAjAEzE",
+        "title": "6分で追いつける「魔法少女リリカルなのは」シリーズ【最新作は毎週土曜25時放送！】",
+        "description": "シリーズ最新作までたった6分で追い付ける！！「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」に繋がる高町なのはの軌跡を最短ルートでお楽しみください！すでに履修済みの方は、振り返り&ダイジェスト映像としてご活用ください！✦なのはシリーズ最新作「魔法少女リリカルなのは EXCEEDS...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiamvxia7h2lg35ddddssnmiunlft2elsrrdu72ab4apk6ahqj3nxy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
