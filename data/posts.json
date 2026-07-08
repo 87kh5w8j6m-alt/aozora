@@ -205029,8 +205029,8 @@
     "text": "",
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 2,
-    "repostCount": 156,
-    "likeCount": 658,
+    "repostCount": 160,
+    "likeCount": 668,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205091,6 +205091,34 @@
     "likeCount": 0,
     "indexedAt": "2026-07-08T11:23:38.483Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq54rek6jk2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq54rek6jk2i",
+    "cid": "bafyreiec44e4t26hpnx6lh7u3mltzelbeb5w3m4mbfvg2onimyju5zhqxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "メイドさんは食べるだけのスズメちゃんのアクスタ届いた！めちゃくちゃ使いやすいポーズ！！ #メイ食べ #メイドさんは食べるだけ",
+    "createdAt": "2026-07-08T12:31:09.716Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T12:31:22.585Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiccwplvh4awxtgy7sa24routntcsbgbgbxkbs32ct6bj277kl4rii",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiccwplvh4awxtgy7sa24routntcsbgbgbxkbs32ct6bj277kl4rii",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
