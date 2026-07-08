@@ -204893,7 +204893,7 @@
     "createdAt": "2026-07-06T22:48:05.200Z",
     "replyCount": 2,
     "repostCount": 41,
-    "likeCount": 158,
+    "likeCount": 159,
     "indexedAt": "2026-07-06T22:48:06.882Z",
     "embed": {
       "images": [
@@ -205029,8 +205029,8 @@
     "text": "",
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 3,
-    "repostCount": 172,
-    "likeCount": 714,
+    "repostCount": 173,
+    "likeCount": 720,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205190,8 +205190,8 @@
     "text": "",
     "createdAt": "2026-07-08T21:37:51.157Z",
     "replyCount": 0,
-    "repostCount": 57,
-    "likeCount": 186,
+    "repostCount": 69,
+    "likeCount": 255,
     "indexedAt": "2026-07-08T21:37:58.785Z",
     "embed": {
       "images": [
@@ -205208,5 +205208,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq6cjru7i22n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq6cjru7i22n",
+    "cid": "bafyreidzgpx54l37i256tfxpmo4svlhmiepkxbacdbjxiykgehru54vqsa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「これがモータースポーツなんだ。ただ走り続け、決して諦めないこと。それしかないんだ」これよ\n」 - jp.motorsport.com/f1/news/geor...",
+    "createdAt": "2026-07-08T23:46:57.433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T23:46:57.783Z",
+    "embed": null,
+    "isRepost": false
   }
 }
