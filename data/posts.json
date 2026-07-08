@@ -204936,7 +204936,7 @@
     "createdAt": "2026-07-07T02:03:44.735Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 513,
+    "likeCount": 515,
     "indexedAt": "2026-07-07T02:03:59.382Z",
     "embed": {
       "images": [
@@ -205029,8 +205029,8 @@
     "text": "",
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 2,
-    "repostCount": 160,
-    "likeCount": 668,
+    "repostCount": 165,
+    "likeCount": 684,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205103,7 +205103,7 @@
     "createdAt": "2026-07-08T12:31:09.716Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-08T12:31:22.585Z",
     "embed": {
       "images": [
@@ -205119,6 +205119,36 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq57n2ae3k2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq57n2ae3k2i",
+    "cid": "bafyreigr2n5wgipfoe5bbzfg4vvyo3652hmrxwixjcsxgql33ubrv5ql34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOSとかiPad OSとかもろもろアップデートちう",
+    "createdAt": "2026-07-08T13:22:25.919Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T13:22:26.482Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq56dov3rs2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq56dov3rs2i",
+    "cid": "bafyreiefaiy3hfnb3w7sqhuwfksk6kbzcaqz7s7zxnvjhzn4zmmcdrp3a4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GT World Challenge Asia Powered by AWS & Japan Cup\nROUND6 Fujiのチケット取った",
+    "createdAt": "2026-07-08T12:59:18.284Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T12:59:18.685Z",
+    "embed": null,
     "isRepost": false
   }
 }
