@@ -202596,8 +202596,8 @@
     "text": "",
     "createdAt": "2026-06-26T22:02:09.324Z",
     "replyCount": 0,
-    "repostCount": 157,
-    "likeCount": 721,
+    "repostCount": 158,
+    "likeCount": 722,
     "indexedAt": "2026-06-26T22:02:18.661Z",
     "embed": {
       "images": [
@@ -203381,8 +203381,8 @@
     "text": "",
     "createdAt": "2026-06-29T21:28:39.154Z",
     "replyCount": 2,
-    "repostCount": 131,
-    "likeCount": 528,
+    "repostCount": 132,
+    "likeCount": 529,
     "indexedAt": "2026-06-29T21:28:45.786Z",
     "embed": {
       "images": [
@@ -204122,7 +204122,7 @@
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
     "repostCount": 157,
-    "likeCount": 618,
+    "likeCount": 619,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -205030,7 +205030,7 @@
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 2,
     "repostCount": 156,
-    "likeCount": 648,
+    "likeCount": 658,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205060,6 +205060,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-07-08T03:30:33.286Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq52epvu2l2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq52epvu2l2v",
+    "cid": "bafyreiczprec3qskvcq4od3wan6hptrhbvb5g2dmwka6kkqc6fsm27a4na",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第23話視聴終了。\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-07-08T11:48:13.413167Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T11:48:17.988Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq4yymupue27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq4yymupue27",
+    "cid": "bafyreiazcxva5c577ezhkfysfhettgqshjgo6d6iqjlus7quog7en7yvyi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "二十世紀電氣目録-ユーレカ・エヴリカ- 第1話視聴終了。",
+    "createdAt": "2026-07-08T11:23:33.848822Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T11:23:38.483Z",
     "embed": null,
     "isRepost": false
   }
