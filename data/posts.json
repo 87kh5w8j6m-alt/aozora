@@ -205030,7 +205030,7 @@
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 2,
     "repostCount": 165,
-    "likeCount": 684,
+    "likeCount": 692,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205148,6 +205148,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-08T12:59:18.685Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq5d4d2kby2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq5d4d2kby2e",
+    "cid": "bafyreigvl2hpisievspfhiweaxw7ml5rtxll4zwltdyvthphawt3skh7pq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "きみが死ぬまで恋をしたい 第1話視聴終了。なるほど修復魔法だから",
+    "createdAt": "2026-07-08T14:24:39.197433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-08T14:24:39.785Z",
     "embed": null,
     "isRepost": false
   }
