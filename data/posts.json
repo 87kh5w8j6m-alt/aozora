@@ -205349,5 +205349,20 @@
     "indexedAt": "2026-07-09T21:19:16.781Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqaqf4tj3n2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqaqf4tj3n2d",
+    "cid": "bafyreid34z4q6flk6gd6wllma7jcm3bc563de2r3toxzhb27hv6cwfdylq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "野中にとっては、まさに“ぶっつけ本番”（中略）野中は日曜朝のレコノサンスラップからいきなり9号車に乗り込むことになる。本人は「イレギュラーな形での参戦となりますが、このような機会を与えてくださった関係者の皆様には感謝しています」- https://jp.motorsport.com/super-formula/news/alesi-gets-kcmg-no9-car-seat/10837471/ コメントがつらすぎるって。",
+    "createdAt": "2026-07-09T23:00:12.018056Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-09T23:00:13.126Z",
+    "embed": null,
+    "isRepost": false
   }
 }
