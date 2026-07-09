@@ -203773,7 +203773,7 @@
     "createdAt": "2026-07-01T22:10:07.430Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 460,
+    "likeCount": 459,
     "indexedAt": "2026-07-01T22:10:22.583Z",
     "embed": {
       "images": [
@@ -205191,7 +205191,7 @@
     "createdAt": "2026-07-08T21:37:51.157Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 499,
+    "likeCount": 501,
     "indexedAt": "2026-07-08T21:37:58.785Z",
     "embed": {
       "images": [
@@ -205309,6 +205309,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-09T12:32:22.786Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqamld23r22r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqamld23r22r",
+    "cid": "bafyreiden7242gaogtrocpg52g2yjf7tkluql4calflopcomh6izmab37y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "新プロジェクトX〜挑戦者たち〜 人生に新たな景色を〜市民に愛されたスポーツカー〜 www.web.nhk/tv/pl/series... 「だれもが、しあわせになる。」",
+    "createdAt": "2026-07-09T21:52:05.900Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-09T21:52:10.530Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.web.nhk/tv/pl/series-tep-P1124VMJ6R/ep/1K26LK3Q24",
+        "title": "人生に新たな景色を〜市民に愛されたスポーツカー〜 | 新プロジェクトX〜挑戦者たち〜",
+        "description": "【NHK】自分に嘘のない生き方がしたい。逆風にさらされた技術者たちは“非力なエンジンの小さなスポーツカー”に人生をかけた。設計の中心に据えたのは、パワーでも最新技術でもない、人間の「感性」。数値化できない目標のもとで始まった前代未聞の開発は、車の歴史を変え、人々の人生を変えていく。そして、世界の強豪をおさえて累計生産台数で「世界一」に。スポーツカーなのに速くない、　“小さな異端児”が魅せた世界とは...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiba7spdqpd2cngbxytcw3ne435xszxe4ueylkvhgbzxtfgzh4y2bq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqakqmzvfs2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqakqmzvfs2h",
+    "cid": "bafyreiang76ddmplk6lii5pduz6allikb5c4h7lohj4fgpbb5pznwup7um",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-07-09T21:19:16.208292Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-07-09T21:19:16.781Z",
     "embed": null,
     "isRepost": false
   }
