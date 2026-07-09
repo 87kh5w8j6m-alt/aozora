@@ -205190,8 +205190,8 @@
     "text": "",
     "createdAt": "2026-07-08T21:37:51.157Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 468,
+    "repostCount": 107,
+    "likeCount": 472,
     "indexedAt": "2026-07-08T21:37:58.785Z",
     "embed": {
       "images": [
@@ -205264,7 +205264,7 @@
     "createdAt": "2026-07-09T10:14:48.427Z",
     "replyCount": 0,
     "repostCount": 5,
-    "likeCount": 11,
+    "likeCount": 13,
     "indexedAt": "2026-07-09T10:14:53.584Z",
     "embed": {
       "images": [
@@ -205281,5 +205281,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq7ncpe76o2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq7ncpe76o2v",
+    "cid": "bafyreig36rtoppktig2dsz22fqjnhk6zqtux5mtjikoldrocfq72i3s6fi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第67回聴取終了",
+    "createdAt": "2026-07-09T12:32:30.360349Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-09T12:32:30.884Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq7nchmw3o2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mq7nchmw3o2a",
+    "cid": "bafyreic2wmzaoyan7urtnibvkyw5sdmfqzuntejivfy4icaesrwcqo3tmu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第66話視聴終了。",
+    "createdAt": "2026-07-09T12:32:22.251474Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-09T12:32:22.786Z",
+    "embed": null,
+    "isRepost": false
   }
 }
