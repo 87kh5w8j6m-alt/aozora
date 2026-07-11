@@ -205488,8 +205488,8 @@
     "text": "",
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
-    "repostCount": 129,
-    "likeCount": 497,
+    "repostCount": 130,
+    "likeCount": 505,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205669,8 +205669,8 @@
     "text": "",
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
-    "repostCount": 98,
-    "likeCount": 361,
+    "repostCount": 105,
+    "likeCount": 395,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205774,6 +205774,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdxwtcil22w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdxwtcil22w",
+    "cid": "bafyreigl3wpy5lvyzr722edsracznv3pixkzhsaofgll3kz446tzael6xm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ハッシュタグつけて投稿するとクーポンが当たる系のキャンペーン当たる気がしないのとTwitterあんまり見てないから、当選してるの気がつかなかった。久々にDMみたら当選のお知らせとクーポンコードが来てたけど、期限切れてた",
+    "createdAt": "2026-07-11T05:53:21.410950Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-11T05:53:22.525Z",
+    "embed": null,
     "isRepost": false
   }
 }
