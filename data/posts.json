@@ -199032,7 +199032,7 @@
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
     "repostCount": 1132,
-    "likeCount": 1170,
+    "likeCount": 1169,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -205488,8 +205488,8 @@
     "text": "",
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
-    "repostCount": 126,
-    "likeCount": 492,
+    "repostCount": 127,
+    "likeCount": 494,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205669,8 +205669,8 @@
     "text": "",
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
-    "repostCount": 83,
-    "likeCount": 283,
+    "repostCount": 91,
+    "likeCount": 325,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205705,6 +205705,65 @@
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicjvykel2pjfvis2vwinyg5ar3glkvdjks43dxx7vcvqlwh2frraq",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicjvykel2pjfvis2vwinyg5ar3glkvdjks43dxx7vcvqlwh2frraq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdsva3rzs2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdsva3rzs2c",
+    "cid": "bafyreibfaw2pkskv44y232izivo47bv4ju7bes5b5vvnvq2uipnzey62he",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GTWCのマシンはSUPER GTのマシンとはカラーリングのテイストが違うので見てて新鮮。桜カラーのフェラーリ素敵！エヴァカラーのポルシェも強そう！\n#GTWorldAsia",
+    "createdAt": "2026-07-11T04:22:59.064833Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-11T04:23:01.225Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigojoceazw3hlrx7h2gc64rlbcueimtrdptreizzgcaopyu4esfgq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigojoceazw3hlrx7h2gc64rlbcueimtrdptreizzgcaopyu4esfgq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicpb7ydcj76dysxk66gyqsmc5wwv6ysqfhcfexfw3zcsro7kwq7nq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicpb7ydcj76dysxk66gyqsmc5wwv6ysqfhcfexfw3zcsro7kwq7nq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreielqypav2y4t5q2hkuhtoq5s3bhosjb2fs75npydlptbys67n7chi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreielqypav2y4t5q2hkuhtoq5s3bhosjb2fs75npydlptbys67n7chi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaagt6amirwwr72ezhplrn3xpvfi2eq7xu5dexc3powoc2rqm67ni",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaagt6amirwwr72ezhplrn3xpvfi2eq7xu5dexc3powoc2rqm67ni",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
