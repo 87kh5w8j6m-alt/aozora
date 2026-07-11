@@ -205488,8 +205488,8 @@
     "text": "",
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
-    "repostCount": 124,
-    "likeCount": 489,
+    "repostCount": 126,
+    "likeCount": 492,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205669,8 +205669,8 @@
     "text": "",
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
-    "repostCount": 63,
-    "likeCount": 212,
+    "repostCount": 83,
+    "likeCount": 283,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205687,5 +205687,34 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdpitt4y42s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdpitt4y42s",
+    "cid": "bafyreiba4fa5gs7fpcftc7yz7ra5qrmpvx572tb332zqwimlz3maq6f2kq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "レーシングカーは大体吊り目のイカついカオしてる中で、いつの時代も丸目のポルシェがやっぱり好き",
+    "createdAt": "2026-07-11T03:22:22.350369Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-11T03:22:23.931Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicjvykel2pjfvis2vwinyg5ar3glkvdjks43dxx7vcvqlwh2frraq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicjvykel2pjfvis2vwinyg5ar3glkvdjks43dxx7vcvqlwh2frraq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
   }
 }
