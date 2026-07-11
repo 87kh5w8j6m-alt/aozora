@@ -205488,8 +205488,8 @@
     "text": "",
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
-    "repostCount": 123,
-    "likeCount": 488,
+    "repostCount": 124,
+    "likeCount": 489,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205600,5 +205600,92 @@
     "indexedAt": "2026-07-11T01:25:39.626Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdmvkh7za2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdmvkh7za2p",
+    "cid": "bafyreie7qzrbb3cedvwuu7xz336b7krg444374bq7whnpphja7okpq5p6m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GT World Challenge Asia Powered by AWS & Japan Cup Fuji\n相変わらずマシンとの距離が近くて楽しいピットウォーク",
+    "createdAt": "2026-07-11T02:35:47.508254Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-11T02:35:49.227Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihmtxreegzlqtkrdb2rk2wg7oaqm3n4fedlunn4hlf2bgti5fifcq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihmtxreegzlqtkrdb2rk2wg7oaqm3n4fedlunn4hlf2bgti5fifcq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibpgvnidhemu6dyir5mtdrwgogbu5i3wle3z7obnnx3bao4ryyzpy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibpgvnidhemu6dyir5mtdrwgogbu5i3wle3z7obnnx3bao4ryyzpy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiafkbapw2ivkrbbr762vbuzukiz4xwntr6tmxkcmstvedht4tgeh4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiafkbapw2ivkrbbr762vbuzukiz4xwntr6tmxkcmstvedht4tgeh4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifqjhusosqb32nwg7f62ixlslg4w6hcko62uzl6lxpzwqau247jrq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifqjhusosqb32nwg7f62ixlslg4w6hcko62uzl6lxpzwqau247jrq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqdirytplk2y": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqdirytplk2y",
+    "cid": "bafyreiads2rhgl4x67xpbp635rui6ez7orfsffvaj43y3bhf5kqpzzd5pi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-11T01:22:14.333Z",
+    "replyCount": 1,
+    "repostCount": 63,
+    "likeCount": 212,
+    "indexedAt": "2026-07-11T01:22:26.926Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihdxfhvhjwluhjwpxf5kztvz7xud7q2duhfpo4koz7fgimlnnq4xi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihdxfhvhjwluhjwpxf5kztvz7xud7q2duhfpo4koz7fgimlnnq4xi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
