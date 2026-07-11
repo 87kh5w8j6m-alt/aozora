@@ -200007,7 +200007,7 @@
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
     "repostCount": 85,
-    "likeCount": 295,
+    "likeCount": 296,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -200035,7 +200035,7 @@
     "createdAt": "2026-06-15T11:04:48.579Z",
     "replyCount": 1,
     "repostCount": 82,
-    "likeCount": 265,
+    "likeCount": 266,
     "indexedAt": "2026-06-15T11:04:52.860Z",
     "embed": {
       "images": [
@@ -205489,7 +205489,7 @@
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
     "repostCount": 122,
-    "likeCount": 482,
+    "likeCount": 484,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205506,5 +205506,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdgodpqfw2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdgodpqfw2p",
+    "cid": "bafyreief5vo6sdnx5xr6xrzgfhkgmkt37t7o42p5bping5rhlulb6nxuw4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1241回聴取終了。",
+    "createdAt": "2026-07-11T00:44:22.996401Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-11T00:44:24.128Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdghpppsz2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqdghpppsz2v",
+    "cid": "bafyreidrtppu3qldsr2vi7fnt3iypwnqbm5qdua3omp5u5qnsxfpzr2lze",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士スピードウェイ到着！過去イチ時間かかって疲れた",
+    "createdAt": "2026-07-11T00:40:40.815872Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-11T00:40:41.925Z",
+    "embed": null,
+    "isRepost": false
   }
 }
