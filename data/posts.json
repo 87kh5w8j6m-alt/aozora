@@ -204893,7 +204893,7 @@
     "createdAt": "2026-07-06T22:48:05.200Z",
     "replyCount": 2,
     "repostCount": 43,
-    "likeCount": 171,
+    "likeCount": 172,
     "indexedAt": "2026-07-06T22:48:06.882Z",
     "embed": {
       "images": [
@@ -205670,7 +205670,7 @@
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
     "repostCount": 143,
-    "likeCount": 595,
+    "likeCount": 596,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205904,8 +205904,8 @@
     "text": "",
     "createdAt": "2026-07-12T03:05:17.797Z",
     "replyCount": 1,
-    "repostCount": 118,
-    "likeCount": 509,
+    "repostCount": 120,
+    "likeCount": 528,
     "indexedAt": "2026-07-12T03:05:33.627Z",
     "embed": {
       "images": [
@@ -205935,6 +205935,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-12T11:33:05.638Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqh6bw6bp62p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqh6bw6bp62p",
+    "cid": "bafyreiettswiulaqndexafhuzri6y5comq3dq4tjmviff57gjxhyu7hhwm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今シーズンから導入した除湿機が快適すぎて、もしもこの夏除湿機がなかったらどう過ごしていたんだろうと思うとゾっとする",
+    "createdAt": "2026-07-12T12:24:51.772038Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-12T12:24:56.329Z",
     "embed": null,
     "isRepost": false
   }
