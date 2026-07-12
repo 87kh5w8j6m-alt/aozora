@@ -199031,7 +199031,7 @@
     "text": "チャットがさらに便利になりました。\n\n本日、v1.124のアップデートでグループチャットが実装されます。\n\nこれはコミュニティ向けに開発した最初の機能で、今後もさらに多くの機能を追加していく予定です。",
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
-    "repostCount": 1131,
+    "repostCount": 1130,
     "likeCount": 1169,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
@@ -204122,7 +204122,7 @@
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
     "repostCount": 157,
-    "likeCount": 622,
+    "likeCount": 623,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -204936,7 +204936,7 @@
     "createdAt": "2026-07-07T02:03:44.735Z",
     "replyCount": 0,
     "repostCount": 126,
-    "likeCount": 528,
+    "likeCount": 529,
     "indexedAt": "2026-07-07T02:03:59.382Z",
     "embed": {
       "images": [
@@ -205030,7 +205030,7 @@
     "createdAt": "2026-07-07T21:40:28.639Z",
     "replyCount": 3,
     "repostCount": 174,
-    "likeCount": 732,
+    "likeCount": 733,
     "indexedAt": "2026-07-07T21:40:35.386Z",
     "embed": {
       "images": [
@@ -205191,7 +205191,7 @@
     "createdAt": "2026-07-08T21:37:51.157Z",
     "replyCount": 0,
     "repostCount": 117,
-    "likeCount": 518,
+    "likeCount": 519,
     "indexedAt": "2026-07-08T21:37:58.785Z",
     "embed": {
       "images": [
@@ -205904,8 +205904,8 @@
     "text": "",
     "createdAt": "2026-07-12T03:05:17.797Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 485,
+    "repostCount": 118,
+    "likeCount": 509,
     "indexedAt": "2026-07-12T03:05:33.627Z",
     "embed": {
       "images": [
@@ -205922,5 +205922,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqh3f7df2n2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqh3f7df2n2c",
+    "cid": "bafyreie36guuezlaz6n6sbvy3zjhvxoli56zw33hldnt4g7tdv7rtadvpu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "伊集院光の偏愛博物館 ヘヴンリーピンボール ピンボールの博物館\n#TVer\nhttps://tver.jp/episodes/ep5ylj4mjk",
+    "createdAt": "2026-07-12T11:33:04.692760Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-12T11:33:05.638Z",
+    "embed": null,
+    "isRepost": false
   }
 }
