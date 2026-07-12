@@ -205670,7 +205670,7 @@
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
     "repostCount": 143,
-    "likeCount": 596,
+    "likeCount": 597,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205904,8 +205904,8 @@
     "text": "",
     "createdAt": "2026-07-12T03:05:17.797Z",
     "replyCount": 1,
-    "repostCount": 120,
-    "likeCount": 528,
+    "repostCount": 122,
+    "likeCount": 543,
     "indexedAt": "2026-07-12T03:05:33.627Z",
     "embed": {
       "images": [
@@ -205948,7 +205948,7 @@
     "createdAt": "2026-07-12T12:24:51.772038Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 2,
     "indexedAt": "2026-07-12T12:24:56.329Z",
     "embed": null,
     "isRepost": false
