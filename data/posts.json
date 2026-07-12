@@ -75,7 +75,7 @@
     "createdAt": "2026-06-06T02:17:32.818Z",
     "replyCount": 3,
     "repostCount": 142,
-    "likeCount": 589,
+    "likeCount": 590,
     "indexedAt": "2026-06-06T02:17:41.262Z",
     "embed": {
       "images": [
@@ -204122,7 +204122,7 @@
     "createdAt": "2026-07-03T23:00:01.280Z",
     "replyCount": 1,
     "repostCount": 157,
-    "likeCount": 620,
+    "likeCount": 621,
     "indexedAt": "2026-07-03T23:00:07.385Z",
     "embed": {
       "images": [
@@ -205488,8 +205488,8 @@
     "text": "",
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
-    "repostCount": 132,
-    "likeCount": 517,
+    "repostCount": 133,
+    "likeCount": 519,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205669,8 +205669,8 @@
     "text": "",
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
-    "repostCount": 140,
-    "likeCount": 584,
+    "repostCount": 142,
+    "likeCount": 587,
     "indexedAt": "2026-07-11T01:22:26.926Z",
     "embed": {
       "images": [
@@ -205879,5 +205879,48 @@
     "indexedAt": "2026-07-11T21:47:10.129Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqg7jfgz2k2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqg7jfgz2k2d",
+    "cid": "bafyreig7jz2cmuxpyiq2mo3wtmhuj5sba6ntxacflog2bmpqr3cvko7474",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "新プロジェクトXのロードスターの回を見ました",
+    "createdAt": "2026-07-12T03:14:21.098Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-12T03:14:22.027Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqg6z7croc2y": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqg6z7croc2y",
+    "cid": "bafyreiaypkl5u3sjyfupqvvnnjataik65cpjoswukcz3impyzdqgkyjhoi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-12T03:05:17.797Z",
+    "replyCount": 0,
+    "repostCount": 54,
+    "likeCount": 152,
+    "indexedAt": "2026-07-12T03:05:33.627Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifavv33c2ualkrfy6mmstywqdk3a7h5ahwft2wxn56mm6mg25pcza",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifavv33c2ualkrfy6mmstywqdk3a7h5ahwft2wxn56mm6mg25pcza",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
