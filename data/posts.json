@@ -205905,7 +205905,7 @@
     "createdAt": "2026-07-12T03:05:17.797Z",
     "replyCount": 1,
     "repostCount": 134,
-    "likeCount": 615,
+    "likeCount": 616,
     "indexedAt": "2026-07-12T03:05:33.627Z",
     "embed": {
       "images": [
@@ -205977,8 +205977,8 @@
     "text": "",
     "createdAt": "2026-07-12T21:34:16.916Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 410,
+    "repostCount": 102,
+    "likeCount": 420,
     "indexedAt": "2026-07-12T21:34:32.432Z",
     "embed": {
       "images": [
@@ -206009,6 +206009,126 @@
     "likeCount": 0,
     "indexedAt": "2026-07-13T03:38:07.026Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjgsmpyek2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjgsmpyek2d",
+    "cid": "bafyreicwvgqnbzqkg2h3k7vrgrqbmen7ypzo733km24vifcobljyglvsyq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "来年1月まではやっているようだからMAZDA FAN FESTAのときにでも寄ろう",
+    "createdAt": "2026-07-13T10:02:46.131Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-13T10:02:46.326Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjgqrj6lc2d",
+        "cid": "bafyreiesnivrqarzrzrubkdgc6wvzjk2fa42sud4fps7jxcd73bjrmefme",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-07-13T10:01:44.041Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "富士モータースポーツミュージアムは、1976年に富士スピードウェイで日本初のF1が開催されてから50周年を迎えることを記念する特別企画展『知られざる あの、激闘』を2026年6月19日から開催いたします。",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreia7diwlg3q5conv36ptllgofewtlw7gsvqggfbvbgx3hrdi433fru"
+                },
+                "mimeType": "image/jpeg",
+                "size": 492396
+              },
+              "title": "世界が熱狂した伝説の一戦～富士F1開催50周年企画展『知られざる あの、激闘』を開催 | ニュース | 富士モータースポーツフォレスト",
+              "uri": "https://fujimotorsportsforest.jp/news/4d0r2dz_d7l6"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://fujimotorsportsforest.jp/news/4d0r2dz_d7l6"
+                }
+              ],
+              "index": {
+                "byteEnd": 172,
+                "byteStart": 132
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "富士F1開催50周年企画展『知られざる あの、激闘』もう始まってたのか。見に行きたいんだよなー fujimotorsportsforest.jp/news/4d0r2dz..."
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-07-13T10:01:47.427Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://fujimotorsportsforest.jp/news/4d0r2dz_d7l6",
+              "title": "世界が熱狂した伝説の一戦～富士F1開催50周年企画展『知られざる あの、激闘』を開催 | ニュース | 富士モータースポーツフォレスト",
+              "description": "富士モータースポーツミュージアムは、1976年に富士スピードウェイで日本初のF1が開催されてから50周年を迎えることを記念する特別企画展『知られざる あの、激闘』を2026年6月19日から開催いたします。",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7diwlg3q5conv36ptllgofewtlw7gsvqggfbvbgx3hrdi433fru"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjgqrj6lc2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjgqrj6lc2d",
+    "cid": "bafyreiesnivrqarzrzrubkdgc6wvzjk2fa42sud4fps7jxcd73bjrmefme",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士F1開催50周年企画展『知られざる あの、激闘』もう始まってたのか。見に行きたいんだよなー fujimotorsportsforest.jp/news/4d0r2dz...",
+    "createdAt": "2026-07-13T10:01:44.041Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-13T10:01:47.427Z",
+    "embed": {
+      "external": {
+        "uri": "https://fujimotorsportsforest.jp/news/4d0r2dz_d7l6",
+        "title": "世界が熱狂した伝説の一戦～富士F1開催50周年企画展『知られざる あの、激闘』を開催 | ニュース | 富士モータースポーツフォレスト",
+        "description": "富士モータースポーツミュージアムは、1976年に富士スピードウェイで日本初のF1が開催されてから50周年を迎えることを記念する特別企画展『知られざる あの、激闘』を2026年6月19日から開催いたします。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7diwlg3q5conv36ptllgofewtlw7gsvqggfbvbgx3hrdi433fru"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
