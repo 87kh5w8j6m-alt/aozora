@@ -205263,8 +205263,8 @@
     "text": "五十嵐じゅりあ💎🖤ᩚひみつのアイプリ✨",
     "createdAt": "2026-07-09T10:14:48.427Z",
     "replyCount": 0,
-    "repostCount": 8,
-    "likeCount": 26,
+    "repostCount": 11,
+    "likeCount": 36,
     "indexedAt": "2026-07-09T10:14:53.584Z",
     "embed": {
       "images": [
@@ -205978,7 +205978,7 @@
     "createdAt": "2026-07-12T21:34:16.916Z",
     "replyCount": 0,
     "repostCount": 108,
-    "likeCount": 452,
+    "likeCount": 453,
     "indexedAt": "2026-07-12T21:34:32.432Z",
     "embed": {
       "images": [
@@ -206190,5 +206190,33 @@
     "indexedAt": "2026-07-13T21:10:25.327Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqkqxg2kjc2u": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mqkqxg2kjc2u",
+    "cid": "bafyreibpyicy2g73jbwoldecmk5lrb2fgjzs6opgpjuhq5g2t4ouo7znwi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-13T22:37:04.064Z",
+    "replyCount": 0,
+    "repostCount": 50,
+    "likeCount": 168,
+    "indexedAt": "2026-07-13T22:37:20.726Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicdnlwbs4upzhaqxcmntvxwinfgmxm6jsboxd4wrcwecgznu7ecji",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicdnlwbs4upzhaqxcmntvxwinfgmxm6jsboxd4wrcwecgznu7ecji",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
