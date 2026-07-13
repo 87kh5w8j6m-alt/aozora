@@ -205263,7 +205263,7 @@
     "text": "五十嵐じゅりあ💎🖤ᩚひみつのアイプリ✨",
     "createdAt": "2026-07-09T10:14:48.427Z",
     "replyCount": 0,
-    "repostCount": 6,
+    "repostCount": 7,
     "likeCount": 23,
     "indexedAt": "2026-07-09T10:14:53.584Z",
     "embed": {
@@ -205489,7 +205489,7 @@
     "createdAt": "2026-07-10T00:00:12.632Z",
     "replyCount": 1,
     "repostCount": 134,
-    "likeCount": 524,
+    "likeCount": 525,
     "indexedAt": "2026-07-10T00:00:22.227Z",
     "embed": {
       "images": [
@@ -205978,7 +205978,7 @@
     "createdAt": "2026-07-12T21:34:16.916Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 435,
+    "likeCount": 438,
     "indexedAt": "2026-07-12T21:34:32.432Z",
     "embed": {
       "images": [
@@ -206143,6 +206143,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-13T13:40:43.426Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjuzgt2he2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjuzgt2he2d",
+    "cid": "bafyreic26wh3bfye3qjlpoqchkyqu7w45dclcvudoxdn2sgirxbqd7cmwy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼休みにお外に出たらあまりの湿度の高さに具合悪くなるかと思った。",
+    "createdAt": "2026-07-13T14:17:06.713847Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-13T14:17:07.326Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjujcdf442w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjujcdf442w",
+    "cid": "bafyreigwu4rcu6brib7e4qkpnlpxwwy3fbwyi5e26rux6or4fivrg66zcy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "平日のコーヒー☕️の量が増えてるので",
+    "createdAt": "2026-07-13T14:08:05.098241Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-13T14:08:05.924Z",
     "embed": null,
     "isRepost": false
   }
