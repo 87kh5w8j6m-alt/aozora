@@ -204664,7 +204664,7 @@
     "createdAt": "2026-07-04T21:48:07.873Z",
     "replyCount": 1,
     "repostCount": 175,
-    "likeCount": 645,
+    "likeCount": 646,
     "indexedAt": "2026-07-04T21:48:21.486Z",
     "embed": {
       "images": [
@@ -205904,8 +205904,8 @@
     "text": "",
     "createdAt": "2026-07-12T03:05:17.797Z",
     "replyCount": 1,
-    "repostCount": 135,
-    "likeCount": 617,
+    "repostCount": 136,
+    "likeCount": 618,
     "indexedAt": "2026-07-12T03:05:33.627Z",
     "embed": {
       "images": [
@@ -205977,8 +205977,8 @@
     "text": "",
     "createdAt": "2026-07-12T21:34:16.916Z",
     "replyCount": 0,
-    "repostCount": 103,
-    "likeCount": 431,
+    "repostCount": 104,
+    "likeCount": 435,
     "indexedAt": "2026-07-12T21:34:32.432Z",
     "embed": {
       "images": [
@@ -206129,6 +206129,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjsycvhs52p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqjsycvhs52p",
+    "cid": "bafyreif5vmhmgzvvgnz3dz5imfgaboen2rq6qtsn4v63fceknuzwt4dysu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日はPC作業するのに良さそうなカフェに行ったけど、先客が液タブや外付けのゴツいキーボード持ち込んで座席で我が物顔だったので何もせずに帰ってきた。",
+    "createdAt": "2026-07-13T13:40:39.205273Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-13T13:40:43.426Z",
+    "embed": null,
     "isRepost": false
   }
 }
