@@ -200006,8 +200006,8 @@
     "text": "はい！君の！\n\n#oc\n#illustration\n#art",
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
-    "repostCount": 85,
-    "likeCount": 296,
+    "repostCount": 86,
+    "likeCount": 297,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -205264,7 +205264,7 @@
     "createdAt": "2026-07-09T10:14:48.427Z",
     "replyCount": 0,
     "repostCount": 12,
-    "likeCount": 39,
+    "likeCount": 40,
     "indexedAt": "2026-07-09T10:14:53.584Z",
     "embed": {
       "images": [
@@ -206200,8 +206200,8 @@
     "text": "",
     "createdAt": "2026-07-13T22:37:04.064Z",
     "replyCount": 0,
-    "repostCount": 81,
-    "likeCount": 358,
+    "repostCount": 83,
+    "likeCount": 365,
     "indexedAt": "2026-07-13T22:37:20.726Z",
     "embed": {
       "images": [
@@ -206231,6 +206231,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-14T03:34:00.228Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqluubf26d2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqluubf26d2l",
+    "cid": "bafyreiedkv6pfjdglry6o4lxirszj3s32c7e2ttnhon3dslxo6ohpegmry",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんディナーショー、ファンクラブ二次先行で夜の部も当選！🎉これで東京昼夜参戦決定！！\n#堀江由衣",
+    "createdAt": "2026-07-14T09:19:32.110780Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-14T09:19:33.326Z",
     "embed": null,
     "isRepost": false
   }
