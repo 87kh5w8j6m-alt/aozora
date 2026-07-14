@@ -200007,7 +200007,7 @@
     "createdAt": "2026-06-13T10:33:36.389Z",
     "replyCount": 2,
     "repostCount": 86,
-    "likeCount": 297,
+    "likeCount": 298,
     "indexedAt": "2026-06-13T10:33:40.362Z",
     "embed": {
       "images": [
@@ -206200,8 +206200,8 @@
     "text": "",
     "createdAt": "2026-07-13T22:37:04.064Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 380,
+    "repostCount": 89,
+    "likeCount": 392,
     "indexedAt": "2026-07-13T22:37:20.726Z",
     "embed": {
       "images": [
@@ -206247,6 +206247,29 @@
     "likeCount": 0,
     "indexedAt": "2026-07-14T09:19:33.326Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqmc6ifxrb2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqmc6ifxrb2a",
+    "cid": "bafyreiebti4vze3bsq5fzcxkc2z4wf4rfu22eu6cbj7ursifydgd4xlj5u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ルノーCEO、V8に移行でもF1エンジン活動は再開しないと明言「アルピーヌは優秀なメルセデス製エンジンによって復調できた」  - https://www.as-web.jp/f1/1334401",
+    "createdAt": "2026-07-14T13:17:54.295692Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-14T13:17:55.531Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1334401",
+        "title": "ルノーCEO、V8に移行でもF1エンジン活動は再開しないと明言「アルピーヌは優秀なメルセデス製エンジンによって復調できた」 | ニュース | autosport web",
+        "description": "　ルノーは、2031年から新たなF1パワーユニット規則が導入されても、F1エンジンを開発する考えはないと、同社CEOフランソワ・プロボストが明言した。最近、FI",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibnb5f65hgmyk2gr2uz5yhuc4rwfotkqojpypsq6vu4npojt6uuri"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
