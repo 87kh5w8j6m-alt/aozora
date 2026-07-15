@@ -206311,8 +206311,8 @@
     "text": "",
     "createdAt": "2026-07-14T23:59:41.447Z",
     "replyCount": 1,
-    "repostCount": 110,
-    "likeCount": 427,
+    "repostCount": 114,
+    "likeCount": 431,
     "indexedAt": "2026-07-15T00:00:04.330Z",
     "embed": {
       "images": [
@@ -206437,6 +206437,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-15T21:12:12.824Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqpq4vbkzu2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqpq4vbkzu2g",
+    "cid": "bafyreianrxgfpymczxqlvm2il72uukjjzcvgkl2sfxschnrvkbei26oooe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第68回聴取終了",
+    "createdAt": "2026-07-15T22:05:32.274588Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-15T22:05:32.926Z",
     "embed": null,
     "isRepost": false
   }
