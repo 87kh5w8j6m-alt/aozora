@@ -206312,7 +206312,7 @@
     "createdAt": "2026-07-14T23:59:41.447Z",
     "replyCount": 1,
     "repostCount": 102,
-    "likeCount": 360,
+    "likeCount": 370,
     "indexedAt": "2026-07-15T00:00:04.330Z",
     "embed": {
       "images": [
@@ -206357,5 +206357,72 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqoh4nl2lw2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqoh4nl2lw2x",
+    "cid": "bafyreiam4kltynqr32ol322edvz7cklflww2kglysv3zi6yhwekxtcpeoq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "若手が作ったAI丸投げの「中身がありそうでない、少しあるプレゼン資料」に飽き飽きして結局中堅に仕事が帰ってきている",
+    "createdAt": "2026-07-15T09:51:40.666866Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-15T09:51:41.425Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqodyezhvc2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqodyezhvc2x",
+    "cid": "bafyreif6uay7fw632wwlhhqbf4znyqi3fru7zhzfi6sko4zzfotgjafvt4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying Sacred world - RAISE A SUILEN (Sacred world - Single)",
+    "createdAt": "2026-07-15T08:55:35.880918Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-15T08:55:37.529Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiemgpdmlxztio3jidnrkothfuzrivwxwpy47o5t7c3nt6bv7tltfe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiemgpdmlxztio3jidnrkothfuzrivwxwpy47o5t7c3nt6bv7tltfe",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 496,
+            "width": 500
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqodxldl4z2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqodxldl4z2g",
+    "cid": "bafyreiataus6hyjp3i7ywemkezhnaf63fmw6dr2gzekijx2lywgsoupaua",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「POPOPO」サービス終了へ　提供開始から半年で  - https://www.itmedia.co.jp/news/articles/2607/15/news104.html アカウント作ったところがピークだった",
+    "createdAt": "2026-07-15T08:55:09.008332Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-15T08:55:10.525Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
+        "title": "「POPOPO」サービス終了へ　提供開始から半年で",
+        "description": "川上量生氏が全額出資するPOPOPOが、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigfbmnz2vawgsp433busdgc7zflz4ffpbwyjxj46bxwbil3qlcu3q"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
