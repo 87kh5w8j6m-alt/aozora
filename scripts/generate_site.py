@@ -443,7 +443,7 @@ def generate_html(posts):
                     <li><a href="index.html">ホーム</a></li>
                     <li><a href="images.html">画像一覧</a></li>
                     <li><a href="ranking.html">いいねランキング</a></li>
-                    <li><a href="activity_ranking.html">📊 投稿数ランキング</a></li>
+                    <li><a href="activity_ranking.html">投稿数ランキング</a></li>
                     <li><a href="archive.html">アーカイブ</a></li>
                 </ul>
             </section>
