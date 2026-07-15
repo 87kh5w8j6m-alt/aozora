@@ -1311,7 +1311,7 @@
     "createdAt": "2026-06-01T03:08:17.927Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 380,
+    "likeCount": 381,
     "indexedAt": "2026-06-01T03:08:24.173Z",
     "embed": {
       "images": [
@@ -198739,7 +198739,7 @@
     "createdAt": "2026-06-10T21:45:46.594Z",
     "replyCount": 0,
     "repostCount": 115,
-    "likeCount": 509,
+    "likeCount": 510,
     "indexedAt": "2026-06-10T21:45:57.361Z",
     "embed": {
       "images": [
@@ -206311,8 +206311,8 @@
     "text": "",
     "createdAt": "2026-07-14T23:59:41.447Z",
     "replyCount": 1,
-    "repostCount": 102,
-    "likeCount": 370,
+    "repostCount": 105,
+    "likeCount": 385,
     "indexedAt": "2026-07-15T00:00:04.330Z",
     "embed": {
       "images": [
@@ -206368,7 +206368,7 @@
     "createdAt": "2026-07-15T09:51:40.666866Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 2,
     "indexedAt": "2026-07-15T09:51:41.425Z",
     "embed": null,
     "isRepost": false
