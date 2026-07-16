@@ -206484,5 +206484,20 @@
     "indexedAt": "2026-07-16T03:30:35.830Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqrsxobixz2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqrsxobixz2x",
+    "cid": "bafyreicpoymkqg4wrc65zevkuluio42al3qb6ncvoomn6q3oclidqglxey",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "暑くて寝られん",
+    "createdAt": "2026-07-16T18:01:37.815793Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-16T18:01:38.427Z",
+    "embed": null,
+    "isRepost": false
   }
 }
