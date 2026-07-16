@@ -206200,7 +206200,7 @@
     "text": "",
     "createdAt": "2026-07-13T22:37:04.064Z",
     "replyCount": 0,
-    "repostCount": 97,
+    "repostCount": 96,
     "likeCount": 419,
     "indexedAt": "2026-07-13T22:37:20.726Z",
     "embed": {
@@ -206512,6 +206512,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-07-16T21:29:05.335Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqsfp53lic2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqsfp53lic2q",
+    "cid": "bafyreifolvlz4ztdmo6iz24tcamk2lqms2lssnfpevqgbaysje5x35hhwe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "以前は積録見てて、YouTube見る時間ないって状態だったのにどこかで入れ替わってしまった…。",
+    "createdAt": "2026-07-16T23:36:52.973817Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-16T23:36:54.246Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqsfp53kj22q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqsfp53kj22q",
+    "cid": "bafyreic4dniqic7sk6ef3evucdujalzoq3odh3gb3w2uxuezi54l6h4iwi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日こそ帰ったら積録見るんだと決めてるのに気づいたらYouTube見てるのやめたい。",
+    "createdAt": "2026-07-16T23:36:52.972817Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-16T23:36:54.227Z",
     "embed": null,
     "isRepost": false
   }
