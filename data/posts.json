@@ -206201,7 +206201,7 @@
     "createdAt": "2026-07-13T22:37:04.064Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 422,
+    "likeCount": 423,
     "indexedAt": "2026-07-13T22:37:20.726Z",
     "embed": {
       "images": [
@@ -206312,7 +206312,7 @@
     "createdAt": "2026-07-14T23:59:41.447Z",
     "replyCount": 1,
     "repostCount": 123,
-    "likeCount": 456,
+    "likeCount": 457,
     "indexedAt": "2026-07-15T00:00:04.330Z",
     "embed": {
       "images": [
@@ -206573,6 +206573,29 @@
     "likeCount": 1,
     "indexedAt": "2026-07-17T03:03:59.529Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqtjkah7se2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mqtjkah7se2k",
+    "cid": "bafyreieyxu4tvid7dcbbuv46ocflw7f7xxc2opcj2iw3gocoz2wrzx77ai",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "【ル・マン優勝報告】TR中嶋会長はトロフィーを叩きつけたのか？そのときモリゾウは！？｜トヨタイムズスポーツ https://youtu.be/ycdcynfGaJE?si=wAFZLl--EVDxGGYR オートサロンからの流れを、5連勝の時をいやさ10年前のNo Powerから繋がっていると思うと泣けてくる！",
+    "createdAt": "2026-07-17T10:18:22.454008Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-17T10:18:24.024Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/ycdcynfGaJE?si=wAFZLl--EVDxGGYR",
+        "title": "【ル・マン優勝報告】TR中嶋会長はトロフィーを叩きつけたのか？そのときモリゾウは！？｜トヨタイムズスポーツ",
+        "description": "TOYOTA Racingとして初めて挑んだル・マン24時間レース。遡ること半年。東京オートサロンのステージで、TRの中嶋会長はモリゾウに堂々と宣言した。「ル・マンで優勝して、トロフィーを叩きつける」2022年以降優勝から遠ざかっていたル・マンの舞台。多くの強力なライバルとの闘いを制して、4年ぶりにトロフィーを手...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihnk6wyzdkucqo5ph6l5wqs4ywxhpiuxu7i5ukjulcc6eebmqagci"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
