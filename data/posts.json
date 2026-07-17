@@ -206642,5 +206642,43 @@
     "indexedAt": "2026-07-17T21:49:55.623Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mquvk3kmo52y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mquvk3kmo52y",
+    "cid": "bafyreihozuev2as3ugkhsvprlfps5givj3mvtbvs4tjh5pvuh4f6s6zgra",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士スピードウェイは霧が出てて何も見えんのな",
+    "createdAt": "2026-07-17T23:25:42.441230Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-17T23:25:43.026Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mquvgyn5ty2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mquvgyn5ty2a",
+    "cid": "bafyreignu3ousb37rafm25fzw6xzppuf2c7ynbcjm5abu6vhkbky5gys4q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第6戦 富士スピードウェイ スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/111013-L",
+    "createdAt": "2026-07-17T23:23:58.766512Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-17T23:23:59.728Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/111013-L",
+        "title": "予選 第6戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第6戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiasiuvdv4qyhdzkpylbjkp5yctkmmmflkesk6a7whrp2cmyxrryk4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
