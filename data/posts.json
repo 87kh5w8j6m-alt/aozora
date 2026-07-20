@@ -206822,7 +206822,7 @@
     "createdAt": "2026-07-18T01:18:46.357Z",
     "replyCount": 3,
     "repostCount": 173,
-    "likeCount": 747,
+    "likeCount": 749,
     "indexedAt": "2026-07-18T01:18:54.923Z",
     "embed": {
       "images": [
@@ -206878,7 +206878,7 @@
     "createdAt": "2026-07-19T21:56:57.309Z",
     "replyCount": 2,
     "repostCount": 142,
-    "likeCount": 609,
+    "likeCount": 611,
     "indexedAt": "2026-07-19T21:57:03.823Z",
     "embed": {
       "images": [
@@ -206904,9 +206904,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-07-20T21:43:09.975Z",
-    "replyCount": 1,
-    "repostCount": 84,
-    "likeCount": 243,
+    "replyCount": 2,
+    "repostCount": 104,
+    "likeCount": 375,
     "indexedAt": "2026-07-20T21:43:18.126Z",
     "embed": {
       "images": [
@@ -206936,6 +206936,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-20T22:30:24.133Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4hewmtht2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4hewmtht2w",
+    "cid": "bafyreifxt5ozaz2qy5ydoxv6knvjfo3upugmv3mppyrqafol6tci2r2guq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第48回聴取終了。",
+    "createdAt": "2026-07-20T23:33:35.068360Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-20T23:33:35.727Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4f4bcuii2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4f4bcuii2d",
+    "cid": "bafyreidk7xz62rsnosxrrwbzlcwpij6myzk7w5uffnl3zunomhbtyercva",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第470回聴取終了。",
+    "createdAt": "2026-07-20T22:52:56.776332Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-20T22:52:57.331Z",
     "embed": null,
     "isRepost": false
   }
