@@ -206905,8 +206905,8 @@
     "text": "",
     "createdAt": "2026-07-20T21:43:09.975Z",
     "replyCount": 3,
-    "repostCount": 149,
-    "likeCount": 571,
+    "repostCount": 155,
+    "likeCount": 599,
     "indexedAt": "2026-07-20T21:43:18.126Z",
     "embed": {
       "images": [
@@ -206966,6 +206966,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-20T22:52:57.331Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4wzmf7su27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr4wzmf7su27",
+    "cid": "bafyreidz436ywtycguzczpmsxfuxwoqgxirjnuwis4boucpyfplafjlm7a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "熱が下がらないので会社休んだけど、先週の私が仕込んでいたスケジュール送信のメールやチャットで仕事回ってるからもう出社しなくてもいいのでは",
+    "createdAt": "2026-07-21T04:13:35.085494Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-21T04:13:35.726Z",
     "embed": null,
     "isRepost": false
   }
