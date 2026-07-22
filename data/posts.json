@@ -199004,7 +199004,7 @@
     "createdAt": "2026-06-11T21:33:17.109Z",
     "replyCount": 4,
     "repostCount": 675,
-    "likeCount": 946,
+    "likeCount": 947,
     "indexedAt": "2026-06-11T21:33:21.963Z",
     "embed": {
       "images": [
@@ -199032,7 +199032,7 @@
     "createdAt": "2026-06-11T21:26:48.056Z",
     "replyCount": 2,
     "repostCount": 1128,
-    "likeCount": 1168,
+    "likeCount": 1169,
     "indexedAt": "2026-06-11T21:27:00.267Z",
     "embed": {
       "images": [
@@ -207008,8 +207008,8 @@
     "text": "",
     "createdAt": "2026-07-21T23:53:17.038Z",
     "replyCount": 0,
-    "repostCount": 94,
-    "likeCount": 374,
+    "repostCount": 98,
+    "likeCount": 386,
     "indexedAt": "2026-07-21T23:53:23.529Z",
     "embed": {
       "images": [
@@ -207026,5 +207026,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr7y4jejz42a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mr7y4jejz42a",
+    "cid": "bafyreictwnxrc4sbgdvbuxkr377ctr2prowkwdplqsijmqlwl6376uc5rm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日は何とか熱下がったので頑張って出社したけど、この暑さの中の出勤は病み上がりにはキツい",
+    "createdAt": "2026-07-22T09:11:04.949401Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-22T09:11:06.125Z",
+    "embed": null,
+    "isRepost": false
   }
 }
