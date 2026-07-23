@@ -207214,8 +207214,8 @@
     "text": "",
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 1,
-    "repostCount": 109,
-    "likeCount": 467,
+    "repostCount": 114,
+    "likeCount": 500,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207283,6 +207283,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrcst4tw2c2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrcst4tw2c2y",
+    "cid": "bafyreifmvvp4dylfbzjafx766txx46vhu2ztsj5sdonndvk4tgk2fdyyni",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "風邪で寝込んでた間に溜っていたRSSを読み切った",
+    "createdAt": "2026-07-23T12:14:21.398Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-23T12:14:22.227Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrcrxn3suc2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrcrxn3suc2h",
+    "cid": "bafyreigsl443snap3nfdiqklveus7n2mlx4q4qxkycn2yfrj6wga5lcbtq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 富士スピードウェイ ラウンド3・ラウンド4 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026 jod.jsports.co.jp/p/motor/sro_...",
+    "createdAt": "2026-07-23T11:58:58.909Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-23T11:58:59.524Z",
+    "embed": null,
     "isRepost": false
   }
 }
