@@ -206906,7 +206906,7 @@
     "createdAt": "2026-07-20T21:43:09.975Z",
     "replyCount": 3,
     "repostCount": 192,
-    "likeCount": 800,
+    "likeCount": 801,
     "indexedAt": "2026-07-20T21:43:18.126Z",
     "embed": {
       "images": [
@@ -207097,7 +207097,7 @@
     "createdAt": "2026-07-22T09:55:21.069Z",
     "replyCount": 0,
     "repostCount": 32,
-    "likeCount": 160,
+    "likeCount": 162,
     "indexedAt": "2026-07-22T09:55:27.025Z",
     "embed": {
       "images": [
@@ -207215,7 +207215,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 0,
     "repostCount": 105,
-    "likeCount": 418,
+    "likeCount": 429,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207232,5 +207232,34 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrckw5vfrk2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrckw5vfrk2b",
+    "cid": "bafyreiczh4eeawd7gw726s2zvvwcscbufcagn46prcd5p3rtctb2cxb64y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying ティーンエイジ・ブルース movie size - P.IDL (ティーンエイジ・ブルース movie size - Single)",
+    "createdAt": "2026-07-23T09:52:52.762485Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-23T09:52:53.924Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichpgmisreokzz5jnsjbfk3sgp5q3loaungtkwknzaydam7jlvv74",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichpgmisreokzz5jnsjbfk3sgp5q3loaungtkwknzaydam7jlvv74",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1400,
+            "width": 1400
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
   }
 }
