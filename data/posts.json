@@ -207374,5 +207374,20 @@
     "indexedAt": "2026-07-24T03:38:32.527Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mreuiam7w42w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mreuiam7w42w",
+    "cid": "bafyreih2i5tpwvpoih64zqcteeppy3fl5i7vpkix5qy25ivisz5vc34cmm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "地球🌏割れたかってくらいの雷鳴⚡️",
+    "createdAt": "2026-07-24T07:49:22.071045Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-24T07:49:23.328Z",
+    "embed": null,
+    "isRepost": false
   }
 }
