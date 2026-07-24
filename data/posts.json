@@ -207215,7 +207215,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
     "repostCount": 138,
-    "likeCount": 622,
+    "likeCount": 623,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207388,6 +207388,44 @@
     "likeCount": 0,
     "indexedAt": "2026-07-24T07:49:23.328Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrfas7taxq2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrfas7taxq2b",
+    "cid": "bafyreid3ylmag6m3lvsqfkxgobssvezeamun3kndog6v3fhrqhwt3lnvhq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1ハンガリーGP P1見る",
+    "createdAt": "2026-07-24T11:29:42.236586Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-24T11:29:43.025Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrf7ugfhqd2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrf7ugfhqd2p",
+    "cid": "bafyreifpxrvsnafni36b5kqjeocia5ngaugg4avazn7sbmzcq64ffkv2r4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | フリープラクティス1 第14・15戦 東京 【限定】FIA フォーミュラE世界選手権 2025/26 https://jod.jsports.co.jp/p/motor/formulae/111823-L",
+    "createdAt": "2026-07-24T11:13:02.526405Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-24T11:13:04.732Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/formulae/111823-L",
+        "title": "フリープラクティス1 第14・15戦 東京 【限定】FIA フォーミュラE世界選手権 2025/26｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "フリープラクティス1 第14・15戦 東京 【限定】FIA フォーミュラE世界選手権 2025/26を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidfsdehd2ibjldsbpuuakepki4opnpdh53g56wyngbngu3nmm7pmu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
