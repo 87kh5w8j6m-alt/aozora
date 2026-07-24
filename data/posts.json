@@ -206766,7 +206766,7 @@
     "createdAt": "2026-07-16T21:17:08.502Z",
     "replyCount": 1,
     "repostCount": 76,
-    "likeCount": 283,
+    "likeCount": 284,
     "indexedAt": "2026-07-16T21:17:13.230Z",
     "embed": {
       "images": [
@@ -206850,7 +206850,7 @@
     "createdAt": "2026-07-19T02:26:16.063Z",
     "replyCount": 1,
     "repostCount": 129,
-    "likeCount": 505,
+    "likeCount": 506,
     "indexedAt": "2026-07-19T02:26:21.730Z",
     "embed": {
       "images": [
@@ -206878,7 +206878,7 @@
     "createdAt": "2026-07-19T21:56:57.309Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 635,
+    "likeCount": 636,
     "indexedAt": "2026-07-19T21:57:03.823Z",
     "embed": {
       "images": [
@@ -207009,7 +207009,7 @@
     "createdAt": "2026-07-21T23:53:17.038Z",
     "replyCount": 1,
     "repostCount": 123,
-    "likeCount": 488,
+    "likeCount": 489,
     "indexedAt": "2026-07-21T23:53:23.529Z",
     "embed": {
       "images": [
@@ -207214,8 +207214,8 @@
     "text": "",
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
-    "repostCount": 137,
-    "likeCount": 618,
+    "repostCount": 138,
+    "likeCount": 620,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207357,6 +207357,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-23T21:13:20.623Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mreghp2nmb2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mreghp2nmb2b",
+    "cid": "bafyreibvhuwtehuibkkokiel5fg6wrbski4xivvx3oui4mnlb5xqy4vzpm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-07-24T03:38:31.181840Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-24T03:38:32.527Z",
     "embed": null,
     "isRepost": false
   }
