@@ -207495,8 +207495,8 @@
     "text": "",
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 5,
-    "repostCount": 174,
-    "likeCount": 640,
+    "repostCount": 186,
+    "likeCount": 680,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207527,6 +207527,35 @@
     "likeCount": 1,
     "indexedAt": "2026-07-25T00:21:05.434Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrh37t5xul2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrh37t5xul2g",
+    "cid": "bafyreifcryzuyrk5c6fr24pgxxy3qzz4uhz6lyqybsdwx7alhgrmaviqtq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "スズメさんが温湿度とCO2濃度を教えてくれる。",
+    "createdAt": "2026-07-25T04:55:15.806282Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-25T04:55:16.928Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiagce3vhy7pju5xzxfohyom5kz37dsf3lcmfrfutc2rrvn4dx7bfi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiagce3vhy7pju5xzxfohyom5kz37dsf3lcmfrfutc2rrvn4dx7bfi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
