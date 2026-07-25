@@ -207495,8 +207495,8 @@
     "text": "",
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 6,
-    "repostCount": 200,
-    "likeCount": 770,
+    "repostCount": 201,
+    "likeCount": 776,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207556,6 +207556,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrhnlu6kxg2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrhnlu6kxg2o",
+    "cid": "bafyreifloj62b4wi7i6ply5ludf72kbei2aetgprlgb3tvq4chnm5eompy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1ハンガリーGP FP3見る",
+    "createdAt": "2026-07-25T10:24:05.990648Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-25T10:24:07.527Z",
+    "embed": null,
     "isRepost": false
   }
 }
