@@ -198563,8 +198563,8 @@
     "text": "",
     "createdAt": "2026-06-06T21:27:20.514Z",
     "replyCount": 1,
-    "repostCount": 123,
-    "likeCount": 434,
+    "repostCount": 122,
+    "likeCount": 433,
     "indexedAt": "2026-06-06T21:27:30.161Z",
     "embed": {
       "images": [
@@ -207438,7 +207438,7 @@
     "createdAt": "2026-07-23T22:49:55.452Z",
     "replyCount": 0,
     "repostCount": 130,
-    "likeCount": 496,
+    "likeCount": 497,
     "indexedAt": "2026-07-23T22:50:05.729Z",
     "embed": {
       "images": [
@@ -207455,5 +207455,78 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrgmc2wunn2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrgmc2wunn2d",
+    "cid": "bafyreie4ijwncrdxzqul3tnrikrkw6xoyfoox2ssd5dhfw4sjabq5qqgoe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1ハンガリーGP FP2見る。",
+    "createdAt": "2026-07-25T00:28:04.972272Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-25T00:28:05.627Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrgmbdwcgy2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrgmbdwcgy2y",
+    "cid": "bafyreidvdfk4zifvv2yicjulvyjvkqotmgkni2wwtaqbql6hu2vousg42a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1243回聴取終了。",
+    "createdAt": "2026-07-25T00:27:40.810453Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-25T00:27:41.523Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mrgd4dpqzs2f": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mrgd4dpqzs2f",
+    "cid": "bafyreibvofc3rdq6sex23jkxbsuus44lu3oxn2qq3bzod2qa5476yvqucu",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-07-24T21:43:49.673Z",
+    "replyCount": 4,
+    "repostCount": 146,
+    "likeCount": 473,
+    "indexedAt": "2026-07-24T21:44:03.929Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicyy45mu5ez6vqy54obl5xxov7pye3pnfibkaz5hczn6oknip36fe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicyy45mu5ez6vqy54obl5xxov7pye3pnfibkaz5hczn6oknip36fe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrglvhhxan2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrglvhhxan2m",
+    "cid": "bafyreicx2hrnuthbt3igwnp2325gm3xlfrlpr22wneqt46dkuu3nnei2m4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-07-25T00:21:01.847860Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-25T00:21:05.434Z",
+    "embed": null,
+    "isRepost": false
   }
 }
