@@ -207496,7 +207496,7 @@
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 6,
     "repostCount": 219,
-    "likeCount": 842,
+    "likeCount": 843,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207645,6 +207645,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-26T00:16:58.228Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrjh223ep42y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrjh223ep42y",
+    "cid": "bafyreigebk2cd46vvmpc6zo7y4zywtxe7bk43kdfh4a42jiy2d6hpeur2u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "伊集院光の偏愛博物館 獅子博物館\n#TVer\nhttps://tver.jp/episodes/epz1o569v5",
+    "createdAt": "2026-07-26T03:32:06.137656Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T03:32:06.740Z",
     "embed": null,
     "isRepost": false
   }
