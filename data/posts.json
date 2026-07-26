@@ -205814,9 +205814,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "GTWC Asia at Fujiから無事帰宅！行きは事故渋滞で予選に間に合わなかったけど、決勝レースはバッチリ見られたからまあよし！日向はともかく日陰に入ればそこそこ涼しかったのでなんとかなったが､夏季のレース観戦は大変だ",
     "createdAt": "2026-07-11T11:24:10.566159Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-11T11:24:33.727Z",
     "embed": {
       "images": [
@@ -207733,8 +207733,8 @@
     "text": "",
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 5,
-    "repostCount": 105,
-    "likeCount": 464,
+    "repostCount": 106,
+    "likeCount": 476,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207751,5 +207751,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrjzp4zwtz27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrjzp4zwtz27",
+    "cid": "bafyreidpri5obz333oipvhpvltkxk7265fh75edjzmkughubyhz3e3bgpu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第3戦 富士スピードウェイ スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/111461-V ",
+    "createdAt": "2026-07-26T09:06:01.280569Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T09:06:04.331Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/111461-V",
+        "title": "決勝 第3戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第3戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib34w3vfs3plfgf5zpastdjfrfimhpgxd5vnwqkghn63iaixq2v4a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
