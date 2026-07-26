@@ -207495,8 +207495,8 @@
     "text": "",
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 6,
-    "repostCount": 218,
-    "likeCount": 840,
+    "repostCount": 219,
+    "likeCount": 841,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207615,6 +207615,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-07-25T15:05:58.532Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrj4ozeul32p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrj4ozeul32p",
+    "cid": "bafyreid5pgo5ys4p4cgxetwypfd74z3benlo2q637sfikk7u4gdhuo46bi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第472回聴取終了。",
+    "createdAt": "2026-07-26T00:26:58.726728Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T00:26:59.625Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrj453wpo62b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrj453wpo62b",
+    "cid": "bafyreig4htqf64weeon3n7pi3fi7uych36ilzhwojyisehyixcwxplojrq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第471回聴取終了。",
+    "createdAt": "2026-07-26T00:16:57.465367Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T00:16:58.228Z",
     "embed": null,
     "isRepost": false
   }
