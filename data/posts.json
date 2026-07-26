@@ -206822,7 +206822,7 @@
     "createdAt": "2026-07-18T01:18:46.357Z",
     "replyCount": 4,
     "repostCount": 181,
-    "likeCount": 770,
+    "likeCount": 771,
     "indexedAt": "2026-07-18T01:18:54.923Z",
     "embed": {
       "images": [
@@ -207733,8 +207733,8 @@
     "text": "",
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 5,
-    "repostCount": 112,
-    "likeCount": 513,
+    "repostCount": 113,
+    "likeCount": 520,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207894,6 +207894,29 @@
     "likeCount": 0,
     "indexedAt": "2026-07-26T13:59:16.629Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrknabnsas2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrknabnsas2q",
+    "cid": "bafyreicc4ljru3jybu3jh3qxoqrpeuchj3powjeebbfq274psmvl47mls4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "大改善アストンに抜かれたウイリアムズ。でもサインツJr.は前向き「自分たちにも同じことができると勇気が湧く」  - jp.motorsport.com/f1/news/stru...  アストンにはニューウェイがいるがウィリアムズに彼はいないんだ",
+    "createdAt": "2026-07-26T14:55:38.102Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T14:55:41.832Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/struggling-williams-must-be-inspired-by-aston-martins-improvement-carlos-sainz/10841989/",
+        "title": "大改善アストンに抜かれたウイリアムズ。でもサインツJr.は前向き「自分たちにも同じことができると勇気が湧く」",
+        "description": "ウイリアムズのカルロス・サインツJr.はF1ハンガリーGPでアストンマーティンが劇的に改善してきたことを、自分たちにもチャンスがあると前向きに捉えるべきだと考えている。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreics463tlf2gufnxfrrgkbhllyaftscldtucdvaxg6wlta4fywmsjm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
