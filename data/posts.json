@@ -205814,9 +205814,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "GTWC Asia at Fujiから無事帰宅！行きは事故渋滞で予選に間に合わなかったけど、決勝レースはバッチリ見られたからまあよし！日向はともかく日陰に入ればそこそこ涼しかったのでなんとかなったが､夏季のレース観戦は大変だ",
     "createdAt": "2026-07-11T11:24:10.566159Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 0,
     "indexedAt": "2026-07-11T11:24:33.727Z",
     "embed": {
       "images": [
@@ -207496,7 +207496,7 @@
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 7,
     "repostCount": 222,
-    "likeCount": 849,
+    "likeCount": 851,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207733,8 +207733,8 @@
     "text": "",
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 5,
-    "repostCount": 109,
-    "likeCount": 494,
+    "repostCount": 111,
+    "likeCount": 504,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207770,6 +207770,82 @@
         "title": "決勝 第3戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
         "description": "決勝 第3戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib34w3vfs3plfgf5zpastdjfrfimhpgxd5vnwqkghn63iaixq2v4a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkffolb5c2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkffolb5c2q",
+    "cid": "bafyreigr2phkiqu4ycyozeptgvulkqrcxihmdcv4tcdminqki2tz5e5qce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "10月にマレーシア・セパンでF1バーレーンGP開催が決定。同地でのF1開催は9年ぶり  - www.as-web.jp/f1/1338025 その手があったか！",
+    "createdAt": "2026-07-26T12:35:29.488Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T12:35:35.324Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1338025",
+        "title": "10月にマレーシア・セパンでF1バーレーンGP開催が決定。同地でのF1開催は9年ぶり | ニュース | autosport web",
+        "description": "7月26日、国際自動車連盟（FIA）とフォーミュラ・ワン・マネジメント（FOM）は、2026年10月2〜4日の日程で、マレーシアのセパン・インターナショナル・",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigj76out5ewdkhte33syozgcc3kiaw23ot6nfqdarqd67v3yu7ipy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkenjasmj22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkenjasmj22",
+    "cid": "bafyreidftmkcerscwxgw5jvw3sgyegk4ygd4g6bigkd3taha2hka6bxl54",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1ハンガリーGP 決勝レース見る",
+    "createdAt": "2026-07-26T12:21:57.947997Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T12:21:58.728Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkdqvhe6p2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkdqvhe6p2b",
+    "cid": "bafyreifhrxhahucymtonkirbcnvt7iopc5xa6jgpradfxdpzeqgct432pi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "デ・フリース優勝🏆おめでとー！",
+    "createdAt": "2026-07-26T12:05:57.432358Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T12:05:58.454Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkdodhkem2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkdodhkem2m",
+    "cid": "bafyreig2mvjflzzvlcpp6o3r5vojvczxx5obq5bo7g33wzy46c376fw2h4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第15戦 東京 FIA フォーミュラE世界選手権 2025/26 https://jod.jsports.co.jp/p/motor/formulae/111047-L",
+    "createdAt": "2026-07-26T12:04:31.378881Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T12:04:32.727Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/formulae/111047-L",
+        "title": "決勝 第15戦 東京 FIA フォーミュラE世界選手権 2025/26｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第15戦 東京 FIA フォーミュラE世界選手権 2025/26を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidvcm4hhp4surobwy7bykb6crhtda6yemgoet4xxfh4gr3q7ix7pi"
       },
       "$type": "app.bsky.embed.external#view"
     },
