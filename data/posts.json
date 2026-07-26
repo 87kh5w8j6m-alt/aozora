@@ -206766,7 +206766,7 @@
     "createdAt": "2026-07-16T21:17:08.502Z",
     "replyCount": 1,
     "repostCount": 76,
-    "likeCount": 286,
+    "likeCount": 287,
     "indexedAt": "2026-07-16T21:17:13.230Z",
     "embed": {
       "images": [
@@ -206794,7 +206794,7 @@
     "createdAt": "2026-07-15T21:41:38.980Z",
     "replyCount": 0,
     "repostCount": 108,
-    "likeCount": 423,
+    "likeCount": 424,
     "indexedAt": "2026-07-15T21:42:01.927Z",
     "embed": {
       "images": [
@@ -206877,8 +206877,8 @@
     "text": "",
     "createdAt": "2026-07-19T21:56:57.309Z",
     "replyCount": 2,
-    "repostCount": 148,
-    "likeCount": 642,
+    "repostCount": 149,
+    "likeCount": 643,
     "indexedAt": "2026-07-19T21:57:03.823Z",
     "embed": {
       "images": [
@@ -207734,7 +207734,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 5,
     "repostCount": 112,
-    "likeCount": 511,
+    "likeCount": 513,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207849,6 +207849,51 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkmkyaxnl22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkmkyaxnl22",
+    "cid": "bafyreidglbj4ibsuxzalqksrfps7n6dw2thoxtsmhwn4gmn2rkfj5qhjde",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ノリス優勝🏆おめでとー！あんたが一番！\n#F1jp #f1fujitv",
+    "createdAt": "2026-07-26T14:43:42.212036Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T14:43:43.728Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkkvmmnhn22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkkvmmnhn22",
+    "cid": "bafyreia7rkixsfkcelocl24opyahw7aqtza47xjcx4b5rdqpvebw3e2aza",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ディスプレイとバッグはいろんなサイズがあればあるだけいいんだから。必要な時に必要な大きさになってくれれば一番いい",
+    "createdAt": "2026-07-26T14:13:52.499560Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T14:13:53.129Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkk3irqnp2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrkk3irqnp2g",
+    "cid": "bafyreid5eg3otkbl37gmebqm55sag5kw5ruiuyso5mbmtpfixoidysscqi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Ferrariは背びれにでっかくカーナンバー書いておいてくれるから分かりやすいなあ。全車同じようにカーナンバー書いてくれたらいいのに\n#F1jp #f1fujitv",
+    "createdAt": "2026-07-26T13:59:15.947782Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-26T13:59:16.629Z",
+    "embed": null,
     "isRepost": false
   }
 }
