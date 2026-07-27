@@ -207733,7 +207733,7 @@
     "text": "",
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
-    "repostCount": 122,
+    "repostCount": 123,
     "likeCount": 550,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
@@ -207958,8 +207958,8 @@
     "text": "",
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
-    "repostCount": 97,
-    "likeCount": 415,
+    "repostCount": 99,
+    "likeCount": 434,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -207976,5 +207976,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrmwpylodm2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrmwpylodm2b",
+    "cid": "bafyreigo4iarraxmlol7ahdpdhhggc5hcnudbpcdomkdafx2z733jrviia",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第7戦 富士スピードウェイ スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/111016-V",
+    "createdAt": "2026-07-27T12:50:48.111355Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-27T12:50:49.225Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/111016-V",
+        "title": "決勝 第7戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第7戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidjy3hhbbobtq3gbxvef6fnx7gxnwcxhh4cgqe7xv45sxwi7s6apm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
