@@ -207734,7 +207734,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 125,
-    "likeCount": 554,
+    "likeCount": 555,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207959,7 +207959,7 @@
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 495,
+    "likeCount": 496,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208024,8 +208024,8 @@
     "text": "",
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
-    "repostCount": 107,
-    "likeCount": 423,
+    "repostCount": 108,
+    "likeCount": 431,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208076,6 +208076,29 @@
         "title": "チェコ共和国大統領がF1ハンガリーGPを訪問！　ただし、フォトグラファーとして……",
         "description": "F1ハンガリーGPにチェコ共和国のペトル・パヴェル大統領が姿を見せたが、これは公式訪問ではなかった。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic3jq7mdioj42maptvey36opcp224vurjmto62totuctcspdpytwy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrpi6wpupc2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrpi6wpupc2r",
+    "cid": "bafyreidqyvwlkjmsfn56sbwg3ysqgarrui76eazv4jx6fqg26zyzfknkse",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC世界耐久選手権が2026年シーズン終盤2戦の開催地を決定。中東情勢の影響でカタルーニャとモンツァで代替開催  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-07-28T13:08:43.064Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-28T13:08:48.026Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1338630",
+        "title": "WEC世界耐久選手権が2026年シーズン終盤2戦の開催地を決定。中東情勢の影響でカタルーニャとモンツァで代替開催 | ニュース | autosport web",
+        "description": "7月28日、FIA世界耐久選手権は、中東地域における継続的な情勢の変化が貨物輸送および渡航手配に影響を及ぼしていることをうけ、カタールとバーレーンの2戦の開催",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicysyk4lql76fvb6vaeord2c76mchb6o5n4rsbrknm7t5mqg5eeze"
       },
       "$type": "app.bsky.embed.external#view"
     },
