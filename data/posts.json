@@ -206877,8 +206877,8 @@
     "text": "",
     "createdAt": "2026-07-19T21:56:57.309Z",
     "replyCount": 2,
-    "repostCount": 149,
-    "likeCount": 643,
+    "repostCount": 150,
+    "likeCount": 644,
     "indexedAt": "2026-07-19T21:57:03.823Z",
     "embed": {
       "images": [
@@ -207958,8 +207958,8 @@
     "text": "",
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 499,
+    "repostCount": 112,
+    "likeCount": 500,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208024,8 +208024,8 @@
     "text": "",
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
-    "repostCount": 112,
-    "likeCount": 467,
+    "repostCount": 113,
+    "likeCount": 470,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208113,8 +208113,8 @@
     "text": "",
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 2,
-    "repostCount": 70,
-    "likeCount": 223,
+    "repostCount": 88,
+    "likeCount": 297,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208142,7 +208142,7 @@
     "createdAt": "2026-07-28T22:51:52.480035Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-28T22:51:54.225Z",
     "embed": {
       "images": [
@@ -208210,7 +208210,7 @@
     "createdAt": "2026-07-28T22:01:57.599818Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 4,
+    "likeCount": 5,
     "indexedAt": "2026-07-28T22:01:59.227Z",
     "embed": {
       "images": [
@@ -208234,13 +208234,13 @@
     "cid": "bafyreigiu4wccyivjyhlaxblbrrfppxcollgjosgjwrjhqzclnhkt7tkem",
     "author": "jiminynseries.bsky.social",
     "authorName": "じみニー",
-    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme@jpeg",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "大好き！",
     "createdAt": "2026-07-28T22:52:36.060Z",
     "replyCount": 0,
     "repostCount": 0,
     "likeCount": 0,
-    "indexedAt": "2026-07-28T22:52:36.325Z",
+    "indexedAt": "2026-07-28T22:52:36.525Z",
     "embed": {
       "record": {
         "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mrqekpjv3c27",
@@ -208295,6 +208295,11 @@
           "text": ""
         },
         "labels": [],
+        "likeCount": 297,
+        "replyCount": 2,
+        "repostCount": 88,
+        "quoteCount": 1,
+        "indexedAt": "2026-07-28T21:36:30.625Z",
         "embeds": [
           {
             "images": [
@@ -208311,11 +208316,40 @@
             "$type": "app.bsky.embed.images#view"
           }
         ],
-        "indexedAt": "2026-07-28T21:36:30.625Z",
         "$type": "app.bsky.embed.record#viewRecord"
       },
       "$type": "app.bsky.embed.record#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrqkyjy5ch2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrqkyjy5ch2t",
+    "cid": "bafyreidpqvhu73anuewvwv63hirpiumey5tbtkcjft4hgllzx5f2lur7ju",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "TPC（Testing of Previous Cars＝旧型車によるテスト走行）とTCP（Transmission Control Protocol）間違いそうになる。",
+    "createdAt": "2026-07-28T23:31:28.319222Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-28T23:31:29.428Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrqithbgfm2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrqithbgfm2m",
+    "cid": "bafyreibolqff2ekdefeq3erghvntmouzfsys4mxogaaqo2w7i43ddr4xke",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "仕事休みです",
+    "createdAt": "2026-07-28T22:52:50.264815Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-07-28T22:52:51.328Z",
+    "embed": null,
     "isRepost": false
   }
 }
