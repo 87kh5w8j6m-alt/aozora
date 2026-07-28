@@ -207959,7 +207959,7 @@
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 491,
+    "likeCount": 492,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208024,8 +208024,8 @@
     "text": "",
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
-    "repostCount": 87,
-    "likeCount": 311,
+    "repostCount": 90,
+    "likeCount": 335,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208056,6 +208056,29 @@
     "likeCount": 0,
     "indexedAt": "2026-07-28T03:38:08.324Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mroj7xqrkc2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mroj7xqrkc2g",
+    "cid": "bafyreid5vyc6f4miej7m7xp3ase6ezlatqiovvsadatm5ngs2wue2bjqha",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "チェコ共和国大統領がF1ハンガリーGPを訪問！　ただし、フォトグラファーとして……  - jp.motorsport.com/f1/news/czec...",
+    "createdAt": "2026-07-28T03:54:31.701Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-28T03:54:39.828Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/czech-republic-president-attends-hungarian-gp-as-a-photographer/10842384/",
+        "title": "チェコ共和国大統領がF1ハンガリーGPを訪問！　ただし、フォトグラファーとして……",
+        "description": "F1ハンガリーGPにチェコ共和国のペトル・パヴェル大統領が姿を見せたが、これは公式訪問ではなかった。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic3jq7mdioj42maptvey36opcp224vurjmto62totuctcspdpytwy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
