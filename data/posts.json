@@ -207959,7 +207959,7 @@
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 503,
+    "likeCount": 504,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208025,7 +208025,7 @@
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 480,
+    "likeCount": 482,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208113,8 +208113,8 @@
     "text": "",
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 3,
-    "repostCount": 147,
-    "likeCount": 587,
+    "repostCount": 149,
+    "likeCount": 601,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208295,9 +208295,9 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 587,
+        "likeCount": 601,
         "replyCount": 3,
-        "repostCount": 147,
+        "repostCount": 149,
         "quoteCount": 1,
         "indexedAt": "2026-07-28T21:36:30.625Z",
         "embeds": [
@@ -208506,6 +208506,44 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrrmfixixi2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrrmfixixi2o",
+    "cid": "bafyreicbsrovhkxysbysx37bp2owdenbred532ilzaqrzmebqdbx2bmwum",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "汗でぐじゃぐじゃだったけど、温泉♨️入ってサッパリしたー",
+    "createdAt": "2026-07-29T09:29:16.911469Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-07-29T09:29:18.027Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrrlt6t7uz2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrrlt6t7uz2b",
+    "cid": "bafyreiahw2ufxussios2ipq2ntug43r4pqle7av7kdnkixkhxub2twtmwy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I am at 小山町町民いこいの家 あしがら温泉 https://app.foursquare.com/share/checkin/6a69c392542ee670bc93a272?s=Ubnp8nHGzj19cG6CMXct6lTTOoM&lang=en",
+    "createdAt": "2026-07-29T09:19:02.338831Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-29T09:19:05.323Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a69c392542ee670bc93a272?s=Ubnp8nHGzj19cG6CMXct6lTTOoM&lang=en",
+        "title": "jiminy nseries's check in at 小山町町民いこいの家 あしがら温泉",
+        "description": "https://app.foursquare.com/share/checkin/6a69c392542ee670bc93a272?s=Ubnp8nHGzj19cG6CMXct6lTTOoM&lang=en",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibciwdw3s3gkxu45ucgps4xvnjkjnaca4emp4zhpobdgrzvk57mmu"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
   }
