@@ -208114,7 +208114,7 @@
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 3,
     "repostCount": 173,
-    "likeCount": 698,
+    "likeCount": 699,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208295,7 +208295,7 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 698,
+        "likeCount": 699,
         "replyCount": 3,
         "repostCount": 173,
         "quoteCount": 1,
@@ -208726,8 +208726,8 @@
     "text": "",
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
-    "repostCount": 146,
-    "likeCount": 606,
+    "repostCount": 147,
+    "likeCount": 610,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208787,6 +208787,51 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrum2m7l5s2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrum2m7l5s2b",
+    "cid": "bafyreicw563dvlm5kgk7tadgfbzeu7wlwiqkpbcg6wcsmocl5cwqzcmaj4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第69話視聴終了。",
+    "createdAt": "2026-07-30T14:01:11.007261Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T14:01:11.530Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrum2ave7227": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrum2ave7227",
+    "cid": "bafyreic2btnnekdgfhehgtgeb6klc6juel5ri7lr6ol2hgypxcsnznzbjq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第68話視聴終了。",
+    "createdAt": "2026-07-30T14:00:58.992157Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T14:00:59.724Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrulzkzhu22b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrulzkzhu22b",
+    "cid": "bafyreic3lmeejdcaslmqyrwb4vetvapvovl5l2aqga26zggdvlebsuvhlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第67話視聴終了。",
+    "createdAt": "2026-07-30T14:00:35.953799Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T14:00:36.732Z",
+    "embed": null,
     "isRepost": false
   }
 }
