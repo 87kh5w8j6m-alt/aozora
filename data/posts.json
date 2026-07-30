@@ -208699,7 +208699,7 @@
     "createdAt": "2026-07-30T02:59:40.686Z",
     "replyCount": 0,
     "repostCount": 5,
-    "likeCount": 68,
+    "likeCount": 69,
     "indexedAt": "2026-07-30T02:59:53.231Z",
     "embed": {
       "images": [
@@ -208726,8 +208726,8 @@
     "text": "",
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
-    "repostCount": 145,
-    "likeCount": 599,
+    "repostCount": 146,
+    "likeCount": 606,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208744,5 +208744,49 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrujioljo226": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrujioljo226",
+    "cid": "bafyreihcq5qnfstzu5sqypnjuaujmnvy45spq6som2b7vov7xavjbeloty",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "いつのまにかで言ったら「Foursquare」だったのに「Swarm」になってた。",
+    "createdAt": "2026-07-30T13:15:22.513Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T13:15:24.229Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrujhdk7lq2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrujhdk7lq2p",
+    "cid": "bafyreib3yyfxuduninmoa2qu2x6nqszrvrgxiahxia65zdz6chchjv3oyy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Swarmがいつのまにか「I'm at/I was at hogehoge」の形式じゃなくて長ったらしい文章になっていたので、かつての「I'm at/I was at hogehoge URL」の形式に整えるようショートカット組んだ",
+    "createdAt": "2026-07-30T13:14:36.875944Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T13:14:38.032Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieggoi24v2lmikz6tdjwmjraa53sprforppv2ozy32m5r3ndfhaci",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieggoi24v2lmikz6tdjwmjraa53sprforppv2ozy32m5r3ndfhaci",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 2436,
+            "width": 1199
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
   }
 }
