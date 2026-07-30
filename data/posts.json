@@ -208699,7 +208699,7 @@
     "createdAt": "2026-07-30T02:59:40.686Z",
     "replyCount": 0,
     "repostCount": 5,
-    "likeCount": 72,
+    "likeCount": 73,
     "indexedAt": "2026-07-30T02:59:53.231Z",
     "embed": {
       "images": [
@@ -208727,7 +208727,7 @@
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
     "repostCount": 149,
-    "likeCount": 629,
+    "likeCount": 631,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208846,6 +208846,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-07-30T21:19:31.829Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrvmybjiwx2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrvmybjiwx2y",
+    "cid": "bafyreieu6swdt6x7jbfc6xaxhudwulyfppqvs2s77o4l7tmfmwadh2cml4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第49回聴取終了。",
+    "createdAt": "2026-07-30T23:50:25.616655Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-30T23:50:26.731Z",
     "embed": null,
     "isRepost": false
   }
