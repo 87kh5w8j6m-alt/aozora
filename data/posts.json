@@ -201012,6 +201012,8 @@
           },
           "viewer": {
             "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
             "blockedBy": false,
             "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3lbg3bvwib52n"
           },
@@ -201565,6 +201567,8 @@
           },
           "viewer": {
             "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
             "blockedBy": false
           },
           "labels": [],
@@ -202501,6 +202505,8 @@
           },
           "viewer": {
             "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
             "blockedBy": false
           },
           "labels": [],
@@ -206042,6 +206048,8 @@
           },
           "viewer": {
             "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
             "blockedBy": false
           },
           "labels": [],
@@ -206906,7 +206914,7 @@
     "createdAt": "2026-07-20T21:43:09.975Z",
     "replyCount": 3,
     "repostCount": 206,
-    "likeCount": 842,
+    "likeCount": 843,
     "indexedAt": "2026-07-20T21:43:18.126Z",
     "embed": {
       "images": [
@@ -207496,7 +207504,7 @@
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 7,
     "repostCount": 233,
-    "likeCount": 907,
+    "likeCount": 909,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -208260,6 +208268,8 @@
           },
           "viewer": {
             "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
             "blockedBy": false,
             "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3lk56lda5wu2h"
           },
@@ -208888,8 +208898,8 @@
     "text": "",
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 490,
+    "repostCount": 111,
+    "likeCount": 501,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
