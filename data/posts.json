@@ -207223,7 +207223,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
     "repostCount": 146,
-    "likeCount": 651,
+    "likeCount": 652,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207503,8 +207503,8 @@
     "text": "",
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 7,
-    "repostCount": 233,
-    "likeCount": 909,
+    "repostCount": 234,
+    "likeCount": 910,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207742,7 +207742,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 125,
-    "likeCount": 560,
+    "likeCount": 561,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -208033,7 +208033,7 @@
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 489,
+    "likeCount": 491,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208122,7 +208122,7 @@
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 3,
     "repostCount": 173,
-    "likeCount": 705,
+    "likeCount": 706,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208305,7 +208305,7 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 705,
+        "likeCount": 706,
         "replyCount": 3,
         "repostCount": 173,
         "quoteCount": 1,
@@ -208737,7 +208737,7 @@
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
     "repostCount": 158,
-    "likeCount": 648,
+    "likeCount": 650,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208898,8 +208898,8 @@
     "text": "",
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
-    "repostCount": 119,
-    "likeCount": 533,
+    "repostCount": 120,
+    "likeCount": 537,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -208938,6 +208938,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mry2xdcfma2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mry2xdcfma2m",
+    "cid": "bafyreihwtollb6gga7wv6ceqrnbna44pj7l5wjdgafufap5vir6d6gjpxi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-07-31T23:05:46.302433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-31T23:05:46.927Z",
+    "embed": null,
     "isRepost": false
   }
 }
