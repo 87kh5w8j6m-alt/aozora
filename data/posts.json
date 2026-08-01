@@ -208033,7 +208033,7 @@
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 493,
+    "likeCount": 494,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208122,7 +208122,7 @@
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 3,
     "repostCount": 173,
-    "likeCount": 707,
+    "likeCount": 708,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208305,7 +208305,7 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 707,
+        "likeCount": 708,
         "replyCount": 3,
         "repostCount": 173,
         "quoteCount": 1,
@@ -208737,7 +208737,7 @@
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
     "repostCount": 158,
-    "likeCount": 652,
+    "likeCount": 653,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208899,7 +208899,7 @@
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
     "repostCount": 122,
-    "likeCount": 552,
+    "likeCount": 554,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -208967,6 +208967,79 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-31T23:53:46.925Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mryxpytr6w2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mryxpytr6w2j",
+    "cid": "bafyreickmahgeovwhak2ybg6p25aale6oscd3kiv3723amj5lmboipceby",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第3話視聴終了。",
+    "createdAt": "2026-08-01T07:40:38.875279Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T07:40:39.628Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:d2f4ak6ikjqq4jifkbq2pdne/app.bsky.feed.post/3lwbped7muk2f": {
+    "uri": "at://did:plc:d2f4ak6ikjqq4jifkbq2pdne/app.bsky.feed.post/3lwbped7muk2f",
+    "cid": "bafyreiei5e3yaedy445vyszhz7cm33znhnhcg4n7rdtk2mbj4tbmdgnfhy",
+    "author": "gomennasai128.bsky.social",
+    "authorName": "御免なさい",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d2f4ak6ikjqq4jifkbq2pdne/bafkreiagjgcvhees5gihamoecjqo2bgzfqqrwytcth4wstcoy7uuhqbeha",
+    "text": "しょうがないなぁ…",
+    "createdAt": "2025-08-13T11:19:29.842Z",
+    "replyCount": 2,
+    "repostCount": 70,
+    "likeCount": 423,
+    "indexedAt": "2025-08-13T11:19:29.966Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d2f4ak6ikjqq4jifkbq2pdne/bafkreihdcj7nbqfa63gn5rja32hbwilt3iyiprsninmj3eejkm526oihqu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d2f4ak6ikjqq4jifkbq2pdne/bafkreihdcj7nbqfa63gn5rja32hbwilt3iyiprsninmj3eejkm526oihqu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1000,
+            "width": 713
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrywiypi4v2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrywiypi4v2t",
+    "cid": "bafyreihdfxf2pv75icqynabrdayvhpofzxbhgv5k6volurkygx57tgi5km",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第2話視聴終了。",
+    "createdAt": "2026-08-01T07:18:50.141717Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T07:18:50.824Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mryv6srm2g2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mryv6srm2g2q",
+    "cid": "bafyreibbsk22unbophpxgucjofovfobgowtyu3dnq46hxrvowhvmdmwbiu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第1話視聴終了。",
+    "createdAt": "2026-08-01T06:55:14.610595Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T06:55:15.324Z",
     "embed": null,
     "isRepost": false
   }
