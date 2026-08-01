@@ -207742,7 +207742,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 125,
-    "likeCount": 561,
+    "likeCount": 560,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207967,7 +207967,7 @@
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 507,
+    "likeCount": 506,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208899,7 +208899,7 @@
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 537,
+    "likeCount": 542,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -208952,6 +208952,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-07-31T23:05:46.927Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mry5n5qpxm2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mry5n5qpxm2l",
+    "cid": "bafyreibv5smrm2hb243zt3ruw6w3x4rbyesh25azxqny3pkhtsxdisr7v4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1244回聴取終了。",
+    "createdAt": "2026-07-31T23:53:46.084796Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-07-31T23:53:46.925Z",
     "embed": null,
     "isRepost": false
   }
