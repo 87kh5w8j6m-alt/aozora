@@ -207742,7 +207742,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 125,
-    "likeCount": 560,
+    "likeCount": 559,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -208995,7 +208995,7 @@
     "createdAt": "2025-08-13T11:19:29.842Z",
     "replyCount": 2,
     "repostCount": 71,
-    "likeCount": 430,
+    "likeCount": 431,
     "indexedAt": "2025-08-13T11:19:29.966Z",
     "embed": {
       "images": [
@@ -209056,6 +209056,95 @@
     "likeCount": 0,
     "indexedAt": "2026-08-01T08:04:32.727Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzm5xuybp2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzm5xuybp2t",
+    "cid": "bafyreihvakvmgboebs3hnhoolb7tpuawghqyjlmevgdbl5bzio4jdlmz7y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのスクールカレンダーめくり。絵日記だ！きいろリボンのほっちゃんもかわいい！！\n#堀江由衣 #黒ネコ同盟",
+    "createdAt": "2026-08-01T13:46:22.465327Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T13:46:23.225Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzkwkcgas26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzkwkcgas26",
+    "cid": "bafyreihnflavjnamw4z3mvpepklyc4gw3olc662lcqjkvbl7hmu3zdhjnm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Vivy放送当時ドハマりしたんだけれど、生成AI前だったので生成AIの登場でAI観が変わった今見たらどうなんだろうって怖くて見られなかった。今日見直してみたら変らず面白いかったし、より人間とAIの付き合い方について考えさせられるいい作品だった。\nvivy-portal.com",
+    "createdAt": "2026-08-01T13:24:20.215Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T13:24:25.027Z",
+    "embed": {
+      "external": {
+        "uri": "https://vivy-portal.com",
+        "title": "Vivy -Fluorite Eye’s Song-",
+        "description": "オリジナルテレビアニメ「Vivy -Fluorite Eye’s Song-」2021年4月放送決定！",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaof67mk3qeeg6jtlnrvuwty3p6skssflgyfhlgjdkdusxp26hxfi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mrydptjpms2x": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mrydptjpms2x",
+    "cid": "bafyreicgadph5pcek2y6kloi2kxoklpya5sklpjlk2zfen377lvrafdeqy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-01T01:42:39.078Z",
+    "replyCount": 1,
+    "repostCount": 103,
+    "likeCount": 420,
+    "indexedAt": "2026-08-01T01:43:00.032Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigzfyejemvldl3vu2pefezol27hkam7thzcwt6qke54d4l6lgakx4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigzfyejemvldl3vu2pefezol27hkam7thzcwt6qke54d4l6lgakx4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzjgvirrc26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mrzjgvirrc26",
+    "cid": "bafyreidmzbmu67skcblkgbk6bstczixyrkt6uajuizhahc6otw6gtkneae",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\nSwarmのSNS投稿文をI'm at〜にする方法 - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/0...\n#はてなブログ",
+    "createdAt": "2026-08-01T12:57:41.346Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-01T12:57:43.930Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/08/01/215704",
+        "title": "SwarmのSNS投稿文をI'm at〜にする方法 - Jiminy Nseries",
+        "description": "SwarmをSNSに投稿すると下記のようなI'm at 〜の文面で投稿が出きました。 I'm at 古峯園 in 鹿沼市, 栃木県 https://t.co/JDbWuBd255 — じみニー (@jiminynseries) May 30, 2026 ところが最近になってこの投稿文が日本語になった上に長ったらしい文面になってしまいました。 これをなんとか今までのI'm at 〜の文面に戻したい。...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigdkolcd2xe4fzheyjadnxeu6xwsf2kuqz22flqzvlaaeeaofx3le"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
