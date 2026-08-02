@@ -209106,7 +209106,7 @@
     "createdAt": "2026-08-01T01:42:39.078Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 479,
+    "likeCount": 480,
     "indexedAt": "2026-08-01T01:43:00.032Z",
     "embed": {
       "images": [
@@ -209217,7 +209217,7 @@
     "createdAt": "2026-08-02T00:31:09.730Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-02T00:31:10.130Z",
     "embed": null,
     "isRepost": false
@@ -209231,8 +209231,8 @@
     "text": "",
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
-    "repostCount": 117,
-    "likeCount": 469,
+    "repostCount": 127,
+    "likeCount": 529,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -209276,6 +209276,52 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2wiqr6b22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2wiqr6b22h",
+    "cid": "bafyreid3zyikfwizjzmxkasj7clqf4fu2zwi4ehqdladaql3ywylqcrxy4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "スーパーGTの2027年からのオフィシャルタイヤサプライヤーが決定。GT500はブリヂストン、GT300はダンロップが供給  - www.as-web.jp/supergt/1339... 決まったか。外からコンパウンドが分かるようになるのはいいね",
+    "createdAt": "2026-08-02T02:24:01.868Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T02:24:06.328Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/supergt/1339652",
+        "title": "スーパーGTの2027年からのオフィシャルタイヤサプライヤーが決定。GT500はブリヂストン、GT300はダンロップが供給 | ニュース | autosport web",
+        "description": "8月2日、スーパーGTをプロモートするGTアソシエイションは、第4戦『FUJI GT 300km",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreichzg2kcm624j5urvxtvshvgd2cbdoaxjak4jlvb6icjbzpbv6see"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2vsnc5cm2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2vsnc5cm2l",
+    "cid": "bafyreie7s7ngvhc3wkij4oiwnfwnzq4eje7g6xpa2rg7c33ko34zwlpmyq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第4戦 富士スピードウェイ SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/111287-V",
+    "createdAt": "2026-08-02T02:11:39.523044Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T02:11:40.726Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111287-V",
+        "title": "予選 第4戦 富士スピードウェイ SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第4戦 富士スピードウェイ SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihezzigg45z45n3w6az5i4dkdyug33e2gimelxgxutnfxmod56dv4"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
   }
