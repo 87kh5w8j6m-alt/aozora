@@ -206886,7 +206886,7 @@
     "createdAt": "2026-07-19T21:56:57.309Z",
     "replyCount": 2,
     "repostCount": 151,
-    "likeCount": 647,
+    "likeCount": 648,
     "indexedAt": "2026-07-19T21:57:03.823Z",
     "embed": {
       "images": [
@@ -206913,7 +206913,7 @@
     "text": "",
     "createdAt": "2026-07-20T21:43:09.975Z",
     "replyCount": 3,
-    "repostCount": 209,
+    "repostCount": 208,
     "likeCount": 846,
     "indexedAt": "2026-07-20T21:43:18.126Z",
     "embed": {
@@ -207017,7 +207017,7 @@
     "createdAt": "2026-07-21T23:53:17.038Z",
     "replyCount": 1,
     "repostCount": 127,
-    "likeCount": 506,
+    "likeCount": 507,
     "indexedAt": "2026-07-21T23:53:23.529Z",
     "embed": {
       "images": [
@@ -207223,7 +207223,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 653,
+    "likeCount": 654,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -208737,7 +208737,7 @@
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
     "repostCount": 160,
-    "likeCount": 660,
+    "likeCount": 661,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -209231,8 +209231,8 @@
     "text": "",
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
-    "repostCount": 164,
-    "likeCount": 717,
+    "repostCount": 165,
+    "likeCount": 740,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -209320,6 +209320,59 @@
         "title": "予選 第4戦 富士スピードウェイ SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
         "description": "予選 第4戦 富士スピードウェイ SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihezzigg45z45n3w6az5i4dkdyug33e2gimelxgxutnfxmod56dv4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3phs3wb22g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3phs3wb22g",
+    "cid": "bafyreifb5ei25d26olzsmwhbtr24fbdood7halfseethtnsdyozjubxg4i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "解決できたかも。DMしましま",
+    "createdAt": "2026-08-02T09:50:53.261Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T09:50:54.328Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3odnbig22g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3odnbig22g",
+    "cid": "bafyreif5x4uh2lqt733rrhjtramfqxep47jq5n7lq3jygpif3hcoud7fmu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "それはそう",
+    "createdAt": "2026-08-02T09:30:40.240Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T09:30:40.833Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3mvhxgv22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms3mvhxgv22h",
+    "cid": "bafyreieg7ifopcff7hmdzxijc3sdt5iqcegqxi72vaf4kc4btmlpd3pj34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2027年の鈴鹿1000kmはGT300もポイント獲得が可能。GT300は年間実質9戦で有効ポイント制を採用へ  - www.as-web.jp/supergt/1339... どうなるか見てみよう",
+    "createdAt": "2026-08-02T09:04:51.164Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T09:04:58.123Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/supergt/1339654",
+        "title": "2027年の鈴鹿1000kmはGT300もポイント獲得が可能。GT300は年間実質9戦で有効ポイント制を採用へ | ニュース | autosport web",
+        "description": "8月2日、スーパーGTをプロモートするGTアソシエイションは、第4戦『FUJI GT 300km",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiewr6eoksx6big3vupworwdxhkq6clqs4cucq4rqjmnnlegi4q57i"
       },
       "$type": "app.bsky.embed.external#view"
     },
