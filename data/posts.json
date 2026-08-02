@@ -208898,8 +208898,8 @@
     "text": "",
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
-    "repostCount": 126,
-    "likeCount": 567,
+    "repostCount": 127,
+    "likeCount": 568,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -209105,8 +209105,8 @@
     "text": "",
     "createdAt": "2026-08-01T01:42:39.078Z",
     "replyCount": 1,
-    "repostCount": 115,
-    "likeCount": 472,
+    "repostCount": 116,
+    "likeCount": 476,
     "indexedAt": "2026-08-01T01:43:00.032Z",
     "embed": {
       "images": [
@@ -209175,6 +209175,108 @@
     "likeCount": 1,
     "indexedAt": "2026-08-01T20:05:38.229Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2qfnab7k26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2qfnab7k26",
+    "cid": "bafyreib5ryh7aykwniyilkikqarwor2ka52hi5nxvsnvemcjp7g2cgm3km",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "早朝野球でこの暑さなので、日中に試合するのは無理だろ…。",
+    "createdAt": "2026-08-02T00:34:55.055Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-02T00:34:55.629Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2qdxccqk26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2qdxccqk26",
+    "cid": "bafyreibf2sencchyxv7kshizzrf6apervkaqybyttc427xu6xhfa4fvoom",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日の草野球。6-6で引き分け。5回6失点。3打数2安打1本塁打4打点1得点。記録によれば公式戦でのホームランは8年振り。しかも満塁ホームラン！！なのに引き分け。勝てたゲームなのに…。。。",
+    "createdAt": "2026-08-02T00:33:58.499Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T00:33:58.727Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2q6wdvbc26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2q6wdvbc26",
+    "cid": "bafyreid6o76dm4t2jdf7sgx72y4uftrskbl4dy4ripxqrtmt2q6kv2r454",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "帰宅ってシャワったー。",
+    "createdAt": "2026-08-02T00:31:09.730Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T00:31:10.130Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3ms2he2rirc2i": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3ms2he2rirc2i",
+    "cid": "bafyreifimcxzjljine2e62xdsobcmbziz6gzqxmsgwjwmdfdkbx2q77dx4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-01T21:52:58.464Z",
+    "replyCount": 2,
+    "repostCount": 102,
+    "likeCount": 414,
+    "indexedAt": "2026-08-01T21:53:05.725Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihnt6vsu3mjg4l7iwkaa7kjcbmbe7qhdotssie7qy633b63sh5pma",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihnt6vsu3mjg4l7iwkaa7kjcbmbe7qhdotssie7qy633b63sh5pma",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2otwqlaa2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms2otwqlaa2y",
+    "cid": "bafyreidons2vnza6qiih4qadlemg4xcifzqgkumws7ekwa2vkuwdxpmxfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying 水色と8月 - 堀江由衣 (文学少女の歌集 III -文学少女と夜明けのバス停-)",
+    "createdAt": "2026-08-02T00:07:06.382512Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-02T00:07:07.528Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic4anto6qvg2sxjkc3z6mz6sqqyafuqbjd34shsz76ortbqmern2e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic4anto6qvg2sxjkc3z6mz6sqqyafuqbjd34shsz76ortbqmern2e",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 801,
+            "width": 903
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
