@@ -208032,8 +208032,8 @@
     "text": "",
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
-    "repostCount": 119,
-    "likeCount": 500,
+    "repostCount": 120,
+    "likeCount": 501,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208121,8 +208121,8 @@
     "text": "",
     "createdAt": "2026-07-28T21:36:22.953Z",
     "replyCount": 3,
-    "repostCount": 175,
-    "likeCount": 716,
+    "repostCount": 176,
+    "likeCount": 717,
     "indexedAt": "2026-07-28T21:36:30.625Z",
     "embed": {
       "images": [
@@ -208305,9 +208305,9 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 716,
+        "likeCount": 717,
         "replyCount": 3,
-        "repostCount": 175,
+        "repostCount": 176,
         "quoteCount": 1,
         "indexedAt": "2026-07-28T21:36:30.625Z",
         "embeds": [
@@ -208736,8 +208736,8 @@
     "text": "",
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
-    "repostCount": 160,
-    "likeCount": 664,
+    "repostCount": 161,
+    "likeCount": 665,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -208898,8 +208898,8 @@
     "text": "",
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
-    "repostCount": 128,
-    "likeCount": 575,
+    "repostCount": 129,
+    "likeCount": 576,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -209105,8 +209105,8 @@
     "text": "",
     "createdAt": "2026-08-01T01:42:39.078Z",
     "replyCount": 1,
-    "repostCount": 120,
-    "likeCount": 494,
+    "repostCount": 121,
+    "likeCount": 495,
     "indexedAt": "2026-08-01T01:43:00.032Z",
     "embed": {
       "images": [
@@ -209231,8 +209231,8 @@
     "text": "",
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
-    "repostCount": 192,
-    "likeCount": 870,
+    "repostCount": 193,
+    "likeCount": 871,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -209498,8 +209498,8 @@
     "text": "",
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
-    "repostCount": 106,
-    "likeCount": 480,
+    "repostCount": 109,
+    "likeCount": 493,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209552,6 +209552,79 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifhctqbowxxas5tmfnnlwbjavjrrbhjxiuc5yb6ghr473kwqxat5m"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6l2jxpaj2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6l2jxpaj2y",
+    "cid": "bafyreidud5etmjbjpvuacwwxqsnyaefzasilctf26wkhn2m4wqs2vdgmla",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOS27になったらこういうショートカットを自然言語でSiriにお願いするだけで作れるようになるんですかね？",
+    "createdAt": "2026-08-03T13:09:48.175644Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-03T13:09:52.829Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6kxub6ci2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6kxub6ci2d",
+    "cid": "bafyreifms56wuwquyhofjlllztsfpae3vcm4vqem5q7rggfkyhq34rsnda",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "さっきのは東京都 東京都になってだけど、だいたいのパターンはうまくいくからええやろ",
+    "createdAt": "2026-08-03T13:08:18.383829Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-03T13:08:23.730Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibjinitwpldpvivxsibbilm3iuzgocypnuzommr6gposau6fufeku",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibjinitwpldpvivxsibbilm3iuzgocypnuzommr6gposau6fufeku",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1590,
+            "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6kjwqs5b2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6kjwqs5b2b",
+    "cid": "bafyreib3wdnzlnksvn7gdul3son6pgmjubkccqvwwtk6khimf2n6loyzki",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "swarmの共有postをあの時の文面に戻すショートカット、コメントついてる場合と in 市区町村 都道府県の抽出に対応した。",
+    "createdAt": "2026-08-03T13:00:31.232466Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-03T13:00:36.428Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiavithsbxne5lldmshqfhxxtdeq2x2ke7lwir6wu6ekxgscs23rom",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiavithsbxne5lldmshqfhxxtdeq2x2ke7lwir6wu6ekxgscs23rom",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1519,
+            "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
