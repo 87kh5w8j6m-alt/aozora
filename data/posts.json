@@ -209231,8 +209231,8 @@
     "text": "",
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
-    "repostCount": 191,
-    "likeCount": 864,
+    "repostCount": 192,
+    "likeCount": 866,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -209471,6 +209471,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-03T03:30:28.025Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms5lzuswfu2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms5lzuswfu2l",
+    "cid": "bafyreigeixd5ebw4lrtshyazhafelt7ytfa7ecr4q2m36wltzzier2nu3q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士でスーパーGTマシンが宙を舞うアクシデント。NISMO、インパルのドライバーが状況を説明  - https://jp.motorsport.com/supergt/news/takaboshi-baguette-on-r4-accident/10843668/",
+    "createdAt": "2026-08-03T03:54:43.533504Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-03T03:54:44.724Z",
     "embed": null,
     "isRepost": false
   }
