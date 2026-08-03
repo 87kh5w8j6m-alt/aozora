@@ -130390,14 +130390,15 @@
     "cid": "bafyreigv2krh5dnwpipgewozpeqp7zylhdlvkwr7hfta5pixttw2kuppcq",
     "author": "jiminynseries.bsky.social",
     "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "悠木碧と竹達彩奈の声優ユニット「petit milady」の10＋１周年記念ライブベストアルバム「Merci mille fois」は2014〜2018年のライブイベント音源が収録されているので鳴き方を忘れる前のオタクのコールが収録されていて良い。 #petitmilady #プチミレ",
     "createdAt": "2024-08-03T00:14:38.270Z",
     "replyCount": 0,
-    "repostCount": 0,
+    "repostCount": 1,
     "likeCount": 1,
     "indexedAt": "2024-08-03T00:14:38.270Z",
     "embed": null,
-    "isRepost": false
+    "isRepost": true
   },
   "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3kyrjabtlth2m": {
     "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3kyrjabtlth2m",
@@ -209499,7 +209500,7 @@
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 493,
+    "likeCount": 503,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209621,6 +209622,35 @@
             "$type": "app.bsky.embed.defs#aspectRatio",
             "height": 1519,
             "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6p65htf62t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6p65htf62t",
+    "cid": "bafyreicrezspqs2uhjwu4ybwtcc2myg3tlas4tmfb4pdaotpgpsnxplo5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying ハジマリズム [Live] - petit milady (Merci mille fois)",
+    "createdAt": "2026-08-03T14:23:28.267769Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-03T14:23:29.332Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid3kkmwcl7ukzskdzrg7xya6ivhc3uogppojfofrtmcfxbt7u3exu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid3kkmwcl7ukzskdzrg7xya6ivhc3uogppojfofrtmcfxbt7u3exu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 500,
+            "width": 500
           }
         }
       ],
