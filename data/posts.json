@@ -208899,7 +208899,7 @@
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
     "repostCount": 128,
-    "likeCount": 573,
+    "likeCount": 574,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -209498,8 +209498,8 @@
     "text": "",
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 430,
+    "repostCount": 99,
+    "likeCount": 445,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209516,5 +209516,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6ck4pm4s2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3ms6ck4pm4s2n",
+    "cid": "bafyreibbyrde6xvpniwhqvtzmbq2bpcb5mmlyrwrezuekyirp5yrasenza",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | GTV 2026 ～SUPER GT トークバラエティ～  #3 jod.jsports.co.jp/p/motor/supe...",
+    "createdAt": "2026-08-03T10:37:32.072Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-03T10:37:32.425Z",
+    "embed": null,
+    "isRepost": false
   }
 }
