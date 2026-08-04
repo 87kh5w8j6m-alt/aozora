@@ -209500,7 +209500,7 @@
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
     "repostCount": 119,
-    "likeCount": 555,
+    "likeCount": 556,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209686,6 +209686,29 @@
     "likeCount": 1,
     "indexedAt": "2026-08-04T03:31:20.631Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msa4m4wtlo2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msa4m4wtlo2r",
+    "cid": "bafyreiah2acto2x4pr7n3mf4zazrfdagvrx32alued3n27dasznaarouhu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC日程変更に伴いGTWCヨーロッパが最終戦決勝日を変更。2国にまたがる“同週末Wエントリー”も可能に  - https://www.as-web.jp/sports-car/1340089 なんて忙しい週末なんだ",
+    "createdAt": "2026-08-04T03:56:35.447386Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-04T03:56:36.929Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1340089",
+        "title": "WEC日程変更に伴いGTWCヨーロッパが最終戦決勝日を変更。2国にまたがる“同週末Wエントリー”も可能に | ニュース | autosport web",
+        "description": "　GTワールドチャレンジ・ヨーロッパは、WEC世界耐久選手権のスペイン・バルセロナ戦との日程重複を避けるために、ポルトガル・ポルティマオで行われるシーズン最終戦",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifsji4hjkrdaqo47rmssvvydau2blfuq7j3tvoo6vf2s3rgsaojnu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
