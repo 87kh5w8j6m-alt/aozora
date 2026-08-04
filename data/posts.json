@@ -209500,7 +209500,7 @@
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 562,
+    "likeCount": 563,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209732,6 +209732,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msb36nnvik2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msb36nnvik2r",
+    "cid": "bafyreicja3ox5ynjpbxfcbthmhqzbqsdj2gdfv3xmwqbwgs53bpo5dap2u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "うまいことやろうとして沼ってる",
+    "createdAt": "2026-08-04T13:03:50.210Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-04T13:03:50.826Z",
+    "embed": null,
     "isRepost": false
   }
 }
