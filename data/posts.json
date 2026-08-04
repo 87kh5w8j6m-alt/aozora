@@ -204899,8 +204899,8 @@
     "text": "#ポニーテールの日\n髪結う直前のゴム咥えてのこの仕草\n…よ😚💕",
     "createdAt": "2026-07-06T22:48:05.200Z",
     "replyCount": 2,
-    "repostCount": 51,
-    "likeCount": 209,
+    "repostCount": 52,
+    "likeCount": 210,
     "indexedAt": "2026-07-06T22:48:06.882Z",
     "embed": {
       "images": [
@@ -209706,6 +209706,29 @@
         "title": "WEC日程変更に伴いGTWCヨーロッパが最終戦決勝日を変更。2国にまたがる“同週末Wエントリー”も可能に | ニュース | autosport web",
         "description": "　GTワールドチャレンジ・ヨーロッパは、WEC世界耐久選手権のスペイン・バルセロナ戦との日程重複を避けるために、ポルトガル・ポルティマオで行われるシーズン最終戦",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifsji4hjkrdaqo47rmssvvydau2blfuq7j3tvoo6vf2s3rgsaojnu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msarcbgxzf2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msarcbgxzf2m",
+    "cid": "bafyreihmpj4qibqz2ohnqtc4ihjebp22ce6u4iv6qco62b672sibfrppqu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "久々のアキヨド (@ ヨドバシカメラ マルチメディアAkiba in 千代田区, 東京都) https://app.foursquare.com/share/checkin/6a71b74a0f49ae362246238d?s=DbocmLXBc0vjVHUgaLAH-JQXzNk&lang=ja",
+    "createdAt": "2026-08-04T10:06:53.192688Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-04T10:06:54.325Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a71b74a0f49ae362246238d?s=DbocmLXBc0vjVHUgaLAH-JQXzNk&lang=ja",
+        "title": "jiminy nseries's check in at ヨドバシカメラ マルチメディアAkiba",
+        "description": "久々のアキヨド",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibciwdw3s3gkxu45ucgps4xvnjkjnaca4emp4zhpobdgrzvk57mmu"
       },
       "$type": "app.bsky.embed.external#view"
     },
