@@ -205821,9 +205821,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "GTWC Asia at Fujiから無事帰宅！行きは事故渋滞で予選に間に合わなかったけど、決勝レースはバッチリ見られたからまあよし！日向はともかく日陰に入ればそこそこ涼しかったのでなんとかなったが､夏季のレース観戦は大変だ",
     "createdAt": "2026-07-11T11:24:10.566159Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-11T11:24:33.727Z",
     "embed": {
       "images": [
@@ -209788,8 +209788,8 @@
     "text": "",
     "createdAt": "2026-08-04T21:44:17.988Z",
     "replyCount": 1,
-    "repostCount": 128,
-    "likeCount": 572,
+    "repostCount": 129,
+    "likeCount": 575,
     "indexedAt": "2026-08-04T21:44:24.541Z",
     "embed": {
       "images": [
@@ -209817,7 +209817,7 @@
     "createdAt": "2026-08-04T01:21:46.286Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 539,
+    "likeCount": 541,
     "indexedAt": "2026-08-04T01:21:53.031Z",
     "embed": {
       "images": [
@@ -209874,8 +209874,8 @@
     "text": "",
     "createdAt": "2026-08-05T21:40:32.963Z",
     "replyCount": 0,
-    "repostCount": 15,
-    "likeCount": 57,
+    "repostCount": 48,
+    "likeCount": 170,
     "indexedAt": "2026-08-05T21:40:40.425Z",
     "embed": {
       "images": [
@@ -209905,6 +209905,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-05T21:19:56.227Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msekfjnukk2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msekfjnukk2m",
+    "cid": "bafyreibwtc2vfngatflvsnwa4lw7inlolvz5lst5qwvt3gspae6pijaw4u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第71回聴取終了",
+    "createdAt": "2026-08-05T22:14:05.561473Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-05T22:14:06.329Z",
     "embed": null,
     "isRepost": false
   }
