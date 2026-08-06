@@ -209874,8 +209874,8 @@
     "text": "",
     "createdAt": "2026-08-05T21:40:32.963Z",
     "replyCount": 0,
-    "repostCount": 71,
-    "likeCount": 313,
+    "repostCount": 73,
+    "likeCount": 325,
     "indexedAt": "2026-08-05T21:40:40.425Z",
     "embed": {
       "images": [
@@ -209936,6 +209936,128 @@
     "likeCount": 0,
     "indexedAt": "2026-08-06T03:32:05.635Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msf5oc7mr22n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msf5oc7mr22n",
+    "cid": "bafyreihv6ejyizv6hvhunhkt7by5plyrxx64t7b4kk76jg63ij45q2zvea",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "釣られまいと思ったけど「GT3 ガオー」でダメだった",
+    "createdAt": "2026-08-06T03:59:01.517Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-06T03:59:05.635Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msf5n4gehs2n",
+        "cid": "bafyreidxmxngxzuc2zky257vqfoaz76vwyr3czk4hvqhxna3773t5zdn7m",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-08-06T03:58:21.891Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "AOレーシングは、9月に開催されるIGTCインターコンチネンタルGTチャレンジの『鈴鹿1000km』において、ポルシェ911 GT3 R",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreici2wx62hjlvofp2cvuqq5db7seg6bnxsmscstt7b23hn3g5ikxvu"
+                },
+                "mimeType": "image/jpeg",
+                "size": 371943
+              },
+              "title": "恐竜ポルシェの『武士レックス』が鈴鹿1000kmに登場！リヤには「GT3ガオー」とカタカナも | ニュース | autosport web",
+              "uri": "https://www.as-web.jp/sports-car/1340413"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.as-web.jp/sports-car/1340413"
+                }
+              ],
+              "index": {
+                "byteEnd": 153,
+                "byteStart": 124
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "恐竜ポルシェの『武士レックス』が鈴鹿1000kmに登場！リヤには「GT3ガオー」とカタカナも  - www.as-web.jp/sports-car/1..."
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-08-06T03:58:26.425Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://www.as-web.jp/sports-car/1340413",
+              "title": "恐竜ポルシェの『武士レックス』が鈴鹿1000kmに登場！リヤには「GT3ガオー」とカタカナも | ニュース | autosport web",
+              "description": "AOレーシングは、9月に開催されるIGTCインターコンチネンタルGTチャレンジの『鈴鹿1000km』において、ポルシェ911 GT3 R",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreici2wx62hjlvofp2cvuqq5db7seg6bnxsmscstt7b23hn3g5ikxvu"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msf5n4gehs2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msf5n4gehs2n",
+    "cid": "bafyreidxmxngxzuc2zky257vqfoaz76vwyr3czk4hvqhxna3773t5zdn7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "恐竜ポルシェの『武士レックス』が鈴鹿1000kmに登場！リヤには「GT3ガオー」とカタカナも  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-08-06T03:58:21.891Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-06T03:58:26.425Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1340413",
+        "title": "恐竜ポルシェの『武士レックス』が鈴鹿1000kmに登場！リヤには「GT3ガオー」とカタカナも | ニュース | autosport web",
+        "description": "AOレーシングは、9月に開催されるIGTCインターコンチネンタルGTチャレンジの『鈴鹿1000km』において、ポルシェ911 GT3 R",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreici2wx62hjlvofp2cvuqq5db7seg6bnxsmscstt7b23hn3g5ikxvu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
