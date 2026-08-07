@@ -209500,7 +209500,7 @@
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 570,
+    "likeCount": 571,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209789,7 +209789,7 @@
     "createdAt": "2026-08-04T21:44:17.988Z",
     "replyCount": 1,
     "repostCount": 130,
-    "likeCount": 586,
+    "likeCount": 587,
     "indexedAt": "2026-08-04T21:44:24.541Z",
     "embed": {
       "images": [
@@ -209817,7 +209817,7 @@
     "createdAt": "2026-08-04T01:21:46.286Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 544,
+    "likeCount": 545,
     "indexedAt": "2026-08-04T01:21:53.031Z",
     "embed": {
       "images": [
@@ -209875,7 +209875,7 @@
     "createdAt": "2026-08-05T21:40:32.963Z",
     "replyCount": 0,
     "repostCount": 103,
-    "likeCount": 453,
+    "likeCount": 454,
     "indexedAt": "2026-08-05T21:40:40.425Z",
     "embed": {
       "images": [
@@ -210127,8 +210127,8 @@
     "text": "33℃程度で限界を感じる",
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
-    "repostCount": 79,
-    "likeCount": 439,
+    "repostCount": 80,
+    "likeCount": 447,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210183,8 +210183,8 @@
     "text": "",
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
-    "repostCount": 146,
-    "likeCount": 656,
+    "repostCount": 147,
+    "likeCount": 661,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210244,6 +210244,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-07T21:10:22.825Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjqrl6v5b2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjqrl6v5b2a",
+    "cid": "bafyreibgst63oe3pfgxvr6ovk2z6lqs5ioxwiwugj5inxkzl4bd5j4beve",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "朝からじみスタ号と水遊びしてキレイキレイした✨",
+    "createdAt": "2026-08-07T23:51:31.003500Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-07T23:51:31.728Z",
     "embed": null,
     "isRepost": false
   }
