@@ -209875,7 +209875,7 @@
     "createdAt": "2026-08-05T21:40:32.963Z",
     "replyCount": 0,
     "repostCount": 103,
-    "likeCount": 451,
+    "likeCount": 452,
     "indexedAt": "2026-08-05T21:40:40.425Z",
     "embed": {
       "images": [
@@ -210127,8 +210127,8 @@
     "text": "33℃程度で限界を感じる",
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 1,
-    "repostCount": 51,
-    "likeCount": 213,
+    "repostCount": 58,
+    "likeCount": 257,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210155,8 +210155,8 @@
     "text": "プリズム",
     "createdAt": "2026-08-07T07:05:37.324Z",
     "replyCount": 0,
-    "repostCount": 29,
-    "likeCount": 52,
+    "repostCount": 30,
+    "likeCount": 56,
     "indexedAt": "2026-08-07T07:05:42.524Z",
     "embed": {
       "images": [
@@ -210183,8 +210183,8 @@
     "text": "",
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
-    "repostCount": 129,
-    "likeCount": 573,
+    "repostCount": 133,
+    "likeCount": 589,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210201,5 +210201,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msiclcybvc25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msiclcybvc25",
+    "cid": "bafyreihjf63ihwqh3phq6pq7hphyfotrn6v6tqh2ldye2hhyt7hrudltd4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「#堀江由衣 謎解きはディナーショーの途中で 2026」の物販、ほっちゃんぬいぐるみチャーム 探偵ver. 注文した。ほっちゃんの物販は「全部ください」なので悩まなくっていい",
+    "createdAt": "2026-08-07T10:04:49.586Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-07T10:04:50.724Z",
+    "embed": null,
+    "isRepost": false
   }
 }
