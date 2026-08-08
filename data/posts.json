@@ -207224,7 +207224,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 655,
+    "likeCount": 656,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -207743,7 +207743,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 129,
-    "likeCount": 565,
+    "likeCount": 566,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -207968,7 +207968,7 @@
     "createdAt": "2026-07-27T02:34:53.592Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 512,
+    "likeCount": 513,
     "indexedAt": "2026-07-27T02:35:02.725Z",
     "embed": {
       "images": [
@@ -208034,7 +208034,7 @@
     "createdAt": "2026-07-27T23:17:51.610Z",
     "replyCount": 1,
     "repostCount": 120,
-    "likeCount": 504,
+    "likeCount": 506,
     "indexedAt": "2026-07-27T23:18:03.025Z",
     "embed": {
       "images": [
@@ -208738,7 +208738,7 @@
     "createdAt": "2026-07-29T21:37:58.343Z",
     "replyCount": 0,
     "repostCount": 165,
-    "likeCount": 672,
+    "likeCount": 673,
     "indexedAt": "2026-07-29T21:38:07.029Z",
     "embed": {
       "images": [
@@ -209233,7 +209233,7 @@
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
     "repostCount": 195,
-    "likeCount": 882,
+    "likeCount": 883,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -210127,8 +210127,8 @@
     "text": "33℃程度で限界を感じる",
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
-    "repostCount": 82,
-    "likeCount": 455,
+    "repostCount": 91,
+    "likeCount": 488,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210156,7 +210156,7 @@
     "createdAt": "2026-08-07T07:05:37.324Z",
     "replyCount": 0,
     "repostCount": 46,
-    "likeCount": 102,
+    "likeCount": 103,
     "indexedAt": "2026-08-07T07:05:42.524Z",
     "embed": {
       "images": [
@@ -210184,7 +210184,7 @@
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
     "repostCount": 147,
-    "likeCount": 665,
+    "likeCount": 666,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210274,6 +210274,64 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-08T01:18:48.633Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjz3vsobl2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjz3vsobl2a",
+    "cid": "bafyreianpwmwsv3hwq4hgnqqfyx4wxsxca4qb7shspfwk45tovj7ohgcjy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第26話視聴終了。\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-08-08T02:20:27.668443Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-08T02:20:28.330Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msjuidy5jc2e": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msjuidy5jc2e",
+    "cid": "bafyreiexnclrwapcmli3zermsoz5j4in55thgwgsrh2et2x774mb63oera",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-08T00:57:57.056Z",
+    "replyCount": 1,
+    "repostCount": 77,
+    "likeCount": 297,
+    "indexedAt": "2026-08-08T00:58:06.829Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiejd3zgbcf2x6c7qe7hxhhnohh7brac22pianfprqrtqzz3pwc27y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiejd3zgbcf2x6c7qe7hxhhnohh7brac22pianfprqrtqzz3pwc27y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjxnlz7wj2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msjxnlz7wj2z",
+    "cid": "bafyreibgapotczaz6ad3pcjil32eqg66ldx243cwnyd5aq5smkcgbxroqu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第25話視聴終了。くれあさんがキュアエクレールだったのか……。\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-08-08T01:54:33.882970Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-08T01:54:34.623Z",
     "embed": null,
     "isRepost": false
   }
