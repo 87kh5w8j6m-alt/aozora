@@ -209499,8 +209499,8 @@
     "text": "",
     "createdAt": "2026-08-03T01:03:02.156Z",
     "replyCount": 0,
-    "repostCount": 123,
-    "likeCount": 575,
+    "repostCount": 124,
+    "likeCount": 576,
     "indexedAt": "2026-08-03T01:03:12.028Z",
     "embed": {
       "images": [
@@ -209788,8 +209788,8 @@
     "text": "",
     "createdAt": "2026-08-04T21:44:17.988Z",
     "replyCount": 1,
-    "repostCount": 132,
-    "likeCount": 596,
+    "repostCount": 133,
+    "likeCount": 597,
     "indexedAt": "2026-08-04T21:44:24.541Z",
     "embed": {
       "images": [
@@ -209816,8 +209816,8 @@
     "text": "",
     "createdAt": "2026-08-04T01:21:46.286Z",
     "replyCount": 0,
-    "repostCount": 115,
-    "likeCount": 551,
+    "repostCount": 116,
+    "likeCount": 552,
     "indexedAt": "2026-08-04T01:21:53.031Z",
     "embed": {
       "images": [
@@ -209874,8 +209874,8 @@
     "text": "",
     "createdAt": "2026-08-05T21:40:32.963Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 467,
+    "repostCount": 106,
+    "likeCount": 468,
     "indexedAt": "2026-08-05T21:40:40.425Z",
     "embed": {
       "images": [
@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 99,
-    "likeCount": 552,
+    "likeCount": 553,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210183,8 +210183,8 @@
     "text": "",
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
-    "repostCount": 152,
-    "likeCount": 689,
+    "repostCount": 153,
+    "likeCount": 690,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210301,8 +210301,8 @@
     "text": "",
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
-    "repostCount": 170,
-    "likeCount": 753,
+    "repostCount": 172,
+    "likeCount": 755,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
-    "repostCount": 124,
-    "likeCount": 579,
+    "repostCount": 130,
+    "likeCount": 593,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210760,5 +210760,63 @@
     "indexedAt": "2026-08-09T21:16:52.024Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msonsa3nva2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msonsa3nva2w",
+    "cid": "bafyreif4fivnh4ciafkufl5tgpqw2uwlwfzl55shilhpwxvjgrwrzg6zcu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ショートカットアプリはバージョン管理出来ないからいじってるうちに分からなくなってくるし戻せなくて困る。",
+    "createdAt": "2026-08-09T22:41:29.889166Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T22:41:31.129Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msonh57tyd2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msonh57tyd2z",
+    "cid": "bafyreiglmexifunfwcqipuqhej6mtqa4zqqi65fzzv6eenhtyitssrqziq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "電車空いてる",
+    "createdAt": "2026-08-09T22:35:17.971511Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T22:35:19.127Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msol7f5n6s2s": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msol7f5n6s2s",
+    "cid": "bafyreid6vnauqhgq4lointyorzpehdr3d7mxetjhnzksfj5pyv3lyb5b4a",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-09T21:55:11.310Z",
+    "replyCount": 0,
+    "repostCount": 51,
+    "likeCount": 197,
+    "indexedAt": "2026-08-09T21:55:21.028Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreia7nnwjzp24oqdw3uosqh3vocuhs73zb5l5xsy2qow7b7ot3k6yju",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreia7nnwjzp24oqdw3uosqh3vocuhs73zb5l5xsy2qow7b7ot3k6yju",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
