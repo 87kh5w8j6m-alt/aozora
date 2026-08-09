@@ -205425,7 +205425,7 @@
     "createdAt": "2026-05-19T12:30:19.417Z",
     "replyCount": 1,
     "repostCount": 51,
-    "likeCount": 145,
+    "likeCount": 146,
     "indexedAt": "2026-05-19T12:30:22.977Z",
     "embed": {
       "images": [
@@ -210184,7 +210184,7 @@
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
     "repostCount": 151,
-    "likeCount": 687,
+    "likeCount": 688,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210530,7 +210530,7 @@
     "createdAt": "2026-08-09T09:35:19.804981Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-09T09:35:20.626Z",
     "embed": null,
     "isRepost": false
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 0,
-    "repostCount": 63,
-    "likeCount": 277,
+    "repostCount": 71,
+    "likeCount": 318,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210562,5 +210562,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnd4ozdi72w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnd4ozdi72w",
+    "cid": "bafyreiege2zy3p52vf7u7egh3fiawrhod346fi3yzwas4hoq5p6qetw53q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "そういえば宮ヶ瀬の放置車両いなくなってた",
+    "createdAt": "2026-08-09T09:57:50.089447Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T09:57:51.426Z",
+    "embed": null,
+    "isRepost": false
   }
 }
