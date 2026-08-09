@@ -210155,8 +210155,8 @@
     "text": "プリズム",
     "createdAt": "2026-08-07T07:05:37.324Z",
     "replyCount": 0,
-    "repostCount": 50,
-    "likeCount": 110,
+    "repostCount": 51,
+    "likeCount": 111,
     "indexedAt": "2026-08-07T07:05:42.524Z",
     "embed": {
       "images": [
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 0,
-    "repostCount": 98,
-    "likeCount": 450,
+    "repostCount": 110,
+    "likeCount": 490,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210576,6 +210576,174 @@
     "likeCount": 0,
     "indexedAt": "2026-08-09T09:57:51.426Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnspre7vs2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnspre7vs2r",
+    "cid": "bafyreib7zq3jypklkiidqibksnqarmnvsna3ocofmp6ghwkfkdhlv3z4me",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "優勝争いに影響与え、波紋を呼んだセーフティカー。運用は規則通り……一方で“モヤモヤ”解消のため改善を求める声  - jp.motorsport.com/super-formul... まともに運営できる体制がないんだ",
+    "createdAt": "2026-08-09T14:36:57.435Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T14:37:04.138Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/super-formula/news/2026-sf-r8-safetycar-controversy/10845208/",
+        "title": "優勝争いに影響与え、波紋を呼んだセーフティカー。運用は規則通り……一方で“モヤモヤ”解消のため改善を求める声",
+        "description": "スーパーフォーミュラ第8戦SUGOのレース中盤に出動したセーフティカーは、優勝争いの展開に直接影響を与えたため、波紋を呼んだ。ただ規則上は問題のない運用であったようだ。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifotz4mcwinpxvdm7356ygoo25mtcmixf3p627x2qpho2rvphnteu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrubuicc2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrubuicc2r",
+    "cid": "bafyreibyrzycbf34zlrnoug4ililvch6vvh6trridlxxhg6fhihnbrmchy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あーあ。",
+    "createdAt": "2026-08-09T14:21:35.222Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T14:21:37.527Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrtei3jk2r",
+        "cid": "bafyreiandesv3ftf5poab7qpfmpm5zrwbrbthvrkcwmd7lahhoemdcplcu",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-08-09T14:21:04.406Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "8月9日にスポーツランドSUGOで開催された全日本スーパーフォーミュラ選手権第8戦。レース中盤、コース上に2台のコースアウト車両がほぼ同時に発生した後、絶好と",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreig72ca2dpwnl3n2cs3z56bsbeesvoffl6tbbhovqnqvjyckwbwnfq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 604596
+              },
+              "title": "「僕のミスジャッジです。イゴールに申し訳ない」と伊沢監督。“間違っていなかった”セーフティカー運用と、それでも残る不公平感 | ニュース | autosport web",
+              "uri": "https://www.as-web.jp/super-formula/1341444"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.as-web.jp/super-formula/1341444"
+                }
+              ],
+              "index": {
+                "byteEnd": 216,
+                "byteStart": 187
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "「僕のミスジャッジです。イゴールに申し訳ない」と伊沢監督。“間違っていなかった”セーフティカー運用と、それでも残る不公平感  - www.as-web.jp/super-formul..."
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-08-09T14:21:09.925Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://www.as-web.jp/super-formula/1341444",
+              "title": "「僕のミスジャッジです。イゴールに申し訳ない」と伊沢監督。“間違っていなかった”セーフティカー運用と、それでも残る不公平感 | ニュース | autosport web",
+              "description": "8月9日にスポーツランドSUGOで開催された全日本スーパーフォーミュラ選手権第8戦。レース中盤、コース上に2台のコースアウト車両がほぼ同時に発生した後、絶好と",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig72ca2dpwnl3n2cs3z56bsbeesvoffl6tbbhovqnqvjyckwbwnfq"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrtei3jk2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrtei3jk2r",
+    "cid": "bafyreiandesv3ftf5poab7qpfmpm5zrwbrbthvrkcwmd7lahhoemdcplcu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「僕のミスジャッジです。イゴールに申し訳ない」と伊沢監督。“間違っていなかった”セーフティカー運用と、それでも残る不公平感  - www.as-web.jp/super-formul...",
+    "createdAt": "2026-08-09T14:21:04.406Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T14:21:09.925Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/super-formula/1341444",
+        "title": "「僕のミスジャッジです。イゴールに申し訳ない」と伊沢監督。“間違っていなかった”セーフティカー運用と、それでも残る不公平感 | ニュース | autosport web",
+        "description": "8月9日にスポーツランドSUGOで開催された全日本スーパーフォーミュラ選手権第8戦。レース中盤、コース上に2台のコースアウト車両がほぼ同時に発生した後、絶好と",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig72ca2dpwnl3n2cs3z56bsbeesvoffl6tbbhovqnqvjyckwbwnfq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrrucb7c2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msnrrucb7c2a",
+    "cid": "bafyreicucxzfkbmekhym2eygiies5cb5cwcdl3eguoalsx3dpbelvjsxcy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第8戦 スポーツランドSUGO スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/111560-V",
+    "createdAt": "2026-08-09T14:20:13.407804Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T14:20:14.429Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/111560-V",
+        "title": "決勝 第8戦 スポーツランドSUGO スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第8戦 スポーツランドSUGO スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreickemrlu4c6jhuu7olrdsegjgunt52a7fepbghdqhdkgqxnmag6hi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
