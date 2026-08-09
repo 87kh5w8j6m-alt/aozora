@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 98,
-    "likeCount": 547,
+    "likeCount": 548,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210302,7 +210302,7 @@
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
     "repostCount": 169,
-    "likeCount": 740,
+    "likeCount": 742,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210406,6 +210406,67 @@
     "likeCount": 1,
     "indexedAt": "2026-08-08T22:59:34.234Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmrwpseek26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmrwpseek26",
+    "cid": "bafyreidkcmpvgdzmxzxcgh6zxfuut2rkc6cgh4q5em2v2wa5t2wgvmulqi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "swarmのpostうまく行った！",
+    "createdAt": "2026-08-09T04:50:17.202Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T04:50:18.627Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmrv3av4i2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmrv3av4i2l",
+    "cid": "bafyreihjaz24wvdm7oocijeic6e6bgryuydjcp6kvynb3i3lkb5lyqhb4u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 鳥居原駐車場 in 相模原市, 神奈川県 https://app.foursquare.com/share/checkin/6a7806a40ed66f3afd03e34a?s=057Afou-msMSplkck-YEutMZBFE&lang=ja",
+    "createdAt": "2026-08-09T04:49:20.885218Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T04:49:22.731Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a7806a40ed66f3afd03e34a?s=057Afou-msMSplkck-YEutMZBFE&lang=ja",
+        "title": "jiminy nseries's check in at 鳥居原駐車場",
+        "description": "https://app.foursquare.com/share/checkin/6a7806a40ed66f3afd03e34a?s=057Afou-msMSplkck-YEutMZBFE&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiabejirfytx2b5ge5lhcf64jrrwm2bhui2wyep7bpl65vxwoj7mri"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmpm5raks2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msmpm5raks2h",
+    "cid": "bafyreifrrbtziri53twaqn6eafiukopdgx7htibonbz4a6mzzquy344oka",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マクラーレン“MP4/8B”に搭載されたランボルギーニ／クライスラーV12……あのエンジンブローがなければ、F1の歴史が変わっていた？  - jp.motorsport.com/f1/news/how-...",
+    "createdAt": "2026-08-09T04:08:35.263Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-09T04:08:48.331Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/how-the-mclaren-mp4-8bs-engine-blow-up-changed-f1-history/10844392/",
+        "title": "マクラーレン“MP4/8B”に搭載されたランボルギーニ／クライスラーV12……あのエンジンブローがなければ、F1の歴史が変わっていた？",
+        "description": "1993年、マクラーレンは翌年に向けてランボルギーニ／クライスラーエンジンをテストした。これがもし実戦投入されたら、どうなっていただろうか？",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiadpuqltovgm5gcig46y6mx7b5kemusnga4tdvxqr3vbnpamgmopm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
