@@ -210127,8 +210127,8 @@
     "text": "33℃程度で限界を感じる",
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
-    "repostCount": 99,
-    "likeCount": 556,
+    "repostCount": 100,
+    "likeCount": 557,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
-    "repostCount": 136,
-    "likeCount": 636,
+    "repostCount": 137,
+    "likeCount": 639,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 533,
+    "likeCount": 544,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210846,6 +210846,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-10T03:57:50.024Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mspqfwy3yk2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mspqfwy3yk2z",
+    "cid": "bafyreichjh6nqvccpd24mjhnuknak6sya4ww5hcij2owxl2ajmrj37a7xa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「何でもは知らないわよ。知ってることだけ」って言いたくてタイミング見計らってからまもなく20年。20年！？",
+    "createdAt": "2026-08-10T09:00:59.778Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-10T09:01:00.526Z",
     "embed": null,
     "isRepost": false
   }
