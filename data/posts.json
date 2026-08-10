@@ -210800,8 +210800,8 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 115,
-    "likeCount": 566,
+    "repostCount": 116,
+    "likeCount": 569,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210878,5 +210878,20 @@
     "indexedAt": "2026-08-10T10:00:47.527Z",
     "embed": null,
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mspzzzgjaw24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mspzzzgjaw24",
+    "cid": "bafyreifoiidh5bmnbs5yibxuyhrlkomat2ohnz2k6dmfbcxfwdwwnhtqxe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "比較的涼しいからちょっとお散歩してきた",
+    "createdAt": "2026-08-10T11:53:16.646650Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-10T11:53:17.230Z",
+    "embed": null,
+    "isRepost": false
   }
 }
