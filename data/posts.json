@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 122,
-    "likeCount": 601,
+    "likeCount": 602,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210891,6 +210891,58 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-10T11:53:17.230Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr54dhrfb2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr54dhrfb2q",
+    "cid": "bafyreiezq4r6p4qdzsdkf3n4p247gl5p2yereuyazrmzo3m54nikeiziwm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "伊集院光の偏愛博物館 中津ペンシルマンミュージアム 鉛筆の博物館\n#TVer\nhttps://tver.jp/episodes/ep4t20jqcx",
+    "createdAt": "2026-08-10T22:20:55.174951Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-10T22:20:55.825Z",
+    "embed": {
+      "external": {
+        "uri": "https://tver.jp/episodes/ep4t20jqcx",
+        "title": "https://tver.jp/episodes/ep4t20jqcx",
+        "description": "https://tver.jp/episodes/ep4t20jqcx"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr4zlgzei2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr4zlgzei2h",
+    "cid": "bafyreib2jc25ubmph5szjit373tgrv3ryruaizl65ye3asmqj4lcsmfqvu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "連休なのにいつものアラーム切ってなかったから起こされた",
+    "createdAt": "2026-08-10T22:19:22.927169Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-10T22:19:23.529Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr4jgvu2q24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msr4jgvu2q24",
+    "cid": "bafyreicjib4dvkc3wm3ti5eztsi25qt6ighd5ql3vmvbadzrzw736laszy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-08-10T22:10:21.330310Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-10T22:10:21.832Z",
     "embed": null,
     "isRepost": false
   }
