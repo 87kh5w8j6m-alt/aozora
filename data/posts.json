@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 136,
-    "likeCount": 625,
+    "likeCount": 631,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210800,8 +210800,8 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 449,
+    "repostCount": 102,
+    "likeCount": 471,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210831,6 +210831,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-10T03:45:38.025Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msp7ht23vs2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msp7ht23vs2q",
+    "cid": "bafyreif2jjvzkzyw7zpopn5imene4cbgtvoe46rmsevhrnm2vupgvv7ize",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "失礼、噛みました。",
+    "createdAt": "2026-08-10T03:57:49.148Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-10T03:57:50.024Z",
     "embed": null,
     "isRepost": false
   }
