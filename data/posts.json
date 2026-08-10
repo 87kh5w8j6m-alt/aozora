@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 137,
-    "likeCount": 639,
+    "likeCount": 641,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210800,8 +210800,8 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 544,
+    "repostCount": 113,
+    "likeCount": 557,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210863,5 +210863,20 @@
     "indexedAt": "2026-08-10T09:01:00.526Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:d2f4ak6ikjqq4jifkbq2pdne/app.bsky.feed.post/3msptqv26dcf4": {
+    "uri": "at://did:plc:d2f4ak6ikjqq4jifkbq2pdne/app.bsky.feed.post/3msptqv26dcf4",
+    "cid": "bafyreiapbyeqyr6bbwdg7gkulr4mi4p3zkrzvxq2es5x4rmjl6kzlm6b2u",
+    "author": "gomennasai128.bsky.social",
+    "authorName": "御免なさい",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d2f4ak6ikjqq4jifkbq2pdne/bafkreiagjgcvhees5gihamoecjqo2bgzfqqrwytcth4wstcoy7uuhqbeha",
+    "text": "今度はアニメタイムズのチャンネルでひぐらしの一挙配信やってるんね\n夏はひぐらし\n年末はスクールデイズ\nこれが日本のしきたりなんね",
+    "createdAt": "2026-08-10T10:00:48.073Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 5,
+    "indexedAt": "2026-08-10T10:00:47.527Z",
+    "embed": null,
+    "isRepost": true
   }
 }
