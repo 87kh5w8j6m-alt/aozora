@@ -210998,5 +210998,20 @@
     "indexedAt": "2026-08-11T03:30:35.628Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mssdq6tp2k2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mssdq6tp2k2l",
+    "cid": "bafyreiaujsnmrmfi4r76zfjmtmanwtjme27zaldzilw3vu7rikef3mzp74",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ガリンペイロ 読了。一気に読んでしまった。想像の及ばない世界の話だが、久々にのめり込める本だった。",
+    "createdAt": "2026-08-11T09:52:04.139Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-11T09:52:05.028Z",
+    "embed": null,
+    "isRepost": false
   }
 }
