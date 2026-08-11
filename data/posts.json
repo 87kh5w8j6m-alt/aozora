@@ -207224,7 +207224,7 @@
     "createdAt": "2026-07-23T01:01:35.062Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 658,
+    "likeCount": 659,
     "indexedAt": "2026-07-23T01:01:45.032Z",
     "embed": {
       "images": [
@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 100,
-    "likeCount": 558,
+    "likeCount": 559,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210302,7 +210302,7 @@
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
     "repostCount": 174,
-    "likeCount": 769,
+    "likeCount": 770,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 138,
-    "likeCount": 649,
+    "likeCount": 651,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 611,
+    "likeCount": 616,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -210874,7 +210874,7 @@
     "createdAt": "2026-08-10T10:00:48.073Z",
     "replyCount": 0,
     "repostCount": 2,
-    "likeCount": 16,
+    "likeCount": 17,
     "indexedAt": "2026-08-10T10:00:47.527Z",
     "embed": null,
     "isRepost": true
@@ -210967,6 +210967,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msrknfctwc2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msrknfctwc2a",
+    "cid": "bafyreih4b6xqtouhkhjttvrdlknnlvs67fa7d5ykmbhlgabyhjrsm4ti4a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "読書してたら、いつも通りの時間に起動したロボット掃除機に追いやられる連休初日",
+    "createdAt": "2026-08-11T02:23:06.202179Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-11T02:23:06.829Z",
+    "embed": null,
     "isRepost": false
   }
 }
