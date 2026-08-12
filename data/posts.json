@@ -210156,7 +210156,7 @@
     "createdAt": "2026-08-07T07:05:37.324Z",
     "replyCount": 0,
     "repostCount": 60,
-    "likeCount": 126,
+    "likeCount": 127,
     "indexedAt": "2026-08-07T07:05:42.524Z",
     "embed": {
       "images": [
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 143,
-    "likeCount": 706,
+    "likeCount": 711,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211125,6 +211125,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-12T20:34:26.426Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msvzew6z5t2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msvzew6z5t2m",
+    "cid": "bafyreidsqq2gtccsz5fyz25vcxdo4obebteage3xmgxq44z4fudys32mfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第72回聴取終了",
+    "createdAt": "2026-08-12T20:57:26.531281Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-12T20:57:27.626Z",
     "embed": null,
     "isRepost": false
   }
