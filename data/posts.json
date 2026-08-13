@@ -210183,8 +210183,8 @@
     "text": "",
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
-    "repostCount": 159,
-    "likeCount": 711,
+    "repostCount": 160,
+    "likeCount": 713,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210301,8 +210301,8 @@
     "text": "",
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
-    "repostCount": 177,
-    "likeCount": 780,
+    "repostCount": 178,
+    "likeCount": 782,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
-    "repostCount": 144,
-    "likeCount": 670,
+    "repostCount": 145,
+    "likeCount": 673,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210800,8 +210800,8 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 132,
-    "likeCount": 641,
+    "repostCount": 133,
+    "likeCount": 646,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211023,8 +211023,8 @@
     "text": "",
     "createdAt": "2026-08-11T01:07:57.483Z",
     "replyCount": 2,
-    "repostCount": 130,
-    "likeCount": 615,
+    "repostCount": 131,
+    "likeCount": 617,
     "indexedAt": "2026-08-11T01:08:03.631Z",
     "embed": {
       "images": [
@@ -211094,8 +211094,8 @@
     "text": "",
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
-    "repostCount": 146,
-    "likeCount": 750,
+    "repostCount": 147,
+    "likeCount": 754,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211152,8 +211152,8 @@
     "text": "",
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
-    "repostCount": 125,
-    "likeCount": 509,
+    "repostCount": 127,
+    "likeCount": 519,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211551,6 +211551,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-13T10:31:11.228Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxo2oja6s2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxo2oja6s2j",
+    "cid": "bafyreifcgfzx3zxberdo7to446fq7lij3wpual72sgc4oxpyksyv3ovyry",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#浅野堀江 Happy Birthday わたしたち イベント申し込んだ。",
+    "createdAt": "2026-08-13T12:40:11.715370Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T12:40:12.528Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxnyglnuf2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxnyglnuf2h",
+    "cid": "bafyreia7qzekfzkuiqgfgdyuoyqfuxr44kid7lwvu2l35tg7wivgpfbsj4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第50回聴取終了。",
+    "createdAt": "2026-08-13T12:38:56.339438Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T12:38:56.926Z",
     "embed": null,
     "isRepost": false
   }
