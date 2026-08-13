@@ -210301,7 +210301,7 @@
     "text": "",
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
-    "repostCount": 176,
+    "repostCount": 177,
     "likeCount": 779,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 146,
-    "likeCount": 744,
+    "likeCount": 745,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211152,8 +211152,8 @@
     "text": "",
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
-    "repostCount": 122,
-    "likeCount": 471,
+    "repostCount": 123,
+    "likeCount": 482,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211468,6 +211468,65 @@
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreialbwb2vmkx27kticf2y5pd6yadcixxfdi33w44occpgehrrhsrne",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreialbwb2vmkx27kticf2y5pd6yadcixxfdi33w44occpgehrrhsrne",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msx75uul5q2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msx75uul5q2f",
+    "cid": "bafyreifpclvqlystx4lvnt4bn262uu63xzdn4ihki4td2zar4u5mupnrjy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士モータースポーツフォレストテラスで朝食をとって、ミュージアムでティレル6輪車を見て夏を感じるドライブから無事帰宅！",
+    "createdAt": "2026-08-13T08:13:32.956297Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-13T08:13:34.026Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihkpvowyrkzjnrjx4sghtru4rl6rak7ww4rvruxyzr7b6veq7zlai",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihkpvowyrkzjnrjx4sghtru4rl6rak7ww4rvruxyzr7b6veq7zlai",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihj2qx3ivi75cilkyqijwuzv35haquloczgak5md6khxhoqkze4gm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihj2qx3ivi75cilkyqijwuzv35haquloczgak5md6khxhoqkze4gm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreice5tihcsg3ihnbzfz6ejzkqd5jdfcklfpxs2x3glg6nk6npta7ru",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreice5tihcsg3ihnbzfz6ejzkqd5jdfcklfpxs2x3glg6nk6npta7ru",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif346eravx5wi4rw55mllvwnymalgpsxcp22jbs2j3plkdkitv76e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif346eravx5wi4rw55mllvwnymalgpsxcp22jbs2j3plkdkitv76e",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
