@@ -210183,8 +210183,8 @@
     "text": "",
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
-    "repostCount": 158,
-    "likeCount": 710,
+    "repostCount": 159,
+    "likeCount": 711,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210302,7 +210302,7 @@
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
     "repostCount": 177,
-    "likeCount": 779,
+    "likeCount": 780,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210544,8 +210544,8 @@
     "text": "",
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
-    "repostCount": 143,
-    "likeCount": 668,
+    "repostCount": 144,
+    "likeCount": 670,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210800,8 +210800,8 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 640,
+    "repostCount": 132,
+    "likeCount": 641,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211024,7 +211024,7 @@
     "createdAt": "2026-08-11T01:07:57.483Z",
     "replyCount": 2,
     "repostCount": 130,
-    "likeCount": 613,
+    "likeCount": 615,
     "indexedAt": "2026-08-11T01:08:03.631Z",
     "embed": {
       "images": [
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 146,
-    "likeCount": 746,
+    "likeCount": 749,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211153,7 +211153,7 @@
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
     "repostCount": 124,
-    "likeCount": 488,
+    "likeCount": 505,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211537,6 +211537,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxgtxz2nd2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxgtxz2nd2j",
+    "cid": "bafyreihkmpnekacfsnzzd753isgppoflc6rup53xfcwwlkuzzutpx6vvvi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "レベル5はヤバいって",
+    "createdAt": "2026-08-13T10:31:08.198828Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T10:31:11.228Z",
+    "embed": null,
     "isRepost": false
   }
 }
