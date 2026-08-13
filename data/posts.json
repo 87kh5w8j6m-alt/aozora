@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 145,
-    "likeCount": 724,
+    "likeCount": 727,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211152,8 +211152,8 @@
     "text": "",
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 306,
+    "repostCount": 99,
+    "likeCount": 343,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211227,7 +211227,7 @@
     "createdAt": "2026-08-12T23:31:23.648109Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-12T23:31:25.326Z",
     "embed": {
       "images": [
@@ -211294,6 +211294,148 @@
         "title": "“本質から逸脱したGT3”にポルシェ首脳も懸念を表明「プロトタイプのようなマシンは見たくない」 | ニュース | autosport web",
         "description": "ポルシェ・モータースポーツの責任者であるトーマス・ローデンバッハは、GT3プラットフォームの将来について、SROモータースポーツ・グループの創設者兼CEOであ",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigp2junot57yautgsn2epyno62uag7yqa3g5aq3424nqvu3m6nvry"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mswjdfec2k2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mswjdfec2k2z",
+    "cid": "bafyreigztgh22jseg5jbjjkfgubg7spd6ubxhca4rwpcv6mwira3bgc3xq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富士モータースポーツミュージアム、企画展が面白いから何度も来ちゃう。今回は富士F1開催50周年企画展『知られざる あの、激闘』\n企画展以外にも地味に展示車両が入れ替わってるし、787Bは毎回写真撮っちゃう。 #フォレスト",
+    "createdAt": "2026-08-13T01:42:56.154Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-13T01:43:20.530Z",
+    "embed": {
+      "items": [
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibmaocxj523lcmvth35y4qanhjeih7fvfqluu47cynj4nyyurrkha",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibmaocxj523lcmvth35y4qanhjeih7fvfqluu47cynj4nyyurrkha",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigzq2lcbfxe2gu2umwu3cldj76pgnyykntijgjnux2i3pfdmha4ta",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigzq2lcbfxe2gu2umwu3cldj76pgnyykntijgjnux2i3pfdmha4ta",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieg5j7ksqokriiaqo45vljzkztemz2b6f3r55yuubwodqvxyflf5q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieg5j7ksqokriiaqo45vljzkztemz2b6f3r55yuubwodqvxyflf5q",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiazo4dsxwxsksn7ahdk57ex4rx64fr7op2n6qgtjagjbg6vh53jum",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiazo4dsxwxsksn7ahdk57ex4rx64fr7op2n6qgtjagjbg6vh53jum",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicn3zploevue2cfr7wma24bnc7mclybbm246wnxsw6lqct23kf27a",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicn3zploevue2cfr7wma24bnc7mclybbm246wnxsw6lqct23kf27a",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicattknpmxbdbkez3z2all2lj7smnisenbqxwu4k4dz7toldiovoy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicattknpmxbdbkez3z2all2lj7smnisenbqxwu4k4dz7toldiovoy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie3enxb5qobrpbogajpnfy5l4266xydipxpih53b7uxrmxsbsriuu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie3enxb5qobrpbogajpnfy5l4266xydipxpih53b7uxrmxsbsriuu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrfacqxupyv4pp4ywbhusijeqkrn7n5s5oi7hkjey4awxahzadxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrfacqxupyv4pp4ywbhusijeqkrn7n5s5oi7hkjey4awxahzadxy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreich6v43gzzflu72ssz7sjxgjmrcax3dsy55psd3facjwf6ctxxxia",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreich6v43gzzflu72ssz7sjxgjmrcax3dsy55psd3facjwf6ctxxxia",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif6lpz4weavhd2uf64t4l6t4miibxuy36l75omrbaddx35alkuvyq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif6lpz4weavhd2uf64t4l6t4miibxuy36l75omrbaddx35alkuvyq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        }
+      ],
+      "$type": "app.bsky.embed.gallery#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mswgl5os3r2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mswgl5os3r2f",
+    "cid": "bafyreiezyqyd6erusjswa3hzgstskadl4scjqeambjm3ulhrrmwodsnzta",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "かの6輪車を見にきたってわけ (@ 富士モータースポーツミュージアム in 小山町, 静岡県) https://app.foursquare.com/share/checkin/6a7d15764d1a14464853a0ba?s=Z_HOeM7HFWLi9ys7D2cQTmbBECk&lang=ja",
+    "createdAt": "2026-08-13T00:53:34.394142Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-13T00:53:35.930Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a7d15764d1a14464853a0ba?s=Z_HOeM7HFWLi9ys7D2cQTmbBECk&lang=ja",
+        "title": "jiminy nseries's check in at 富士モータースポーツミュージアム",
+        "description": "かの6輪車を見にきたってわけ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihx7nx2tunrbsiawpndmkowdokwre7xyjni32nhlns66vdhpy6dy4"
       },
       "$type": "app.bsky.embed.external#view"
     },
