@@ -209817,7 +209817,7 @@
     "createdAt": "2026-08-04T01:21:46.286Z",
     "replyCount": 0,
     "repostCount": 116,
-    "likeCount": 561,
+    "likeCount": 562,
     "indexedAt": "2026-08-04T01:21:53.031Z",
     "embed": {
       "images": [
@@ -210184,7 +210184,7 @@
     "createdAt": "2026-08-06T23:17:21.430Z",
     "replyCount": 1,
     "repostCount": 160,
-    "likeCount": 713,
+    "likeCount": 714,
     "indexedAt": "2026-08-06T23:17:28.527Z",
     "embed": {
       "images": [
@@ -210302,7 +210302,7 @@
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
     "repostCount": 178,
-    "likeCount": 782,
+    "likeCount": 783,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 145,
-    "likeCount": 673,
+    "likeCount": 674,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 133,
-    "likeCount": 646,
+    "likeCount": 647,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 147,
-    "likeCount": 754,
+    "likeCount": 757,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211152,8 +211152,8 @@
     "text": "",
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
-    "repostCount": 127,
-    "likeCount": 519,
+    "repostCount": 130,
+    "likeCount": 537,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211581,6 +211581,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-13T12:38:56.926Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxrf4bmbf2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msxrf4bmbf2q",
+    "cid": "bafyreidzhviuacx5fjq5d5cbb5oomsmzqswrlzxdtsjot7dudyj3sg6tiu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第5話視聴終了。",
+    "createdAt": "2026-08-13T13:39:42.960036Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T13:39:43.527Z",
     "embed": null,
     "isRepost": false
   }
