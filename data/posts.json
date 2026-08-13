@@ -207447,7 +207447,7 @@
     "createdAt": "2026-07-23T22:49:55.452Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 527,
+    "likeCount": 528,
     "indexedAt": "2026-07-23T22:50:05.729Z",
     "embed": {
       "images": [
@@ -207505,7 +207505,7 @@
     "createdAt": "2026-07-24T21:43:49.673Z",
     "replyCount": 7,
     "repostCount": 242,
-    "likeCount": 923,
+    "likeCount": 924,
     "indexedAt": "2026-07-24T21:44:03.929Z",
     "embed": {
       "images": [
@@ -207743,7 +207743,7 @@
     "createdAt": "2026-07-25T22:56:06.135Z",
     "replyCount": 7,
     "repostCount": 130,
-    "likeCount": 570,
+    "likeCount": 571,
     "indexedAt": "2026-07-25T22:56:21.026Z",
     "embed": {
       "images": [
@@ -208900,7 +208900,7 @@
     "createdAt": "2026-07-31T01:07:01.149Z",
     "replyCount": 0,
     "repostCount": 133,
-    "likeCount": 590,
+    "likeCount": 591,
     "indexedAt": "2026-07-31T01:07:09.628Z",
     "embed": {
       "images": [
@@ -209233,7 +209233,7 @@
     "createdAt": "2026-08-01T21:52:58.464Z",
     "replyCount": 2,
     "repostCount": 198,
-    "likeCount": 901,
+    "likeCount": 902,
     "indexedAt": "2026-08-01T21:53:05.725Z",
     "embed": {
       "images": [
@@ -209789,7 +209789,7 @@
     "createdAt": "2026-08-04T21:44:17.988Z",
     "replyCount": 1,
     "repostCount": 133,
-    "likeCount": 602,
+    "likeCount": 603,
     "indexedAt": "2026-08-04T21:44:24.541Z",
     "embed": {
       "images": [
@@ -209817,7 +209817,7 @@
     "createdAt": "2026-08-04T01:21:46.286Z",
     "replyCount": 0,
     "repostCount": 116,
-    "likeCount": 562,
+    "likeCount": 564,
     "indexedAt": "2026-08-04T01:21:53.031Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 134,
-    "likeCount": 649,
+    "likeCount": 650,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211024,7 +211024,7 @@
     "createdAt": "2026-08-11T01:07:57.483Z",
     "replyCount": 2,
     "repostCount": 131,
-    "likeCount": 618,
+    "likeCount": 619,
     "indexedAt": "2026-08-11T01:08:03.631Z",
     "embed": {
       "images": [
@@ -211094,8 +211094,8 @@
     "text": "",
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
-    "repostCount": 147,
-    "likeCount": 760,
+    "repostCount": 148,
+    "likeCount": 761,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211152,8 +211152,8 @@
     "text": "",
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
-    "repostCount": 133,
-    "likeCount": 569,
+    "repostCount": 134,
+    "likeCount": 575,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211649,6 +211649,64 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-13T14:37:49.231Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msymtplxc22g": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3msymtplxc22g",
+    "cid": "bafyreian74q4ajnmc365fuavmxwfsepreh4a2cjiebok2hkvy5wqis7c5q",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-13T21:51:04.479Z",
+    "replyCount": 0,
+    "repostCount": 59,
+    "likeCount": 176,
+    "indexedAt": "2026-08-13T21:51:10.228Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidykvrewwcrqlsxyamlrxc6mir3y35g4vvvfnutxgymbvhpvesyaq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidykvrewwcrqlsxyamlrxc6mir3y35g4vvvfnutxgymbvhpvesyaq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msypwblao42g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msypwblao42g",
+    "cid": "bafyreiepxa2a6276mxj2ninwvipjsqziykcbekdlnwq53dltb2whiburpq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "YouTubeの後で見るがスワイプで削除できなくなったの不便なんだけれど……。",
+    "createdAt": "2026-08-13T22:46:10.663474Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T22:46:12.025Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msypskswat2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msypskswat2f",
+    "cid": "bafyreiggx2zg4its3i52hewwjfncr37s72cw3am7qnwfodye5qilaf6koi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-08-13T22:44:06.454023Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-13T22:44:07.231Z",
     "embed": null,
     "isRepost": false
   }
