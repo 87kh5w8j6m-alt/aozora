@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 101,
-    "likeCount": 562,
+    "likeCount": 564,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 677,
+    "likeCount": 678,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 655,
+    "likeCount": 654,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211024,7 +211024,7 @@
     "createdAt": "2026-08-11T01:07:57.483Z",
     "replyCount": 2,
     "repostCount": 134,
-    "likeCount": 625,
+    "likeCount": 624,
     "indexedAt": "2026-08-11T01:08:03.631Z",
     "embed": {
       "images": [
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 152,
-    "likeCount": 772,
+    "likeCount": 774,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211661,8 +211661,8 @@
     "text": "",
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
-    "repostCount": 115,
-    "likeCount": 462,
+    "repostCount": 116,
+    "likeCount": 468,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211855,6 +211855,29 @@
         "title": "スタート 第3戦 富士24時間レース スーパー耐久シリーズ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
         "description": "スタート 第3戦 富士24時間レース スーパー耐久シリーズ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihgvknrbtplizzohx3dq22ke5dxs7r4nfkfmjxwtg4k3q2vrjiite"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszuaf54fa2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszuaf54fa2j",
+    "cid": "bafyreih7j4hgidbe3rnhh2fdsayzatxhwtdq35loiqa2va4xdo4xsrb3ie",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | ナイト 第3戦 富士24時間レース スーパー耐久シリーズ 2026 https://jod.jsports.co.jp/p/motor/fuji24h/111163-V",
+    "createdAt": "2026-08-14T09:36:03.170508Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-14T09:36:06.126Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/fuji24h/111163-V",
+        "title": "ナイト 第3戦 富士24時間レース スーパー耐久シリーズ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "ナイト 第3戦 富士24時間レース スーパー耐久シリーズ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihofpdtfut3qp2yeqwshbtwa54x4huhdoitjsfm55f3x6btnacls4"
       },
       "$type": "app.bsky.embed.external#view"
     },
