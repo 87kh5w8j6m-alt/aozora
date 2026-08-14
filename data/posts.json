@@ -211661,8 +211661,8 @@
     "text": "",
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 360,
+    "repostCount": 98,
+    "likeCount": 380,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211779,6 +211779,44 @@
         "title": "シン・SwarmのSNS投稿文をI'm at〜にする方法 - Jiminy Nseries",
         "description": "SwarmのSNS投稿文をI'm at〜にするショートカット、過去のpostはちゃんとI was at〜の形式に置換出来ていましたが肝心のI'm at〜の形式がうまく置換できてなかったみたいなので作り直しました。 jiminynseries.hatenablog.com Swarmは週末におでかけしたときにくらいしかチェックインしないのに何をそんなに一生懸命ショートカットアプリこねこねしているのか...",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieovcvpadmdq7osc77mywr3uwlszef57334x2ahq3ncdj7uz5appu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszavitpiq2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszavitpiq2b",
+    "cid": "bafyreibozdmw2uhs7iir6mumev7ofoh5uokb6boxhw2hhjdnw4hrbh7zfy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-08-14T03:49:58.194737Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-14T03:49:59.433Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msz7asbads2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msz7asbads2x",
+    "cid": "bafyreifh7bs7a5qbf6omnkhw4upmdvxme6vpnqmimfoe3aexw32berswhm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\nTGR Haas F1 Team 2026 Testing of Previous Cars(TPC)に行ってきました - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/0...\n#はてなブログ",
+    "createdAt": "2026-08-14T03:20:30.835Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-14T03:20:33.223Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/08/14/122008",
+        "title": "TGR Haas F1 Team 2026 Testing of Previous Cars(TPC)に行ってきました - Jiminy Nseries",
+        "description": "7⽉29⽇に富士スピードウェイで行なわれたTGR Haas F1 Team 2026 Testing of Previous Cars(TPC)に行ってきました。平日に行われたイベントなのでお休みを取っての参戦です。 F1マシンの走行をデモラン意外で実際に見るのは初めて。特にデモランはレジェンドマシンなことが多いので近年のF1マシンのエンジン音が実際に聴けるのは楽しみです。パドックには公式ショップ...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicalqwgoskub4o6ipqmr4sp7hm3swhh4lh6seissyzv72sufleapq"
       },
       "$type": "app.bsky.embed.external#view"
     },
