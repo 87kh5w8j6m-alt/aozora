@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 101,
-    "likeCount": 561,
+    "likeCount": 562,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -210800,7 +210800,7 @@
     "text": "",
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
-    "repostCount": 136,
+    "repostCount": 135,
     "likeCount": 655,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
@@ -211094,8 +211094,8 @@
     "text": "",
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
-    "repostCount": 149,
-    "likeCount": 766,
+    "repostCount": 151,
+    "likeCount": 770,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211153,7 +211153,7 @@
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
     "repostCount": 136,
-    "likeCount": 584,
+    "likeCount": 585,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211661,8 +211661,8 @@
     "text": "",
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 427,
+    "repostCount": 110,
+    "likeCount": 439,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211835,6 +211835,29 @@
     "likeCount": 0,
     "indexedAt": "2026-08-14T05:39:06.728Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszkbssxxx2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mszkbssxxx2g",
+    "cid": "bafyreifkzbthutjutxtp4fet6vjl5t6bxg565nxvur7lg6boa5zsaudiku",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | スタート 第3戦 富士24時間レース スーパー耐久シリーズ 2026 https://jod.jsports.co.jp/p/motor/fuji24h/111162-V",
+    "createdAt": "2026-08-14T06:37:55.625217Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-14T06:37:56.726Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/fuji24h/111162-V",
+        "title": "スタート 第3戦 富士24時間レース スーパー耐久シリーズ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "スタート 第3戦 富士24時間レース スーパー耐久シリーズ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihgvknrbtplizzohx3dq22ke5dxs7r4nfkfmjxwtg4k3q2vrjiite"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
