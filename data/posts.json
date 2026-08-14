@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 149,
-    "likeCount": 764,
+    "likeCount": 765,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211153,7 +211153,7 @@
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
     "repostCount": 136,
-    "likeCount": 580,
+    "likeCount": 581,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211661,8 +211661,8 @@
     "text": "",
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
-    "repostCount": 75,
-    "likeCount": 254,
+    "repostCount": 89,
+    "likeCount": 297,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211708,6 +211708,29 @@
     "likeCount": 1,
     "indexedAt": "2026-08-13T22:44:07.231Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msywvrvugc2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3msywvrvugc2x",
+    "cid": "bafyreiausmkzxab5jbe7cywbexlxhsz6dcfi4qkcngc6y52etomjwmfvyu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\n2026 GT World Challenge Asia Powered by AWS Rd.5 & Japan Cup Rd.3に行ってきました - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/0...\n#はてなブログ",
+    "createdAt": "2026-08-14T00:51:11.430Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-14T00:51:14.233Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/08/14/095047",
+        "title": "2026 GT World Challenge Asia Powered by AWS Rd.5 & Japan Cup Rd.3に行ってきました - Jiminy Nseries",
+        "description": "7月11日に開催された2026 GT World Challenge Asia Powered by AWS Rd.5 & Japan Cup Rd.3に行ってきました。 今回は東名高速の事故渋滞に巻き込まれていつもなら2時間弱のところが4時間もかかってしまし、予選に間に合いませんでした。渋滞にハマることはあってもここまでは初めて。到着した段階ですでにちょっとお疲れモード。ピットウォークには間に合...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibh6sjfztox3q2okje3d4mwhtlhrnc4mcongxixbbuvbws4q7xmni"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
