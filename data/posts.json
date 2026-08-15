@@ -211960,8 +211960,8 @@
     "text": "",
     "createdAt": "2026-08-14T22:07:10.363Z",
     "replyCount": 0,
-    "repostCount": 78,
-    "likeCount": 318,
+    "repostCount": 81,
+    "likeCount": 329,
     "indexedAt": "2026-08-14T22:07:15.626Z",
     "embed": {
       "images": [
@@ -212038,6 +212038,51 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3zihwcus2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3zihwcus2x",
+    "cid": "bafyreieteufdl4ygi5svvjnhd2z6fdjc6cucwlber7qk275c6qafdxwvbm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MacBook Proの全てを持ち運べるありがた味を噛み締めている",
+    "createdAt": "2026-08-15T06:15:25.192Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-15T06:15:25.628Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3zdn7k4a2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3zdn7k4a2s",
+    "cid": "bafyreihapb7jfor4zzioq3l2rumf5xahsnb6o5feyz6nnge63hkyx6per4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1246回聴取終了。",
+    "createdAt": "2026-08-15T06:12:42.022788Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-15T06:12:43.030Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3ypwybjs2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3ypwybjs2x",
+    "cid": "bafyreigqpz6zwvjqfyzd7hrcw2jt754o4l3xpb7pk44asukxoggiaryktu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日の夜中に秋の旅程を作って旅の仕方を思い出したので、11月のおでかけ予定にとりかかっている",
+    "createdAt": "2026-08-15T06:01:42.123Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-15T06:01:43.723Z",
+    "embed": null,
     "isRepost": false
   }
 }
