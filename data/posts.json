@@ -211662,7 +211662,7 @@
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
     "repostCount": 131,
-    "likeCount": 541,
+    "likeCount": 542,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211912,5 +211912,71 @@
     "indexedAt": "2026-08-14T23:27:33.826Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3qf5y6vs2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3qf5y6vs2r",
+    "cid": "bafyreidq3nftjq2oena5unutq7dp5eirelrsn4yz522t4z7r3dvrsiqe5u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "実際に聴いたことがあって、官能的なエキゾーストノートだったのは787B、RE雨宮RX7、911RSR(2018)の3台。",
+    "createdAt": "2026-08-15T03:32:30.428Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-15T03:32:31.249Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3qd7wez22r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt3qd7wez22r",
+    "cid": "bafyreibba2xrzhpmcyfaekf6al6wqirpbosdnvyeyw2whplumxmhr6zvfa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "海外F1記者の視点｜デカいエンジン音は正義なのか！？　V8回帰に向かおうとするF1……その是非を考える  - jp.motorsport.com/f1/news/shou... おいおい、音を求めるならレシプロエンジンンなんかやめて神様の楽器ともいわれるロータリーエンジンでF1やろうぜ！！",
+    "createdAt": "2026-08-15T03:31:25.356Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-15T03:31:31.024Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/should-f1-really-get-louder-in-2031-our-verdict/10838941/",
+        "title": "海外F1記者の視点｜デカいエンジン音は正義なのか！？　V8回帰に向かおうとするF1……その是非を考える",
+        "description": "F1は2031年に自然吸気V8エンジンへ回帰する構想を進めている。しかし、「音を大きくすること」は本当にF1が目指すべきことなのだろうか？　ライター陣がそれぞれの考えを語った。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih5ct4zxou7mv7fmjfqoaegw43wvl7fx5frhmn335ylnr4v22lvke"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mt367g74fs2y": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mt367g74fs2y",
+    "cid": "bafyreifrh5jk2puliwv5ngvc6ps6cn5azqjgwmfdhoiogc6cg5v346v5y4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-14T22:07:10.363Z",
+    "replyCount": 0,
+    "repostCount": 77,
+    "likeCount": 297,
+    "indexedAt": "2026-08-14T22:07:15.626Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihb2k2snaw2fxmriy6bh5cudqnkb36cqefcg54u2lqwjsf47dsiru",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihb2k2snaw2fxmriy6bh5cudqnkb36cqefcg54u2lqwjsf47dsiru",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
