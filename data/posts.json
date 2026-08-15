@@ -211961,7 +211961,7 @@
     "createdAt": "2026-08-14T22:07:10.363Z",
     "replyCount": 0,
     "repostCount": 83,
-    "likeCount": 344,
+    "likeCount": 349,
     "indexedAt": "2026-08-14T22:07:15.626Z",
     "embed": {
       "images": [
@@ -212083,6 +212083,29 @@
     "likeCount": 0,
     "indexedAt": "2026-08-15T06:01:43.723Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt4cxpkj3y2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt4cxpkj3y2y",
+    "cid": "bafyreiau6poulfrxqejhzwix4pfmavfgdobdeazbze2fzm7n4qxubp36we",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | スタート 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026 https://jod.jsports.co.jp/p/motor/spa/110903-V",
+    "createdAt": "2026-08-15T09:04:59.722833Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-15T09:05:00.831Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/spa/110903-V",
+        "title": "スタート 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "スタート 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibhqqabco2ascz3p2qrjewzipqznrurrbftkxadh44li57drspt74"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
