@@ -1,6 +1,7 @@
 import json
 import os
 import calendar
+import re
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict, Counter
 
@@ -18,7 +19,11 @@ def format_date(iso_str):
     return dt_jst.strftime("%Y-%m-%d %H:%M:%S")
 
 def render_post(post):
-    text = post["text"].replace("\n", "<br>")
+    text = post.get("text", "")
+    # URLを検知してハイパーリンク（aタグ）に置換
+    text = re.sub(r'(https?://[\w/:%#\$&\?\(\)~\.=\+\-]+)', r'<a href="\1" target="_blank" rel="noopener noreferrer">\1</a>', text)
+    # その後に改行を <br> に置換
+    text = text.replace("\n", "<br>")
     date = format_date(post["createdAt"])
     stats = f"❤️ {post['likeCount']} | 🔄 {post['repostCount']} | 💬 {post['replyCount']}"
     
@@ -610,7 +615,11 @@ def generate_html(posts):
             } else { resultsDiv.innerHTML = "<p>該当する投稿はありませんでした。</p>"; }
         }
         function renderPostInJS(post) {
-            const text = post.text ? post.text.replace(/\\n/g, "<br>") : "";
+            let text = post.text ? post.text : "";
+            // URLをハイパーリンクに変換（Pythonの文字列内なので \ をエスケープしています）
+            text = text.replace(/(https?:\\/\\/[\\w/:%#\\$&\\?\\(\\)~\\.=\\+\\-]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+            // 改行を <br> に変換
+            text = text.replace(/\\n/g, "<br>");
             const d = new Date(post.createdAt);
             const jstDate = new Date(d.toLocaleString('en-US', { timeZone: 'Asia/Tokyo' }));
             const yyyy = jstDate.getFullYear(); const mm = String(jstDate.getMonth() + 1).padStart(2, '0');
