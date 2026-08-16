@@ -212122,5 +212122,20 @@
     "indexedAt": "2026-08-15T09:32:31.928Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt5wzxecus2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mt5wzxecus2y",
+    "cid": "bafyreied4c5b77yk7krznqgxdlkn74yizk4mpvdmphifxtc4qb6kf4pvke",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-08-16T00:36:50.055Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-16T00:36:50.625Z",
+    "embed": null,
+    "isRepost": false
   }
 }
