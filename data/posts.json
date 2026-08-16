@@ -205821,9 +205821,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "GTWC Asia at Fujiから無事帰宅！行きは事故渋滞で予選に間に合わなかったけど、決勝レースはバッチリ見られたからまあよし！日向はともかく日陰に入ればそこそこ涼しかったのでなんとかなったが､夏季のレース観戦は大変だ",
     "createdAt": "2026-07-11T11:24:10.566159Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-07-11T11:24:33.727Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 658,
+    "likeCount": 659,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -211024,7 +211024,7 @@
     "createdAt": "2026-08-11T01:07:57.483Z",
     "replyCount": 2,
     "repostCount": 134,
-    "likeCount": 629,
+    "likeCount": 630,
     "indexedAt": "2026-08-11T01:08:03.631Z",
     "embed": {
       "images": [
@@ -211095,7 +211095,7 @@
     "createdAt": "2026-08-12T01:44:16.466Z",
     "replyCount": 3,
     "repostCount": 152,
-    "likeCount": 784,
+    "likeCount": 785,
     "indexedAt": "2026-08-12T01:44:26.429Z",
     "embed": {
       "images": [
@@ -211153,7 +211153,7 @@
     "createdAt": "2026-08-12T22:03:19.260Z",
     "replyCount": 0,
     "repostCount": 140,
-    "likeCount": 608,
+    "likeCount": 609,
     "indexedAt": "2026-08-12T22:03:25.430Z",
     "embed": {
       "images": [
@@ -211662,7 +211662,7 @@
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
     "repostCount": 134,
-    "likeCount": 553,
+    "likeCount": 554,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -211961,7 +211961,7 @@
     "createdAt": "2026-08-14T22:07:10.363Z",
     "replyCount": 0,
     "repostCount": 93,
-    "likeCount": 401,
+    "likeCount": 402,
     "indexedAt": "2026-08-14T22:07:15.626Z",
     "embed": {
       "images": [
@@ -212147,8 +212147,8 @@
     "text": "",
     "createdAt": "2026-08-16T01:39:56.587Z",
     "replyCount": 1,
-    "repostCount": 135,
-    "likeCount": 622,
+    "repostCount": 138,
+    "likeCount": 629,
     "indexedAt": "2026-08-16T01:40:04.727Z",
     "embed": {
       "images": [
@@ -212195,5 +212195,33 @@
     "indexedAt": "2026-08-16T21:24:22.826Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtabpzerv22a": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtabpzerv22a",
+    "cid": "bafyreihoxeo2ede4id7mobsvyngnrgvhcyzu6lwjq7vgahahs4iuwi2rfi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-16T22:53:27.260Z",
+    "replyCount": 0,
+    "repostCount": 46,
+    "likeCount": 211,
+    "indexedAt": "2026-08-16T22:53:37.030Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiepdnqqhmqey5pmj3serigjxtrs5ryydr2fvhcjxtaxn653ssacgu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiepdnqqhmqey5pmj3serigjxtrs5ryydr2fvhcjxtaxn653ssacgu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
