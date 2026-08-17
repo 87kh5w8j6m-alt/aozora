@@ -205821,9 +205821,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "GTWC Asia at Fujiから無事帰宅！行きは事故渋滞で予選に間に合わなかったけど、決勝レースはバッチリ見られたからまあよし！日向はともかく日陰に入ればそこそこ涼しかったのでなんとかなったが､夏季のレース観戦は大変だ",
     "createdAt": "2026-07-11T11:24:10.566159Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 0,
     "indexedAt": "2026-07-11T11:24:33.727Z",
     "embed": {
       "images": [
@@ -212147,8 +212147,8 @@
     "text": "",
     "createdAt": "2026-08-16T01:39:56.587Z",
     "replyCount": 1,
-    "repostCount": 140,
-    "likeCount": 638,
+    "repostCount": 141,
+    "likeCount": 640,
     "indexedAt": "2026-08-16T01:40:04.727Z",
     "embed": {
       "images": [
@@ -212205,8 +212205,8 @@
     "text": "",
     "createdAt": "2026-08-16T22:53:27.260Z",
     "replyCount": 0,
-    "repostCount": 78,
-    "likeCount": 387,
+    "repostCount": 81,
+    "likeCount": 419,
     "indexedAt": "2026-08-16T22:53:37.030Z",
     "embed": {
       "images": [
@@ -212223,5 +212223,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtarb4llw22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtarb4llw22h",
+    "cid": "bafyreig365uizrmggv5laovkspvvsb6grcfqeqztpyc6azce7zooop7m5m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-08-17T03:31:26.060323Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-17T03:31:27.427Z",
+    "embed": null,
+    "isRepost": false
   }
 }
