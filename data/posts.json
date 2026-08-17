@@ -212205,8 +212205,8 @@
     "text": "",
     "createdAt": "2026-08-16T22:53:27.260Z",
     "replyCount": 1,
-    "repostCount": 107,
-    "likeCount": 586,
+    "repostCount": 110,
+    "likeCount": 594,
     "indexedAt": "2026-08-16T22:53:37.030Z",
     "embed": {
       "images": [
@@ -212251,6 +212251,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-17T04:20:06.428Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtbptz7bic2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtbptz7bic2y",
+    "cid": "bafyreicykcuimgm5rjbalzgmvbemvavm5pytnwadkmvgjiiitc7vqkwkpa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "S耐富士24Hに行かなくなってからめっきりキャンプ道具使う機会がないから、涼しくなったらチェアとテーブルもってコーヒー飲むだけのヤツやりたい",
+    "createdAt": "2026-08-17T12:38:53.422Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-17T12:39:08.431Z",
     "embed": null,
     "isRepost": false
   }
