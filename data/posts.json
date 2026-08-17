@@ -211961,7 +211961,7 @@
     "createdAt": "2026-08-14T22:07:10.363Z",
     "replyCount": 0,
     "repostCount": 93,
-    "likeCount": 406,
+    "likeCount": 407,
     "indexedAt": "2026-08-14T22:07:15.626Z",
     "embed": {
       "images": [
@@ -212206,7 +212206,7 @@
     "createdAt": "2026-08-16T22:53:27.260Z",
     "replyCount": 1,
     "repostCount": 110,
-    "likeCount": 594,
+    "likeCount": 603,
     "indexedAt": "2026-08-16T22:53:37.030Z",
     "embed": {
       "images": [
@@ -212267,6 +212267,29 @@
     "likeCount": 0,
     "indexedAt": "2026-08-17T12:39:08.431Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtbt5wulif2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtbt5wulif2m",
+    "cid": "bafyreih5omgokblopb5f3u3xytd5c7jbeesekzhjyz3f7kzjpfvz7x6icm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | ゴール 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026 https://jod.jsports.co.jp/p/motor/spa/110904-V",
+    "createdAt": "2026-08-17T13:38:07.260712Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-17T13:38:08.325Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/spa/110904-V",
+        "title": "ゴール 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "ゴール 【世界三大耐久レース】スパ・フランコルシャン24時間レース 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid3x5cjgcva3gyyv2dwfkvgk5oi2lujjsjyny55sbhlughycr2vju"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
