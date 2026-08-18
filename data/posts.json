@@ -210128,7 +210128,7 @@
     "createdAt": "2026-08-07T06:51:37.750Z",
     "replyCount": 2,
     "repostCount": 101,
-    "likeCount": 564,
+    "likeCount": 565,
     "indexedAt": "2026-08-07T06:51:52.728Z",
     "embed": {
       "images": [
@@ -212147,8 +212147,8 @@
     "text": "",
     "createdAt": "2026-08-16T01:39:56.587Z",
     "replyCount": 1,
-    "repostCount": 149,
-    "likeCount": 668,
+    "repostCount": 151,
+    "likeCount": 675,
     "indexedAt": "2026-08-16T01:40:04.727Z",
     "embed": {
       "images": [
@@ -212206,7 +212206,7 @@
     "createdAt": "2026-08-16T22:53:27.260Z",
     "replyCount": 1,
     "repostCount": 123,
-    "likeCount": 662,
+    "likeCount": 665,
     "indexedAt": "2026-08-16T22:53:37.030Z",
     "embed": {
       "images": [
@@ -212390,9 +212390,9 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 624,
+        "likeCount": 636,
         "replyCount": 0,
-        "repostCount": 131,
+        "repostCount": 132,
         "quoteCount": 1,
         "indexedAt": "2026-08-17T21:31:20.227Z",
         "embeds": [
@@ -212426,8 +212426,8 @@
     "text": "",
     "createdAt": "2026-08-17T21:31:13.134Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 624,
+    "repostCount": 132,
+    "likeCount": 636,
     "indexedAt": "2026-08-17T21:31:20.227Z",
     "embed": {
       "images": [
@@ -212457,6 +212457,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-18T03:31:56.825Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mte5v6wfxd2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mte5v6wfxd2y",
+    "cid": "bafyreifzbp7bxnn7tzcnvgm3nmty6yi4jsopv3nkdqrbf4z5l5cp353lwi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「堀江由衣 謎解きはディナーショーの途中で 2026」のチケット発券した。ライブじゃないので席番見てもいいのか悪いのか全然分からん",
+    "createdAt": "2026-08-18T11:55:24.352923Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-18T11:55:24.928Z",
     "embed": null,
     "isRepost": false
   }
