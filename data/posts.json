@@ -212572,8 +212572,8 @@
     "text": "",
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 0,
-    "repostCount": 174,
-    "likeCount": 782,
+    "repostCount": 177,
+    "likeCount": 797,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -213933,6 +213933,34 @@
     "likeCount": 0,
     "indexedAt": "2026-08-24T13:45:12.063Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtthi5qcb22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtthi5qcb22h",
+    "cid": "bafyreighmapqrt5vhbudepcgjmc4yo2wvcmgrkrrrjsugezuyese6njsji",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "先週から更新されてないなと思ったらGitHubトークンの期限が切れてた。再発行して無事取得再開できた",
+    "createdAt": "2026-08-24T13:57:00.876Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-24T13:57:04.779Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicpvoa46xny3vn2x7e2uw66paov4tdsithhtocmjjvcjwbllxicfu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicpvoa46xny3vn2x7e2uw66paov4tdsithhtocmjjvcjwbllxicfu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 490,
+            "width": 1248
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
