@@ -204900,7 +204900,7 @@
     "createdAt": "2026-07-06T22:48:05.200Z",
     "replyCount": 2,
     "repostCount": 52,
-    "likeCount": 221,
+    "likeCount": 222,
     "indexedAt": "2026-07-06T22:48:06.833Z",
     "embed": {
       "images": [
@@ -214002,8 +214002,8 @@
     "text": "",
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
-    "repostCount": 174,
-    "likeCount": 732,
+    "repostCount": 177,
+    "likeCount": 739,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214086,6 +214086,64 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-25T21:18:27.371Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtwrhtjivc2t": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtwrhtjivc2t",
+    "cid": "bafyreif42iolma47maf5ubsocgme3vhqhm7deuyiuf3bw4ccuxtgoahjnu",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-25T21:33:46.800Z",
+    "replyCount": 0,
+    "repostCount": 56,
+    "likeCount": 196,
+    "indexedAt": "2026-08-25T21:33:52.268Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidocnytcudawyoftohunl6hkby6yxmcxg53tnltksjrfa355dpdqa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidocnytcudawyoftohunl6hkby6yxmcxg53tnltksjrfa355dpdqa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwvhspe5u2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwvhspe5u2k",
+    "cid": "bafyreignroxyp3xsuzopeyrl4fsk7jglw6kcqq4r4rslirv267aiceye6a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記II ラジオの悪魔 第3回聴取終了。",
+    "createdAt": "2026-08-25T22:45:19.836671Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T22:45:21.074Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwuimeawn2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwuimeawn2k",
+    "cid": "bafyreifg5mhbha2cptxatndlrrwewpjvzgga6zbo472uxn3jwmb5rzxozi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "M6はMac miniで初お目見えか",
+    "createdAt": "2026-08-25T22:27:52.997878Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T22:27:54.270Z",
     "embed": null,
     "isRepost": false
   }
