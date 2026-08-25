@@ -214003,7 +214003,7 @@
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
     "repostCount": 177,
-    "likeCount": 739,
+    "likeCount": 744,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214098,8 +214098,8 @@
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 0,
-    "repostCount": 56,
-    "likeCount": 196,
+    "repostCount": 74,
+    "likeCount": 256,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214144,6 +214144,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-25T22:27:54.270Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwxwc23vr2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwxwc23vr2k",
+    "cid": "bafyreictw6vqt3w6orumz2gecukyjyml52m2bnqtnihq5sdndovimeycga",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記II ラジオの悪魔 第4回聴取終了。",
+    "createdAt": "2026-08-25T23:29:13.151796Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-25T23:29:14.468Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwxto253o2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwxto253o2z",
+    "cid": "bafyreihtu67ja3n54upvoz6gbjrf7zr66nzuclzjyqpvojghj2eksj4ymq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "また一晩中YouTube流しっぱなしで寝落ちしてしまった。再生履歴が……。",
+    "createdAt": "2026-08-25T23:27:44.847654Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T23:27:46.469Z",
     "embed": null,
     "isRepost": false
   }
