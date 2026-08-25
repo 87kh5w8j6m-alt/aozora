@@ -212573,7 +212573,7 @@
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 1,
     "repostCount": 194,
-    "likeCount": 894,
+    "likeCount": 895,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -214002,8 +214002,8 @@
     "text": "",
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
-    "repostCount": 148,
-    "likeCount": 609,
+    "repostCount": 156,
+    "likeCount": 639,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214034,6 +214034,44 @@
     "likeCount": 0,
     "indexedAt": "2026-08-25T04:06:36.264Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtvrqpyh722p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtvrqpyh722p",
+    "cid": "bafyreifwu7465uepbadl6x2dqqql5ovrfc3hukurfitoxh2hbmrkncyugu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お疲れ様でしたー",
+    "createdAt": "2026-08-25T12:06:05.346Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T12:06:07.971Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtvrokzrad2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtvrokzrad2f",
+    "cid": "bafyreianyoofneewbkoxg5ypofmrtsikzxxkdctt6lfdew5llmiqd5qxgi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アニメ『夢色パティシエール』はオープニング後の提供読みでの悠木碧さんの「みんなおはよっ！」が好きなんだよな。 https://news.denfaminicogamer.jp/news/2608253p",
+    "createdAt": "2026-08-25T12:04:50.514156Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T12:04:53.773Z",
+    "embed": {
+      "external": {
+        "uri": "https://news.denfaminicogamer.jp/news/2608253p",
+        "title": "TVアニメ『夢色パティシエール』のサブスク配信が9月より順次開始。第2シリーズ『夢色パティシエールSP プロフェッショナル』も",
+        "description": "主人公の天野いちごが、スイーツ精霊・バニラやスイーツ王子たちと共に一人前の“パティシエール”を目指す。配信プラットフォームは順次発表予定",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifqsof7zytb4sxhhuwnlqzeut6dg4bk4z3g6u64tzshgu5nfiw3ki"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
