@@ -212573,7 +212573,7 @@
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 1,
     "repostCount": 193,
-    "likeCount": 884,
+    "likeCount": 887,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -213990,6 +213990,49 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-08-25T03:31:30.166Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtup6nifhs2k": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtup6nifhs2k",
+    "cid": "bafyreiewvvftwk7twixk3uhjtsibavzzjjbxnoepd6qefzhmk3kcjk6uju",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-25T01:47:31.522Z",
+    "replyCount": 1,
+    "repostCount": 96,
+    "likeCount": 366,
+    "indexedAt": "2026-08-25T01:47:38.668Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiggr2hbno5hibewdqmxy5ep3qhpp423q2544wsigfr5momlv25nfq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiggr2hbno5hibewdqmxy5ep3qhpp423q2544wsigfr5momlv25nfq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtuwxdg7ay2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtuwxdg7ay2k",
+    "cid": "bafyreiglprhgs6gwmng34xmpg2267n2d662qemqsbmllg3nk6sw7fhbxh4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ままならないものね",
+    "createdAt": "2026-08-25T04:06:34.670002Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T04:06:36.264Z",
     "embed": null,
     "isRepost": false
   }
