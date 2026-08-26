@@ -213128,7 +213128,7 @@
     "createdAt": "2026-08-23T00:11:33.553620Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-23T00:11:41.089Z",
     "embed": null,
     "isRepost": false
@@ -213478,7 +213478,7 @@
     "createdAt": "2026-08-21T23:29:02.335101Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-21T23:29:05.980Z",
     "embed": null,
     "isRepost": false
@@ -214099,7 +214099,7 @@
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 2,
     "repostCount": 119,
-    "likeCount": 560,
+    "likeCount": 563,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214307,7 +214307,7 @@
     "createdAt": "2026-08-26T13:39:47.494Z",
     "replyCount": 0,
     "repostCount": 1,
-    "likeCount": 3,
+    "likeCount": 5,
     "indexedAt": "2026-08-26T13:39:49.172Z",
     "embed": {
       "external": {
@@ -214353,8 +214353,23 @@
     "createdAt": "2026-08-26T21:30:27.700721Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-08-26T21:30:28.663Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtzey45oeh27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtzey45oeh27",
+    "cid": "bafyreiatuu77ia6o76oifw25nldag2elt3i53buzvltwuz3hhcwii3m5gi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第74回聴取終了 ゲスト：三宅香帆",
+    "createdAt": "2026-08-26T22:28:12.331684Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T22:28:13.476Z",
     "embed": null,
     "isRepost": false
   }
