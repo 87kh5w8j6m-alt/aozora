@@ -212573,7 +212573,7 @@
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 1,
     "repostCount": 199,
-    "likeCount": 903,
+    "likeCount": 904,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -214002,8 +214002,8 @@
     "text": "",
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
-    "repostCount": 177,
-    "likeCount": 744,
+    "repostCount": 178,
+    "likeCount": 749,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214097,9 +214097,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
-    "replyCount": 0,
-    "repostCount": 74,
-    "likeCount": 256,
+    "replyCount": 1,
+    "repostCount": 79,
+    "likeCount": 295,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214174,6 +214174,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-25T23:27:46.469Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwzanyyus2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtwzanyyus2e",
+    "cid": "bafyreidzxskzmir5yrl257r6ufsdskca6cnihr53azo7v6x6dymk6zolmi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FILCOはリストレスト愛用してたのでもう手に入らないのが残念すぎる。",
+    "createdAt": "2026-08-25T23:52:56.068Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-25T23:52:57.268Z",
     "embed": null,
     "isRepost": false
   }
