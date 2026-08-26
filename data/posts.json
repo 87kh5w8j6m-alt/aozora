@@ -213648,7 +213648,7 @@
     "createdAt": "2026-08-20T22:33:39.713Z",
     "replyCount": 1,
     "repostCount": 135,
-    "likeCount": 580,
+    "likeCount": 581,
     "indexedAt": "2026-08-20T22:33:45.369Z",
     "embed": {
       "images": [
@@ -214003,7 +214003,7 @@
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
     "repostCount": 178,
-    "likeCount": 752,
+    "likeCount": 754,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214098,8 +214098,8 @@
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 1,
-    "repostCount": 91,
-    "likeCount": 363,
+    "repostCount": 94,
+    "likeCount": 396,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214189,6 +214189,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-25T23:52:57.268Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxglade4k24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxglade4k24",
+    "cid": "bafyreihiwfjq26acjfvzaq265aelki27hmjvc3wfbkf2uvxeipgsry3qlu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "2028年のLMP2新規定で『オレカ09』を使用する3チーム目が決定。実力派TDSレーシングが継続へ  - https://www.as-web.jp/sports-car/1345256",
+    "createdAt": "2026-08-26T03:51:28.243002Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T03:51:30.463Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1345256",
+        "title": "2028年のLMP2新規定で『オレカ09』を使用する3チーム目が決定。実力派TDSレーシングが継続へ | ニュース | autosport web",
+        "description": "　フランスのシャシーコンストラクターであるオレカとTDSレーシングは、2028年に新LMP2レギュレーションが導入されるにあたり、『オレカ09・ギブソン』で同チ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig3l62aeuoq5mad4epmirzakphjan7avkfsyctxikwzkaoczdjteu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxfjbatk22k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxfjbatk22k",
+    "cid": "bafyreieelznkzginujxhou3sli7sxniurtz7ofkislmonudhfmqu755vfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-08-26T03:32:28.350916Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T03:32:29.770Z",
     "embed": null,
     "isRepost": false
   }
