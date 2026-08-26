@@ -213508,7 +213508,7 @@
     "createdAt": "2026-08-21T21:42:46.565Z",
     "replyCount": 1,
     "repostCount": 152,
-    "likeCount": 684,
+    "likeCount": 685,
     "indexedAt": "2026-08-21T21:42:59.678Z",
     "embed": {
       "images": [
@@ -214098,8 +214098,8 @@
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 1,
-    "repostCount": 111,
-    "likeCount": 524,
+    "repostCount": 112,
+    "likeCount": 534,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214296,5 +214296,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:i7rsqc5ycfezfsun37k335io/app.bsky.feed.post/3mtyhh75k422r": {
+    "uri": "at://did:plc:i7rsqc5ycfezfsun37k335io/app.bsky.feed.post/3mtyhh75k422r",
+    "cid": "bafyreig7oldom4r4zacwwrcsvrmwxitihcbptv3237mzrwi3gqpbnbvmse",
+    "author": "ryuzu-ryuzu.bsky.social",
+    "authorName": "バンビ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7rsqc5ycfezfsun37k335io/bafkreicrw7bctgtz7lcqx4d2yiourtk3wws2s2fj5hqhl6wmcc4ifasdby",
+    "text": "さて、どんなのが出てくるか\n\nyoutube.com/shorts/cFbCQ...",
+    "createdAt": "2026-08-26T13:39:47.494Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T13:39:49.172Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtube.com/shorts/cFbCQikhmP8?si=WFCAuvbtLkuXeg5f",
+        "title": "Coming soon",
+        "description": "YouTube video by OMSystem JP",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7rsqc5ycfezfsun37k335io/bafkreiefsydwis4plmox2dmsjt2ktkxcjqm273q4bjjdgskvowihhiujyu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": true
   }
 }
