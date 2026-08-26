@@ -212390,7 +212390,7 @@
           "text": ""
         },
         "labels": [],
-        "likeCount": 721,
+        "likeCount": 722,
         "replyCount": 0,
         "repostCount": 146,
         "quoteCount": 1,
@@ -212427,7 +212427,7 @@
     "createdAt": "2026-08-17T21:31:13.134Z",
     "replyCount": 0,
     "repostCount": 146,
-    "likeCount": 721,
+    "likeCount": 722,
     "indexedAt": "2026-08-17T21:31:20.277Z",
     "embed": {
       "images": [
@@ -212573,7 +212573,7 @@
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 1,
     "repostCount": 200,
-    "likeCount": 908,
+    "likeCount": 909,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -214003,7 +214003,7 @@
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
     "repostCount": 180,
-    "likeCount": 763,
+    "likeCount": 764,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214099,7 +214099,7 @@
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 1,
     "repostCount": 114,
-    "likeCount": 537,
+    "likeCount": 541,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214319,5 +214319,28 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtymum2vvk24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtymum2vvk24",
+    "cid": "bafyreic3sawpu3qkds7o2qlhuiyay6cp4r4g6uqnqxj7sj6xlp7eh664pe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1とMotoGPの共催”メガイベント”は実現するのか？　シュタイナー「すぐには無理でも、5年以内なら可能性はある」  - jp.motorsport.com/f1/news/guen... 夢の鈴鹿2&4や！",
+    "createdAt": "2026-08-26T15:16:45.958Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T15:16:48.874Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/guenther-steiner-wouldnt-discount-f1-motogp-double-header-within-five-years/10847453/",
+        "title": "F1とMotoGPの共催”メガイベント”は実現するのか？　シュタイナー「すぐには無理でも、5年以内なら可能性はある」",
+        "description": "元ハースF1代表のギュンター・シュタイナーは、F1とMotoGPの合同開催が、今後5年以内に実現する可能性があると考えている。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreictoyyx5b5bisnvadcfu2jpn3kgdkmge7ovu3myn26w2yy2u2l5je"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
