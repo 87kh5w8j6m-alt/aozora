@@ -214003,7 +214003,7 @@
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
     "repostCount": 178,
-    "likeCount": 754,
+    "likeCount": 755,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214098,8 +214098,8 @@
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 1,
-    "repostCount": 94,
-    "likeCount": 396,
+    "repostCount": 97,
+    "likeCount": 424,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214228,6 +214228,44 @@
     "likeCount": 0,
     "indexedAt": "2026-08-26T03:32:29.770Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxhrvlhr32k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxhrvlhr32k",
+    "cid": "bafyreibml5e4vshzo5vqkck2enlw4xjhu6tbiyb6sbygg4xivsvzucft3i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "povo 2.0のeSIMを5G SA対応のものに再発行した。",
+    "createdAt": "2026-08-26T04:13:05.652270Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T04:13:06.980Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxgvy536d2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxgvy536d2k",
+    "cid": "bafyreicyq4b247hehrt3ck4fxn5phhfk24fkv3jtv2hxmus7hxlcv7536e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ミシュランとグッドイヤー、2032年までWECへのタイヤ供給契約を延長。“熾烈な入札競争”も  - https://www.as-web.jp/sports-car/1345241",
+    "createdAt": "2026-08-26T03:57:28.885862Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-26T03:57:30.571Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1345241",
+        "title": "ミシュランとグッドイヤー、2032年までWECへのタイヤ供給契約を延長。“熾烈な入札競争”も | ニュース | autosport web",
+        "description": "　ミシュランは、2032年のWEC世界耐久選手権シーズン終了までハイパーカークラスの独占タイヤサプライヤーとなることを、FIA国際自動車連盟およびACOフランス",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic5lp4cyxhu5tfqjtwh2jjb4rb3iknm5mnlqmpgyugmwwfudeeq2q"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
