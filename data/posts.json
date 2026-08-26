@@ -214003,7 +214003,7 @@
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 1,
     "repostCount": 179,
-    "likeCount": 757,
+    "likeCount": 758,
     "indexedAt": "2026-08-25T01:47:38.668Z",
     "embed": {
       "images": [
@@ -214098,8 +214098,8 @@
     "text": "",
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 1,
-    "repostCount": 105,
-    "likeCount": 492,
+    "repostCount": 106,
+    "likeCount": 498,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214265,6 +214265,35 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic5lp4cyxhu5tfqjtwh2jjb4rb3iknm5mnlqmpgyugmwwfudeeq2q"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxzsdl5tu2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mtxzsdl5tu2q",
+    "cid": "bafyreibkrfnr7i7pyjowgzbupvy4kbilviztmthfbmrddwee3e76tgirtq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying A Girl in Love - 堀江由衣 (BEST ALBUM [Disc 2])",
+    "createdAt": "2026-08-26T09:35:27.813390Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-26T09:35:29.465Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihs72niyed7nljowk2xjydxdrhndgewpalhg4ulvcidp4ikju6oki",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihs72niyed7nljowk2xjydxdrhndgewpalhg4ulvcidp4ikju6oki",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 443,
+            "width": 500
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
