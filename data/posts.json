@@ -214099,7 +214099,7 @@
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 2,
     "repostCount": 123,
-    "likeCount": 578,
+    "likeCount": 579,
     "indexedAt": "2026-08-25T21:33:52.268Z",
     "embed": {
       "images": [
@@ -214454,7 +214454,7 @@
           "via": "TOKIMEKI"
         },
         "labels": [],
-        "likeCount": 3,
+        "likeCount": 7,
         "replyCount": 0,
         "repostCount": 0,
         "quoteCount": 1,
@@ -214464,6 +214464,125 @@
       },
       "$type": "app.bsky.embed.record#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2sgypzhr2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2sgypzhr2k",
+    "cid": "bafyreicgawe5oj4z7tzugpa2eca5wnxt5artowwy3cpwbxucl7h26oe3ou",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "20時〜9時30分でeSIM有効化できなの嫌がらせなのか",
+    "createdAt": "2026-08-27T12:01:50.290329Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-27T12:01:51.567Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtzhmpitok2f": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mtzhmpitok2f",
+    "cid": "bafyreihyav32p2jmpofo63m6hejbbaekkklfge3l3wztbvhi3y7v4crpwy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-26T23:15:32.154Z",
+    "replyCount": 0,
+    "repostCount": 168,
+    "likeCount": 663,
+    "indexedAt": "2026-08-26T23:15:41.666Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiesripliehkzvuupa4sqsljnr4rq3figpmtwlktdrpati6j3w6td4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiesripliehkzvuupa4sqsljnr4rq3figpmtwlktdrpati6j3w6td4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2s5nhpqk2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2s5nhpqk2s",
+    "cid": "bafyreifo3wfojuxax4jphcfxhi743zxpqjt6jvpohojf4xzjc5p5vp3qyy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "青空（Bluesky）から高みの見物ですよ",
+    "createdAt": "2026-08-27T11:56:37.603Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-27T11:56:38.866Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2rxj6kwf2o",
+        "cid": "bafyreiavcowbiffcaezbxbt7tja7wkg3oqlf5fmrobfsdoxrvxy7kosjhe",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-08-27T11:53:10.606761Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "元祖Twitterと本家Twitterによるユーザー不在の争いが始まるのか……。",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 1,
+        "replyCount": 0,
+        "repostCount": 1,
+        "quoteCount": 1,
+        "indexedAt": "2026-08-27T11:53:11.869Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2rxj6kwf2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2rxj6kwf2o",
+    "cid": "bafyreiavcowbiffcaezbxbt7tja7wkg3oqlf5fmrobfsdoxrvxy7kosjhe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "元祖Twitterと本家Twitterによるユーザー不在の争いが始まるのか……。",
+    "createdAt": "2026-08-27T11:53:10.606761Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 1,
+    "indexedAt": "2026-08-27T11:53:11.869Z",
+    "embed": null,
     "isRepost": false
   }
 }
