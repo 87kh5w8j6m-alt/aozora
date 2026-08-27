@@ -205677,7 +205677,7 @@
     "createdAt": "2026-07-11T01:22:14.333Z",
     "replyCount": 1,
     "repostCount": 147,
-    "likeCount": 611,
+    "likeCount": 612,
     "indexedAt": "2026-07-11T01:22:27.169Z",
     "embed": {
       "images": [
@@ -212573,7 +212573,7 @@
     "createdAt": "2026-08-24T02:40:13.456Z",
     "replyCount": 1,
     "repostCount": 202,
-    "likeCount": 912,
+    "likeCount": 913,
     "indexedAt": "2026-08-24T02:40:18.473Z",
     "embed": {
       "images": [
@@ -214386,6 +214386,84 @@
     "likeCount": 0,
     "indexedAt": "2026-08-27T03:31:30.771Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2rpsd4h22s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2rpsd4h22s",
+    "cid": "bafyreihsbimhei3fzuq54wif22m5menmzoahlcp47sodlz5ghd53rbnfy4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "しごおわ",
+    "createdAt": "2026-08-27T11:48:52.933Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-27T11:48:53.567Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2roybxcs2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu2roybxcs2s",
+    "cid": "bafyreigt52ryesxjgaizcca3jn7fhnek7ovmb6pcgqqogfbyiet6x7rd5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "これ",
+    "createdAt": "2026-08-27T11:48:25.630Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-27T11:48:26.075Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.feed.post/3mu2redz5vs6t",
+        "cid": "bafyreiezki2cnh3qhxe7asc5cskabtdpnx7doztx2gmw54zmfrizecqoxm",
+        "author": {
+          "did": "did:plc:of4fr4ranpets7xlri2u6b34",
+          "handle": "aoa30.bsky.social",
+          "displayName": "いけち",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:of4fr4ranpets7xlri2u6b34/bafkreifwtlie663ux6bn6inumukcnkzvmfeyrdpkb2uo4n6my7jfulsdya",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false,
+            "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3jvliapyxqt26",
+            "followedBy": "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.graph.follow/3jvlicr4z7e2p"
+          },
+          "labels": [],
+          "createdAt": "2023-05-13T04:19:29.279Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-08-27T11:42:28.827Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "望まれているのは「Twitter」という名称自体ではなく「以前のTwitterのような楽しい場所」という本質をすっ飛ばし、名前だけ捕まえて得意げになってるだけの輩には現Xと同じ嫌悪感を感じる",
+          "via": "TOKIMEKI"
+        },
+        "labels": [],
+        "likeCount": 3,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-08-27T11:42:28.270Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
     "isRepost": false
   }
 }
