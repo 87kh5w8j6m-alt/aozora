@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 181,
-    "likeCount": 746,
+    "likeCount": 747,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -214722,8 +214722,8 @@
     "text": "",
     "createdAt": "2026-08-28T02:14:38.965Z",
     "replyCount": 0,
-    "repostCount": 125,
-    "likeCount": 520,
+    "repostCount": 127,
+    "likeCount": 525,
     "indexedAt": "2026-08-28T02:14:47.329Z",
     "embed": {
       "images": [
@@ -214769,6 +214769,52 @@
     "likeCount": 0,
     "indexedAt": "2026-08-28T22:40:12.628Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6ivur5ak2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6ivur5ak2k",
+    "cid": "bafyreifm54xpdvqoagge5i6xrugwgbditjfb757xtcd4krudiysoxzfghu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉観るよ (@ TOHOシネマズ 渋谷 in 渋谷区, 東京都) https://app.foursquare.com/share/checkin/6a9217fa34b1a106d25bacc3?s=I0wV5HIEtH72Vj4Mg_f7eCXPsZg&lang=ja",
+    "createdAt": "2026-08-28T23:21:51.148669Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T23:21:52.326Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a9217fa34b1a106d25bacc3?s=I0wV5HIEtH72Vj4Mg_f7eCXPsZg&lang=ja",
+        "title": "jiminy nseries's check in at TOHOシネマズ 渋谷",
+        "description": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉観るよ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6hrldaim2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6hrldaim2j",
+    "cid": "bafyreidrvils2ozznlodro3mwbihvbksnimkobr5xb2up2doarxz5otwjm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "鹿目まどかと暁美ほむらの軌跡｜〈ワルプルギスの廻天〉公開記念 https://youtu.be/pcgTXaaO0xQ",
+    "createdAt": "2026-08-28T23:01:33.271839Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T23:01:34.730Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/pcgTXaaO0xQ?si=GfukkAdX8IEvIz-C",
+        "title": "鹿目まどかと暁美ほむらの軌跡｜〈ワルプルギスの廻天〉公開記念",
+        "description": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉2026年8月28日公開▼上映劇場一覧https://eigakan.org/theaterpage/schedule.php?t=kaiten▼「魔法少女まどか☆マギカ」シリーズ配信中https://www.madoka-magica.com/allstrea...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia33nywh3dtldqkzkzwkwzn3vuc2cs24ly6r33wqr55pu4hvgvbfe"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
