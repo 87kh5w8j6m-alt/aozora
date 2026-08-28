@@ -208430,9 +208430,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "TGR Haas F1 Team Testing of Previous Cars 2026 day2\n最近のF1マシンの走行を生で見るのは初めてだったけれどホームストレート駆け抜ける速さといったら！\n#HaasF1",
     "createdAt": "2026-07-29T03:03:01.358339Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 0,
     "indexedAt": "2026-07-29T03:03:14.577Z",
     "embed": {
       "images": [
@@ -214613,6 +214613,29 @@
     "likeCount": 0,
     "indexedAt": "2026-08-28T03:30:33.571Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu53g7i3xb27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu53g7i3xb27",
+    "cid": "bafyreihnrbyqu7cc226bpgg4ie5y7d6vywz2siyb2r6itcip3pqqiiwwda",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at ヨドバシカメラ マルチメディアAkiba in 千代田区, 東京都 https://app.foursquare.com/share/checkin/6a91591de619fb6e57e4a8a6?s=Xm6OPc6rPPXQCDfLM7P1p-nwjXY&lang=ja",
+    "createdAt": "2026-08-28T09:47:43.177412Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T09:47:48.368Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6a91591de619fb6e57e4a8a6?s=Xm6OPc6rPPXQCDfLM7P1p-nwjXY&lang=ja",
+        "title": "jiminy nseries's check in at ヨドバシカメラ マルチメディアAkiba",
+        "description": "https://app.foursquare.com/share/checkin/6a91591de619fb6e57e4a8a6?s=Xm6OPc6rPPXQCDfLM7P1p-nwjXY&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
