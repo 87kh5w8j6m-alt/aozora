@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 181,
-    "likeCount": 745,
+    "likeCount": 746,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -214695,6 +214695,64 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-28T13:52:48.529Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6dbmngbj2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6dbmngbj2m",
+    "cid": "bafyreiapi6murtom7rb3vmtnol3dm7zcj6ugrnbd7iyqw6wvz2ufeigs7u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1248回聴取終了。誕生日の概念がなくなる時空に突入した\n#堀江由衣",
+    "createdAt": "2026-08-28T21:41:03.302970Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T21:41:05.351Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mu4c3vwbbk2t": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mu4c3vwbbk2t",
+    "cid": "bafyreifdzeqzkqrrgrbasnlkffhny5sk5wxmt2d2gmw5qvafuplgrut6wq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-08-28T02:14:38.965Z",
+    "replyCount": 0,
+    "repostCount": 124,
+    "likeCount": 516,
+    "indexedAt": "2026-08-28T02:14:47.329Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihbu2cc7325k7bcr5be54kypgkj4obnamcdgvc63d4hggyn6xbt7m",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihbu2cc7325k7bcr5be54kypgkj4obnamcdgvc63d4hggyn6xbt7m",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6cuxtezv2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6cuxtezv2h",
+    "cid": "bafyreidy6hjo6rwfauwv2onwhzc6cn27zny6jici2vvplwc2zuwv2zeacu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-08-28T21:33:58.751620Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T21:33:59.426Z",
     "embed": null,
     "isRepost": false
   }
