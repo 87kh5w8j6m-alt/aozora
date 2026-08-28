@@ -214682,5 +214682,20 @@
     "indexedAt": "2026-08-28T13:37:25.577Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu5j4ctxfg2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu5j4ctxfg2k",
+    "cid": "bafyreigvpiacozc4kco5en2dkz4dirj3wjpd3siymzsx7uhartnqcl3xly",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ディナーショー、昼の部と夜の部どちらに来るんですかって聞かれたので、\n「あ！どっちもデス」\nの実績解除🔓",
+    "createdAt": "2026-08-28T13:52:47.996736Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-28T13:52:48.587Z",
+    "embed": null,
+    "isRepost": false
   }
 }
