@@ -214723,7 +214723,7 @@
     "createdAt": "2026-08-28T02:14:38.965Z",
     "replyCount": 0,
     "repostCount": 131,
-    "likeCount": 536,
+    "likeCount": 539,
     "indexedAt": "2026-08-28T02:14:47.329Z",
     "embed": {
       "images": [
@@ -214815,6 +214815,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6s5nuulq2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mu6s5nuulq2r",
+    "cid": "bafyreigievhq5n35d2qeiwx3atdjsm22uafs6yriajxhcjboaay325b37y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉観た。制作決定の発表から5年、前作から約13年ぶり、本当に公開されたんだな。ワルプルギスの夜　円環の理　名塚底根　キーワード並べても分かった気にすらなれない",
+    "createdAt": "2026-08-29T02:07:15.982807Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-29T02:07:17.126Z",
+    "embed": null,
     "isRepost": false
   }
 }
