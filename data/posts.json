@@ -214002,8 +214002,8 @@
     "text": "",
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 2,
-    "repostCount": 183,
-    "likeCount": 773,
+    "repostCount": 184,
+    "likeCount": 775,
     "indexedAt": "2026-08-25T01:47:38.631Z",
     "embed": {
       "images": [
@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 183,
-    "likeCount": 754,
+    "likeCount": 755,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -214722,8 +214722,8 @@
     "text": "",
     "createdAt": "2026-08-28T02:14:38.965Z",
     "replyCount": 0,
-    "repostCount": 133,
-    "likeCount": 549,
+    "repostCount": 134,
+    "likeCount": 552,
     "indexedAt": "2026-08-28T02:14:47.329Z",
     "embed": {
       "images": [
@@ -214841,8 +214841,8 @@
     "text": "",
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 2,
-    "repostCount": 134,
-    "likeCount": 555,
+    "repostCount": 138,
+    "likeCount": 582,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214857,6 +214857,29 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mu7rmbygrq2t": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mu7rmbygrq2t",
+    "cid": "bafyreidc4mgqfing3s7li3rka56vpl4mdxfkjh45phx3o3wtx4r75vhasu",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "プリティーシリーズ合同ライブが12月開催、藤寺美徳はあうる・ひまり・ナナの3役出演\r\nhttps://natalie.mu/comic/news/687235?utm_source=bluesky&utm_medium=social\r\n\r\n#プリティーシリーズ #プリマジ単独",
+    "createdAt": "2026-08-29T20:30:10+09:00",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 5,
+    "indexedAt": "2026-08-29T11:30:14.628Z",
+    "embed": {
+      "external": {
+        "uri": "https://natalie.mu/comic/news/687235?utm_source=bluesky&utm_medium=social",
+        "title": "プリティーシリーズ合同ライブが12月開催、藤寺美徳はあうる・ひまり・ナナの3役出演 - コミックナタリー",
+        "description": "「プリティーシリーズ」合同ライブイベント「プリティーシリーズ Crossing Live 2026 ～みんなのおねがいかなえちゃお！～」が、12月5日に神奈川・パシフィコ横浜で昼夜2公演開催される。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreiatokpdschnjirasnw3z54mm5gyszzwc2vx4kzyfko7s7lgapmhqi"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": true
   }
