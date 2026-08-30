@@ -212515,7 +212515,7 @@
     "createdAt": "2026-08-18T21:25:02.916Z",
     "replyCount": 2,
     "repostCount": 178,
-    "likeCount": 771,
+    "likeCount": 772,
     "indexedAt": "2026-08-18T21:25:14.032Z",
     "embed": {
       "images": [
@@ -214099,7 +214099,7 @@
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 2,
     "repostCount": 125,
-    "likeCount": 584,
+    "likeCount": 585,
     "indexedAt": "2026-08-25T21:33:52.332Z",
     "embed": {
       "images": [
@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 183,
-    "likeCount": 760,
+    "likeCount": 761,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -214723,7 +214723,7 @@
     "createdAt": "2026-08-28T02:14:38.965Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 557,
+    "likeCount": 558,
     "indexedAt": "2026-08-28T02:14:47.329Z",
     "embed": {
       "images": [
@@ -214842,7 +214842,7 @@
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
     "repostCount": 158,
-    "likeCount": 712,
+    "likeCount": 713,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214892,8 +214892,8 @@
     "text": "",
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 0,
-    "repostCount": 116,
-    "likeCount": 484,
+    "repostCount": 118,
+    "likeCount": 497,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -214953,6 +214953,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-30T07:44:27.326Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubxspxn5b2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubxspxn5b2g",
+    "cid": "bafyreidgozptuc6wjsw6zb5aq2k4qnbayb5qhe5sxabiprxoim2wxdyjo4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "fitness+のウォーキングの時間にコンテンツが全然追加されないのはおま国？",
+    "createdAt": "2026-08-30T08:26:31.211878Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-30T08:26:31.826Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubx47hkzq2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubx47hkzq2r",
+    "cid": "bafyreiewcp2dblopw6x76kpvlgy7a7bcc4jql27yf5x7clcdw7h63eclru",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第8話視聴終了。",
+    "createdAt": "2026-08-30T08:13:55.718607Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-30T08:13:56.825Z",
     "embed": null,
     "isRepost": false
   }
