@@ -214893,7 +214893,7 @@
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 1,
     "repostCount": 133,
-    "likeCount": 570,
+    "likeCount": 573,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -215192,6 +215192,49 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:papsj5p3b5at6gjfy5rflhyv/app.bsky.feed.post/3mucrbfhqic2z": {
+    "uri": "at://did:plc:papsj5p3b5at6gjfy5rflhyv/app.bsky.feed.post/3mucrbfhqic2z",
+    "cid": "bafyreielhlehykagvuesvbsex3gelmk27tqjx3y5nxu6iuacio6hr5qd5a",
+    "author": "hikota-126.bsky.social",
+    "authorName": "ひこた。",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:papsj5p3b5at6gjfy5rflhyv/bafkreie6gkbbxflxb2mjqh2mhripa6c6zhpn4l6bzpsey3poq75yhpq76a",
+    "text": "キュアプリズム",
+    "createdAt": "2026-08-30T16:02:07.595Z",
+    "replyCount": 0,
+    "repostCount": 43,
+    "likeCount": 101,
+    "indexedAt": "2026-08-30T16:02:13.131Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:papsj5p3b5at6gjfy5rflhyv/bafkreieknmobpcf3pgqiynpra7gbpyduh7vab2h2ijv7c5p5xcr5mj476e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:papsj5p3b5at6gjfy5rflhyv/bafkreieknmobpcf3pgqiynpra7gbpyduh7vab2h2ijv7c5p5xcr5mj476e",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2000,
+            "width": 2000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mudcdmkmh62f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mudcdmkmh62f",
+    "cid": "bafyreibea4qeyqtwnpqu4eqy5es2jn3z22wmpmhkyiiyllwy45eungplbq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-08-30T21:07:35.283647Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-30T21:07:35.934Z",
+    "embed": null,
     "isRepost": false
   }
 }
