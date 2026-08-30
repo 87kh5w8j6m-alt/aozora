@@ -212515,7 +212515,7 @@
     "createdAt": "2026-08-18T21:25:02.916Z",
     "replyCount": 2,
     "repostCount": 178,
-    "likeCount": 769,
+    "likeCount": 771,
     "indexedAt": "2026-08-18T21:25:14.032Z",
     "embed": {
       "images": [
@@ -214841,8 +214841,8 @@
     "text": "",
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
-    "repostCount": 156,
-    "likeCount": 707,
+    "repostCount": 158,
+    "likeCount": 712,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214892,8 +214892,8 @@
     "text": "",
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 0,
-    "repostCount": 112,
-    "likeCount": 468,
+    "repostCount": 116,
+    "likeCount": 484,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -214938,6 +214938,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-08-30T04:04:41.526Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubvhifatm2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mubvhifatm2r",
+    "cid": "bafyreicc5g3n2zbeoimva2obwapeoaoi72jfsncp5oduekji2ugshf6pj4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ひつじ探偵団 をAmazon primeで観た。",
+    "createdAt": "2026-08-30T07:44:26.352310Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-08-30T07:44:27.326Z",
     "embed": null,
     "isRepost": false
   }
