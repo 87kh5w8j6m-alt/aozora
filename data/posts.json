@@ -214842,7 +214842,7 @@
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
     "repostCount": 159,
-    "likeCount": 717,
+    "likeCount": 718,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214893,7 +214893,7 @@
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 542,
+    "likeCount": 550,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -215170,5 +215170,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mucndzx5ks2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mucndzx5ks2y",
+    "cid": "bafyreigb6pjb45elkdkc6wsktedpgupy3oiid3tnkythqfl4xextutgjru",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "来年はGT300の1戦に。“お祭り”色の強い今年の鈴鹿1000kmも存分に味わおう｜英国人ジャーナリスト”ジェイミー”の日本レース探訪記  - jp.motorsport.com/supergt/news...",
+    "createdAt": "2026-08-30T14:52:01.214Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-30T14:52:04.337Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/supergt/news/jamie-japanese-column-50/10849679/",
+        "title": "来年はGT300の1戦に。“お祭り”色の強い今年の鈴鹿1000kmも存分に味わおう｜英国人ジャーナリスト”ジェイミー”の日本レース探訪記",
+        "description": "日本を拠点に活動する英国人ニュースエディター、ジェイミー・クラインによるモータースポーツコラム。今回のテーマは、2026年の鈴鹿1000kmについて。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiahshsjprzaitbdqlbsbw5lmbzovt2cva7nueyugbjgvsq2zxprve"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
