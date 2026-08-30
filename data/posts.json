@@ -212514,7 +212514,7 @@
     "text": "",
     "createdAt": "2026-08-18T21:25:02.916Z",
     "replyCount": 2,
-    "repostCount": 178,
+    "repostCount": 179,
     "likeCount": 772,
     "indexedAt": "2026-08-18T21:25:14.032Z",
     "embed": {
@@ -214892,8 +214892,8 @@
     "text": "",
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 497,
+    "repostCount": 120,
+    "likeCount": 512,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -214984,6 +214984,43 @@
     "likeCount": 0,
     "indexedAt": "2026-08-30T08:13:56.825Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muc4graet52h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muc4graet52h",
+    "cid": "bafyreidk6mx2rr7le5l4yp7b6cm5gh6fyaqr3hzglhe452fqjzrhe72o3q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第31話視聴終了。\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-08-30T09:49:18.152482Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-30T09:49:19.227Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muc2n2ftip2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muc2n2ftip2h",
+    "cid": "bafyreica6lx5dfqrqcw65dyifhymwd43wx7rf4zobk5rb6zk2lwfd5lhrm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "伊集院光の偏愛博物館 宮本順三記念館 豆玩舎ZUNZO\n河合英里さんのARIAが流れた\n#TVer\nhttps://tver.jp/episodes/epdj8jgl7d",
+    "createdAt": "2026-08-30T09:17:02.014769Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-30T09:17:04.727Z",
+    "embed": {
+      "external": {
+        "uri": "https://tver.jp/episodes/epdj8jgl7d",
+        "title": "https://tver.jp/episodes/epdj8jgl7d",
+        "description": "https://tver.jp/episodes/epdj8jgl7d"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
