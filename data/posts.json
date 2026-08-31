@@ -214723,7 +214723,7 @@
     "createdAt": "2026-08-28T02:14:38.965Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 563,
+    "likeCount": 564,
     "indexedAt": "2026-08-28T02:14:47.329Z",
     "embed": {
       "images": [
@@ -214842,7 +214842,7 @@
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
     "repostCount": 160,
-    "likeCount": 728,
+    "likeCount": 729,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214893,7 +214893,7 @@
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 1,
     "repostCount": 137,
-    "likeCount": 592,
+    "likeCount": 593,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -215261,8 +215261,8 @@
     "text": "",
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
-    "repostCount": 236,
-    "likeCount": 940,
+    "repostCount": 237,
+    "likeCount": 946,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215337,6 +215337,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-08-31T21:13:13.310Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mug27bdisf2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mug27bdisf2k",
+    "cid": "bafyreib5vbk5zolqfpnjkcr5pbbroftr7szn3w35hlqkeicbskgqjueimi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "悪いことは重なるもんで",
+    "createdAt": "2026-08-31T23:19:58.161647Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-31T23:19:59.203Z",
     "embed": null,
     "isRepost": false
   }
