@@ -215203,8 +215203,8 @@
     "text": "キュアプリズム",
     "createdAt": "2026-08-30T16:02:07.595Z",
     "replyCount": 0,
-    "repostCount": 61,
-    "likeCount": 151,
+    "repostCount": 62,
+    "likeCount": 152,
     "indexedAt": "2026-08-30T16:02:13.131Z",
     "embed": {
       "images": [
@@ -215261,8 +215261,8 @@
     "text": "",
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
-    "repostCount": 214,
-    "likeCount": 855,
+    "repostCount": 215,
+    "likeCount": 868,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215279,5 +215279,50 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezuzhlxv2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezuzhlxv2r",
+    "cid": "bafyreidei74vnzcnbercwrznzgcrqtwgxk3gwonutxf7pr4pfxcw24rko4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ｺﾋの量も増えそうだ",
+    "createdAt": "2026-08-31T13:41:34.912863Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-31T13:41:35.713Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezparxth2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezparxth2r",
+    "cid": "bafyreifejeitmsanpp72sz5mp2qn42nvqo472llp3qzl4c5tfnkeu7xkm4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "9月は忙しいな…",
+    "createdAt": "2026-08-31T13:38:21.323957Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-31T13:38:21.910Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezktxbqh2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muezktxbqh2g",
+    "cid": "bafyreie5rrbg3w4d7porflqsvmio62qxeaauymdxif4r42wins4upnz54e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのスクールカレンダーめくり\nセプテンバー",
+    "createdAt": "2026-08-31T13:35:53.527447Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-08-31T13:35:54.305Z",
+    "embed": null,
+    "isRepost": false
   }
 }
