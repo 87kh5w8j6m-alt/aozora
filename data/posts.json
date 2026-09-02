@@ -215437,8 +215437,8 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 1,
-    "repostCount": 119,
-    "likeCount": 549,
+    "repostCount": 121,
+    "likeCount": 559,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215550,6 +215550,29 @@
         "title": "【レース前の最終調整？】TOYOTA RACING シミュレーターセッションに潜入！",
         "description": "YouTube video by TOYOTA RACING",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih5dvrcsltz5gerb5fwvyefwcvluvd4aauukz27kqsrhlim76prbq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muk45y2hc42u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muk45y2hc42u",
+    "cid": "bafyreiehrrr3ufosp25wly5inixlcri3b2xr4chdwfhu7pdef2wr6iy5ue",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよう世界。が伊藤誠のセリフに見えて仕方がないんだ\nhttps://developer.apple.com/jp/news/?id=s6spdug0",
+    "createdAt": "2026-09-02T14:05:41.696637Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T14:05:42.906Z",
+    "embed": {
+      "external": {
+        "uri": "https://developer.apple.com/jp/news/?id=s6spdug0",
+        "title": "おはよう世界。 - 最新ニュース - Apple Developer",
+        "description": "9月9日の午前10時（日本時間9月10日午前2時）に開催される特別なAppleイベントにご参加ください。apple.com/jp、Apple TV、または[YouTubeライブ]でご視聴ください。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig5h2qqaesz6auqfqndze6ecuvx27joulox275ss7ef7uoeyvibfm"
       },
       "$type": "app.bsky.embed.external#view"
     },
