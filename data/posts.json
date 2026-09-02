@@ -215261,8 +215261,8 @@
     "text": "",
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
-    "repostCount": 240,
-    "likeCount": 979,
+    "repostCount": 241,
+    "likeCount": 980,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215379,8 +215379,8 @@
     "text": "",
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
-    "repostCount": 186,
-    "likeCount": 887,
+    "repostCount": 187,
+    "likeCount": 889,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -215437,8 +215437,8 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 1,
-    "repostCount": 102,
-    "likeCount": 482,
+    "repostCount": 107,
+    "likeCount": 499,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215489,6 +215489,29 @@
         "title": "【アストンマーティン・ホンダの現在地】パートナーシップの在り方に疑問。最良の結果を得るにはシャシー側の譲歩も必要 | ニュース | autosport web",
         "description": "　海外有識者が現地からお届けする、アストンマーティン・ホンダのF1活動を観察し、分析する連載コラム。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigk64joyncimabazpwucdwnbiog23vqgtekum4lnfzhrppob6fnsq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujkrz5o2w2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujkrz5o2w2b",
+    "cid": "bafyreidbg5k5ekvyewbkgvraf4o6rrqdypghi4eitfdztewsejobtdu4du",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ミツビシ、新型『パジェロ』を世界初公開。新世代フラッグシップとして走り、快適性、上質さを全方位で大幅進化  - https://www.as-web.jp/car/1347227 国内7年ぶり復活というけれどもっと長く空いてた印象",
+    "createdAt": "2026-09-02T08:54:46.037828Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T08:54:47.804Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/car/1347227",
+        "title": "ミツビシ、新型『パジェロ』を世界初公開。新世代フラッグシップとして走り、快適性、上質さを全方位で大幅進化 | クルマ | autosport web",
+        "description": "　9月2日、三菱自動車はクロスカントリーSUVの新型『PAJERO（パジェロ）』を世界初公開した。国内7年ぶりの復活となる5代目は、これからの三菱自動車ブランド",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih3oc67gzu6jep4yqtwl24indgiyga54o2s5q5thiv2xwtkxomhqq"
       },
       "$type": "app.bsky.embed.external#view"
     },
