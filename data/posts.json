@@ -214893,7 +214893,7 @@
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 1,
     "repostCount": 141,
-    "likeCount": 606,
+    "likeCount": 607,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -215437,8 +215437,8 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 1,
-    "repostCount": 118,
-    "likeCount": 539,
+    "repostCount": 119,
+    "likeCount": 549,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215512,6 +215512,44 @@
         "title": "ミツビシ、新型『パジェロ』を世界初公開。新世代フラッグシップとして走り、快適性、上質さを全方位で大幅進化 | クルマ | autosport web",
         "description": "　9月2日、三菱自動車はクロスカントリーSUVの新型『PAJERO（パジェロ）』を世界初公開した。国内7年ぶりの復活となる5代目は、これからの三菱自動車ブランド",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih3oc67gzu6jep4yqtwl24indgiyga54o2s5q5thiv2xwtkxomhqq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujzmuaw6222": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujzmuaw6222",
+    "cid": "bafyreicuwwjrr2vq24hxw4k3u4rp6pcmgvmzrje6brxilox6hbrplhyuua",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPadはフロ蓋ケースとMagic Keyboardを行ったり来たりすることで飽きを回避している。",
+    "createdAt": "2026-09-02T13:20:20.302Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T13:20:20.705Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujzacnts22y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mujzacnts22y",
+    "cid": "bafyreibjbgrdvvpwpgreiqwkl7x6kpfpohbmi23ft2jhlhxu5ptsuyjkja",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "【レース前の最終調整？】TOYOTA RACING シミュレーターセッションに潜入！ youtu.be/Lv5KW4gm_b4?...",
+    "createdAt": "2026-09-02T13:13:19.199Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T13:13:21.607Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/Lv5KW4gm_b4?si=3JlmzFFTXL9HPp5H",
+        "title": "【レース前の最終調整？】TOYOTA RACING シミュレーターセッションに潜入！",
+        "description": "YouTube video by TOYOTA RACING",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih5dvrcsltz5gerb5fwvyefwcvluvd4aauukz27kqsrhlim76prbq"
       },
       "$type": "app.bsky.embed.external#view"
     },
