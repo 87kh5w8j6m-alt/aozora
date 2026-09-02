@@ -214841,8 +214841,8 @@
     "text": "",
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
-    "repostCount": 167,
-    "likeCount": 751,
+    "repostCount": 168,
+    "likeCount": 752,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -214892,8 +214892,8 @@
     "text": "",
     "createdAt": "2026-08-29T21:42:26.474Z",
     "replyCount": 1,
-    "repostCount": 141,
-    "likeCount": 608,
+    "repostCount": 142,
+    "likeCount": 609,
     "indexedAt": "2026-08-29T21:42:33.631Z",
     "embed": {
       "images": [
@@ -215261,8 +215261,8 @@
     "text": "",
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
-    "repostCount": 242,
-    "likeCount": 981,
+    "repostCount": 243,
+    "likeCount": 983,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215379,8 +215379,8 @@
     "text": "",
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
-    "repostCount": 188,
-    "likeCount": 894,
+    "repostCount": 189,
+    "likeCount": 895,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -215437,8 +215437,8 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
-    "repostCount": 126,
-    "likeCount": 588,
+    "repostCount": 127,
+    "likeCount": 589,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215588,9 +215588,60 @@
     "createdAt": "2026-09-02T21:51:57.703192Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-02T21:51:58.605Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mukxjqtlpc2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mukxjqtlpc2y",
+    "cid": "bafyreihtk67dxyd6fmunzthb2yaijmdwu6v5z4uklb7t3annj264h6rhjm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "角田裕毅のF1イタリアGP参戦が正式発表！ レーシングブルズから今季2戦目に挑む  - www.as-web.jp/f1/1347379",
+    "createdAt": "2026-09-02T22:15:28.314Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T22:15:31.506Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1347379",
+        "title": "角田裕毅のF1イタリアGP参戦が正式発表！ レーシングブルズから今季2戦目に挑む | ニュース | autosport web",
+        "description": "レッドブル・レーシングとレーシングブルズは9月2日、2026年F1第13戦イタリアGPのドライバーラインアップを発表した。前戦オランダGPと同様にリアム・ロー",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieyz7stnjczluveaesdspvtrkhnfv4rj7mlywwtsd2pocirxkua6a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mukvodhlvc2p": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mukvodhlvc2p",
+    "cid": "bafyreiffakhv5lyaqedvwoxj2ods6plfodscoydfdjwqyuv4m7yxayapuq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-02T21:42:14.576Z",
+    "replyCount": 0,
+    "repostCount": 54,
+    "likeCount": 164,
+    "indexedAt": "2026-09-02T21:42:22.106Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihhkvzppv7cgelf3dfnj7wc46esjzhw4nzluxbgnqc7j2i3fpmu2u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreihhkvzppv7cgelf3dfnj7wc46esjzhw4nzluxbgnqc7j2i3fpmu2u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
