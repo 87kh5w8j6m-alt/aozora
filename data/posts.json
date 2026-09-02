@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 240,
-    "likeCount": 976,
+    "likeCount": 977,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215380,7 +215380,7 @@
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
     "repostCount": 185,
-    "likeCount": 882,
+    "likeCount": 884,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -215437,8 +215437,8 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 1,
-    "repostCount": 83,
-    "likeCount": 372,
+    "repostCount": 91,
+    "likeCount": 405,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215469,6 +215469,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-02T03:30:53.904Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muj2l5jyc62v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muj2l5jyc62v",
+    "cid": "bafyreigux6usj7nkzzz5texzofdzat2fa4rv2qnlc5hxja3lxd4qinkwxe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "【アストンマーティン・ホンダの現在地】パートナーシップの在り方に疑問。最良の結果を得るにはシャシー側の譲歩も必要  - https://www.as-web.jp/f1/1347169",
+    "createdAt": "2026-09-02T04:04:35.829043Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-02T04:04:37.607Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1347169",
+        "title": "【アストンマーティン・ホンダの現在地】パートナーシップの在り方に疑問。最良の結果を得るにはシャシー側の譲歩も必要 | ニュース | autosport web",
+        "description": "　海外有識者が現地からお届けする、アストンマーティン・ホンダのF1活動を観察し、分析する連載コラム。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigk64joyncimabazpwucdwnbiog23vqgtekum4lnfzhrppob6fnsq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
