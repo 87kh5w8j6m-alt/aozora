@@ -214842,7 +214842,7 @@
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
     "repostCount": 168,
-    "likeCount": 754,
+    "likeCount": 755,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -215625,8 +215625,8 @@
     "text": "",
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
-    "repostCount": 114,
-    "likeCount": 465,
+    "repostCount": 116,
+    "likeCount": 480,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215738,6 +215738,29 @@
         "title": "「単なる復活ではない」新型パジェロ。こだわりの悪路快適性と静粛性、新フラッグシップへの想いをキーマンが語る | クルマ | autosport web",
         "description": "　三菱自動車は9月2日、東京都内で新型『PAJERO（パジェロ）』のワールドプレミアを開催した。日本では7年ぶりに復活を遂げるパジェロの第5世代モデルは、同社が",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiays4g2jsqprzbuaqx62w6aqbopdxm2cf2hxz6vosgimt3gv7yula"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mum35o4kpb27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mum35o4kpb27",
+    "cid": "bafyreigivy3q57pyava3ir5vc3x6g53un4x6fxcrcmjkisswnh7pb4hcvq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ラグナ・セカの名物コーナーが『ザナルディ・コークスクリュー』へ改名。伝説的オーバーテイクから30年  - https://www.as-web.jp/sports-car/1347585",
+    "createdAt": "2026-09-03T08:52:56.611678Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T08:52:58.106Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1347585",
+        "title": "ラグナ・セカの名物コーナーが『ザナルディ・コークスクリュー』へ改名。伝説的オーバーテイクから30年 | 海外レース他 | autosport web",
+        "description": "　アメリカ・カリフォルニア州モンテレイに位置するウェザーテック・レースウェイ・ラグナ・セカは、9月4日金曜日より同サーキットの象徴的なコーナー『コークスクリュー",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic6lpvncbehmsgk6444ocpvxiokev3naa2x37cfqoyfxrbdu2xcky"
       },
       "$type": "app.bsky.embed.external#view"
     },
