@@ -215380,7 +215380,7 @@
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
     "repostCount": 191,
-    "likeCount": 900,
+    "likeCount": 901,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -215626,7 +215626,7 @@
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
     "repostCount": 126,
-    "likeCount": 532,
+    "likeCount": 533,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215793,6 +215793,43 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3munddewmbc2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3munddewmbc2y",
+    "cid": "bafyreiejoo6ql6wwwooi3zdfgktquzvjtyptjqqbqntlvu4dr5iu4jlge4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "VRChatでデジタル時代の「書く・描く」体験の開発・検証を開始｜プレスリリース｜三菱鉛筆株式会社\nwww.mpuni.co.jp/company/pres...",
+    "createdAt": "2026-09-03T20:51:58.880Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T20:51:59.386Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.mpuni.co.jp/company/press/20260902-54347.html",
+        "title": "VRChatでデジタル時代の「書く・描く」体験の開発・検証を開始｜プレスリリース｜三菱鉛筆株式会社",
+        "description": "三菱鉛筆株式会社からのプレスリリースです。"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3munc6aj32w2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3munc6aj32w2b",
+    "cid": "bafyreidyawxtt5hyt72u3ipvdoql4goaws6j4jct4qtfunppvwt5tlc7wm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-09-03T20:31:12.176861Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-03T20:31:12.783Z",
+    "embed": null,
     "isRepost": false
   }
 }
