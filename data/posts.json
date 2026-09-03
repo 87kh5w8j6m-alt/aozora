@@ -215261,8 +215261,8 @@
     "text": "",
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
-    "repostCount": 243,
-    "likeCount": 983,
+    "repostCount": 244,
+    "likeCount": 984,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215438,7 +215438,7 @@
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
     "repostCount": 128,
-    "likeCount": 593,
+    "likeCount": 595,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215625,8 +215625,8 @@
     "text": "",
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
-    "repostCount": 102,
-    "likeCount": 358,
+    "repostCount": 108,
+    "likeCount": 392,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215643,5 +215643,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muljqq77ah2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muljqq77ah2b",
+    "cid": "bafyreiawou6qq6cyhn2qrz2zj5k4s6vcjr2wkgahsynkyp2kabmvpvgj4y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1王者ランド・ノリスがドライバー育成プログラムを発足、自身のチームをF3＆F4に送り込む「F1に乗るには才能だけでは不十分」  - https://jp.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851692 やっぱチャンピオンになると違うなあ",
+    "createdAt": "2026-09-03T03:41:28.841432Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T03:41:30.005Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulj4ztepf2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulj4ztepf2e",
+    "cid": "bafyreiapvv6hudzs2zhqqtmculfa4q4v7mlvmwmfiqgltnlcd6qofvpmwa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-09-03T03:30:27.956047Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T03:30:29.003Z",
+    "embed": null,
+    "isRepost": false
   }
 }
