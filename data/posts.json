@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 244,
-    "likeCount": 984,
+    "likeCount": 985,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215625,8 +215625,8 @@
     "text": "",
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 392,
+    "repostCount": 111,
+    "likeCount": 415,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215672,6 +215672,75 @@
     "likeCount": 0,
     "indexedAt": "2026-09-03T03:30:29.003Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkrlffyt22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkrlffyt22",
+    "cid": "bafyreidldm6ih4stdvjksttnadfq7keodudlan6j7dmyofba7xvgscbo4u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「この6年で築き上げたものが消えることはない」オランダGP開催に尽力したヤン・ラマースからの手紙【ギョロ目でチェック】  - https://www.as-web.jp/f1/1347441 素晴らしいメッセージ",
+    "createdAt": "2026-09-03T03:59:50.948436Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T03:59:52.703Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1347441",
+        "title": "「この6年で築き上げたものが消えることはない」オランダGP開催に尽力したヤン・ラマースからの手紙【ギョロ目でチェック】 | ニュース | autosport web",
+        "description": "　今年のF1第12戦オランダGP最終日となった8月23日、日曜日の朝、メディアセンターの全デスクの上に、2枚の手紙が置かれていた。「ザントフォールトから、世界の",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib6y7tx3w4yt27evnovuzauw2ntrkpegtyqx27izzgyqujxnhgkxq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkk37llz2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkk37llz2v",
+    "cid": "bafyreiegwtwsud6xno42vswdr46qnwjbaogozd2iouknbs6azwa3tfcivy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "岩佐歩夢、F1イタリアGPのFP1でレッドブルのフェルスタッペン車をドライブへ「学んできたことをコース上で試したい」  - https://www.as-web.jp/f1/1347512",
+    "createdAt": "2026-09-03T03:55:39.100159Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T03:55:41.010Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1347512",
+        "title": "岩佐歩夢、F1イタリアGPのFP1でレッドブルのフェルスタッペン車をドライブへ「学んできたことをコース上で試したい」 | ニュース | autosport web",
+        "description": "　F1イタリアGPでレッドブルは、FP1のルーキー起用規則下において、マックス・フェルスタッペンのマシンを岩佐歩夢に託すことを発表した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigo27jbnghuogopah7urjrdyc2uz2ano5w5d2u6fao7oz75yf6kcy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkgjldv42b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mulkgjldv42b",
+    "cid": "bafyreiabthvezfqksmu2xh6fe7eo5ukdpq3bnbj2stgtc4g7qhhgc4ihqe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「単なる復活ではない」新型パジェロ。こだわりの悪路快適性と静粛性、新フラッグシップへの想いをキーマンが語る  - https://www.as-web.jp/car/1347433",
+    "createdAt": "2026-09-03T03:53:39.947870Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-03T03:53:42.107Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/car/1347433",
+        "title": "「単なる復活ではない」新型パジェロ。こだわりの悪路快適性と静粛性、新フラッグシップへの想いをキーマンが語る | クルマ | autosport web",
+        "description": "　三菱自動車は9月2日、東京都内で新型『PAJERO（パジェロ）』のワールドプレミアを開催した。日本では7年ぶりに復活を遂げるパジェロの第5世代モデルは、同社が",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiays4g2jsqprzbuaqx62w6aqbopdxm2cf2hxz6vosgimt3gv7yula"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
