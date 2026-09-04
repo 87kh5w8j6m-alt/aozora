@@ -215857,7 +215857,7 @@
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
     "repostCount": 108,
-    "likeCount": 528,
+    "likeCount": 529,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215955,6 +215955,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-04T22:01:53.277Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muq3fslybv2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muq3fslybv2f",
+    "cid": "bafyreics7f5dmlqv6p6toxifg5myvhlaia2rjkl7bejwr3dt6uys2shswi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1イタリアGP FP2見る",
+    "createdAt": "2026-09-04T23:08:09.095177Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-04T23:08:09.779Z",
     "embed": null,
     "isRepost": false
   }
