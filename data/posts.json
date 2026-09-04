@@ -215204,7 +215204,7 @@
     "createdAt": "2026-08-30T16:02:07.595Z",
     "replyCount": 0,
     "repostCount": 76,
-    "likeCount": 173,
+    "likeCount": 174,
     "indexedAt": "2026-08-30T16:02:13.131Z",
     "embed": {
       "images": [
@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 246,
-    "likeCount": 989,
+    "likeCount": 990,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215380,7 +215380,7 @@
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
     "repostCount": 191,
-    "likeCount": 903,
+    "likeCount": 904,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -215438,7 +215438,7 @@
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
     "repostCount": 133,
-    "likeCount": 614,
+    "likeCount": 615,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215626,7 +215626,7 @@
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 549,
+    "likeCount": 550,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215856,8 +215856,8 @@
     "text": "",
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 1,
-    "repostCount": 81,
-    "likeCount": 352,
+    "repostCount": 88,
+    "likeCount": 392,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215874,5 +215874,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muo2ktvnio2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muo2ktvnio2b",
+    "cid": "bafyreidk7segaalz2y2iexey4vhajzil76xjqashinbygz7okofj3qiq4a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-09-04T03:47:44.404661Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-04T03:47:45.680Z",
+    "embed": null,
+    "isRepost": false
   }
 }
