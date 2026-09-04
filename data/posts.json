@@ -215856,8 +215856,8 @@
     "text": "",
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 1,
-    "repostCount": 100,
-    "likeCount": 483,
+    "repostCount": 102,
+    "likeCount": 491,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215911,6 +215911,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muoqulqg3722": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muoqulqg3722",
+    "cid": "bafyreiav5pzjiiq2t52vmv7xku4e6puum6vefrxz6oijj5772ehxmom7km",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1イタリアGP  FP1見るよー\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-04T10:26:53.820702Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-04T10:26:54.981Z",
+    "embed": null,
     "isRepost": false
   }
 }
