@@ -215856,8 +215856,8 @@
     "text": "",
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 1,
-    "repostCount": 99,
-    "likeCount": 476,
+    "repostCount": 100,
+    "likeCount": 483,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215888,6 +215888,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-04T03:47:45.680Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muooako3yx2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muooako3yx2s",
+    "cid": "bafyreihxreszmac7ajti6dn4mqvricxg4msotvoaul3wl7dhpb7kl7yqeq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC COTA→鈴鹿1000km→IMSA→WEC Fuji→プチル・マン\n「完全に狂っている」5週間の過密スケジュール（笑）\n  - https://www.as-web.jp/sports-car/1347953",
+    "createdAt": "2026-09-04T09:39:54.120917Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-04T09:39:55.879Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1347953",
+        "title": "日米で過酷な5週連続レース／夏休み明けのテストに満足／ケン・マイルズ没後60年【オースティン木曜Topics】 | ニュース | autosport web",
+        "description": "　9月4日から6日にかけて、アメリカ・テキサス州のオースティンでWEC世界耐久選手権第5戦『ローン・スター・ル・マン』が開催される。ここでは2026年シーズン後",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigi6ao4a7hhjfe2gbx4ptniu2uaprjnjg44atjqxsrow3bjzfysz4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
