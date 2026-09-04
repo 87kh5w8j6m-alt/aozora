@@ -215857,7 +215857,7 @@
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 1,
     "repostCount": 104,
-    "likeCount": 506,
+    "likeCount": 508,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215925,6 +215925,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-04T10:26:54.981Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mup2wi6qac2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mup2wi6qac2b",
+    "cid": "bafyreifumeeigcsudnqbziwkx4hngg2ib5p2e2bclw2xosfi3hpcnly2xu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "鳥物語が届いた。恋物語から読めてないんだけど、そろそろ読まないと、物語シリーズは紙の本で買ってるから物理的に積んでる。",
+    "createdAt": "2026-09-04T13:26:55.069076Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-04T13:26:55.687Z",
     "embed": null,
     "isRepost": false
   }
