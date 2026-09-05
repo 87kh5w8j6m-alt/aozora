@@ -210302,7 +210302,7 @@
     "createdAt": "2026-08-08T00:57:57.056Z",
     "replyCount": 3,
     "repostCount": 181,
-    "likeCount": 796,
+    "likeCount": 797,
     "indexedAt": "2026-08-08T00:58:06.829Z",
     "embed": {
       "images": [
@@ -210801,7 +210801,7 @@
     "createdAt": "2026-08-09T21:55:11.310Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 669,
+    "likeCount": 670,
     "indexedAt": "2026-08-09T21:55:21.028Z",
     "embed": {
       "images": [
@@ -215857,7 +215857,7 @@
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
     "repostCount": 108,
-    "likeCount": 532,
+    "likeCount": 533,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215972,5 +215972,33 @@
     "indexedAt": "2026-09-04T23:08:09.779Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3muqaatayv22d": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3muqaatayv22d",
+    "cid": "bafyreib3bod42p5tkvkirxlbllgsrcitjkolz35x6fwub7jhhh7f2rlhve",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-05T00:34:51.228Z",
+    "replyCount": 1,
+    "repostCount": 83,
+    "likeCount": 311,
+    "indexedAt": "2026-09-05T00:34:59.280Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifernm5ac5kcm453notbl2kahugyfiiiv5xrv4ycid5l4z6p3bdzq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifernm5ac5kcm453notbl2kahugyfiiiv5xrv4ycid5l4z6p3bdzq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
