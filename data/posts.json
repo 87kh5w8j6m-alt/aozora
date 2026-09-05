@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 247,
-    "likeCount": 999,
+    "likeCount": 1000,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -215438,7 +215438,7 @@
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
     "repostCount": 138,
-    "likeCount": 629,
+    "likeCount": 630,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215982,8 +215982,8 @@
     "text": "",
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
-    "repostCount": 188,
-    "likeCount": 938,
+    "repostCount": 190,
+    "likeCount": 944,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216104,6 +216104,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-05T20:00:53.783Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musk4nqnu22f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musk4nqnu22f",
+    "cid": "bafyreih7tgshoocvv43645xr5k4fa3hlgcxjaiiyspiqjyxsp5zmqk5xei",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1イタリアGP予選見る",
+    "createdAt": "2026-09-05T22:36:47.623717Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-05T22:36:48.284Z",
     "embed": null,
     "isRepost": false
   }
