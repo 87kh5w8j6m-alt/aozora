@@ -215625,7 +215625,7 @@
     "text": "",
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
-    "repostCount": 129,
+    "repostCount": 130,
     "likeCount": 555,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
@@ -215856,8 +215856,8 @@
     "text": "",
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
-    "repostCount": 109,
-    "likeCount": 545,
+    "repostCount": 110,
+    "likeCount": 546,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215982,8 +215982,8 @@
     "text": "",
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 4,
-    "repostCount": 170,
-    "likeCount": 796,
+    "repostCount": 174,
+    "likeCount": 825,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216045,6 +216045,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3murc3kn7xj2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3murc3kn7xj2a",
+    "cid": "bafyreifuoni6zb44mn77o6wn6nzme7r5fmokeebjz4koz2ofospptrl33e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1イタリアGP FP3見る",
+    "createdAt": "2026-09-05T10:40:20.927351Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-05T10:40:22.783Z",
+    "embed": null,
     "isRepost": false
   }
 }
