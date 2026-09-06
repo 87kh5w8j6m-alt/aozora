@@ -215982,8 +215982,8 @@
     "text": "",
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
-    "repostCount": 193,
-    "likeCount": 977,
+    "repostCount": 194,
+    "likeCount": 979,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216229,6 +216229,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muty64ub6n2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muty64ub6n2k",
+    "cid": "bafyreihkknmkncbzpk7u2inyq3xi7ra3burn6mkovbzahjhdsbas2psmne",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1イタリアGP決勝のお時間\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-06T12:20:46.945807Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T12:20:49.782Z",
+    "embed": null,
     "isRepost": false
   }
 }
