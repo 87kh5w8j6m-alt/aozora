@@ -215983,7 +215983,7 @@
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
     "repostCount": 191,
-    "likeCount": 961,
+    "likeCount": 966,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216191,6 +216191,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muszm4y5px2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muszm4y5px2l",
+    "cid": "bafyreiezmsqc6dsxvpysyb6cbnshf5r6z5ll4kfmxchxyrzoed334uwiwe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プロジェクト・ヘイル・メアリー、劇場でも見たけど、Amazon Prime Videoで吹き替え版見た。",
+    "createdAt": "2026-09-06T03:13:52.894579Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T03:13:53.680Z",
+    "embed": null,
     "isRepost": false
   }
 }
