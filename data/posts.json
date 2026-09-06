@@ -215857,7 +215857,7 @@
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
     "repostCount": 116,
-    "likeCount": 558,
+    "likeCount": 559,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215983,7 +215983,7 @@
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
     "repostCount": 196,
-    "likeCount": 984,
+    "likeCount": 986,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216258,6 +216258,51 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-06T13:09:03.986Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muubd43hjt2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muubd43hjt2l",
+    "cid": "bafyreigmhqcyvwypdjb5xi3o3gobvngdjo6v3ybl33rilujhlsst2npouy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ラッセルは新品ミディアム1セット持ってたんだったらVSCのときにタブルストップでピットインしてたらラッセルにワンチャンあったのでは？\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-06T15:04:39.554623Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T15:04:40.379Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muub2l6gb62f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muub2l6gb62f",
+    "cid": "bafyreihxnufwkyvih7zslt6ba6ofv5rchdts4nmms5wq2bszj3b72eh6ji",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "角田10位フィニッシュ！入賞だ！\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-06T14:59:53.559458Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T14:59:54.180Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muuax2df3g2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muuax2df3g2k",
+    "cid": "bafyreif5klfrld7swaxadlmb3ic2xq7fs7lb24pi2jmoh3prhj3cpfcsci",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アントネッリ優勝🏆おめでとー！イタリア人のイタリアGP優勝は60年ぶり。19番手スタートから勝っちまいやがった！\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-06T14:57:55.175984Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T14:57:55.888Z",
     "embed": null,
     "isRepost": false
   }
