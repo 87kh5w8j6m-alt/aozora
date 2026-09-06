@@ -215438,7 +215438,7 @@
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
     "repostCount": 138,
-    "likeCount": 630,
+    "likeCount": 631,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215982,8 +215982,8 @@
     "text": "",
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
-    "repostCount": 190,
-    "likeCount": 958,
+    "repostCount": 191,
+    "likeCount": 961,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216120,6 +216120,77 @@
     "likeCount": 0,
     "indexedAt": "2026-09-05T22:36:48.284Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musxatjnkk2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musxatjnkk2a",
+    "cid": "bafyreibu3lvmonu7ids2vb55uvc52gbnl6wnw67ne4hrtysp6cn2el234e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Vivaldi 8.2のアップデートでURL 欄に直接入力して計算ができてクリップボードにコピーされるのめっちゃ便利だ",
+    "createdAt": "2026-09-06T02:31:47.051Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T02:31:47.279Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musx3hpm2k2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3musx3hpm2k2a",
+    "cid": "bafyreibtqzg4d55gwkpt4qe7qx5kyrxookfjvfddi6ujvrnx56vlrb3qw4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日は「堀江由衣 謎解きはディナーショーの途中で 2026」大阪公演ですね！東京公演が楽しみ！ #堀江由衣ディナーショー",
+    "createdAt": "2026-09-06T02:28:46.885Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T02:28:54.182Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjr4mhiu3ogsqxvpopsgkfkqjv7ysbloa4waewjbz2ctrbfciod4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjr4mhiu3ogsqxvpopsgkfkqjv7ysbloa4waewjbz2ctrbfciod4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muswx2mllk2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muswx2mllk2a",
+    "cid": "bafyreickxbqbdv6c47ay5ovctz5arzu2p3zfq4jltih5dignhrnuh3mbee",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "メイドさんは食べるだけ 2 Blu-rayのジャケット絵も素敵！！ #メイ食べ  #メイドさんは食べるだけ",
+    "createdAt": "2026-09-06T02:26:18.935Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-06T02:26:25.984Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicowqilkqmg7ozprkq3qsridwzqzuj4feoi4jllqwlpuwuqo4mbxm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicowqilkqmg7ozprkq3qsridwzqzuj4feoi4jllqwlpuwuqo4mbxm",
+          "alt": "メイドさんは食べるだけ  Blu-ray 2巻",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
