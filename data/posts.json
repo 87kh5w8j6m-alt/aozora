@@ -215983,7 +215983,7 @@
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
     "repostCount": 193,
-    "likeCount": 970,
+    "likeCount": 972,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216206,6 +216206,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-06T03:13:53.680Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mutkb4irdb2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mutkb4irdb2j",
+    "cid": "bafyreihgevepzhgsarnj52mtw7d466n7wqn4ye3n6rm3hur7celwna3naa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第4戦 サンパウロ6時間レース(ブラジル) FIA 世界耐久選手権(WEC) 2026 https://jod.jsports.co.jp/p/motor/wec/111033-V",
+    "createdAt": "2026-09-06T08:11:57.078392Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T08:11:58.277Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wec/111033-V",
+        "title": "決勝 第4戦 サンパウロ6時間レース(ブラジル) FIA 世界耐久選手権(WEC) 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第4戦 サンパウロ6時間レース(ブラジル) FIA 世界耐久選手権(WEC) 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicdfv2byu3lplqonp56b23ojpxpgfjbgdb35pbpyovvr4yc76m5fq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
