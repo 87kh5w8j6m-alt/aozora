@@ -215856,8 +215856,8 @@
     "text": "",
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
-    "repostCount": 115,
-    "likeCount": 557,
+    "repostCount": 116,
+    "likeCount": 558,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215982,8 +215982,8 @@
     "text": "",
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
-    "repostCount": 194,
-    "likeCount": 979,
+    "repostCount": 196,
+    "likeCount": 981,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216243,6 +216243,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-06T12:20:49.782Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muu2ucpw2k2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muu2ucpw2k2y",
+    "cid": "bafyreihigkq3r4qtzvsjtjxvvew5yj5lut7cslbce6qewcc7apzolpofga",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ルクレールのクラッシュで赤旗中断 #F1jp",
+    "createdAt": "2026-09-06T13:09:01.482Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T13:09:03.986Z",
     "embed": null,
     "isRepost": false
   }
