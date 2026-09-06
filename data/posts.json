@@ -216320,5 +216320,48 @@
     "indexedAt": "2026-09-06T21:29:05.294Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muuzggt2u226": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muuzggt2u226",
+    "cid": "bafyreih7tuuh4hfopnpk5g5bfiqyrahqzgtrx27ur5wcsltulfcay66sva",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "頭痛がすごい",
+    "createdAt": "2026-09-06T22:16:01.018045Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-06T22:16:05.702Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3muuxkjshik2k": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3muuxkjshik2k",
+    "cid": "bafyreidbfklfp5l43r35t4aqomut3lkghg6cm7jn7ja2wykjf44yqwuu2i",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-06T21:42:31.874Z",
+    "replyCount": 0,
+    "repostCount": 44,
+    "likeCount": 155,
+    "indexedAt": "2026-09-06T21:42:37.389Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibzrb3hjdctoqw2jbelgmq7kze5mbbjhjjx7pjcfx2ewvx23jsztu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibzrb3hjdctoqw2jbelgmq7kze5mbbjhjjx7pjcfx2ewvx23jsztu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
