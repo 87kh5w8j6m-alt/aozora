@@ -215438,7 +215438,7 @@
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
     "repostCount": 138,
-    "likeCount": 634,
+    "likeCount": 635,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
       "images": [
@@ -215626,7 +215626,7 @@
     "createdAt": "2026-09-02T21:42:14.576Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 567,
+    "likeCount": 568,
     "indexedAt": "2026-09-02T21:42:22.106Z",
     "embed": {
       "images": [
@@ -215857,7 +215857,7 @@
     "createdAt": "2026-09-03T22:25:36.591Z",
     "replyCount": 2,
     "repostCount": 116,
-    "likeCount": 561,
+    "likeCount": 562,
     "indexedAt": "2026-09-03T22:25:45.884Z",
     "embed": {
       "images": [
@@ -215983,7 +215983,7 @@
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 5,
     "repostCount": 197,
-    "likeCount": 990,
+    "likeCount": 991,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216345,8 +216345,8 @@
     "text": "",
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
-    "repostCount": 83,
-    "likeCount": 358,
+    "repostCount": 85,
+    "likeCount": 380,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216376,6 +216376,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-06T23:58:54.283Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muvlr4ub3d2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muvlr4ub3d2q",
+    "cid": "bafyreibvm4ub7ni5uqrtykfbkwsidsmd5fa4e5cmisghp6wydatocs4ney",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "トラブルで目前の勝利逃したトヨタのデ・フリースが状況を説明「最初は信じられなかった」  - https://www.as-web.jp/sports-car/1349341 なんてこった……。",
+    "createdAt": "2026-09-07T03:44:07.003557Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-07T03:44:08.677Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1349341",
+        "title": "トラブルで目前の勝利逃したトヨタのデ・フリースが状況を説明「最初は信じられなかった」 | ニュース | autosport web",
+        "description": "　トヨタレーシングのテクニカル・ディレクターであるデビッド・フローリーは、WEC世界耐久選手権第5戦でマイク・コンウェイ／小林可夢偉／ニック・デ・フリース組7号",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibwdxrlv6kyg3m3f7waar34bcqputw42uxpi7pwibsmpkj5yyzthm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muvl545qlw2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muvl545qlw2l",
+    "cid": "bafyreiakk4igo6vqbb44li5mycbdmpfjostxa2m75lh2oa2cin5pk2hto4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-09-07T03:32:55.128701Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-07T03:32:56.480Z",
     "embed": null,
     "isRepost": false
   }
