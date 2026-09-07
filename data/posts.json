@@ -216345,8 +216345,8 @@
     "text": "",
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 480,
+    "repostCount": 108,
+    "likeCount": 490,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216415,6 +216415,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-07T03:32:56.480Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwesqslt22y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwesqslt22y",
+    "cid": "bafyreiaxpj3yjvqyhkoavbiolva67xyystffrofo433nmktjirrrgeygta",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "流れと流線－空気は固かった－ (1963年)  youtu.be/Ni7sNtRyUsw?...\nとてもよかった",
+    "createdAt": "2026-09-07T11:12:26.036Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-07T11:12:27.779Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/Ni7sNtRyUsw?si=-9YdZ3UZc9u5WzjZ",
+        "title": "流れと流線－空気は固かった－",
+        "description": "YouTube video by NPO法人科学映像館",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihmosvhnmw7isvyq5ddw7fsaj6mvokkzjwjosb7v2nzcpqhqtitxu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
