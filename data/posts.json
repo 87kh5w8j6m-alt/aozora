@@ -216345,8 +216345,8 @@
     "text": "",
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 490,
+    "repostCount": 109,
+    "likeCount": 497,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216438,6 +216438,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwkejseyy2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwkejseyy2v",
+    "cid": "bafyreignqnxajwpzysyj4svidtf6n3ify2ita5pdokecesnbicmdigafo4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第9話視聴終了。",
+    "createdAt": "2026-09-07T12:51:50.752766Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-07T12:51:51.479Z",
+    "embed": null,
     "isRepost": false
   }
 }
