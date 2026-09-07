@@ -216345,8 +216345,8 @@
     "text": "",
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 497,
+    "repostCount": 110,
+    "likeCount": 511,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216452,6 +216452,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-07T12:51:51.479Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwltbe5zf26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muwltbe5zf26",
+    "cid": "bafyreif5a2alkxbrcln2jal4wve2mbdz3vv4rar762aiuxqq4relpaui34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名探偵プリキュア！ 第32話視聴終了。脚本：千葉美鈴 「とけないアイスと謎はない」\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-09-07T13:17:55.015031Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-07T13:17:59.680Z",
     "embed": null,
     "isRepost": false
   }
