@@ -216509,8 +216509,8 @@
     "text": "",
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
-    "repostCount": 100,
-    "likeCount": 431,
+    "repostCount": 103,
+    "likeCount": 452,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216538,7 +216538,7 @@
     "createdAt": "2026-09-08T10:26:35.060679Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-08T10:26:36.479Z",
     "embed": {
       "external": {
@@ -216563,6 +216563,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-08T10:53:37.477Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz27gokrj2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz27gokrj2f",
+    "cid": "bafyreigcuencpj3bludzqvxwxmvkeb5ibwv2dfvoo5z62llzlxon5acjjq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第78話視聴終了。",
+    "createdAt": "2026-09-08T12:40:39.085395Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T12:40:39.904Z",
     "embed": null,
     "isRepost": false
   }
