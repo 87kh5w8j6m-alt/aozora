@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 98,
-    "likeCount": 401,
+    "likeCount": 415,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216527,5 +216527,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muyspposkn2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muyspposkn2x",
+    "cid": "bafyreifkxmbtrcbaker65g5sevksweg4oxpjacjvppqk5rpaxf645r27ym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "レッドブルF1が地下鉄を走行。29.8kgの特注金属ホイールを装着し、駅やトンネルを爆走  - https://www.as-web.jp/f1/1349909",
+    "createdAt": "2026-09-08T10:26:35.060679Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T10:26:36.479Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1349909",
+        "title": "レッドブルF1が地下鉄を走行。29.8kgの特注金属ホイールを装着し、駅やトンネルを爆走 | ニュース | autosport web",
+        "description": "　9月11〜13日にマドリードで開催される2026年F1第14戦スペインGPを前に、レッドブルは2012年型車両『RB8』を走らせた。しかし、走らせた場所はサー",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid4kk5kibus6dcs4ndqjtsvesrh3w7ewcmesvuvsxa32bi7gpmx6a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
