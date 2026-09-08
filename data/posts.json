@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 113,
-    "likeCount": 518,
+    "likeCount": 521,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216650,8 +216650,8 @@
     "text": "萌黄えもちゃんお誕生日おめでとう♡ プリチャン",
     "createdAt": "2026-09-08T22:10:53.425Z",
     "replyCount": 0,
-    "repostCount": 2,
-    "likeCount": 6,
+    "repostCount": 3,
+    "likeCount": 10,
     "indexedAt": "2026-09-08T22:10:59.176Z",
     "embed": {
       "images": [
@@ -216668,5 +216668,43 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv26hphigx2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv26hphigx2f",
+    "cid": "bafyreifdo24c326mrt2qy6b7zmmnx2pd43ymkjktmhltgscosviy6snshe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | GTV 2026 ～SUPER GT トークバラエティ～ #4 https://jod.jsports.co.jp/p/motor/supergt/111032-V",
+    "createdAt": "2026-09-08T23:29:31.030540Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T23:29:32.583Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111032-V",
+        "title": "GTV 2026 ～SUPER GT トークバラエティ～ #4｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "GTV 2026 ～SUPER GT トークバラエティ～ #4を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigl23ci5xrcg64uguvhqkxrrgs6ntv5z7itvibbwsg73vzzn6vxxq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv256yofzu2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv256yofzu2y",
+    "cid": "bafyreih5lsihgyteiixoea36kpseufak3qryhejuippb45b52yqn5uxgfm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記II ラジオの悪魔 第5回聴取終了。",
+    "createdAt": "2026-09-08T23:06:44.547715Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T23:06:46.080Z",
+    "embed": null,
+    "isRepost": false
   }
 }
