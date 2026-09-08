@@ -216509,8 +216509,8 @@
     "text": "",
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
-    "repostCount": 98,
-    "likeCount": 415,
+    "repostCount": 100,
+    "likeCount": 431,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216549,6 +216549,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muyu7zvosd2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muyu7zvosd2a",
+    "cid": "bafyreib6p7qrbo3unody4rziycfs5ndtrugvuwdigebri3wnbfyxmuclzi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "長いことグリグリ試行錯誤して悩んで悩んで、ある日突然閃いて突破したのに「チャチャっとできるじゃん」って言われた時の顔",
+    "createdAt": "2026-09-08T10:53:36.205168Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T10:53:37.477Z",
+    "embed": null,
     "isRepost": false
   }
 }
