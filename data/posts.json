@@ -208430,9 +208430,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "TGR Haas F1 Team Testing of Previous Cars 2026 day2\n最近のF1マシンの走行を生で見るのは初めてだったけれどホームストレート駆け抜ける速さといったら！\n#HaasF1",
     "createdAt": "2026-07-29T03:03:01.358339Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 0,
     "indexedAt": "2026-07-29T03:03:14.527Z",
     "embed": {
       "images": [
@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 118,
-    "likeCount": 558,
+    "likeCount": 559,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216482,6 +216482,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-07T21:06:04.981Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muy3xnjsnr2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muy3xnjsnr2k",
+    "cid": "bafyreiea7rzf5pgg7e2tzmvotb66wzstcfqxx2lx6537op5g4m3gtqqv4a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-09-08T03:39:24.681776Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T03:39:26.279Z",
     "embed": null,
     "isRepost": false
   }
