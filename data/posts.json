@@ -216509,8 +216509,8 @@
     "text": "",
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
-    "repostCount": 103,
-    "likeCount": 452,
+    "repostCount": 104,
+    "likeCount": 460,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216578,6 +216578,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-08T12:40:39.904Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz56d5dca2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz56d5dca2x",
+    "cid": "bafyreicgtjp35jzgiqrdhyzlesdtxtj2dtnjn4nmky3sa6gp3wars6nkn4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第80話視聴終了。",
+    "createdAt": "2026-09-08T13:33:42.780843Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T13:33:43.683Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz3vhhrl42v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3muz3vhhrl42v",
+    "cid": "bafyreibzyzmspl5pb3wxh4ctqidjgsmtllrdbianqcc6okmlft73txkrbi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Re:ゼロから始める異世界生活 4th season 第79話視聴終了。",
+    "createdAt": "2026-09-08T13:10:51.723949Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-08T13:10:52.579Z",
     "embed": null,
     "isRepost": false
   }
