@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 569,
+    "likeCount": 570,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 114,
-    "likeCount": 531,
+    "likeCount": 532,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216650,8 +216650,8 @@
     "text": "萌黄えもちゃんお誕生日おめでとう♡ プリチャン",
     "createdAt": "2026-09-08T22:10:53.425Z",
     "replyCount": 0,
-    "repostCount": 6,
-    "likeCount": 18,
+    "repostCount": 7,
+    "likeCount": 21,
     "indexedAt": "2026-09-08T22:10:59.176Z",
     "embed": {
       "images": [
@@ -216717,7 +216717,7 @@
     "createdAt": "2026-09-09T03:46:26.727804Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-09T03:46:28.387Z",
     "embed": {
       "external": {
@@ -216744,5 +216744,33 @@
     "indexedAt": "2026-09-09T03:33:07.478Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv2ivl3r6c2w": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv2ivl3r6c2w",
+    "cid": "bafyreibxtbxiv2ddta345exq5otjr5khfpsrwubfubk6qqjykarj7kz5g4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-09T02:36:14.628Z",
+    "replyCount": 4,
+    "repostCount": 78,
+    "likeCount": 263,
+    "indexedAt": "2026-09-09T02:36:20.685Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreievuhu6qtn4wclbhjmu7nzguteoqmta47obbjikjy4g5w7a5l74du",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreievuhu6qtn4wclbhjmu7nzguteoqmta47obbjikjy4g5w7a5l74du",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
