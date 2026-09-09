@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 567,
+    "likeCount": 569,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216509,8 +216509,8 @@
     "text": "",
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
-    "repostCount": 113,
-    "likeCount": 527,
+    "repostCount": 114,
+    "likeCount": 531,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216650,8 +216650,8 @@
     "text": "萌黄えもちゃんお誕生日おめでとう♡ プリチャン",
     "createdAt": "2026-09-08T22:10:53.425Z",
     "replyCount": 0,
-    "repostCount": 4,
-    "likeCount": 16,
+    "repostCount": 6,
+    "likeCount": 18,
     "indexedAt": "2026-09-08T22:10:59.176Z",
     "embed": {
       "images": [
@@ -216704,6 +216704,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-08T23:06:46.080Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv2mt53j642p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv2mt53j642p",
+    "cid": "bafyreid3qi5syditaz3widvulvsm74bdqda4amlvyrkw3clbrocuuogzgi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「一般国道トレカ」ゼンリン一丸で制作、発売　「さすがにマニアックすぎるだろ!!!」  - https://www.itmedia.co.jp/news/article/2609/09/2000001302/",
+    "createdAt": "2026-09-09T03:46:26.727804Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-09T03:46:28.387Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/article/2609/09/2000001302/",
+        "title": "「一般国道トレカ」ゼンリン一丸で制作、発売　「さすがにマニアックすぎるだろ!!!」",
+        "description": "「ゼンリンが一丸となって制作した」という。Xでは同社自ら「さすがにマニアックすぎるだろ!!!」とXで紹介し、話題になっている。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifeiq23drd77gvteq3rvr6t3q2qmupmvj5ht7mrubbuczasi3vw7i"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv2m3bpz5t2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv2m3bpz5t2l",
+    "cid": "bafyreibitk5upstzxr5elu7fy2t4pbczze2mkbyozifi52tstpixb6v4oi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-09-09T03:33:04.081537Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-09T03:33:07.478Z",
     "embed": null,
     "isRepost": false
   }
