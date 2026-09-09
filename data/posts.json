@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 114,
-    "likeCount": 537,
+    "likeCount": 538,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216754,8 +216754,8 @@
     "text": "",
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 4,
-    "repostCount": 99,
-    "likeCount": 371,
+    "repostCount": 105,
+    "likeCount": 399,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216772,5 +216772,64 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv3b46trgc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv3b46trgc2n",
+    "cid": "bafyreifm27kvzthkbkvi5ojlpe2duqutsnlj2odmvlmvuhbsn242opxvqy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ドーーーン！！！！",
+    "createdAt": "2026-09-09T09:49:26.468Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-09T09:49:28.079Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv37cmyvfy2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv37cmyvfy2k",
+    "cid": "bafyreihgljgcavozwspuwkuhkzcafor2gpneoscxw2nufmgdw7dl7g3wsi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying silky heart [Live] - 堀江由衣 (堀江由衣 ライブツアー2019 文学少女倶楽部 -2019.12.14- [Disc 2])",
+    "createdAt": "2026-09-09T09:17:14.035746Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-09T09:17:15.680Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidtsytelbybpdcx6me5khjnnoqkkuuo6o6vh6xn2rfgojzsl62agq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidtsytelbybpdcx6me5khjnnoqkkuuo6o6vh6xn2rfgojzsl62agq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 750,
+            "width": 750
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv36lkspd22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv36lkspd22h",
+    "cid": "bafyreigzm3el2mwsp54aa6m7zgt3uwzgabegotgy2jeaf77s2lwnuowx3i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フォッサマグナ！",
+    "createdAt": "2026-09-09T09:04:21.106Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-09T09:04:27.681Z",
+    "embed": null,
+    "isRepost": false
   }
 }
