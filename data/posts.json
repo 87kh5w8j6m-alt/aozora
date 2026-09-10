@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 118,
-    "likeCount": 560,
+    "likeCount": 562,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -217112,6 +217112,79 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-10T21:10:05.894Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv7adjer4w26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv7adjer4w26",
+    "cid": "bafyreidv24frdmx7ctolkdvgphmx44yz4f4vim3kaoltpsv7fzwum2o2zy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone DuoがApple pencil対応なのはいい意味で予想外だった。iPhone 18 Pro + iPad AirとiPhone Duo単体ならお値段そう変わらないか？",
+    "createdAt": "2026-09-10T23:46:16.582786Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-10T23:46:17.681Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv6zgc4dvs2a": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv6zgc4dvs2a",
+    "cid": "bafyreibiuzjm63p47fhuqclceyw3kiic4axesuhpk77jk4gpxy3bibiv6y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-10T21:42:34.459Z",
+    "replyCount": 0,
+    "repostCount": 63,
+    "likeCount": 218,
+    "indexedAt": "2026-09-10T21:42:41.682Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreie5zu6f2ncsqnphptriqo7tri4v6hbhmcc77ltlhmuqgrx6fbws3u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreie5zu6f2ncsqnphptriqo7tri4v6hbhmcc77ltlhmuqgrx6fbws3u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv77bab5gk2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv77bab5gk2y",
+    "cid": "bafyreiceyfkhyepqogs42rjndbjbbh5w5faxwchqx3agbmkts4foqav2cq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duoのインナーディスプレイがナノテクスチャー仕上げなのと、信者の布が最近値下げされたのって関係ある？",
+    "createdAt": "2026-09-10T23:27:05.992766Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-10T23:27:07.280Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv773h4l6a2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv773h4l6a2q",
+    "cid": "bafyreiab5se24dp6tc6x2j4q7xpnr5k64oa5j2maq5sgxxjcibs56wgxc4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone 18 Proの可変絞りはiPhone側でいー感じに絞ってくれればいいけど、自分で絞らないといけないならミラーレス一眼でいいかなー。映像作品を撮る人にあったら嬉しいのかもしれんが、スマホのカメラはサッて出してパッと撮れるのがいいんだよ。",
+    "createdAt": "2026-09-10T23:23:52.068210Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-10T23:23:53.182Z",
     "embed": null,
     "isRepost": false
   }
