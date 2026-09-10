@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 116,
-    "likeCount": 549,
+    "likeCount": 550,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 123,
-    "likeCount": 519,
+    "likeCount": 521,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216991,8 +216991,8 @@
     "text": "",
     "createdAt": "2026-09-09T22:42:37.747Z",
     "replyCount": 1,
-    "repostCount": 93,
-    "likeCount": 400,
+    "repostCount": 94,
+    "likeCount": 409,
     "indexedAt": "2026-09-09T22:43:17.779Z",
     "embed": {
       "images": [
@@ -217067,6 +217067,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-10T14:12:38.377Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv6cmbgfzx2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv6cmbgfzx2l",
+    "cid": "bafyreigspfnjoef5da2wlhdyvdvo67peg343g2zx75vnlvbumnpletglcm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第75話視聴終了。",
+    "createdAt": "2026-09-10T14:54:18.103454Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-10T14:54:19.079Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv6clc62cv2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv6clc62cv2l",
+    "cid": "bafyreidou7ou3xlckegz5qojo7inaxlnqtpnc5ezeyeedprep45p77kdli",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第74話視聴終了。",
+    "createdAt": "2026-09-10T14:53:45.720895Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-10T14:53:46.380Z",
     "embed": null,
     "isRepost": false
   }
