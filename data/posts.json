@@ -216509,8 +216509,8 @@
     "text": "",
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
-    "repostCount": 114,
-    "likeCount": 540,
+    "repostCount": 115,
+    "likeCount": 541,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 119,
-    "likeCount": 500,
+    "likeCount": 501,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216966,5 +216966,48 @@
     "indexedAt": "2026-09-09T23:24:39.977Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv4qimhktu2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mv4qimhktu2g",
+    "cid": "bafyreic4edyftckjylxifqtdhpbtrdkxiigg5uv6fc647nx7zgjsgjadyq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "値上げされる前にiPhone17を両親用に買っておいてよかった",
+    "createdAt": "2026-09-09T23:57:28.173448Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-09T23:57:29.379Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv4mcqz7ts2t": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mv4mcqz7ts2t",
+    "cid": "bafyreifclrsqe3zp2kft3ama5h2bym3vlfmifzy6rmvzrnf274d2igyud4",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-09T22:42:37.747Z",
+    "replyCount": 0,
+    "repostCount": 49,
+    "likeCount": 188,
+    "indexedAt": "2026-09-09T22:43:17.779Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig3fhf5dc3zatdcj3yn3xolymxhvsg4crrzwpifcvb5xr26wwyppa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig3fhf5dc3zatdcj3yn3xolymxhvsg4crrzwpifcvb5xr26wwyppa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
