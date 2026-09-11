@@ -217139,8 +217139,8 @@
     "text": "",
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
-    "repostCount": 90,
-    "likeCount": 445,
+    "repostCount": 91,
+    "likeCount": 451,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217201,6 +217201,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-11T03:30:29.387Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvacp52w7k2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvacp52w7k2e",
+    "cid": "bafyreigela3xgvxhln24upo2e2s3z23kapholjx26tweajg7wo5ow6yw2y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に - Apple (日本)\nwww.apple.com/jp/newsroom/... 買い切りプランなくなってたのか。盗難・紛失なしのプランもなくなってる。",
+    "createdAt": "2026-09-11T10:01:14.574Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T10:01:17.489Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
+        "title": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
+        "description": "Appleは本日、日本でのAppleCare+の盗難・紛失に対する保証をiPadとApple Watchに拡大し、新しいサブスクリプションプランを導入しました。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic5yshndackgwbdse5ktzkwlsgikhjsanovqkdqhdwx3htt7d4rbu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
