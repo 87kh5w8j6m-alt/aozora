@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 248,
-    "likeCount": 1006,
+    "likeCount": 1007,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -217139,8 +217139,8 @@
     "text": "",
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 451,
+    "repostCount": 92,
+    "likeCount": 466,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217224,6 +217224,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvah54kqnf2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvah54kqnf2k",
+    "cid": "bafyreiayf7gew4xbm35zcn3q3frfoivl6rkukazykl67hfxcz724vcuoty",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1スペインGP FP1見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-11T11:20:36.245076Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T11:20:38.981Z",
+    "embed": null,
     "isRepost": false
   }
 }
