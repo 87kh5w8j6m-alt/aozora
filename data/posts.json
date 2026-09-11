@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 499,
+    "likeCount": 505,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217262,6 +217262,51 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbmn4qy5i2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbmn4qy5i2b",
+    "cid": "bafyreihfkf56g6fzx42spncug4kfmssqdvpg27binjh6jgixyhjqpdk2de",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1スペインGP FP2見る",
+    "createdAt": "2026-09-11T22:31:43.650607Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T22:31:44.379Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbmkikckj26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbmkikckj26",
+    "cid": "bafyreieacfvouhwa7qb3xhnvsckiklspfzgopeyxzovfccfmjdpkec7lre",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1250回聴取終了。",
+    "createdAt": "2026-09-11T22:30:15.366450Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T22:30:16.277Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbl5pdlkx2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvbl5pdlkx2l",
+    "cid": "bafyreickhxw32wp47eavpfwx4kusl63psx2crtir5wpbieowgka24ckjf4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-09-11T22:05:12.699033Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T22:05:13.283Z",
+    "embed": null,
     "isRepost": false
   }
 }
