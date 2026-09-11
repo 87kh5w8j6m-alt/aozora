@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 574,
+    "likeCount": 573,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 92,
-    "likeCount": 466,
+    "likeCount": 471,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217239,6 +217239,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-11T11:20:38.981Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mval363inb2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mval363inb2l",
+    "cid": "bafyreihp6fzqw53klwu7ro2wvbm4uldvfno2uz2kp2qm5q7urjspzuje2e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "それはひょっとしてギャグで言ってるのか!?\nhttps://av.watch.impress.co.jp/docs/topic/2140311.html",
+    "createdAt": "2026-09-11T12:31:05.733884Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-11T12:31:08.778Z",
+    "embed": {
+      "external": {
+        "uri": "https://av.watch.impress.co.jp/docs/topic/2140311.html",
+        "title": "ブルーレイってどうやって観ればいい? 「超かぐや姫!」特装限定版の楽しみ方",
+        "description": "映像配信サービスが当たり前のものになった昨今。先日発売された「超かぐや姫!」のBlu-ray特装限定版が届いたはいいものの、「ブルーレイ(Blu-ray Disc/BD)ってどうやって観ればいいの？」という人が少なくないようだ。ネット上には「(ブルーレイの映像を)スマホで観られないの？」という疑問の声も。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihanouyujd4jhfr4ht6hzdkkr5hjq2y5nlwof3dsbkgtt7ky324qu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
