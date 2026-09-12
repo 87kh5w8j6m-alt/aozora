@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 520,
+    "likeCount": 521,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217318,8 +217318,8 @@
     "text": "",
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 0,
-    "repostCount": 130,
-    "likeCount": 570,
+    "repostCount": 131,
+    "likeCount": 582,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217377,8 +217377,23 @@
     "createdAt": "2026-09-12T13:50:51.439063Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-12T13:50:52.081Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvdamq5ngi2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvdamq5ngi2l",
+    "cid": "bafyreib5qgjgcvqhy6v7wxnzecamd3kpbu3zo6om6k3sciwbtjpiujibgy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ベアマンは出走叶わずか。\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-12T14:02:05.181223Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-12T14:02:05.685Z",
     "embed": null,
     "isRepost": false
   }
