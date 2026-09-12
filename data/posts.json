@@ -217318,8 +217318,8 @@
     "text": "",
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 0,
-    "repostCount": 119,
-    "likeCount": 509,
+    "repostCount": 121,
+    "likeCount": 520,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217349,6 +217349,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-12T03:36:11.978Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvcuso3g7d2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvcuso3g7d2j",
+    "cid": "bafyreigief2e464675d5gv3gh5r7ncuo4tlq6sfvloc2x6c57vqqhiyehe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1スペインGP FP3見る",
+    "createdAt": "2026-09-12T10:30:38.958928Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-12T10:30:39.979Z",
     "embed": null,
     "isRepost": false
   }
