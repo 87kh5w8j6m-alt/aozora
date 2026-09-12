@@ -217318,8 +217318,8 @@
     "text": "",
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 0,
-    "repostCount": 127,
-    "likeCount": 551,
+    "repostCount": 130,
+    "likeCount": 570,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217364,6 +217364,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-12T10:30:39.979Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvd7ynp7cm2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvd7ynp7cm2l",
+    "cid": "bafyreih47w4s3yarp7gigpmezzuoqkzv25xcfls4gpjydhh2oayp5cejxu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1スペインGP 予選のお時間\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-12T13:50:51.439063Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-12T13:50:52.081Z",
     "embed": null,
     "isRepost": false
   }
