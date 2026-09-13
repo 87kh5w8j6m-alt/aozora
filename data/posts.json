@@ -216991,8 +216991,8 @@
     "text": "",
     "createdAt": "2026-09-09T22:42:37.747Z",
     "replyCount": 1,
-    "repostCount": 104,
-    "likeCount": 446,
+    "repostCount": 105,
+    "likeCount": 448,
     "indexedAt": "2026-09-09T22:43:17.779Z",
     "embed": {
       "images": [
@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 523,
+    "likeCount": 524,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217318,8 +217318,8 @@
     "text": "",
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 1,
-    "repostCount": 138,
-    "likeCount": 616,
+    "repostCount": 139,
+    "likeCount": 620,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217409,6 +217409,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-12T15:01:43.883Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mveeffd3mf2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mveeffd3mf2b",
+    "cid": "bafyreidc56kjkf52pe5hmtxmqqmoschz2yxdzuonqqak3azmc77g26ghvi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第478回聴取終了。",
+    "createdAt": "2026-09-13T00:42:13.114615Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-13T00:42:14.188Z",
     "embed": null,
     "isRepost": false
   }
