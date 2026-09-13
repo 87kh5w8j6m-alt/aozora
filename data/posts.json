@@ -217466,8 +217466,8 @@
     "text": "",
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
-    "repostCount": 130,
-    "likeCount": 628,
+    "repostCount": 131,
+    "likeCount": 631,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217587,6 +217587,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-13T14:40:21.479Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvgjinw2ke2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvgjinw2ke2v",
+    "cid": "bafyreig7aml2coyx3enpgylb57t44u6yu4gxuasedcz4hokjxzv7tgwgje",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-09-13T21:18:51.517719Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-13T21:18:52.080Z",
     "embed": null,
     "isRepost": false
   }
