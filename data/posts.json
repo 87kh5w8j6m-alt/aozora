@@ -217466,8 +217466,8 @@
     "text": "",
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
-    "repostCount": 83,
-    "likeCount": 310,
+    "repostCount": 100,
+    "likeCount": 405,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217484,5 +217484,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvfbsggcxk2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvfbsggcxk2e",
+    "cid": "bafyreibyrjrnezrz7mldncwnr7qkhshcodte4njoe7blhdl3pv72c5idpu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "swarm君また共有の仕様変更したせいでせっかくショートカットが機能しなくなった。",
+    "createdAt": "2026-09-13T09:28:29.999Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-13T09:28:30.980Z",
+    "embed": null,
+    "isRepost": false
   }
 }
