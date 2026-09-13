@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 579,
+    "likeCount": 581,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 122,
-    "likeCount": 572,
+    "likeCount": 573,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 127,
-    "likeCount": 536,
+    "likeCount": 537,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216992,7 +216992,7 @@
     "createdAt": "2026-09-09T22:42:37.747Z",
     "replyCount": 1,
     "repostCount": 106,
-    "likeCount": 451,
+    "likeCount": 452,
     "indexedAt": "2026-09-09T22:43:17.779Z",
     "embed": {
       "images": [
@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 99,
-    "likeCount": 526,
+    "likeCount": 527,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217319,7 +217319,7 @@
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 1,
     "repostCount": 142,
-    "likeCount": 627,
+    "likeCount": 628,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217424,6 +217424,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-13T00:42:14.188Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mveml2oork2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mveml2oork2e",
+    "cid": "bafyreidp5gs37kju5uaca5pru4fkgpm34h6lusvvbzv53ihjarjiviwpme",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "手書き、自分のメモ用にすることはままあるので漢字忘れたとかはあまりないけれど、人に見せる用に書く機会がとんとなくなったのでキレイに字を書くことが出来なくなってる。",
+    "createdAt": "2026-09-13T03:08:34.230Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-13T03:08:35.881Z",
     "embed": null,
     "isRepost": false
   }
