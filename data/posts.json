@@ -214002,7 +214002,7 @@
     "text": "",
     "createdAt": "2026-08-25T01:47:31.522Z",
     "replyCount": 2,
-    "repostCount": 183,
+    "repostCount": 184,
     "likeCount": 787,
     "indexedAt": "2026-08-25T01:47:38.631Z",
     "embed": {
@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 581,
+    "likeCount": 582,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 122,
-    "likeCount": 574,
+    "likeCount": 575,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 127,
-    "likeCount": 538,
+    "likeCount": 539,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216992,7 +216992,7 @@
     "createdAt": "2026-09-09T22:42:37.747Z",
     "replyCount": 1,
     "repostCount": 106,
-    "likeCount": 453,
+    "likeCount": 454,
     "indexedAt": "2026-09-09T22:43:17.779Z",
     "embed": {
       "images": [
@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 530,
+    "likeCount": 531,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217319,7 +217319,7 @@
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 1,
     "repostCount": 146,
-    "likeCount": 636,
+    "likeCount": 637,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217466,8 +217466,8 @@
     "text": "",
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
-    "repostCount": 135,
-    "likeCount": 657,
+    "repostCount": 137,
+    "likeCount": 661,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217614,8 +217614,8 @@
     "text": "",
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
-    "repostCount": 87,
-    "likeCount": 356,
+    "repostCount": 91,
+    "likeCount": 387,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217662,5 +217662,33 @@
     "indexedAt": "2026-09-14T03:32:08.484Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mvh5zizbzs26": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mvh5zizbzs26",
+    "cid": "bafyreiee4lhbupqxkt6lgkubspmhd54sx3fhbpgl7uusgjfvzjyo6ufzvm",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "ガンダム新作「RG XARX-ZERO」はTVアニメ、2027年4月から放送\r\nhttps://natalie.mu/comic/news/689403?utm_source=bluesky&utm_medium=social\r\n\r\n#XARXZERO #アレックスゼロ",
+    "createdAt": "2026-09-14T12:26:09+09:00",
+    "replyCount": 0,
+    "repostCount": 30,
+    "likeCount": 21,
+    "indexedAt": "2026-09-14T03:26:12.981Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreifvylwn4s7v5icbhmjpd46f7zvposvdfksudze2byfhu3wfqdwpnu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreifvylwn4s7v5icbhmjpd46f7zvposvdfksudze2byfhu3wfqdwpnu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1696,
+            "width": 1200
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
