@@ -217614,8 +217614,8 @@
     "text": "",
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 454,
+    "repostCount": 102,
+    "likeCount": 461,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217690,5 +217690,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvhslwxlyo2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvhslwxlyo2l",
+    "cid": "bafyreiejgi4enprsp7pe2svtoyazezxz4ognmgb5prkjrcy254tyfpgoua",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 第4戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVE https://jod.jsports.co.jp/p/motor/supergt/111291-V",
+    "createdAt": "2026-09-14T09:34:25.055443Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-14T09:34:26.180Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111291-V",
+        "title": "第4戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVE｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "第4戦 富士スピードウェイ SUPER GT 2026 AFTER THE DRIVEを楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidh2eiw4hkkeddoejdhwufs4dhogsvzxwzxlzrsjnplafxokzhzn4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
