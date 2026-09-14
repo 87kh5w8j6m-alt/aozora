@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 531,
+    "likeCount": 532,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217467,7 +217467,7 @@
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
     "repostCount": 139,
-    "likeCount": 678,
+    "likeCount": 679,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217614,8 +217614,8 @@
     "text": "",
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
-    "repostCount": 110,
-    "likeCount": 516,
+    "repostCount": 114,
+    "likeCount": 525,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217728,5 +217728,33 @@
     "indexedAt": "2026-09-14T21:25:13.783Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvj3hdguik2b": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvj3hdguik2b",
+    "cid": "bafyreibgu3slz5zvicz4lta5lqt4i6zw3fye33vwu7p6cpgqg7p6jeqo5y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-14T21:45:34.273Z",
+    "replyCount": 0,
+    "repostCount": 46,
+    "likeCount": 167,
+    "indexedAt": "2026-09-14T21:45:46.482Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieaz3ifbmraway76aqi242w3r4dnntcwanovincmben4ncn4ntibq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieaz3ifbmraway76aqi242w3r4dnntcwanovincmben4ncn4ntibq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
