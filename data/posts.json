@@ -217615,7 +217615,7 @@
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
     "repostCount": 116,
-    "likeCount": 540,
+    "likeCount": 541,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217739,7 +217739,7 @@
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
     "repostCount": 117,
-    "likeCount": 548,
+    "likeCount": 551,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217838,6 +217838,29 @@
     "likeCount": 1,
     "indexedAt": "2026-09-15T21:32:07.483Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvlsbvxxzk2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvlsbvxxzk2g",
+    "cid": "bafyreidl324qzxupwppjcbe76sx2oiq3x7wgtswvljehvplyws3pnpdawq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 第1戦 岡山国際サーキット【特別編 GC Returns】 GTV 2026 ～SUPER GT トークバラエティ～ https://jod.jsports.co.jp/p/motor/supergt/112447-V",
+    "createdAt": "2026-09-15T23:39:26.935420Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-15T23:39:28.482Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/112447-V",
+        "title": "第1戦 岡山国際サーキット【特別編 GC Returns】 GTV 2026 ～SUPER GT トークバラエティ～｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "第1戦 岡山国際サーキット【特別編 GC Returns】 GTV 2026 ～SUPER GT トークバラエティ～を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigdw6pdwfkkvyniepegpycuqdzslp3q4tq7xfjx34li7skmtyy3hq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
