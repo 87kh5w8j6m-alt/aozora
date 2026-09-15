@@ -217739,7 +217739,7 @@
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 502,
+    "likeCount": 508,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217769,6 +217769,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-15T03:32:41.279Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkmjsyg522e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkmjsyg522e",
+    "cid": "bafyreic443zxjeoj2as6evg5drfekkxej3gorfjlcautcmy5dm7h4owqfa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOS26.7にアップデートちう…。",
+    "createdAt": "2026-09-15T12:23:51.037Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-15T12:23:51.478Z",
     "embed": null,
     "isRepost": false
   }
