@@ -217467,7 +217467,7 @@
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
     "repostCount": 141,
-    "likeCount": 685,
+    "likeCount": 686,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217615,7 +217615,7 @@
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
     "repostCount": 116,
-    "likeCount": 537,
+    "likeCount": 538,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217738,8 +217738,8 @@
     "text": "",
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
-    "repostCount": 114,
-    "likeCount": 508,
+    "repostCount": 115,
+    "likeCount": 516,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217785,6 +217785,44 @@
     "likeCount": 0,
     "indexedAt": "2026-09-15T12:23:51.478Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkostjta22e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkostjta22e",
+    "cid": "bafyreicl5345bthqpmyytntvfzabt4fe5p72wyrimpp4fko4agc64tjse4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#運転したことある自動車メーカー\nトヨタ\n日産\nマツダ\nスバル\nスズキ\nフォード\nプジョー\nボルボ",
+    "createdAt": "2026-09-15T13:04:41.080Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-15T13:04:41.381Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkoeywkxw2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvkoeywkxw2b",
+    "cid": "bafyreie57lq3p556dzu3eqpalllrjzozgk5qsjq4enjv6uwm24jzkxindy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 岡山国際サーキット ラウンド5・ラウンド6 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026 https://jod.jsports.co.jp/p/motor/sro_japan/111576-V",
+    "createdAt": "2026-09-15T12:56:54.449421Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-15T12:56:57.477Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/sro_japan/111576-V",
+        "title": "岡山国際サーキット ラウンド5・ラウンド6 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "岡山国際サーキット ラウンド5・ラウンド6 【GTレースのプロアマ混成決戦！】SROジャパンカップ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid66wowwf5uomwlchfuurwhwkteh2kanegdetzdoadfq5ehsfcs4y"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
