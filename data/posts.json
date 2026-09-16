@@ -210545,7 +210545,7 @@
     "createdAt": "2026-08-09T06:52:38.253Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 687,
+    "likeCount": 686,
     "indexedAt": "2026-08-09T06:52:45.424Z",
     "embed": {
       "images": [
@@ -211662,7 +211662,7 @@
     "createdAt": "2026-08-13T21:51:04.479Z",
     "replyCount": 0,
     "repostCount": 139,
-    "likeCount": 567,
+    "likeCount": 566,
     "indexedAt": "2026-08-13T21:51:10.228Z",
     "embed": {
       "images": [
@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 526,
+    "repostCount": 107,
+    "likeCount": 531,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -217986,6 +217986,36 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-09-16T21:08:18.880Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo6ukdvh226": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo6ukdvh226",
+    "cid": "bafyreiezx7upibmlivwh656dhcw7yovpf6v4oejcqiff5drtie3ynabbpi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "涼しい",
+    "createdAt": "2026-09-16T22:29:55.879879Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-16T22:29:57.779Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo5ewtez72v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo5ewtez72v",
+    "cid": "bafyreig2y3japgw6lsy34gvw25zj6v7vhbddquntzjciuoipnamrvclepa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第77回聴取終了",
+    "createdAt": "2026-09-16T22:03:19.505167Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-16T22:03:20.182Z",
     "embed": null,
     "isRepost": false
   }
