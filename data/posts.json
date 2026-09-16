@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 107,
-    "likeCount": 531,
+    "repostCount": 108,
+    "likeCount": 534,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218016,6 +218016,49 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-16T22:03:20.182Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:a6sryewiyxqjiyd53shvbdgq/app.bsky.feed.post/3mvod5p2hyc2i": {
+    "uri": "at://did:plc:a6sryewiyxqjiyd53shvbdgq/app.bsky.feed.post/3mvod5p2hyc2i",
+    "cid": "bafyreiczvgu7tjpehce6sa3776plxnpz2oynbsi7koyfvvtgp4gokydvaq",
+    "author": "kitm.bsky.social",
+    "authorName": "Kit M Agawa",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a6sryewiyxqjiyd53shvbdgq/bafkreie6r76qqi4za6nkr6bntmscwwcc2gc54h4av3p4p4b7zwmc3gpcae",
+    "text": "今朝は晴れ。河川敷は盛夏過ぎての草刈り中。草刈機のおじさんの周りをムクドリが飛び回る。",
+    "createdAt": "2026-09-16T23:46:39.531Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 0,
+    "indexedAt": "2026-09-16T23:46:47.585Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6sryewiyxqjiyd53shvbdgq/bafkreifozeywsogqbkfhr22rruzx2o6duyshuwap2luljogjvuu2xlch64",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6sryewiyxqjiyd53shvbdgq/bafkreifozeywsogqbkfhr22rruzx2o6duyshuwap2luljogjvuu2xlch64",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3999,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvod7hve3k2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvod7hve3k2b",
+    "cid": "bafyreifnccvezjp4jd6jiphziivywvhcuysqjq4j4ux3rsq6cdvczzvsem",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "そういえばしばらくBluesky見てないな…",
+    "createdAt": "2026-09-16T23:47:39.130Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-16T23:47:40.282Z",
     "embed": null,
     "isRepost": false
   }
