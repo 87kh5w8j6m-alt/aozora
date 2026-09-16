@@ -217877,5 +217877,20 @@
     "indexedAt": "2026-09-16T03:30:53.476Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvmuhdwlpx2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvmuhdwlpx2f",
+    "cid": "bafyreibcdfo2dvufzzue5dg2txnguypd6efjx2wcvuceo46rzw4p76hsty",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "平日の昼間から、地下室で地方競馬やってるゆるキャラ最高だな",
+    "createdAt": "2026-09-16T09:50:57.085181Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-16T09:50:57.677Z",
+    "embed": null,
+    "isRepost": false
   }
 }
