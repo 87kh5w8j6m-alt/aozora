@@ -217139,8 +217139,8 @@
     "text": "",
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
-    "repostCount": 103,
-    "likeCount": 533,
+    "repostCount": 104,
+    "likeCount": 534,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217466,8 +217466,8 @@
     "text": "",
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
-    "repostCount": 141,
-    "likeCount": 687,
+    "repostCount": 142,
+    "likeCount": 688,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217614,8 +217614,8 @@
     "text": "",
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
-    "repostCount": 116,
-    "likeCount": 542,
+    "repostCount": 117,
+    "likeCount": 543,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217738,8 +217738,8 @@
     "text": "",
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 561,
+    "repostCount": 119,
+    "likeCount": 562,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 103,
-    "likeCount": 523,
+    "repostCount": 105,
+    "likeCount": 526,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -217971,6 +217971,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-16T15:08:37.586Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo2ckfzzn2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvo2ckfzzn2f",
+    "cid": "bafyreigqlvtvknba46f6qmmwbznzf7peuf3qnejf4akc6d3odimulilr5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-09-16T21:08:18.245114Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-09-16T21:08:18.880Z",
     "embed": null,
     "isRepost": false
   }
