@@ -217892,5 +217892,28 @@
     "indexedAt": "2026-09-16T09:50:57.677Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvmuriv5lo2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvmuriv5lo2l",
+    "cid": "bafyreihjbwyiohx2pul2mxrwdpcwiznrr4gtwanmoh3umruuxyb4xqlypu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「機動戦艦ナデシコ」30周年記念PV https://youtu.be/uMyiXYfVq7c?si=DhGL9yniwtttucnS みんなでみよう！",
+    "createdAt": "2026-09-16T09:56:37.826463Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-16T09:56:38.780Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/uMyiXYfVq7c?si=DhGL9yniwtttucnS",
+        "title": "「機動戦艦ナデシコ」30周年記念PV",
+        "description": "テレビシリーズの放映から今年で30年を迎える「機動戦艦ナデシコ」30周年を記念したPVが公開！ホシノ・ルリ（CV.南央美）による新規ボイスも！◆「機動戦艦ナデシコ」とは…1996年10月にテレビシリーズ（全26話）が放映。本格的なSF要素を取り入れながらも、個性的なクルーたちの奮闘を、時にシリアスに、時にラブコメ...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieioeh3sx2eieo6iqiowbikxjnog2jp2wssivg4hzfoqpiq4yzg7a"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
