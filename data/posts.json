@@ -218101,8 +218101,8 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 81,
-    "likeCount": 380,
+    "repostCount": 86,
+    "likeCount": 410,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218144,8 +218144,8 @@
     "text": "夢宮あおいちゃん💙おねがいアイプリ✨",
     "createdAt": "2026-09-17T10:45:53.513Z",
     "replyCount": 0,
-    "repostCount": 2,
-    "likeCount": 8,
+    "repostCount": 4,
+    "likeCount": 11,
     "indexedAt": "2026-09-17T10:45:57.181Z",
     "embed": {
       "images": [
@@ -218162,5 +218162,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvplvoi4qs2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvplvoi4qs2e",
+    "cid": "bafyreievd3zw24nlif2scgvsjbr5eaxajaclybzppncb62l6dso4ptvrhy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "気分転換にディスプレイを縦にしてみた。",
+    "createdAt": "2026-09-17T11:55:53.911Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T11:55:54.279Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpltgwrs32q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpltgwrs32q",
+    "cid": "bafyreic5rjqlb56llpkajsyzd5mv3p4be5c3hccmcpmov4kycgc7vyfztm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第76話視聴終了。",
+    "createdAt": "2026-09-17T11:54:38.387544Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T11:54:38.979Z",
+    "embed": null,
+    "isRepost": false
   }
 }
