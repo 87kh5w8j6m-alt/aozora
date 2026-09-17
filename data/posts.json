@@ -217941,7 +217941,7 @@
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 560,
+    "likeCount": 561,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218101,8 +218101,8 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 99,
-    "likeCount": 485,
+    "repostCount": 103,
+    "likeCount": 493,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218203,7 +218203,7 @@
     "createdAt": "2026-09-17T13:46:14.424Z",
     "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-17T13:46:15.591Z",
     "embed": null,
     "isRepost": false
@@ -218295,6 +218295,21 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-09-17T21:12:15.681Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqqk456g32a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqqk456g32a",
+    "cid": "bafyreifnvvftrqhldrh7ci7cjsj6rr47jhd65oehyfbif44nbou6p3aiya",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ソロクッカーとコーヒーセットを放り込んでのオープンドライブ日和すぎる☀️",
+    "createdAt": "2026-09-17T22:51:33.040835Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T22:51:34.085Z",
     "embed": null,
     "isRepost": false
   }
