@@ -218076,5 +218076,91 @@
     "indexedAt": "2026-09-17T03:47:57.676Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpk3l7ao42b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpk3l7ao42b",
+    "cid": "bafyreigh2ieqr2eohezvu7qovxn24nrj4sk5ue5atut6imf7d2eio3qemm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "やっちまった。ゴミ箱に捨てるものを右手に家の鍵を左手に持ってたのに鍵をゴミ箱に捨てちゃった。",
+    "createdAt": "2026-09-17T11:23:23.581584Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T11:23:24.386Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvounycolc2d": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvounycolc2d",
+    "cid": "bafyreif4z7olme4ln7ossnmvdhyj73si7ds2d45mtlfc3bfwn2xes2sogm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-17T04:59:59.720Z",
+    "replyCount": 0,
+    "repostCount": 81,
+    "likeCount": 380,
+    "indexedAt": "2026-09-17T05:00:05.376Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidrwgldkknackm2cnp4we5v5jni5m3nhi5uixqnsvjzz2sj4xaveq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidrwgldkknackm2cnp4we5v5jni5m3nhi5uixqnsvjzz2sj4xaveq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpigll45c2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpigll45c2n",
+    "cid": "bafyreif7f2tf5ympjwap3i4jec7s6ztp2dj2wjdnyscslzwa7ggvl2equu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "しごおわ",
+    "createdAt": "2026-09-17T10:53:46.319Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-17T10:53:46.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mvphyiou222c": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mvphyiou222c",
+    "cid": "bafyreieyftnnhyf56zkoqbhkou4gjaqx4f4gyiiay3k7du6sg6urjjd2ji",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "夢宮あおいちゃん💙おねがいアイプリ✨",
+    "createdAt": "2026-09-17T10:45:53.513Z",
+    "replyCount": 0,
+    "repostCount": 2,
+    "likeCount": 8,
+    "indexedAt": "2026-09-17T10:45:57.181Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiddmedfkv6cqnpbtmxjwhh5qijlvv457lszpslwtchvvd3gajb6jm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiddmedfkv6cqnpbtmxjwhh5qijlvv457lszpslwtchvvd3gajb6jm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
