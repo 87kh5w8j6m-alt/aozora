@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 112,
-    "likeCount": 561,
+    "repostCount": 113,
+    "likeCount": 562,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218101,8 +218101,8 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 103,
-    "likeCount": 493,
+    "repostCount": 104,
+    "likeCount": 496,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218308,9 +218308,67 @@
     "createdAt": "2026-09-17T22:51:33.040835Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-17T22:51:34.085Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqtq6mbnj2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqtq6mbnj2l",
+    "cid": "bafyreiaidrqsowyfgctcsf7uusy7loq7bka745r6qcxyxpz6v6obqpt7bm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "小説やサントラが同梱の限定版はSwitch版だけなのでそこが悩みどころ",
+    "createdAt": "2026-09-17T23:48:38.218847Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T23:48:39.281Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqtom4wmr2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvqtom4wmr2j",
+    "cid": "bafyreiasktl2htveci6t3pikyrdvobiprlanthnx6yzgn7uti2pd7kcbmy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "楽園追放のゲーム、Switch版が発売だから久々にSwitchの出番かと思ったがSteam版もあったのでそっちらでいいか、と。Switchは長い眠りについたまま…💤",
+    "createdAt": "2026-09-17T23:47:45.213349Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T23:47:46.380Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvqsbrrci227": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvqsbrrci227",
+    "cid": "bafyreie4ojqs7lzbjsgt52fw36zp7z23lqf22vksvidcgnt4dw342zaxeq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-17T23:22:42.199Z",
+    "replyCount": 0,
+    "repostCount": 38,
+    "likeCount": 110,
+    "indexedAt": "2026-09-17T23:22:47.981Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidl7r2xumxi3vs42enctvmhs3stc7ikgpjgnohhmbiet72x54ykbq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidl7r2xumxi3vs42enctvmhs3stc7ikgpjgnohhmbiet72x54ykbq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
