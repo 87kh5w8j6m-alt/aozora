@@ -218102,7 +218102,7 @@
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
     "repostCount": 92,
-    "likeCount": 429,
+    "likeCount": 443,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218265,6 +218265,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-17T12:59:09.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpsvmylv62b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvpsvmylv62b",
+    "cid": "bafyreib7sq25gy7w4kkxuhqxi65t55jxkfdnb56o5lgwx4yn2jjzn3qiwa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "そういえばディナーショーの会場までのアクセス調べてなかった。まぁ都内なら何とでもなるだろうって思ってる",
+    "createdAt": "2026-09-17T14:01:08.105780Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-17T14:01:08.677Z",
     "embed": null,
     "isRepost": false
   }
