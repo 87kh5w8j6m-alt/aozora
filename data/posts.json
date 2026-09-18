@@ -218353,7 +218353,7 @@
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 549,
+    "likeCount": 560,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218399,6 +218399,52 @@
     "likeCount": 0,
     "indexedAt": "2026-09-18T08:37:01.678Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvscugec2c2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvscugec2c2y",
+    "cid": "bafyreigquwgsep7b72skj2szehvi2tpxxqvdzxeaqycqr2m6hemkunnii4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "1インチセンサーの「MISSION 1 PRO ILS」がマイクロフォーサーズマウントを採用したので、「マイクロフォーサーズ」がセンサーではなく規格の名称であることが広く普及するだろう（しない　|　GoProがマイクロフォーサーズ規格に賛同 - デジカメ Watch dc.watch.impress.co.jp/docs/news/21...",
+    "createdAt": "2026-09-18T13:52:07.381Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-18T13:52:09.480Z",
+    "embed": {
+      "external": {
+        "uri": "https://dc.watch.impress.co.jp/docs/news/2141860.html",
+        "title": "GoProがマイクロフォーサーズ規格に賛同",
+        "description": "OMデジタルソリューションズ株式会社とパナソニック株式会社は9月17日（木）、GoPro, Inc.がマイクロフォーサーズシステム規格に新たに賛同したと発表した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjiqhe3maha2lsm3iuufnhagcd72kxeo32lfob6brzv2fqrypigm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvsc72ybok2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvsc72ybok2y",
+    "cid": "bafyreid42m5rde6polyidcyplmxe3suymfivrxhmru2sjdfsh4lfj5nf2m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ル・マンを駆けた3世代が日本に集結｜TOYOTA RACING youtu.be/ZWcGamfurwo?...",
+    "createdAt": "2026-09-18T13:40:10.810Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-18T13:40:12.883Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/ZWcGamfurwo?si=EfbCBUOyEcif9434",
+        "title": "ル・マンを駆けた3世代が日本に集結｜TOYOTA RACING",
+        "description": "YouTube video by TOYOTA RACING",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7iydrq7ykzeqouiglswx4gaogurnvoklhrevt7yqhmu5in2zhx4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
