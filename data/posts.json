@@ -217941,7 +217941,7 @@
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 597,
+    "likeCount": 599,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 137,
-    "likeCount": 591,
+    "repostCount": 139,
+    "likeCount": 597,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218476,5 +218476,48 @@
     "indexedAt": "2026-09-18T21:37:20.182Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvta6x6mfk23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvta6x6mfk23",
+    "cid": "bafyreibtpofqmu72dob27xpzqrx2ku5f5dthxpsgqqjofraxw6d4vydkyq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "現代でオープンのライトウェイト2シーターつくれるメーカーがいるなんて……いったいどんなクルマがベース車両なんだ…。 www.mitsuoka-motor.com/la1/",
+    "createdAt": "2026-09-18T22:36:59.078Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-18T22:36:59.977Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvt5iayjvc2q": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mvt5iayjvc2q",
+    "cid": "bafyreif3kjry6njjvcyqxre6cc452xz5ipotapzr4yib6peo2i4wgpb4he",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-18T21:48:30.129Z",
+    "replyCount": 0,
+    "repostCount": 64,
+    "likeCount": 210,
+    "indexedAt": "2026-09-18T21:48:36.579Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib2agm7lc5boin3lfmyf7kpmp6swnsgdwsmttsbussbjntkhlygpe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib2agm7lc5boin3lfmyf7kpmp6swnsgdwsmttsbussbjntkhlygpe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
