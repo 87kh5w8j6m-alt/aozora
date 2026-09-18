@@ -217941,7 +217941,7 @@
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 589,
+    "likeCount": 591,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 467,
+    "repostCount": 121,
+    "likeCount": 492,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218383,6 +218383,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-18T03:43:01.084Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvrrayehet2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvrrayehet2b",
+    "cid": "bafyreiapjahc5e5iv3lwc5q7c5m6npild2cbyef3fmfl7cn7bwam43pjiq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はぴわた大感謝祭昼夜当選🎉\n#堀江由衣",
+    "createdAt": "2026-09-18T08:36:59.900528Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-18T08:37:01.678Z",
     "embed": null,
     "isRepost": false
   }
