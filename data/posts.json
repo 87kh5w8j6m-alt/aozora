@@ -218101,7 +218101,7 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 108,
+    "repostCount": 109,
     "likeCount": 523,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
@@ -218353,7 +218353,7 @@
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
     "repostCount": 137,
-    "likeCount": 590,
+    "likeCount": 591,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218445,6 +218445,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvt554arvv2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvt554arvv2b",
+    "cid": "bafyreidakpgqlj6ixuaq6wa5vbxoisj4vkphl6sgjk4wvepu5ywrygoame",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1251回聴取終了。silky heart好きー。日頃の感謝！\n#tentama",
+    "createdAt": "2026-09-18T21:42:14.763098Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-18T21:42:16.096Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvt4uby22j2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvt4uby22j2b",
+    "cid": "bafyreifxfwsctoymg2efbet43st6qec24dntqj3r5gh6vbqomdf6bycgoa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-09-18T21:37:18.996578Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-18T21:37:20.182Z",
+    "embed": null,
     "isRepost": false
   }
 }
