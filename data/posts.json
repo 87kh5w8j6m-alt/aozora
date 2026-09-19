@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 148,
-    "likeCount": 627,
+    "repostCount": 149,
+    "likeCount": 628,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218501,8 +218501,8 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
-    "repostCount": 124,
-    "likeCount": 597,
+    "repostCount": 126,
+    "likeCount": 605,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218979,6 +218979,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-19T12:01:59.476Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvur4jivqp2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvur4jivqp2k",
+    "cid": "bafyreie44uaqsqfn7i4re4yc4tnamzp5iyjj66pxkkyjlgyvbyn7s4mgby",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC Fujiのチケット発券した。入場券はクラウドパスなのに指定席券や指定駐車券は紙なのやめて欲しい。どっちかに統一してくれ。買ったかどうか分からなくなる。",
+    "createdAt": "2026-09-19T13:12:30.494891Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T13:12:31.086Z",
     "embed": null,
     "isRepost": false
   }
