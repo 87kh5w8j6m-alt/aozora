@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 189,
-    "likeCount": 782,
+    "likeCount": 783,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 128,
-    "likeCount": 540,
+    "likeCount": 541,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -217739,7 +217739,7 @@
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
     "repostCount": 122,
-    "likeCount": 573,
+    "likeCount": 574,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 124,
-    "likeCount": 605,
+    "repostCount": 125,
+    "likeCount": 608,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218101,8 +218101,8 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 110,
-    "likeCount": 533,
+    "repostCount": 111,
+    "likeCount": 536,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 147,
-    "likeCount": 623,
+    "repostCount": 148,
+    "likeCount": 626,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218502,7 +218502,7 @@
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 579,
+    "likeCount": 592,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218605,7 +218605,7 @@
     "createdAt": "2026-09-19T01:52:31.978894Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-19T01:52:33.707Z",
     "embed": {
       "images": [
@@ -218649,8 +218649,277 @@
     "createdAt": "2026-09-19T05:47:06.679979Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-19T05:47:08.380Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvul4536h22g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvul4536h22g",
+    "cid": "bafyreiedcbnyrl7ymmfbmcuzqijqxtxy2j5f4t5vkkykbo5zmubrkyyzce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "どのくらいか知らないがいつものライブよりは全然キャパが少ないからまあまあのチケット倍率をつかみ取ってのイベントだから特別といえば特別。 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T11:24:55.489Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T11:24:56.781Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujydjqdg2a",
+        "cid": "bafyreiagjmhiuw5pd3rtwxqr27mrblb33hrubyh7nojau3qhosj44ketx4",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-09-19T11:04:53.356610Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "オタクなのでイベント当日にはすでにチケット代払ったの忘れているので、無料でこんな素晴らしいディナーショーに参加できる私はきっと特別な存在なんだと思いました！😍",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 2,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-09-19T11:04:54.381Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvukwgaumr2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvukwgaumr2q",
+    "cid": "bafyreibx5mppfbj3hiuhfnoh23uuwsgncn7sqv74rzttbakmifvieae7pe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "照明を落としてサイリウムの星々が輝く夜空の中でほっちゃんが歌うStarry nightは最高でした……！\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T11:21:42.744686Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T11:21:43.878Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvukrlnozs2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvukrlnozs2b",
+    "cid": "bafyreihao2rcp3d6uo7qmt5l7qt3h7lwyr2p25nbdijwqb7xy43436utka",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "実際、推しの姿を拝みながら素敵なディナーを食べられて、その上推しのライブを見られるなんて、特別な時間以外のなにものでもないじゃないか",
+    "createdAt": "2026-09-19T11:19:00.642449Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-19T11:19:04.687Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvuk6vxujz2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvuk6vxujz2y",
+    "cid": "bafyreigtexw3buql4mtrdeartdiyep2phdjnhzf3xz5abpzqi367d5oqgu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昼夜両公演ともにStage1,2の謎が会場から開演までの間にちょうど解けるくらいの難度でスゴい。もうすぐ始まっちゃうってくらいに解けて気持ちよくショーに望めた！\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T11:08:33.942426Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T11:08:35.176Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujydjqdg2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujydjqdg2a",
+    "cid": "bafyreiagjmhiuw5pd3rtwxqr27mrblb33hrubyh7nojau3qhosj44ketx4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "オタクなのでイベント当日にはすでにチケット代払ったの忘れているので、無料でこんな素晴らしいディナーショーに参加できる私はきっと特別な存在なんだと思いました！😍",
+    "createdAt": "2026-09-19T11:04:53.356610Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-09-19T11:04:54.381Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujsswniw2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujsswniw2v",
+    "cid": "bafyreihii3karnien4hacqbaxp7qem7bn4lckz6d62xrhf3na42uqbcvsy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ショーだけじゃなくってもちろんディナーのほうも大変美味しかった😊ウェルカムドリンクのアップルジュースにも大満足🍎\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T11:01:48.135524Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-09-19T11:01:49.579Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigsmztic7rckt3klra22sercbsbdbpwemfe2ngbxdjryy6fivadlu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigsmztic7rckt3klra22sercbsbdbpwemfe2ngbxdjryy6fivadlu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiblnetwb4ypnflzliclwghidzxkqytqxvmaadjhkfqarzbuvbernu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiblnetwb4ypnflzliclwghidzxkqytqxvmaadjhkfqarzbuvbernu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiby2qpqzbv74ul6zhwhnmcw5zppivquneif677f67qkmtu4psoqxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiby2qpqzbv74ul6zhwhnmcw5zppivquneif677f67qkmtu4psoqxy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib4ucimsuz5nnmusvh6fwsotzraivcr4vlk2nn2cvz3n2kbupj7sy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib4ucimsuz5nnmusvh6fwsotzraivcr4vlk2nn2cvz3n2kbupj7sy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujmlvkxd2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujmlvkxd2v",
+    "cid": "bafyreiepzay7t2rcexbp5yvxiuq2uhyllldfeciadg5atwb7ktftzmw434",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "会場のヒルトン東京お台場でディナーショー見られて特別な気持ち特別な時間を過ごさせてもらいました！ありがとうございました。ヒルトンのスタッフさんたちがほっちゃんのライブパート見てるのが不思議な感じでした。\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T10:58:19.445435Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-09-19T10:58:21.081Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib4xsvf2ooffwi5fl64ogax3eog34vjhb6xlisup54bcw72u3jp34",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib4xsvf2ooffwi5fl64ogax3eog34vjhb6xlisup54bcw72u3jp34",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihk2km3ilnxaxtqrgdqo7sgs5zdmybvzlngr6nhi4umylqfqr35j4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihk2km3ilnxaxtqrgdqo7sgs5zdmybvzlngr6nhi4umylqfqr35j4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie6j53ixtzzlc5pzd5e3sadwy6ey6wv3ikxyhvjeqjj2qjfaxd6ge",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie6j53ixtzzlc5pzd5e3sadwy6ey6wv3ikxyhvjeqjj2qjfaxd6ge",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigmtjyg25ftxllf2zps4nqs6thfbcg2yuklvrokeiv7fvdphtlile",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigmtjyg25ftxllf2zps4nqs6thfbcg2yuklvrokeiv7fvdphtlile",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1334,
+            "width": 1779
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujgtbl5u2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujgtbl5u2a",
+    "cid": "bafyreifledxkshx5ekwsc3atzlpgka6e3btuzyea7rsbzguw7svymyvzb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ああぁ〜、昼公演も夜公演もほっちゃん可愛すぎる。客席で練り歩きで間近でほっちゃん見られて幸せ〜😊\n昼はメインステージ近く、夜はバックステージ近くで両方のパートを間近で見られてめちゃ嬉しい☺️\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T10:55:05.597548Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-19T10:55:06.978Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujcmzhl42a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvujcmzhl42a",
+    "cid": "bafyreibf3e5md2rrepawsbc5wqcc2e2wf7kauuds52gugdo2ldyivicv6i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「堀江由衣 謎解きはディナーショーの途中で 2026」夜公演 観た。やっぱり昼とは謎解きのネタ変わってた！全通勢も楽しめるように大阪含めた4公演全て異なる結末だったと！流石ほっちゃん、流石諏訪さん！素敵なディナーショーを本当にありがとうございました！\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T10:52:45.063600Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-19T10:52:46.176Z",
     "embed": null,
     "isRepost": false
   }
