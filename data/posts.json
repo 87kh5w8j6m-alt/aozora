@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 128,
-    "likeCount": 539,
+    "likeCount": 540,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -217940,8 +217940,8 @@
     "text": "",
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
-    "repostCount": 123,
-    "likeCount": 600,
+    "repostCount": 124,
+    "likeCount": 601,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218101,8 +218101,8 @@
     "text": "",
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 526,
+    "repostCount": 110,
+    "likeCount": 528,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 144,
-    "likeCount": 616,
+    "repostCount": 145,
+    "likeCount": 617,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218501,8 +218501,8 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 469,
+    "repostCount": 111,
+    "likeCount": 490,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218622,6 +218622,36 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtyayyn5h2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtyayyn5h2g",
+    "cid": "bafyreicvwpekxwapskvij6vv3agp4e7afbvvbzvsbvrmqlg3etvphzdkfm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "夜公演までにお腹空かせておかないと！",
+    "createdAt": "2026-09-19T05:47:36.791012Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T05:47:38.077Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtya4r2zi26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtya4r2zi26",
+    "cid": "bafyreibdjb7qbj2ehbvhm2b7uc2qpc5ykrn2w5ighyzbjzxzcvpzbb3hmy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「堀江由衣 謎解きはディナーショーの途中で 2026」昼公演 観た。用意されてる謎もショーの進行も全てがちょうどよく完璧なディナーショーだった。でも一番気持ちよかったのはほっちゃんのライブパートと謎が解けた瞬間！思わず声出た！素敵なディナーショーをありがとうございましたー！\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T05:47:06.679979Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T05:47:08.380Z",
+    "embed": null,
     "isRepost": false
   }
 }
