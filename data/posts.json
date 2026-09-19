@@ -216346,7 +216346,7 @@
     "createdAt": "2026-09-06T21:42:31.874Z",
     "replyCount": 0,
     "repostCount": 123,
-    "likeCount": 582,
+    "likeCount": 583,
     "indexedAt": "2026-09-06T21:42:37.389Z",
     "embed": {
       "images": [
@@ -216510,7 +216510,7 @@
     "createdAt": "2026-09-08T00:53:08.792Z",
     "replyCount": 1,
     "repostCount": 122,
-    "likeCount": 576,
+    "likeCount": 577,
     "indexedAt": "2026-09-08T00:53:15.277Z",
     "embed": {
       "images": [
@@ -216755,7 +216755,7 @@
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
     "repostCount": 128,
-    "likeCount": 541,
+    "likeCount": 542,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -216992,7 +216992,7 @@
     "createdAt": "2026-09-09T22:42:37.747Z",
     "replyCount": 1,
     "repostCount": 106,
-    "likeCount": 456,
+    "likeCount": 457,
     "indexedAt": "2026-09-09T22:43:17.779Z",
     "embed": {
       "images": [
@@ -217140,7 +217140,7 @@
     "createdAt": "2026-09-10T21:42:34.459Z",
     "replyCount": 0,
     "repostCount": 105,
-    "likeCount": 536,
+    "likeCount": 537,
     "indexedAt": "2026-09-10T21:42:41.682Z",
     "embed": {
       "images": [
@@ -217319,7 +217319,7 @@
     "createdAt": "2026-09-11T22:14:10.274Z",
     "replyCount": 1,
     "repostCount": 149,
-    "likeCount": 645,
+    "likeCount": 646,
     "indexedAt": "2026-09-11T22:14:23.377Z",
     "embed": {
       "images": [
@@ -217467,7 +217467,7 @@
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
     "repostCount": 145,
-    "likeCount": 698,
+    "likeCount": 699,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217615,7 +217615,7 @@
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
     "repostCount": 119,
-    "likeCount": 549,
+    "likeCount": 550,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -217739,7 +217739,7 @@
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
     "repostCount": 122,
-    "likeCount": 574,
+    "likeCount": 575,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217941,7 +217941,7 @@
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
     "repostCount": 125,
-    "likeCount": 608,
+    "likeCount": 609,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -218102,7 +218102,7 @@
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 536,
+    "likeCount": 537,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218353,7 +218353,7 @@
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
     "repostCount": 148,
-    "likeCount": 626,
+    "likeCount": 627,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218501,8 +218501,8 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
-    "repostCount": 123,
-    "likeCount": 592,
+    "repostCount": 124,
+    "likeCount": 597,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218918,8 +218918,67 @@
     "createdAt": "2026-09-19T10:52:45.063600Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-09-19T10:52:46.176Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvupixohfg2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvupixohfg2l",
+    "cid": "bafyreihdavjinj5qe3xywhltxovwacprnc5o5z5j4652mfo3eaaefpz7o4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "滑って転ぶこともなく、財布やスマホを落とすこともなく、ヤンキーに絡まれることもなく、無事帰宅。\n#堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T12:43:40.478494Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T12:43:41.181Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvunvvgsfi2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvunvvgsfi2g",
+    "cid": "bafyreiexobgl77sp2ffyhvfvlyvhsufmfblvvbiv52hci2eoxoynbuoqeu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "普段から食事の写真を撮影する習慣がないから、ディナーショーでもお料理の写真をだいぶ取り損ねた\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T12:15:06.883583Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-19T12:15:07.880Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidsxvaxvbjoyzcf66qejmflqg4xc2ehfis4qvfrfbxho25miya2fa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidsxvaxvbjoyzcf66qejmflqg4xc2ehfis4qvfrfbxho25miya2fa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvun6fp7mq2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvun6fp7mq2l",
+    "cid": "bafyreieriyyhzminthzazt3nceeavnqdu62lofuqk62tu43osx4r7qfmkm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "初めてのディナーショー、目も耳も舌も幸せな特別なイベントでした\n#堀江由衣 #堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T12:01:58.551952Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T12:01:59.476Z",
     "embed": null,
     "isRepost": false
   }
