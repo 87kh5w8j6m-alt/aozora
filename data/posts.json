@@ -218102,7 +218102,7 @@
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 525,
+    "likeCount": 526,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 140,
-    "likeCount": 604,
+    "repostCount": 143,
+    "likeCount": 611,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218501,8 +218501,8 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
-    "repostCount": 95,
-    "likeCount": 379,
+    "repostCount": 98,
+    "likeCount": 413,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218530,7 +218530,7 @@
     "createdAt": "2026-09-19T01:20:09.016322Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-19T01:20:10.778Z",
     "embed": {
       "images": [
@@ -218592,6 +218592,35 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtl4ni3x62k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtl4ni3x62k",
+    "cid": "bafyreibnoxvls3cht22ivadtiegbpomswfyvgmkut6jpnwgce5k63c5lsq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "会場受付開始〜\n#堀江由衣ディナーショー",
+    "createdAt": "2026-09-19T01:52:31.978894Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T01:52:33.707Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigmtjyg25ftxllf2zps4nqs6thfbcg2yuklvrokeiv7fvdphtlile",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigmtjyg25ftxllf2zps4nqs6thfbcg2yuklvrokeiv7fvdphtlile",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1334,
+            "width": 1779
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
