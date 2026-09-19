@@ -219007,8 +219007,23 @@
     "createdAt": "2026-09-19T21:47:18.592046Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 2,
     "indexedAt": "2026-09-19T21:47:19.183Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvvpvs44vq2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvvpvs44vq2l",
+    "cid": "bafyreibolunp5neqb6zme5bsyv7nogoxq2io5p6tg4a5p276fgew6wklke",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第479回聴取終了。",
+    "createdAt": "2026-09-19T22:23:30.568230Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T22:23:31.183Z",
     "embed": null,
     "isRepost": false
   }
