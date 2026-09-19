@@ -218102,7 +218102,7 @@
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 524,
+    "likeCount": 525,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218352,8 +218352,8 @@
     "text": "",
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
-    "repostCount": 139,
-    "likeCount": 602,
+    "repostCount": 140,
+    "likeCount": 604,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218501,8 +218501,8 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 336,
+    "repostCount": 95,
+    "likeCount": 379,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -218519,5 +218519,80 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtjcqihx62j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtjcqihx62j",
+    "cid": "bafyreiaxb6mthzpvwp2etm3q2s2qp36dfwlxnn2vvpvv2r4bmrysfu7t6e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日はこちら\n#堀江由衣 #黒ネコ同盟",
+    "createdAt": "2026-09-19T01:20:09.016322Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T01:20:10.778Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieub646ftnnwrzizoif4yqorklhjqm6vx4ypxzvdyuffg2h3hnjfa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieub646ftnnwrzizoif4yqorklhjqm6vx4ypxzvdyuffg2h3hnjfa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 2028,
+            "width": 2704
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtihw3yhn2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtihw3yhn2f",
+    "cid": "bafyreiajaht5ry7kjzcqpocogynt3jewrlg22bxhlf52qzwxr4vpk644eu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at ヒルトン東京お台場 in  東京 https://app.foursquare.com/share/checkin/6aaddfaec02dba47adbad3d9?s=qvA2lockg9kBw8J9ZgFfPXxjP1E&lang=ja",
+    "createdAt": "2026-09-19T01:05:08.945938Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-19T01:05:10.480Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6aaddfaec02dba47adbad3d9?s=qvA2lockg9kBw8J9ZgFfPXxjP1E&lang=ja",
+        "title": "jiminy nseries's check in at ヒルトン東京お台場",
+        "description": "https://app.foursquare.com/share/checkin/6aaddfaec02dba47adbad3d9?s=qvA2lockg9kBw8J9ZgFfPXxjP1E&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtibnw5242l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvtibnw5242l",
+    "cid": "bafyreid4oljtwnrvk2nqxt6q63a4u2ubmyidscz73izdmzc4w7sptnqzyi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 台場駅 in  東京 https://app.foursquare.com/share/checkin/6aadded2665fd14e978f351c?s=_4H5OyyoKpdXwozTpsGpW2yonaQ&lang=ja",
+    "createdAt": "2026-09-19T01:01:38.996034Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-19T01:01:40.078Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6aadded2665fd14e978f351c?s=_4H5OyyoKpdXwozTpsGpW2yonaQ&lang=ja",
+        "title": "jiminy nseries's check in at 台場駅",
+        "description": "https://app.foursquare.com/share/checkin/6aadded2665fd14e978f351c?s=_4H5OyyoKpdXwozTpsGpW2yonaQ&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
