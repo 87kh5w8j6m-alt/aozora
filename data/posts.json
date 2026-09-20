@@ -212147,8 +212147,8 @@
     "text": "",
     "createdAt": "2026-08-16T01:39:56.587Z",
     "replyCount": 1,
-    "repostCount": 157,
-    "likeCount": 709,
+    "repostCount": 156,
+    "likeCount": 708,
     "indexedAt": "2026-08-16T01:40:04.727Z",
     "embed": {
       "images": [
@@ -213721,7 +213721,7 @@
     "createdAt": "2026-08-20T04:29:17.802Z",
     "replyCount": 4,
     "repostCount": 246,
-    "likeCount": 1180,
+    "likeCount": 1179,
     "indexedAt": "2026-08-20T04:29:28.528Z",
     "embed": {
       "images": [
@@ -215380,7 +215380,7 @@
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
     "repostCount": 195,
-    "likeCount": 922,
+    "likeCount": 921,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -219089,8 +219089,8 @@
     "text": "",
     "createdAt": "2026-09-20T02:14:07.872Z",
     "replyCount": 1,
-    "repostCount": 123,
-    "likeCount": 487,
+    "repostCount": 125,
+    "likeCount": 500,
     "indexedAt": "2026-09-20T02:14:13.183Z",
     "embed": {
       "images": [
@@ -219107,5 +219107,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvxamkzubt2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvxamkzubt2k",
+    "cid": "bafyreigi7pgv4wfqz2w6ovxxdffnlktp2dv6guzhzopnrvv5okblpjmukm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | レビュー 第11戦 ラリー・パラグアイ WRC世界ラリー選手権 2026 https://jod.jsports.co.jp/p/motor/wrc/111575-V",
+    "createdAt": "2026-09-20T12:55:14.012666Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-20T12:55:15.580Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wrc/111575-V",
+        "title": "レビュー 第11戦 ラリー・パラグアイ WRC世界ラリー選手権 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "レビュー 第11戦 ラリー・パラグアイ WRC世界ラリー選手権 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidozlj5oyjb5m427k72ku3dbxu7mgf64jvgu5pmeymhwtjokp42bi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
