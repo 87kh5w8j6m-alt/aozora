@@ -218502,7 +218502,7 @@
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 1,
     "repostCount": 135,
-    "likeCount": 651,
+    "likeCount": 655,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -219040,6 +219040,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-20T03:38:34.678Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvwku2ez6u2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvwku2ez6u2y",
+    "cid": "bafyreidu433mce3fqahkjw7wqu5mhap7nfytgqtwifvpoyc3osvrlmu5uu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 小林可夢偉が語る2026 ル・マン24時間レース 勝利の舞台裏 https://jod.jsports.co.jp/p/motor/wec/112502-V",
+    "createdAt": "2026-09-20T06:25:43.173654Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-20T06:25:44.378Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wec/112502-V",
+        "title": "小林可夢偉が語る2026 ル・マン24時間レース 勝利の舞台裏｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "小林可夢偉が語る2026 ル・マン24時間レース 勝利の舞台裏を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihkgex3iofwi3m55mvwgyqkfwb2vg4hfe5elmwtktdmgjmarl5uiu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
