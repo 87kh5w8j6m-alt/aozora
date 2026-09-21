@@ -215204,7 +215204,7 @@
     "createdAt": "2026-08-30T16:02:07.595Z",
     "replyCount": 0,
     "repostCount": 80,
-    "likeCount": 178,
+    "likeCount": 179,
     "indexedAt": "2026-08-30T16:02:13.131Z",
     "embed": {
       "images": [
@@ -219090,7 +219090,7 @@
     "createdAt": "2026-09-20T02:14:07.872Z",
     "replyCount": 2,
     "repostCount": 131,
-    "likeCount": 552,
+    "likeCount": 554,
     "indexedAt": "2026-09-20T02:14:13.183Z",
     "embed": {
       "images": [
@@ -219140,8 +219140,8 @@
     "text": "",
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
-    "repostCount": 71,
-    "likeCount": 256,
+    "repostCount": 89,
+    "likeCount": 333,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219172,6 +219172,52 @@
     "likeCount": 1,
     "indexedAt": "2026-09-21T00:23:49.878Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvyoxws2uc2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvyoxws2uc2j",
+    "cid": "bafyreihxi5udgjey7vihusu5soimus7h73azotsg2t4c6d7oq5sdstb7ou",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Apple Storeオンラインでドコモ機種変更、eSIMクイック転送が利用不能であることが明らかに smhn.info/202609-docom... これって昨年も話題にあがったっけ?なぜ今?",
+    "createdAt": "2026-09-21T02:44:48.605Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-21T02:44:51.478Z",
+    "embed": {
+      "external": {
+        "uri": "https://smhn.info/202609-docomo-apple-store-upgrade-esim-activation",
+        "title": "Apple Storeオンラインでドコモ機種変更、eSIMクイック転送が利用不能であることが明らかに - すまほん!!",
+        "description": "Apple StoreオンラインでiPhoneを購入し、ドコモの回線手続きを「機種変更」で申し込んだ場合、開通時にeSIMクイック転送は利用できないことが明らかとなりました。ドコモが発表しています。eSIMクイック転送は、これまで使っていたiPhoneの回線を、新しいiPhone...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidpxfky7zobwmsg2yrw2gxi44jsqpsn6lyhysi3otjbafqc4iqeci"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvyo3aiffv2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvyo3aiffv2k",
+    "cid": "bafyreidxze6vlbtuk6vogy4c6shnl3tdbyq5j2xtzb5orczmqziopnahym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第6戦 スポーツランドSUGO SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/111741-V",
+    "createdAt": "2026-09-21T02:28:45.217727Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-21T02:28:46.279Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111741-V",
+        "title": "予選 第6戦 スポーツランドSUGO SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第6戦 スポーツランドSUGO SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia2eqtb4uljcwezofs7r6w6xhxs27obj7qza2ueeml7cvj6pqnnje"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
