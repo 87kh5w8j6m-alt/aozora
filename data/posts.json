@@ -219140,8 +219140,8 @@
     "text": "",
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
-    "repostCount": 114,
-    "likeCount": 452,
+    "repostCount": 123,
+    "likeCount": 489,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219215,6 +219215,29 @@
         "title": "予選 第6戦 スポーツランドSUGO SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
         "description": "予選 第6戦 スポーツランドSUGO SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia2eqtb4uljcwezofs7r6w6xhxs27obj7qza2ueeml7cvj6pqnnje"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvywkjrwky2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mvywkjrwky2f",
+    "cid": "bafyreianhh5haaiawoat47lm555vpyzinmelag723robsss6gtxi2ag7f4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第6戦 スポーツランドSUGO SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/111742-V",
+    "createdAt": "2026-09-21T05:00:28.208013Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-21T05:00:29.381Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111742-V",
+        "title": "決勝 第6戦 スポーツランドSUGO SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第6戦 スポーツランドSUGO SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibmhmkqqaeezn6w5hzrptipi4ii4fmu3mfgwxke32jbjvpib7twmy"
       },
       "$type": "app.bsky.embed.external#view"
     },
