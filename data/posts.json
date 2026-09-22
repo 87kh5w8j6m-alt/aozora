@@ -219295,5 +219295,61 @@
     "indexedAt": "2026-09-22T12:02:15.484Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mw57e7tsis2n": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mw57e7tsis2n",
+    "cid": "bafyreiea2xidj5t4ub4njkcdc6z3ly6nxrg6hytca23eht24xvnqn6megq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-22T21:48:39.574Z",
+    "replyCount": 0,
+    "repostCount": 58,
+    "likeCount": 168,
+    "indexedAt": "2026-09-22T21:48:45.580Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreih6qs65m5b6uoxlrxxmo2xpsbc7hbceeg4hl2ui76bm3mard3ys3i",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreih6qs65m5b6uoxlrxxmo2xpsbc7hbceeg4hl2ui76bm3mard3ys3i",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mw2p3xwamc2n": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mw2p3xwamc2n",
+    "cid": "bafyreidndbrvuht2kxandn4h6tgq2lr4dvh2ao2gczcvsdnatwp7dpfqyq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-21T21:52:23.485Z",
+    "replyCount": 0,
+    "repostCount": 163,
+    "likeCount": 790,
+    "indexedAt": "2026-09-21T21:52:33.481Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreih3yfoworqtc5ybloniwzrjrvmrx2bbb2nogtiyexybhnfo6bf75u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreih3yfoworqtc5ybloniwzrjrvmrx2bbb2nogtiyexybhnfo6bf75u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
