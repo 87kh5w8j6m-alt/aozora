@@ -219140,8 +219140,8 @@
     "text": "",
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
-    "repostCount": 172,
-    "likeCount": 761,
+    "repostCount": 175,
+    "likeCount": 766,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219256,6 +219256,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-21T21:12:50.890Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mw3bhjm5vb2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mw3bhjm5vb2y",
+    "cid": "bafyreifp7p6fqmgw6trze5qq5viuaedf7gask3uibzhmylzaycnrimkpc4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 中央道本線跡地 in  上野原市 https://app.foursquare.com/share/checkin/6ab1f40350ccc54383a3d025?s=c1_szaFwjEpuI2lPWHkqKDyN3l8&lang=ja",
+    "createdAt": "2026-09-22T03:20:57.537243Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-22T03:20:58.577Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6ab1f40350ccc54383a3d025?s=c1_szaFwjEpuI2lPWHkqKDyN3l8&lang=ja",
+        "title": "jiminy nseries's check in at 中央道本線跡地",
+        "description": "https://app.foursquare.com/share/checkin/6ab1f40350ccc54383a3d025?s=c1_szaFwjEpuI2lPWHkqKDyN3l8&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
