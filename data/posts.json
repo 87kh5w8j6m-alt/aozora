@@ -219141,7 +219141,7 @@
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
     "repostCount": 177,
-    "likeCount": 784,
+    "likeCount": 785,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219305,8 +219305,8 @@
     "text": "",
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 0,
-    "repostCount": 69,
-    "likeCount": 233,
+    "repostCount": 82,
+    "likeCount": 290,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -219334,7 +219334,7 @@
     "createdAt": "2026-09-21T21:52:23.485Z",
     "replyCount": 0,
     "repostCount": 163,
-    "likeCount": 793,
+    "likeCount": 796,
     "indexedAt": "2026-09-21T21:52:33.481Z",
     "embed": {
       "images": [
@@ -219351,5 +219351,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mw5hlcvtls2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mw5hlcvtls2r",
+    "cid": "bafyreif4wbhn3umt7ccbwzq7ytdbemfgeo5oggi2tamww64k5icuoe42q4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ウイリアムズはバクーで大型アップデートも、代表は「ポイントを獲得できる位置に到達するには不十分」と改善を焦らず  - www.as-web.jp/f1/1354827 組織を立て直しするってそれもう何回目？",
+    "createdAt": "2026-09-23T00:15:47.603Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-23T00:15:51.477Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1354827",
+        "title": "ウイリアムズはバクーで大型アップデートも、代表は「ポイントを獲得できる位置に到達するには不十分」と改善を焦らず | ニュース | autosport web",
+        "description": "アトラシアン・ウイリアムズF1チームは、問題を抱えた2026年型マシン『FW48』の大規模なアップグレードパッケージを用意して第15戦アゼルバイジャンGPに向",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicfsn22ve4vmabbq375i7zorb66m4qqw7mi7givy3tr7z5mckzozq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
