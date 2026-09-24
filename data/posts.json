@@ -217125,7 +217125,7 @@
     "createdAt": "2026-09-10T23:46:16.582786Z",
     "replyCount": 0,
     "repostCount": 1,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-09-10T23:46:17.681Z",
     "embed": null,
     "isRepost": false
@@ -219429,8 +219429,8 @@
     "text": "",
     "createdAt": "2026-09-24T02:00:45.396Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 502,
+    "repostCount": 116,
+    "likeCount": 525,
     "indexedAt": "2026-09-24T02:00:51.680Z",
     "embed": {
       "images": [
@@ -219583,7 +219583,7 @@
     "text": "アニメ「ルルットリリィ」第2クールのメインPV　第1クール総集編を放送＆YouTubeでプレミア公開（動画あり）\r\nhttps://natalie.mu/comic/news/690839?utm_source=bluesky&utm_medium=social\r\n\r\n第1クールの振り返り一挙放送も\r\n\r\n#魔法の姉妹ルルットリリィ #るるりり",
     "createdAt": "2026-09-24T19:00:30+09:00",
     "replyCount": 0,
-    "repostCount": 5,
+    "repostCount": 8,
     "likeCount": 9,
     "indexedAt": "2026-09-24T10:00:32.880Z",
     "embed": {
@@ -219601,5 +219601,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwb5nomcof2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwb5nomcof2f",
+    "cid": "bafyreicllqsi6shdyafcer57ewgrhx2xc44mzge4z22wnossevkbq2zksi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アゼルバイジャンGP FP1見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-24T11:28:48.049255Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T11:28:48.701Z",
+    "embed": null,
+    "isRepost": false
   }
 }
