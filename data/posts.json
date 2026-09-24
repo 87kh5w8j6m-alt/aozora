@@ -219306,7 +219306,7 @@
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
     "repostCount": 136,
-    "likeCount": 595,
+    "likeCount": 597,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -219429,8 +219429,8 @@
     "text": "",
     "createdAt": "2026-09-24T02:00:45.396Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 484,
+    "repostCount": 111,
+    "likeCount": 502,
     "indexedAt": "2026-09-24T02:00:51.680Z",
     "embed": {
       "images": [
@@ -219441,6 +219441,160 @@
           "aspectRatio": {
             "height": 1391,
             "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwazh52wwc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwazh52wwc2n",
+    "cid": "bafyreifsiifr3lyhdnyhcjgjpjxzp7g5it4hfc34oz6bqx2vyqhusp5u4u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「一人で来る参加者が周りとあまり会話ができなかったとしても気まずくならないように、一人でも手元の作業に集中できるような、もしくは謎解きをきっかけに周りと話せるような、そんな時間にしたかったとのこと」ほっちゃんの心遣い最高だ",
+    "createdAt": "2026-09-24T10:13:33.815Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T10:13:34.883Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwazfjcvkd2x",
+        "cid": "bafyreibirgsi57p74z54h2rrih7372plfomuumy6mxekjjm7b7eto3kjze",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-09-24T10:12:38.637819Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "$type": "app.bsky.embed.external#external",
+              "description": "声優・アーティストとして活躍する堀江由衣が、初のディナーショー「謎解きはディナーショーの途中で 2026」を東京・大阪の2か所で計4公演開催。ここでは9月19日（土）にヒルトン東京お台場で開催された東京公演夜の部の模様をレポートする。",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiao3mpjua4ahhss3r4li7icr63wggrzdpdt5b66ilwqvsbc3j62wy"
+                },
+                "mimeType": "image/jpeg",
+                "size": 274550
+              },
+              "title": "堀江由衣 初のディナーショーは観客も「謎解き」に巻き込まれる展開に 「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演 – KING RECORDS TODAY",
+              "uri": "https://news.kingrecords.co.jp/2026/09/59267/"
+            }
+          },
+          "facets": [
+            {
+              "$type": "app.bsky.richtext.facet",
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://news.kingrecords.co.jp/2026/09/59267/"
+                }
+              ],
+              "index": {
+                "$type": "app.bsky.richtext.facet#byteSlice",
+                "byteEnd": 251,
+                "byteStart": 206
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "堀江由衣 初のディナーショーは観客も「謎解き」に巻き込まれる展開に 「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演 – KING RECORDS TODAY\nhttps://news.kingrecords.co.jp/2026/09/59267/",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-09-24T10:12:40.381Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://news.kingrecords.co.jp/2026/09/59267/",
+              "title": "堀江由衣 初のディナーショーは観客も「謎解き」に巻き込まれる展開に 「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演 – KING RECORDS TODAY",
+              "description": "声優・アーティストとして活躍する堀江由衣が、初のディナーショー「謎解きはディナーショーの途中で 2026」を東京・大阪の2か所で計4公演開催。ここでは9月19日（土）にヒルトン東京お台場で開催された東京公演夜の部の模様をレポートする。",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiao3mpjua4ahhss3r4li7icr63wggrzdpdt5b66ilwqvsbc3j62wy"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwazfjcvkd2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwazfjcvkd2x",
+    "cid": "bafyreibirgsi57p74z54h2rrih7372plfomuumy6mxekjjm7b7eto3kjze",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣 初のディナーショーは観客も「謎解き」に巻き込まれる展開に 「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演 – KING RECORDS TODAY\nhttps://news.kingrecords.co.jp/2026/09/59267/",
+    "createdAt": "2026-09-24T10:12:38.637819Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T10:12:40.381Z",
+    "embed": {
+      "external": {
+        "uri": "https://news.kingrecords.co.jp/2026/09/59267/",
+        "title": "堀江由衣 初のディナーショーは観客も「謎解き」に巻き込まれる展開に 「堀江由衣 謎解きはディナーショーの途中で 2026」東京夜公演 – KING RECORDS TODAY",
+        "description": "声優・アーティストとして活躍する堀江由衣が、初のディナーショー「謎解きはディナーショーの途中で 2026」を東京・大阪の2か所で計4公演開催。ここでは9月19日（土）にヒルトン東京お台場で開催された東京公演夜の部の模様をレポートする。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiao3mpjua4ahhss3r4li7icr63wggrzdpdt5b66ilwqvsbc3j62wy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mwayptpxr52x": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mwayptpxr52x",
+    "cid": "bafyreid3hbgtmgwnb6ks7sksjpy7wk2tvgjanl46imppi6jzc7gyltapie",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "アニメ「ルルットリリィ」第2クールのメインPV　第1クール総集編を放送＆YouTubeでプレミア公開（動画あり）\r\nhttps://natalie.mu/comic/news/690839?utm_source=bluesky&utm_medium=social\r\n\r\n第1クールの振り返り一挙放送も\r\n\r\n#魔法の姉妹ルルットリリィ #るるりり",
+    "createdAt": "2026-09-24T19:00:30+09:00",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 9,
+    "indexedAt": "2026-09-24T10:00:32.880Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreiguiehpzuprogo7ue47fnvqnwfdgdkbkqp5kpokdjrk6up4m7lfva",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreiguiehpzuprogo7ue47fnvqnwfdgdkbkqp5kpokdjrk6up4m7lfva",
+          "alt": "",
+          "aspectRatio": {
+            "height": 675,
+            "width": 1200
           }
         }
       ],
