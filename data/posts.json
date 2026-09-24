@@ -219305,7 +219305,7 @@
     "text": "",
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
-    "repostCount": 139,
+    "repostCount": 140,
     "likeCount": 606,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
@@ -219429,8 +219429,8 @@
     "text": "",
     "createdAt": "2026-09-24T02:00:45.396Z",
     "replyCount": 2,
-    "repostCount": 130,
-    "likeCount": 618,
+    "repostCount": 131,
+    "likeCount": 625,
     "indexedAt": "2026-09-24T02:00:51.680Z",
     "embed": {
       "images": [
@@ -219660,6 +219660,67 @@
     "likeCount": 1,
     "indexedAt": "2026-09-24T21:04:16.485Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcgu3mln42f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcgu3mln42f",
+    "cid": "bafyreigacnlcsu63ffqr54w7e6juqhyjajbzyzddlbpe7vygnis5e7j6ai",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 第5戦 鈴鹿サーキット SUPER GT 2026 AFTER THE DRIVE https://jod.jsports.co.jp/p/motor/supergt/111554-V",
+    "createdAt": "2026-09-24T23:46:05.957185Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T23:46:07.381Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111554-V",
+        "title": "第5戦 鈴鹿サーキット SUPER GT 2026 AFTER THE DRIVE｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "第5戦 鈴鹿サーキット SUPER GT 2026 AFTER THE DRIVEを楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicls2q6fsij56kdhptbbzoiqzlcnln2yeegmxaxgltvwixgjujfcq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcfggo4ow2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcfggo4ow2o",
+    "cid": "bafyreie65znbchpkuyvsxwqga3tzczw7cu35rac4orxibhwkeunypgxsai",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC Fujiの前にギリギリ見終わった",
+    "createdAt": "2026-09-24T23:20:34.007624Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T23:20:35.078Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcffnfg2t2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcffnfg2t2f",
+    "cid": "bafyreidnnhelsfrihu3o5cf7aqfyjoom5wj5hn3ic63fttptpe5u6zhcvy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第5戦 ローン・スター・ル・マン(アメリカ) FIA 世界耐久選手権(WEC) 2026 https://jod.jsports.co.jp/p/motor/wec/111747-V",
+    "createdAt": "2026-09-24T23:20:07.502644Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T23:20:08.884Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wec/111747-V",
+        "title": "決勝 第5戦 ローン・スター・ル・マン(アメリカ) FIA 世界耐久選手権(WEC) 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第5戦 ローン・スター・ル・マン(アメリカ) FIA 世界耐久選手権(WEC) 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiff4ne4cruz5nvopqu5aaic2osr37e4zpg4ddanjr3qyegas3amdy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
