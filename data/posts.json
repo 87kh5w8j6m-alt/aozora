@@ -219141,7 +219141,7 @@
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
     "repostCount": 178,
-    "likeCount": 792,
+    "likeCount": 793,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219429,8 +219429,8 @@
     "text": "",
     "createdAt": "2026-09-24T02:00:45.396Z",
     "replyCount": 0,
-    "repostCount": 119,
-    "likeCount": 552,
+    "repostCount": 122,
+    "likeCount": 562,
     "indexedAt": "2026-09-24T02:00:51.680Z",
     "embed": {
       "images": [
@@ -219614,6 +219614,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-24T11:28:48.701Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwbfkraqq52u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwbfkraqq52u",
+    "cid": "bafyreiduqwrfxsnl3qi2sxiihvcums46igpgbhwr42m3qnw562icxwrjra",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ダイヤルアップ接続のピーヒョロローガーピーをADSL接続だと思ってる配信者を立て続けに見て遠い目...（ -_-）",
+    "createdAt": "2026-09-24T13:50:20.054670Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T13:50:20.778Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwbdoipblp2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwbdoipblp2n",
+    "cid": "bafyreigj4gn7uzcwwv2eliz6ae3vr7jcf26fd3al4q7dmvlj2awmwpsbeq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アゼルバイジャンGP FP2見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-24T13:16:37.838653Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-24T13:16:38.480Z",
     "embed": null,
     "isRepost": false
   }
