@@ -218102,7 +218102,7 @@
     "createdAt": "2026-09-17T04:59:59.720Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 544,
+    "likeCount": 545,
     "indexedAt": "2026-09-17T05:00:05.376Z",
     "embed": {
       "images": [
@@ -218353,7 +218353,7 @@
     "createdAt": "2026-09-17T23:22:42.199Z",
     "replyCount": 0,
     "repostCount": 152,
-    "likeCount": 646,
+    "likeCount": 647,
     "indexedAt": "2026-09-17T23:22:47.981Z",
     "embed": {
       "images": [
@@ -218502,7 +218502,7 @@
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 1,
     "repostCount": 139,
-    "likeCount": 675,
+    "likeCount": 676,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
       "images": [
@@ -219090,7 +219090,7 @@
     "createdAt": "2026-09-20T02:14:07.872Z",
     "replyCount": 2,
     "repostCount": 136,
-    "likeCount": 571,
+    "likeCount": 570,
     "indexedAt": "2026-09-20T02:14:13.183Z",
     "embed": {
       "images": [
@@ -219306,7 +219306,7 @@
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
     "repostCount": 140,
-    "likeCount": 609,
+    "likeCount": 610,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -219334,7 +219334,7 @@
     "createdAt": "2026-09-21T21:52:23.485Z",
     "replyCount": 0,
     "repostCount": 168,
-    "likeCount": 822,
+    "likeCount": 823,
     "indexedAt": "2026-09-21T21:52:33.481Z",
     "embed": {
       "images": [
@@ -219430,7 +219430,7 @@
     "createdAt": "2026-09-24T02:00:45.396Z",
     "replyCount": 2,
     "repostCount": 133,
-    "likeCount": 638,
+    "likeCount": 639,
     "indexedAt": "2026-09-24T02:00:51.680Z",
     "embed": {
       "images": [
@@ -219735,6 +219735,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-25T03:30:35.078Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcvy5zg762m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcvy5zg762m",
+    "cid": "bafyreic2lcxmzjxtdny6vi67xxfhq3kkdf2vfb3i6gr2lutqo7hzfj35qe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | GTV 2026 ～SUPER GT トークバラエティ～  #5  https://jod.jsports.co.jp/p/motor/supergt/111746-V",
+    "createdAt": "2026-09-25T04:16:48.542332Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-25T04:16:50.281Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111746-V",
+        "title": "GTV 2026 ～SUPER GT トークバラエティ～ #5｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "GTV 2026 ～SUPER GT トークバラエティ～ #5を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihowo7377mkotwscrfb3gqrapgtz6q3svrcocrxsoxxamag34jide"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcumqf75j23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwcumqf75j23",
+    "cid": "bafyreie5mbysvkki4t4dg7j766bhtjrxozuz5qfa5cukntmzzm6zgiwymi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フジテレビが“日本最速”スーパーフォーミュラを連続ドラマ化！　2027年4月スタート……“本物のレース”と人間ドラマを映像化  - https://jp.motorsport.com/super-formula/news/fujitv-sformula-drama-announcement/10858718/ 知ってる、本物のレースで撮影して架空のSFチームとドライバーの物語でしょ",
+    "createdAt": "2026-09-25T03:52:31.355501Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-25T03:52:32.681Z",
     "embed": null,
     "isRepost": false
   }
