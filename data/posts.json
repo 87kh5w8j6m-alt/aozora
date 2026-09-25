@@ -219790,5 +219790,57 @@
     "indexedAt": "2026-09-25T10:06:07.479Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwerqai5m32m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwerqai5m32m",
+    "cid": "bafyreiggojmgsebmbbjnko7kbtshejayhenbngrq7joks4pdmkptr4jcfy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "good morning FSW",
+    "createdAt": "2026-09-25T22:06:07.422965Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-25T22:06:08.978Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreighgubdomodl4mxgdwcdukuemvxeltvp5iiajgyelohlj4tj3wzwy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreighgubdomodl4mxgdwcdukuemvxeltvp5iiajgyelohlj4tj3wzwy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwerp2vkrm2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwerp2vkrm2d",
+    "cid": "bafyreicb7t4girqw7o4ew3zb3hs4g7ay3lysosjzlnugyngcbu2kcx3oja",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 富士スピードウェイ in  小山町 https://app.foursquare.com/share/checkin/6ab6f011cbc4362740aa90d4?s=jZqw9pxUPxI_9zetvcSFQxAMbQA&lang=ja",
+    "createdAt": "2026-09-25T22:05:28.089670Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-25T22:05:29.085Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6ab6f011cbc4362740aa90d4?s=jZqw9pxUPxI_9zetvcSFQxAMbQA&lang=ja",
+        "title": "jiminy nseries's check in at 富士スピードウェイ",
+        "description": "https://app.foursquare.com/share/checkin/6ab6f011cbc4362740aa90d4?s=jZqw9pxUPxI_9zetvcSFQxAMbQA&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
