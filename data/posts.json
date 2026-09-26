@@ -220161,5 +220161,50 @@
     "indexedAt": "2026-09-26T07:09:40.476Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2w4qyu22o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2w4qyu22o",
+    "cid": "bafyreiav64jlylu35h5khthvdz4dmoekedse2x4ghbpbwcqx3vhoholbm4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1はこれからですが、お先に優勝🏆させていただきました🍺",
+    "createdAt": "2026-09-26T10:23:08.366764Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-26T10:23:09.478Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2uvkr2s2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2uvkr2s2n",
+    "cid": "bafyreibfkrftg762lbbevcuy2n2v562nmgwwpw7nyku6s55e6sueqjdtme",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ホテルのお夕食をちょうど済ませた時間にF1始まったのでタイミングバッチリ",
+    "createdAt": "2026-09-26T10:22:27.065777Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T10:22:28.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2t5ifb523": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwg2t5ifb523",
+    "cid": "bafyreihb67il7u7r3gwhycp7ro5yuqbzatyrgf32vzltm3anaaf4y6easa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アゼルバイジャンGP決勝レースのお時間\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-26T10:21:28.411704Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T10:21:29.582Z",
+    "embed": null,
+    "isRepost": false
   }
 }
