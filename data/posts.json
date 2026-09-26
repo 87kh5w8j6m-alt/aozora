@@ -219994,8 +219994,8 @@
     "text": "",
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 0,
-    "repostCount": 131,
-    "likeCount": 566,
+    "repostCount": 132,
+    "likeCount": 569,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220055,6 +220055,51 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfjtqvu7x24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfjtqvu7x24",
+    "cid": "bafyreia2nwkt6nqinblb3a5reqwep5mcfl2chiqkxhum4nmdjkydl4yxzm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "予選キャンセル！撤収！",
+    "createdAt": "2026-09-26T05:17:35.073695Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T05:17:36.181Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfiy2a36o2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfiy2a36o2m",
+    "cid": "bafyreibvhppayd7tpxa3ietbshacxpf65dryqvxkm7phj3rvi5rekgpgsi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "すぐさま赤旗。ですよね\n#WEC #WECjp",
+    "createdAt": "2026-09-26T05:02:05.322919Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T05:02:06.479Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfivwglvt2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfivwglvt2q",
+    "cid": "bafyreiaqwkltpf4uq27yztid5zmvdv5ttb4j4h5m45ebzpye2hpvytpg2u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "予選始まった。霧の中にマシンが消えていく\n#WEC #WECjp",
+    "createdAt": "2026-09-26T05:00:54.193023Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T05:00:55.379Z",
+    "embed": null,
     "isRepost": false
   }
 }
