@@ -219306,7 +219306,7 @@
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
     "repostCount": 146,
-    "likeCount": 641,
+    "likeCount": 642,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -219334,7 +219334,7 @@
     "createdAt": "2026-09-21T21:52:23.485Z",
     "replyCount": 0,
     "repostCount": 173,
-    "likeCount": 847,
+    "likeCount": 848,
     "indexedAt": "2026-09-21T21:52:33.481Z",
     "embed": {
       "images": [
@@ -219941,7 +219941,7 @@
     "createdAt": "2026-09-26T00:54:46.589413Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-09-26T00:54:48.079Z",
     "embed": {
       "images": [
@@ -219995,7 +219995,7 @@
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 0,
     "repostCount": 131,
-    "likeCount": 565,
+    "likeCount": 566,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220026,6 +220026,35 @@
     "likeCount": 0,
     "indexedAt": "2026-09-26T03:09:10.678Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfhvwvwz32n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfhvwvwz32n",
+    "cid": "bafyreib5dbmcklagnbug4dpoyqxf742p5nsdhsndara4oq3posjuvt2xi4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "予選できんのかこれ？\n#WEC #WECjp",
+    "createdAt": "2026-09-26T04:43:01.086326Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T04:43:05.878Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihnss4hbmlarpfxg7p3wfjnkyei5g5fblqzfpixrovzzmf2ksxufa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihnss4hbmlarpfxg7p3wfjnkyei5g5fblqzfpixrovzzmf2ksxufa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
