@@ -220236,5 +220236,28 @@
     "indexedAt": "2026-09-26T12:44:37.978Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgglnjib22n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgglnjib22n",
+    "cid": "bafyreiaje6eakwhfatdiseaelwazu2nsq7n3qc4wkksrzbphpcdbvhdbtu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ジャッキー・スチュワートが考える、モータースポーツの新しいフィードバック方法「F1／モータースポーツの技術は、おそらく世界で最も速く進化している」  - jp.motorsport.com/wec/news/wec... r",
+    "createdAt": "2026-09-26T13:52:02.636Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T13:52:08.778Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/wec/news/wec-satardau-jakie-srewert-talk/10859107/",
+        "title": "ジャッキー・スチュワートが考える、モータースポーツの新しいフィードバック方法「F1／モータースポーツの技術は、おそらく世界で最も速く進化している」",
+        "description": "F1で3度チャンピオンに輝いた伝説的ドライバー、ジャッキー・スチュワートがWEC富士6時間レースの会場を訪れ、認知症撲滅を目指す慈善団体への支援を訴えた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiev4ztx7obipjiewlzid5bar4sx3l2rlprm5imhp5xxdmde6ehmnq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
