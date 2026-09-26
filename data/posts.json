@@ -217467,7 +217467,7 @@
     "createdAt": "2026-09-13T04:46:15.201Z",
     "replyCount": 1,
     "repostCount": 146,
-    "likeCount": 704,
+    "likeCount": 705,
     "indexedAt": "2026-09-13T04:46:30.877Z",
     "embed": {
       "images": [
@@ -217615,7 +217615,7 @@
     "createdAt": "2026-09-13T22:29:54.369Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 556,
+    "likeCount": 557,
     "indexedAt": "2026-09-13T22:30:11.583Z",
     "embed": {
       "images": [
@@ -219090,7 +219090,7 @@
     "createdAt": "2026-09-20T02:14:07.872Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 611,
+    "likeCount": 612,
     "indexedAt": "2026-09-20T02:14:13.183Z",
     "embed": {
       "images": [
@@ -219334,7 +219334,7 @@
     "createdAt": "2026-09-21T21:52:23.485Z",
     "replyCount": 0,
     "repostCount": 173,
-    "likeCount": 849,
+    "likeCount": 850,
     "indexedAt": "2026-09-21T21:52:33.481Z",
     "embed": {
       "images": [
@@ -219799,7 +219799,7 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "good morning FSW",
     "createdAt": "2026-09-25T22:06:07.422965Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
     "likeCount": 3,
     "indexedAt": "2026-09-25T22:06:08.978Z",
@@ -219995,7 +219995,7 @@
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 0,
     "repostCount": 136,
-    "likeCount": 582,
+    "likeCount": 585,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220204,6 +220204,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-26T10:21:29.582Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgd5g7cys2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgd5g7cys2m",
+    "cid": "bafyreibm7bxo3dvnzb2gfwkasenidy6bpzksr5v43uj3i32bxkgssaawwm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ハジャーは復帰戦で表彰台！おめでとー！🎉\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-26T12:50:22.970226Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-26T12:50:24.077Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgct44g3x2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgct44g3x2o",
+    "cid": "bafyreiaqmcrmvkpond5kpepp423t2iy23ffw5v62i47gknkq76g6mf4zga",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ラッセル優勝おめでとー！🏆\n#F1jp #f1fujitv",
+    "createdAt": "2026-09-26T12:44:36.897255Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T12:44:37.978Z",
     "embed": null,
     "isRepost": false
   }
