@@ -219912,7 +219912,7 @@
     "createdAt": "2026-09-26T01:22:16.772097Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-09-26T01:22:18.387Z",
     "embed": {
       "images": [
@@ -220258,6 +220258,59 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgiqfhdpc2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgiqfhdpc2o",
+    "cid": "bafyreieig63wxlbo4natibgn75wuguhvjzpike3zdubyn34wsgs6et7hyy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第6戦 富士6時間耐久レース FIA 世界耐久選手権(WEC) 2026 jod.jsports.co.jp/p/motor/wec/...",
+    "createdAt": "2026-09-26T14:30:29.433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T14:30:30.382Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgia4thik2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwgia4thik2n",
+    "cid": "bafyreiahdqbtkalf7k2nzgyvirsqf2xgm5p4rpgellpqi6lep6yrmjedgu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "トヨタが液体水素エンジンを供給へ。ACOが進める『ミッションH24』とサプライヤー契約を発表  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-09-26T14:21:23.521Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T14:21:27.978Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1356167",
+        "title": "トヨタが液体水素エンジンを供給へ。ACOが進める『ミッションH24』とサプライヤー契約を発表 | ニュース | autosport web",
+        "description": "9月26日、2026WEC世界耐久選手権の第6戦『富士6時間耐久レース』が行われている静岡県・富士スピードウェイで、ル・マン24時間レースの主催団体であるAC",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic4ezphlv7yl2uw7llydc3ecxngqhbyqglmi3hyque6c6utbl5mmu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwghyaosa22n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwghyaosa22n",
+    "cid": "bafyreiaugg72di57vao44luqgzqjtvt35kaxbrchpehnv33noaoh4tq35m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 栄光のル・マンから富士へ！WEC富士直前SP jod.jsports.co.jp/p/motor/wec/...",
+    "createdAt": "2026-09-26T14:16:59.128Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T14:16:59.983Z",
+    "embed": null,
     "isRepost": false
   }
 }
