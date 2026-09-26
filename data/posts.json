@@ -219994,8 +219994,8 @@
     "text": "",
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 0,
-    "repostCount": 132,
-    "likeCount": 569,
+    "repostCount": 133,
+    "likeCount": 572,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220099,6 +220099,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-26T05:00:55.379Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfmy7sz2n2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfmy7sz2n2q",
+    "cid": "bafyreigbpio3c57dwza4rkx3a4iybfelwrarbvdo37ordsvbg4gocaglwq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "💨♨️",
+    "createdAt": "2026-09-26T06:13:46.065209Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T06:13:47.279Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfmxhn3xe24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfmxhn3xe24",
+    "cid": "bafyreig4vpeg6osr5aebbdjudto25ileiulfv7h735b3zvkphmnhgbunti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日お宿にチェックイン✅",
+    "createdAt": "2026-09-26T06:13:20.839476Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T06:13:21.882Z",
     "embed": null,
     "isRepost": false
   }
