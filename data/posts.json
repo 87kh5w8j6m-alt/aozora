@@ -213508,7 +213508,7 @@
     "createdAt": "2026-08-21T21:42:46.565Z",
     "replyCount": 1,
     "repostCount": 159,
-    "likeCount": 704,
+    "likeCount": 703,
     "indexedAt": "2026-08-22T01:50:46.633Z",
     "embed": {
       "images": [
@@ -217739,7 +217739,7 @@
     "createdAt": "2026-09-14T21:45:34.273Z",
     "replyCount": 0,
     "repostCount": 124,
-    "likeCount": 582,
+    "likeCount": 581,
     "indexedAt": "2026-09-14T21:45:46.482Z",
     "embed": {
       "images": [
@@ -217941,7 +217941,7 @@
     "createdAt": "2026-09-15T23:05:08.953Z",
     "replyCount": 0,
     "repostCount": 127,
-    "likeCount": 617,
+    "likeCount": 616,
     "indexedAt": "2026-09-15T23:05:14.080Z",
     "embed": {
       "images": [
@@ -219968,6 +219968,64 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfdfuw6tb2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfdfuw6tb2o",
+    "cid": "bafyreiaoeqki4dbmup2knnkncqxckyl2yiq4ilcze25dvp4vdcsfufsrxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "雨なのでピットウォークは高みの見物",
+    "createdAt": "2026-09-26T03:22:27.114962Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T03:22:28.181Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mwcipsvdes2o": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mwcipsvdes2o",
+    "cid": "bafyreihojb6nvjwnaqu3ddjs63wi5fk4idd63pzvxzlhwwvymofkmcuima",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-09-25T00:19:31.014Z",
+    "replyCount": 0,
+    "repostCount": 131,
+    "likeCount": 565,
+    "indexedAt": "2026-09-25T00:19:39.077Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig4uz5jdqle2agddh3argpowvqkxoyw52tmtpofc4d6ka2gvpvlyi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig4uz5jdqle2agddh3argpowvqkxoyw52tmtpofc4d6ka2gvpvlyi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfco4d3iq2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwfco4d3iq2q",
+    "cid": "bafyreihledm555jbnhtls2z2i4ticisdlt7eetcc7nf225or7jdmr6uy7i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1252回聴取終了。",
+    "createdAt": "2026-09-26T03:09:09.618653Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T03:09:10.678Z",
+    "embed": null,
     "isRepost": false
   }
 }
