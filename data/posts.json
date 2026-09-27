@@ -220350,5 +220350,50 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhoa6skw22u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhoa6skw22u",
+    "cid": "bafyreifyjlikq5ealxni37kuyqggliipcngfezlfmgqcegclyzbtrxnbtu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ジャッキー・イクスさんとジャッキー・スチュワートさんをそろって生で見られるとは思わなかった",
+    "createdAt": "2026-09-27T01:41:26.767359Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T01:41:27.977Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwho5tfzkc2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwho5tfzkc2d",
+    "cid": "bafyreibcmalytov34sf2h4glr6jwrpjzkeiayabfqiqyu7fh6axrvx6h5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ソロだと荷物番いないから置きっぱ怖いんですよねー",
+    "createdAt": "2026-09-27T01:40:08.724Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-27T01:40:10.181Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhnrxqzbt27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhnrxqzbt27",
+    "cid": "bafyreiee2gfphxn77x2avkax6tst3ssuccd6czwcao5s2dbq6kqjite63e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "サーキット現地観戦行くと不思議なことの一つ。みんなサコッシュひとつとで身軽なんだけど、どうなってるんだ。こっちはバックパックに入りきらないくらいの荷物背負って行軍してるのに。",
+    "createdAt": "2026-09-27T01:33:29.654798Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-27T01:33:30.680Z",
+    "embed": null,
+    "isRepost": false
   }
 }
