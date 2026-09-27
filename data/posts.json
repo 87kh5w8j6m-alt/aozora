@@ -220474,8 +220474,8 @@
     "text": "",
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
-    "repostCount": 159,
-    "likeCount": 626,
+    "repostCount": 160,
+    "likeCount": 634,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -220713,6 +220713,95 @@
     "likeCount": 1,
     "indexedAt": "2026-09-27T08:02:09.279Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwii4zdg3r2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwii4zdg3r2o",
+    "cid": "bafyreifprydvz5fmpsz2forwvyszsoscmw6gy5pio2mpw7zo74sc5vetym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOS27のiPhone Handoffってそういうことかー",
+    "createdAt": "2026-09-27T09:24:57.646809Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T09:24:58.780Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwih6i2uo32n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwih6i2uo32n",
+    "cid": "bafyreie3givl44wfm5sd577akcmkdupda233rhho62oismoqkmmsmr4lyu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はぁーやっぱ世界選手権はお祭り感があって楽しいなぁ！\n#WEC富士TR",
+    "createdAt": "2026-09-27T09:07:52.880097Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-09-27T09:07:54.078Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwigmfae532u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwigmfae532u",
+    "cid": "bafyreif52oef24ypnoxyh6yckksngmwet3kfnuqskmrcpet4t6lpeet7g4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FIA 世界耐久選手権2026 第6戦 富士6時間耐久レース TOYOTA 8号車優勝おめでとう！！🏆🍾手に汗握る白熱のレースをありがとう！！！また来年！\n#WEC #WECjp #6HFuji #WEC富士TR",
+    "createdAt": "2026-09-27T08:57:45.966644Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-09-27T08:57:47.683Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihv6ruduwgu26sunthpb35na3cwkyamnz5orevmlpgltdzoc7maxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihv6ruduwgu26sunthpb35na3cwkyamnz5orevmlpgltdzoc7maxy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig4l25pr6iw3cpecod5yz6ruwjev6gccpc5qy5ii3kpupyvhsqh6e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig4l25pr6iw3cpecod5yz6ruwjev6gccpc5qy5ii3kpupyvhsqh6e",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 2915,
+            "width": 2186
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaosemhd435nvmztpxompdtf34ta54rbduiq3gp2pmxozcuue6the",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaosemhd435nvmztpxompdtf34ta54rbduiq3gp2pmxozcuue6the",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidrczqyqz6agyipdnh77zjuccpvuezsit46odjoopq3sdeqwtdv3a",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidrczqyqz6agyipdnh77zjuccpvuezsit46odjoopq3sdeqwtdv3a",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
