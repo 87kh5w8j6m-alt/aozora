@@ -220327,5 +220327,28 @@
     "indexedAt": "2026-09-26T21:32:15.980Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhig6nmvy2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwhig6nmvy2q",
+    "cid": "bafyreiggalu4w24vmduijwgaqwc7jq7z6u23s43idfkzkbihegxh73iqna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 富士スピードウェイ in  小山町 https://app.foursquare.com/share/checkin/6ab85bd2370a757eab625bba?s=x-btrNp2XoOgalV853zaBCoyjwc&lang=ja",
+    "createdAt": "2026-09-26T23:57:25.531070Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-26T23:57:26.581Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6ab85bd2370a757eab625bba?s=x-btrNp2XoOgalV853zaBCoyjwc&lang=ja",
+        "title": "jiminy nseries's check in at 富士スピードウェイ",
+        "description": "https://app.foursquare.com/share/checkin/6ab85bd2370a757eab625bba?s=x-btrNp2XoOgalV853zaBCoyjwc&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
