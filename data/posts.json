@@ -220474,8 +220474,8 @@
     "text": "",
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
-    "repostCount": 166,
-    "likeCount": 697,
+    "repostCount": 167,
+    "likeCount": 698,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -220886,8 +220886,8 @@
     "text": "",
     "createdAt": "2026-09-27T21:38:45.237Z",
     "replyCount": 0,
-    "repostCount": 47,
-    "likeCount": 185,
+    "repostCount": 63,
+    "likeCount": 252,
     "indexedAt": "2026-09-27T21:38:59.679Z",
     "embed": {
       "images": [
@@ -220904,5 +220904,142 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxvsfvyh2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxvsfvyh2u",
+    "cid": "bafyreibi7dgt72eumjt3zq5woeyy3nsd5tl3kcaicfnjuo34coumv74cbe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第77話視聴終了。",
+    "createdAt": "2026-09-27T23:39:55.658664Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T23:39:56.277Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxc56fr22h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxc56fr22h",
+    "cid": "bafyreibykvtkdunuv6wdul627odb3bnttnaubpvsxtnvm7wzhykiyr5mne",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "SC中のピットインから出て来て8号車がポジション上げてからゴールまでずっと手に汗握るゲキ熱展開だった。",
+    "createdAt": "2026-09-27T23:28:56.332Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T23:28:56.978Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxa5wwrs2h",
+        "cid": "bafyreifdwbxtw6lh3mkigvfpiw5u5v4jvy24l6okyuock23wsung6xyz54",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-09-27T23:27:50.026Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "『for the Engineering",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreiftfboef6mjhgyxw7mevkk6tdy77krcqpfd3v6z3erb6crqzczdea"
+                },
+                "mimeType": "image/jpeg",
+                "size": 914309
+              },
+              "title": "“勝因”となった最終ピットでの給油量はどう決めたのか。8号車トヨタ大逆転の舞台裏をライアンエンジニアが説明 | ニュース | autosport web",
+              "uri": "https://www.as-web.jp/sports-car/1356685"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://www.as-web.jp/sports-car/1356685"
+                }
+              ],
+              "index": {
+                "byteEnd": 190,
+                "byteStart": 161
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "“勝因”となった最終ピットでの給油量はどう決めたのか。8号車トヨタ大逆転の舞台裏をライアンエンジニアが説明  - www.as-web.jp/sports-car/1..."
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2026-09-27T23:27:52.589Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://www.as-web.jp/sports-car/1356685",
+              "title": "“勝因”となった最終ピットでの給油量はどう決めたのか。8号車トヨタ大逆転の舞台裏をライアンエンジニアが説明 | ニュース | autosport web",
+              "description": "『for the Engineering",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiftfboef6mjhgyxw7mevkk6tdy77krcqpfd3v6z3erb6crqzczdea"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxa5wwrs2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwjxa5wwrs2h",
+    "cid": "bafyreifdwbxtw6lh3mkigvfpiw5u5v4jvy24l6okyuock23wsung6xyz54",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "“勝因”となった最終ピットでの給油量はどう決めたのか。8号車トヨタ大逆転の舞台裏をライアンエンジニアが説明  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-09-27T23:27:50.026Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T23:27:52.589Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1356685",
+        "title": "“勝因”となった最終ピットでの給油量はどう決めたのか。8号車トヨタ大逆転の舞台裏をライアンエンジニアが説明 | ニュース | autosport web",
+        "description": "『for the Engineering",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiftfboef6mjhgyxw7mevkk6tdy77krcqpfd3v6z3erb6crqzczdea"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
