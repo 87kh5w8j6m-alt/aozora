@@ -219995,7 +219995,7 @@
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 0,
     "repostCount": 139,
-    "likeCount": 595,
+    "likeCount": 596,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220474,8 +220474,8 @@
     "text": "",
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
-    "repostCount": 155,
-    "likeCount": 590,
+    "repostCount": 158,
+    "likeCount": 611,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -220593,6 +220593,95 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-27T06:47:30.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwicv5o6jd2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwicv5o6jd2u",
+    "cid": "bafyreignoy3pltjlqcjp7tsqbbldwibbxwsrcehlwk3k5azds2sa3cxszm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あと10分！",
+    "createdAt": "2026-09-27T07:51:04.867913Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T07:51:06.178Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwib3evhzm27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwib3evhzm27",
+    "cid": "bafyreibjgvkyrwbslk7b6diwe47jbzzf5heskocyte5q2fask3ywmej5q4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "一斉にピットイン！\n#WEC #WECjp #6HFuji",
+    "createdAt": "2026-09-27T07:18:46.513091Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T07:18:48.180Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidyvorpgxarpe32nnzcaesh6r6stqwk6dy3zvyhaeouvp5r6px5eu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidyvorpgxarpe32nnzcaesh6r6stqwk6dy3zvyhaeouvp5r6px5eu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwiav2vpds2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwiav2vpds2x",
+    "cid": "bafyreihuvgqxzpfpzklfvqzqb2tonwu7fhljhziszkls65lv4gxfq5j6tu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ガスってきてからフィニッシュは予報通り雨かな☂️\n#WEC #WECjp #6HFuji",
+    "createdAt": "2026-09-27T07:15:14.626969Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T07:15:15.779Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwiadha4ro2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwiadha4ro2n",
+    "cid": "bafyreihs2sfr3h4kgjtnu2sc2z2ppambbw6wglzcvc5hcqsjnlniiwwdve",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マクラーレンがクラッシュでSC導入！これはちょっと時間かかりそう\n#WEC #WECjp #6HFuji",
+    "createdAt": "2026-09-27T07:05:23.559968Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T07:05:24.679Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwia3qejzg23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwia3qejzg23",
+    "cid": "bafyreib7jft6kkp6esdapzsbqbmu3pzp72mojhcmtaza3dwjpykzu5udme",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今年のWEC富士は72,000人だそうで。通りで人が多いと思ったよ。\n#WEC #WECjp #6HFuji",
+    "createdAt": "2026-09-27T07:01:04.721848Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-27T07:01:05.878Z",
     "embed": null,
     "isRepost": false
   }
