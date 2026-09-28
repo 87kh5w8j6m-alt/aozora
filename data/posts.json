@@ -220886,8 +220886,8 @@
     "text": "",
     "createdAt": "2026-09-27T21:38:45.237Z",
     "replyCount": 0,
-    "repostCount": 102,
-    "likeCount": 426,
+    "repostCount": 105,
+    "likeCount": 443,
     "indexedAt": "2026-09-27T21:38:59.679Z",
     "embed": {
       "images": [
@@ -221099,6 +221099,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-09-28T04:39:13.778Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkk26g5zk2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkk26g5zk2b",
+    "cid": "bafyreiad4obampv4pi4id53kh7qs5l66ase6wqymnlccp3ekvgxverkoyq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | レビュー 第12戦 ラリー・チリ・ビオビオ WRC世界ラリー選手権 2026 jod.jsports.co.jp/p/motor/wrc/...",
+    "createdAt": "2026-09-28T05:04:30.294Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-28T05:04:30.881Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkjxzhrjs2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkjxzhrjs2b",
+    "cid": "bafyreiekjoq6jypwz6rqupwkh6ftcyfr2vt74yt3n5kckwsktfqwdrufti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記Ⅱ 第12話視聴終了。",
+    "createdAt": "2026-09-28T05:03:17.995Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-28T05:03:18.379Z",
     "embed": null,
     "isRepost": false
   }
