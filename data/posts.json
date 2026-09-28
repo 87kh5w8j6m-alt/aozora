@@ -220886,8 +220886,8 @@
     "text": "",
     "createdAt": "2026-09-27T21:38:45.237Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 467,
+    "repostCount": 110,
+    "likeCount": 484,
     "indexedAt": "2026-09-27T21:38:59.679Z",
     "embed": {
       "images": [
@@ -221130,6 +221130,29 @@
     "likeCount": 0,
     "indexedAt": "2026-09-28T05:03:18.379Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkq4nuwue2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwkq4nuwue2d",
+    "cid": "bafyreigpqgujhe7gbwjswnd3xfokyo3jsem33ok3bzxofqwv4wmtttwchi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | チーム三菱ラリーアート AXCR2026車両開発 極限の現場が育て上げる技術と人 ドキュメンタリー ～The REAL～ https://jod.jsports.co.jp/p/motor/motor_others/111787-V",
+    "createdAt": "2026-09-28T06:53:15.631025Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-28T06:53:16.479Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/motor_others/111787-V",
+        "title": "チーム三菱ラリーアート AXCR2026車両開発 極限の現場が育て上げる技術と人 ドキュメンタリー ～The REAL～｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "チーム三菱ラリーアート AXCR2026車両開発 極限の現場が育て上げる技術と人 ドキュメンタリー ～The REAL～を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigmdhhv34hqylfdwpmk5hygfg36sk6vmzxi3iuvmnm4don5feeoza"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
