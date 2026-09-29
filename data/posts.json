@@ -221199,5 +221199,20 @@
     "indexedAt": "2026-09-29T03:30:36.278Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnbjle4y32n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnbjle4y32n",
+    "cid": "bafyreifk3sp7mys6ue3olisju5xawqdltvefcpvvu6apgttllfurjnqivm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "コーヒーブレイク☕️",
+    "createdAt": "2026-09-29T07:10:01.714588Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-29T07:10:04.382Z",
+    "embed": null,
+    "isRepost": false
   }
 }
