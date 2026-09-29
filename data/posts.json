@@ -220859,7 +220859,7 @@
     "createdAt": "2026-09-26T08:20:13.459Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 495,
+    "likeCount": 496,
     "indexedAt": "2026-09-26T08:20:57.582Z",
     "embed": {
       "images": [
@@ -221212,6 +221212,51 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-09-29T07:10:04.382Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnkerzjiv2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnkerzjiv2u",
+    "cid": "bafyreicnypulv3cfrrioe4o5dy2bamq5gwmigsxsw3koov7bd7wwzvhpde",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記II ラジオの悪魔 第6回聴取終了。",
+    "createdAt": "2026-09-29T09:48:25.097993Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-29T09:48:25.680Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnipp4bhn2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnipp4bhn2x",
+    "cid": "bafyreic5mxvywrht2pmqrlokihkguy4mrhznvb24lp2vtiv7xvmwq2u7ii",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第480回聴取終了。",
+    "createdAt": "2026-09-29T09:18:42.607156Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-29T09:18:44.380Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnhlyd2vg2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwnhlyd2vg2m",
+    "cid": "bafyreiai23zevyumzy4pis3yompsmcl5qxamfw3t6oxs6hfn53jl6l7ury",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "いくら軽いノートPCでも2台入れると鞄が重たい",
+    "createdAt": "2026-09-29T08:58:44.611405Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-29T08:58:45.978Z",
     "embed": null,
     "isRepost": false
   }
