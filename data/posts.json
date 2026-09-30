@@ -221302,5 +221302,51 @@
     "indexedAt": "2026-09-29T21:06:37.685Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwpz2oqwmm2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwpz2oqwmm2q",
+    "cid": "bafyreidodncfemkbj6fwbtj47i6musjrfwba4o2xtkwwyej5xtmiruoawy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FIAとACO、WECの共同運営に関する2037年までの10年契約を締結「極めて重要な前進」  - https://www.as-web.jp/sports-car/1357361",
+    "createdAt": "2026-09-30T09:16:31.100298Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-30T09:16:41.680Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1357361",
+        "title": "FIAとACO、WECの共同運営に関する2037年までの10年契約を締結「極めて重要な前進」 | ニュース | autosport web",
+        "description": "　FIA国際自動車連盟とACOフランス西部自動車クラブは、FIA世界耐久選手権（WEC）を共同運営していくための新たな10年契約を発表した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicr4nt4wnmixviu47kdzjydspnyxusozpqykbgccyqju4j6iqpfqm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwpyw3ex5u2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwpyw3ex5u2d",
+    "cid": "bafyreihxbcxv3u4glkirfvaveiw3v4fcetqtqr2po6f6vqytbw5d5ydoy4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フェラーリ499Pのアジアン・ル・マン参戦が確定。計2台をAFコルセとWECドライバーがサポート  - https://www.as-web.jp/sports-car/1357264",
+    "createdAt": "2026-09-30T09:13:56.748519Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-30T09:13:58.178Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1357264",
+        "title": "フェラーリ499Pのアジアン・ル・マン参戦が確定。計2台をAFコルセとWECドライバーがサポート | ニュース | autosport web",
+        "description": "　2台のフェラーリ499Pが、開幕を控えるAsLMSアジアン・ル・マン・シリーズの新設ハイパーカークラスにおける最初のエントリーとして確定した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidf75aj6ov562enhjnbotkx32y5wbqe3uzfd2m4xr75tfsq64qozy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
