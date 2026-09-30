@@ -221348,5 +221348,35 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwqfb4rxzo2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwqfb4rxzo2f",
+    "cid": "bafyreid4vdm6aos62ppqphsuy4a3edrr2b6ym726etwdy6znanmnt7ztxa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日は一日中障害対応でめっちゃ疲れた",
+    "createdAt": "2026-09-30T12:54:52.665986Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-30T12:54:53.379Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwqf7femjn2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwqf7femjn2m",
+    "cid": "bafyreie73gb77az5bjht2klwx5mtcnjdq6ryb2twacmfpl47brqtgpsadi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのスクールカレンダーめくり。10月のほっちゃんも可愛すぎ😍\n#堀江由衣",
+    "createdAt": "2026-09-30T12:53:54.551284Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-09-30T12:53:55.180Z",
+    "embed": null,
+    "isRepost": false
   }
 }
