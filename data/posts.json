@@ -221519,8 +221519,8 @@
     "text": "",
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
-    "repostCount": 89,
-    "likeCount": 395,
+    "repostCount": 94,
+    "likeCount": 424,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221550,6 +221550,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-02T03:30:45.478Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwujbljp3g22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwujbljp3g22",
+    "cid": "bafyreicbaokdcdmcoxg7me7b2h2g6cym47bczslcet4i3gnuu5tibpzaxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "私をネオ・ヴェネツィアに連れてって",
+    "createdAt": "2026-10-02T04:17:21.506074Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-02T04:17:22.677Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwuj6fdtec22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwuj6fdtec22",
+    "cid": "bafyreibc3dhigsfkwtumwnyusedbjatnvtvhy53qf3evd5unf4h5yme3gy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ARIA成分を摂取しないと持たない",
+    "createdAt": "2026-10-02T04:15:34.355798Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-02T04:15:35.583Z",
     "embed": null,
     "isRepost": false
   }
