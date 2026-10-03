@@ -221659,9 +221659,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
-    "replyCount": 2,
+    "replyCount": 3,
     "repostCount": 122,
-    "likeCount": 541,
+    "likeCount": 543,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221748,7 +221748,7 @@
     "createdAt": "2026-10-03T20:15:56.635Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-03T20:15:56.988Z",
     "embed": null,
     "isRepost": false
