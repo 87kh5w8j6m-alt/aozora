@@ -219141,7 +219141,7 @@
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
     "repostCount": 188,
-    "likeCount": 831,
+    "likeCount": 832,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -220859,7 +220859,7 @@
     "createdAt": "2026-09-26T08:20:13.459Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 506,
+    "likeCount": 505,
     "indexedAt": "2026-09-26T08:20:57.582Z",
     "embed": {
       "images": [
@@ -220887,7 +220887,7 @@
     "createdAt": "2026-09-27T21:38:45.237Z",
     "replyCount": 2,
     "repostCount": 131,
-    "likeCount": 614,
+    "likeCount": 615,
     "indexedAt": "2026-09-27T21:38:59.679Z",
     "embed": {
       "images": [
@@ -221520,7 +221520,7 @@
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
     "repostCount": 116,
-    "likeCount": 553,
+    "likeCount": 554,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221595,6 +221595,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-02T12:12:33.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwwxjt3bce2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwwxjt3bce2f",
+    "cid": "bafyreiebbelvxtqjl2nvdxf6cuepdubggu2tyrxftumoz2ewo2yzjrjqpi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "幼女戦記II ラジオの悪魔 第7回聴取終了。",
+    "createdAt": "2026-10-03T03:37:49.232946Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-03T03:37:50.979Z",
     "embed": null,
     "isRepost": false
   }
