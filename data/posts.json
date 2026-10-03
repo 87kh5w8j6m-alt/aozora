@@ -221389,7 +221389,7 @@
     "createdAt": "2026-09-29T21:53:20.888Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 573,
+    "likeCount": 574,
     "indexedAt": "2026-09-29T21:53:27.083Z",
     "embed": {
       "images": [
@@ -221520,7 +221520,7 @@
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
     "repostCount": 116,
-    "likeCount": 554,
+    "likeCount": 555,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221611,6 +221611,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-03T03:37:50.979Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwwz2uny3u2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwwz2uny3u2h",
+    "cid": "bafyreiasajm5nvkuf35e3rlyo5ucifq46mdjch2golxvxtkicz4ybp4bj4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 新宿バルト9 in  新宿区 https://app.foursquare.com/share/checkin/6ac07ec9feb2a549bda63e7e?s=fxFI34VGydUjQZ1GuAOFFV7og28&lang=ja",
+    "createdAt": "2026-10-03T04:05:15.608797Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-03T04:05:16.680Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6ac07ec9feb2a549bda63e7e?s=fxFI34VGydUjQZ1GuAOFFV7og28&lang=ja",
+        "title": "jiminy nseries's check in at 新宿バルト9",
+        "description": "https://app.foursquare.com/share/checkin/6ac07ec9feb2a549bda63e7e?s=fxFI34VGydUjQZ1GuAOFFV7og28&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
