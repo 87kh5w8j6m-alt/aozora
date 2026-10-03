@@ -221635,5 +221635,20 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwx6677mgk23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwx6677mgk23",
+    "cid": "bafyreigqbnfhlmxckvbrqgz5sj5kq54dmtosrba7u7avx3447h72kik7ra",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "映画 名探偵プリキュア! 不思議な庭と2人の秘密 観た。未来へ…\n#precure #プリキュア #たんプリ",
+    "createdAt": "2026-10-03T05:36:36.028356Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-03T05:36:37.178Z",
+    "embed": null,
+    "isRepost": false
   }
 }
