@@ -219306,7 +219306,7 @@
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
     "repostCount": 150,
-    "likeCount": 658,
+    "likeCount": 659,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -219995,7 +219995,7 @@
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 1,
     "repostCount": 141,
-    "likeCount": 608,
+    "likeCount": 609,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220475,7 +220475,7 @@
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
     "repostCount": 173,
-    "likeCount": 739,
+    "likeCount": 740,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -220859,7 +220859,7 @@
     "createdAt": "2026-09-26T08:20:13.459Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 505,
+    "likeCount": 506,
     "indexedAt": "2026-09-26T08:20:57.582Z",
     "embed": {
       "images": [
@@ -220887,7 +220887,7 @@
     "createdAt": "2026-09-27T21:38:45.237Z",
     "replyCount": 2,
     "repostCount": 131,
-    "likeCount": 616,
+    "likeCount": 617,
     "indexedAt": "2026-09-27T21:38:59.679Z",
     "embed": {
       "images": [
@@ -221270,7 +221270,7 @@
     "createdAt": "2026-09-29T00:10:13.402Z",
     "replyCount": 1,
     "repostCount": 129,
-    "likeCount": 638,
+    "likeCount": 639,
     "indexedAt": "2026-09-29T00:10:31.779Z",
     "embed": {
       "images": [
@@ -221389,7 +221389,7 @@
     "createdAt": "2026-09-29T21:53:20.888Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 575,
+    "likeCount": 576,
     "indexedAt": "2026-09-29T21:53:27.083Z",
     "embed": {
       "images": [
@@ -221417,7 +221417,7 @@
     "createdAt": "2026-09-30T21:47:24.596Z",
     "replyCount": 1,
     "repostCount": 181,
-    "likeCount": 648,
+    "likeCount": 649,
     "indexedAt": "2026-09-30T21:47:31.082Z",
     "embed": {
       "images": [
@@ -221520,7 +221520,7 @@
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
     "repostCount": 116,
-    "likeCount": 558,
+    "likeCount": 560,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221660,8 +221660,8 @@
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 0,
-    "repostCount": 31,
-    "likeCount": 113,
+    "repostCount": 52,
+    "likeCount": 194,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221704,7 +221704,7 @@
     "createdAt": "2026-10-03T07:25:03.446055Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 2,
     "indexedAt": "2026-10-03T07:25:05.692Z",
     "embed": {
       "images": [
@@ -221721,6 +221721,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwxifv65oi23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwxifv65oi23",
+    "cid": "bafyreifckz23r37cy2nglommmzfyeplltgksxcwpb526todtey7hv4ufa4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "続けてF1バーレーンGP in マレーシア FP2見る。\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-03T08:39:51.911352Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-03T08:39:52.478Z",
+    "embed": null,
     "isRepost": false
   }
 }
