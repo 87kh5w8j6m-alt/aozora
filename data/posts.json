@@ -221660,8 +221660,8 @@
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 3,
-    "repostCount": 129,
-    "likeCount": 575,
+    "repostCount": 130,
+    "likeCount": 578,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221810,6 +221810,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-04T02:23:16.777Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwzr4nyygq2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwzr4nyygq2f",
+    "cid": "bafyreibfl5lv2tqarv7w2odbotbj7ina44li2g44o2rh6bjhzw5fbr5gxy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バーレーンGP in マレーシア 決勝レース見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-04T06:21:05.575807Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-04T06:21:06.081Z",
     "embed": null,
     "isRepost": false
   }
