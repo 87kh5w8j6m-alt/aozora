@@ -219305,8 +219305,8 @@
     "text": "",
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
-    "repostCount": 150,
-    "likeCount": 658,
+    "repostCount": 151,
+    "likeCount": 659,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -221520,7 +221520,7 @@
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
     "repostCount": 117,
-    "likeCount": 566,
+    "likeCount": 568,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221661,7 +221661,7 @@
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 3,
     "repostCount": 125,
-    "likeCount": 560,
+    "likeCount": 566,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221750,6 +221750,51 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-10-03T20:15:56.988Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7cbb3lf2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7cbb3lf2i",
+    "cid": "bafyreia7jwhj3eicsafwytqey5camb5ylxtww4zzx637egm232p6n7e3vm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バーレーンGP in マレーシア FP3見る。\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-04T01:02:06.139175Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-04T01:02:06.682Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7bchjcg2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7bchjcg2p",
+    "cid": "bafyreiboehrnectxtze2e4qs6rdjpdjb7plsleqzrr24g72bcj4zbzbj6e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日の草野球。1-9で敗戦。6回9失点。2打数1安打。",
+    "createdAt": "2026-10-04T01:01:33.858722Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-04T01:01:34.577Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7abtbi52i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwz7abtbi52i",
+    "cid": "bafyreibk5qjcsrlo23t5fnr7rg5tqqr77frat7dm4nsakngcolpk3qsuhy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "帰宅ってシャワったー",
+    "createdAt": "2026-10-04T01:00:59.636263Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-04T01:01:00.276Z",
     "embed": null,
     "isRepost": false
   }
