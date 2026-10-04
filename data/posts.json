@@ -219306,7 +219306,7 @@
     "createdAt": "2026-09-22T21:48:39.574Z",
     "replyCount": 2,
     "repostCount": 151,
-    "likeCount": 659,
+    "likeCount": 660,
     "indexedAt": "2026-09-22T21:48:45.580Z",
     "embed": {
       "images": [
@@ -221660,8 +221660,8 @@
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 3,
-    "repostCount": 125,
-    "likeCount": 566,
+    "repostCount": 128,
+    "likeCount": 571,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221795,6 +221795,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-04T01:01:00.276Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwzdtfnfzy2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mwzdtfnfzy2d",
+    "cid": "bafyreidirkq4eg43wvthrxawi7ty3geqjab4efcqjtgnc32vy5s2nbeyna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1バーレーンGP in マレーシア 予選見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-04T02:23:16.136546Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-04T02:23:16.777Z",
     "embed": null,
     "isRepost": false
   }
