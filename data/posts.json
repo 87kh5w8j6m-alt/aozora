@@ -221838,7 +221838,7 @@
     "createdAt": "2026-10-04T21:38:22.628Z",
     "replyCount": 0,
     "repostCount": 140,
-    "likeCount": 603,
+    "likeCount": 606,
     "indexedAt": "2026-10-04T21:38:30.184Z",
     "embed": {
       "images": [
@@ -221866,7 +221866,7 @@
     "createdAt": "2026-10-04T00:57:54.779Z",
     "replyCount": 2,
     "repostCount": 144,
-    "likeCount": 603,
+    "likeCount": 604,
     "indexedAt": "2026-10-04T00:58:01.678Z",
     "embed": {
       "images": [
@@ -222040,6 +222040,49 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-05T21:26:44.783Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mx5woegdvs2e": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mx5woegdvs2e",
+    "cid": "bafyreibm4nvehr75ctab6k5u2ylggxjbqlzvbuzkrrpghkxl3onxzd23va",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-05T22:11:07.611Z",
+    "replyCount": 1,
+    "repostCount": 62,
+    "likeCount": 213,
+    "indexedAt": "2026-10-05T22:11:13.084Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiesyk22unhmepychdh4x3eyeudkwl74fsdfzrbhw7vuxd5hxsroxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiesyk22unhmepychdh4x3eyeudkwl74fsdfzrbhw7vuxd5hxsroxy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx63f345tn2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx63f345tn2m",
+    "cid": "bafyreiepybx2sqfhafaa2zrxtlasxe77uascskxji5otdgkrkc452ohsni",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第78話視聴終了。",
+    "createdAt": "2026-10-05T23:35:23.584315Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-05T23:35:24.686Z",
     "embed": null,
     "isRepost": false
   }
