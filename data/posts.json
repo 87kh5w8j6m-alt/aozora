@@ -215437,7 +215437,7 @@
     "text": "",
     "createdAt": "2026-09-01T23:59:34.625Z",
     "replyCount": 2,
-    "repostCount": 141,
+    "repostCount": 140,
     "likeCount": 642,
     "indexedAt": "2026-09-01T23:59:41.509Z",
     "embed": {
@@ -221270,7 +221270,7 @@
     "createdAt": "2026-09-29T00:10:13.402Z",
     "replyCount": 1,
     "repostCount": 129,
-    "likeCount": 640,
+    "likeCount": 641,
     "indexedAt": "2026-09-29T00:10:31.779Z",
     "embed": {
       "images": [
@@ -221417,7 +221417,7 @@
     "createdAt": "2026-09-30T21:47:24.596Z",
     "replyCount": 1,
     "repostCount": 181,
-    "likeCount": 654,
+    "likeCount": 655,
     "indexedAt": "2026-09-30T21:47:31.082Z",
     "embed": {
       "images": [
@@ -221660,8 +221660,8 @@
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 3,
-    "repostCount": 132,
-    "likeCount": 596,
+    "repostCount": 133,
+    "likeCount": 597,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221837,8 +221837,8 @@
     "text": "",
     "createdAt": "2026-10-04T21:38:22.628Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 404,
+    "repostCount": 106,
+    "likeCount": 427,
     "indexedAt": "2026-10-04T21:38:30.184Z",
     "embed": {
       "images": [
@@ -221866,7 +221866,7 @@
     "createdAt": "2026-10-04T00:57:54.779Z",
     "replyCount": 2,
     "repostCount": 143,
-    "likeCount": 589,
+    "likeCount": 591,
     "indexedAt": "2026-10-04T00:58:01.678Z",
     "embed": {
       "images": [
@@ -221908,8 +221908,8 @@
     "text": "おはよう 掃除するよ",
     "createdAt": "2026-10-04T22:30:04.941Z",
     "replyCount": 0,
-    "repostCount": 3,
-    "likeCount": 33,
+    "repostCount": 4,
+    "likeCount": 37,
     "indexedAt": "2026-10-04T22:30:14.084Z",
     "embed": {
       "images": [
@@ -221944,5 +221944,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx3y2r6gmw2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx3y2r6gmw2m",
+    "cid": "bafyreifjnivotihwseblj7mtx5vauu75rl3qhjurcw52tsw7ou5ud6moea",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-05T03:30:36.831140Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-05T03:30:38.081Z",
+    "embed": null,
+    "isRepost": false
   }
 }
