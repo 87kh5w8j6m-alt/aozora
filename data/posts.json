@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 73,
-    "likeCount": 289,
+    "repostCount": 74,
+    "likeCount": 315,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222083,6 +222083,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-05T23:35:24.686Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:nhlqb25lxuqovznalcgbj5qd/app.bsky.feed.post/3mx6hijcbqcib": {
+    "uri": "at://did:plc:nhlqb25lxuqovznalcgbj5qd/app.bsky.feed.post/3mx6hijcbqcib",
+    "cid": "bafyreiezwbw7kjjoxphbbbq7pbfxrp2ldiiuv6mvl7qvz5jujfye5mzkgq",
+    "author": "mamemomonga.bsky.social",
+    "authorName": "✨まめも✨ (ダンシャリスト)",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhlqb25lxuqovznalcgbj5qd/bafkreigbgnaa4sqd65mlhos6hwffee2b5x7pgkmxr2lqlkvaehoyckeaba",
+    "text": "GMOといえばInterQから始まった。InterQは情報量として電話料金から引き落とされるNTTの「ダイアルQ2」という仕組みを利用するプロバイダで、契約なしで即使えるのが魅力だった。パソコンを手にいれたばかりの私はプロバイダ開通が待ちきれず、ちょっとだけインターネットを試したくてInterQを使った。そう、ほんのちょっとだけ。翌月5万円の請求がきた。学生に5万円は大金である。それ以来私はGMOが許せないのである。\nhttps://news.yahoo.co.jp/articles/18a811bd853dcfec407301a81282a6f4abb45c2e",
+    "createdAt": "2026-10-06T03:12:05.005Z",
+    "replyCount": 1,
+    "repostCount": 5,
+    "likeCount": 14,
+    "indexedAt": "2026-10-06T03:12:05.789Z",
+    "embed": {
+      "external": {
+        "uri": "https://news.yahoo.co.jp/articles/18a811bd853dcfec407301a81282a6f4abb45c2e",
+        "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい　ポイント287万円分が不正交換される（ITmedia NEWS） - Yahoo!ニュース",
+        "description": "GMOリサーチ＆AIは10月5日、同社が運営するアンケートサイト「infoQ」の脆弱性が突かれて不正アクセスされ、会員の個人情報全件に当たる最大94万8498件が外部に持ち出されたと発表した。サービ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhlqb25lxuqovznalcgbj5qd/bafkreibymdxylatr5wyrxns7f32h75a5m4sd4lkklrmm7tuiqzvsf3uhdi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx6ijwrx2y23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx6ijwrx2y23",
+    "cid": "bafyreiei46hnvsph7d7im42a6yd4vtq4soo3xlhbgqi5of3bzr62pd7zye",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-06T03:30:45.382967Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-06T03:30:46.577Z",
     "embed": null,
     "isRepost": false
   }
