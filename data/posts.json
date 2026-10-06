@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 91,
-    "likeCount": 401,
+    "repostCount": 92,
+    "likeCount": 403,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222152,6 +222152,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-06T13:33:18.281Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7nbfig222f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7nbfig222f",
+    "cid": "bafyreic2jqjmkvfokwocdmqvrv3j5vixuh6ycmyrgsyb4t3yauurbekdfe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "トヨタのWEC活動に貢献したマイク・コンウェイが2026年シーズンをもってのドライバー引退を発表  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-10-06T14:28:08.320Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-06T14:28:10.782Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1359728",
+        "title": "トヨタのWEC活動に貢献したマイク・コンウェイが2026年シーズンをもってのドライバー引退を発表 | ニュース | autosport web",
+        "description": "10月6日、トヨタ・レーシングのドライバーとして2014年から長年活躍してきたマイク・コンウェイが、自身のSNSで2026年シーズン限りでのレーシングドライバ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaq2vneyogbguqie3xsqkg7kiehmw3g6mba3l2ntelmf4uaodlgey"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
