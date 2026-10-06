@@ -213721,7 +213721,7 @@
     "createdAt": "2026-08-20T04:29:17.802Z",
     "replyCount": 4,
     "repostCount": 245,
-    "likeCount": 1178,
+    "likeCount": 1177,
     "indexedAt": "2026-08-20T04:29:28.528Z",
     "embed": {
       "images": [
@@ -214099,7 +214099,7 @@
     "createdAt": "2026-08-25T21:33:46.800Z",
     "replyCount": 2,
     "repostCount": 129,
-    "likeCount": 598,
+    "likeCount": 597,
     "indexedAt": "2026-08-25T21:33:52.332Z",
     "embed": {
       "images": [
@@ -220475,7 +220475,7 @@
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
     "repostCount": 173,
-    "likeCount": 743,
+    "likeCount": 742,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -221838,7 +221838,7 @@
     "createdAt": "2026-10-04T21:38:22.628Z",
     "replyCount": 0,
     "repostCount": 143,
-    "likeCount": 616,
+    "likeCount": 617,
     "indexedAt": "2026-10-04T21:38:30.184Z",
     "embed": {
       "images": [
@@ -222053,7 +222053,7 @@
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
     "repostCount": 92,
-    "likeCount": 403,
+    "likeCount": 407,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222175,6 +222175,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7q2iafrz2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7q2iafrz2n",
+    "cid": "bafyreiaxeioub4zej4efsmagrv6kowumcscfhe2px4hfsu6caiii3nbymy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第53回聴取終了。",
+    "createdAt": "2026-10-06T15:17:57.101260Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-06T15:17:57.677Z",
+    "embed": null,
     "isRepost": false
   }
 }
