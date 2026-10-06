@@ -215983,7 +215983,7 @@
     "createdAt": "2026-09-05T00:34:51.228Z",
     "replyCount": 6,
     "repostCount": 203,
-    "likeCount": 1019,
+    "likeCount": 1020,
     "indexedAt": "2026-09-05T00:34:59.280Z",
     "embed": {
       "images": [
@@ -216754,8 +216754,8 @@
     "text": "",
     "createdAt": "2026-09-09T02:36:14.628Z",
     "replyCount": 5,
-    "repostCount": 127,
-    "likeCount": 543,
+    "repostCount": 128,
+    "likeCount": 546,
     "indexedAt": "2026-09-09T02:36:20.685Z",
     "embed": {
       "images": [
@@ -219995,7 +219995,7 @@
     "createdAt": "2026-09-25T00:19:31.014Z",
     "replyCount": 1,
     "repostCount": 141,
-    "likeCount": 609,
+    "likeCount": 610,
     "indexedAt": "2026-09-25T00:19:39.077Z",
     "embed": {
       "images": [
@@ -220475,7 +220475,7 @@
     "createdAt": "2026-09-26T21:44:32.176Z",
     "replyCount": 2,
     "repostCount": 173,
-    "likeCount": 742,
+    "likeCount": 743,
     "indexedAt": "2026-09-26T21:44:42.483Z",
     "embed": {
       "images": [
@@ -221417,7 +221417,7 @@
     "createdAt": "2026-09-30T21:47:24.596Z",
     "replyCount": 1,
     "repostCount": 181,
-    "likeCount": 658,
+    "likeCount": 659,
     "indexedAt": "2026-09-30T21:47:31.082Z",
     "embed": {
       "images": [
@@ -221837,8 +221837,8 @@
     "text": "",
     "createdAt": "2026-10-04T21:38:22.628Z",
     "replyCount": 0,
-    "repostCount": 142,
-    "likeCount": 614,
+    "repostCount": 143,
+    "likeCount": 616,
     "indexedAt": "2026-10-04T21:38:30.184Z",
     "embed": {
       "images": [
@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 88,
-    "likeCount": 394,
+    "repostCount": 91,
+    "likeCount": 401,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222136,6 +222136,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-06T10:03:18.480Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7k7d2wus2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mx7k7d2wus2f",
+    "cid": "bafyreifv2i5kd5rwifwlpv2ovag6pgj2mhnbnglc3pm3qc7tdbxl43qvma",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "机の上のMacBook Proとディスプレイの位置を変えてみて気分転換",
+    "createdAt": "2026-10-06T13:33:17.446Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-06T13:33:18.281Z",
     "embed": null,
     "isRepost": false
   }
