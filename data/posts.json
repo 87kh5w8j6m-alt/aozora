@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 97,
-    "likeCount": 435,
+    "repostCount": 98,
+    "likeCount": 436,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 94,
-    "likeCount": 472,
+    "repostCount": 95,
+    "likeCount": 479,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222352,6 +222352,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-07T09:13:51.680Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbsn2srf22n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbsn2srf22n",
+    "cid": "bafyreicw6nbjw6qsegspuj4lm2o77ttxywpkuuxrwunqttbxgmpi42rh4y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "道との遭遇についにダムマイスターがあらわれたぞ\n#TVer\ntver.jp/episodes/epl...",
+    "createdAt": "2026-10-07T11:09:27.963Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-07T11:09:30.879Z",
     "embed": null,
     "isRepost": false
   }
