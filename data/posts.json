@@ -215380,7 +215380,7 @@
     "createdAt": "2026-08-31T23:47:46.986Z",
     "replyCount": 0,
     "repostCount": 195,
-    "likeCount": 922,
+    "likeCount": 923,
     "indexedAt": "2026-08-31T23:47:57.204Z",
     "embed": {
       "images": [
@@ -219141,7 +219141,7 @@
     "createdAt": "2026-09-21T00:07:31.080Z",
     "replyCount": 0,
     "repostCount": 188,
-    "likeCount": 833,
+    "likeCount": 834,
     "indexedAt": "2026-09-21T00:07:42.584Z",
     "embed": {
       "images": [
@@ -219334,7 +219334,7 @@
     "createdAt": "2026-09-21T21:52:23.485Z",
     "replyCount": 0,
     "repostCount": 175,
-    "likeCount": 854,
+    "likeCount": 853,
     "indexedAt": "2026-09-21T21:52:33.481Z",
     "embed": {
       "images": [
@@ -221389,7 +221389,7 @@
     "createdAt": "2026-09-29T21:53:20.888Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 577,
+    "likeCount": 578,
     "indexedAt": "2026-09-29T21:53:27.083Z",
     "embed": {
       "images": [
@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 93,
-    "likeCount": 451,
+    "repostCount": 94,
+    "likeCount": 460,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222309,6 +222309,50 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbnxoa3cu2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbnxoa3cu2h",
+    "cid": "bafyreic4ymqldaaoxmxottbdnxbuhznuqul323u3mnbwhtoekunzwzx4ti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ウッヒョォオォォォオ！シャーリーだあぁぁぁ！！！",
+    "createdAt": "2026-10-07T09:45:54.689468Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T09:45:55.779Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7bjpviifnhva62bd6tkq7fdr3gaglyxyqxpkvba5oyjowhaekce",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7bjpviifnhva62bd6tkq7fdr3gaglyxyqxpkvba5oyjowhaekce",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbm6dpysw2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbm6dpysw2h",
+    "cid": "bafyreiabspga2kt6bnafjjblbaexeppx7ts4cuitzahdmudpzrtlna2fuy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying YOU GET TO BURNING(New Arrange) - ホシノルリ (電子の妖精)",
+    "createdAt": "2026-10-07T09:13:50.480895Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T09:13:51.680Z",
+    "embed": null,
     "isRepost": false
   }
 }
