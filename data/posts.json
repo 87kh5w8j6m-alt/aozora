@@ -213648,7 +213648,7 @@
     "createdAt": "2026-08-20T22:33:39.713Z",
     "replyCount": 1,
     "repostCount": 137,
-    "likeCount": 593,
+    "likeCount": 592,
     "indexedAt": "2026-08-20T22:33:45.424Z",
     "embed": {
       "images": [
@@ -214842,7 +214842,7 @@
     "createdAt": "2026-08-29T03:10:08.039Z",
     "replyCount": 3,
     "repostCount": 172,
-    "likeCount": 763,
+    "likeCount": 762,
     "indexedAt": "2026-08-29T03:10:14.228Z",
     "embed": {
       "images": [
@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 84,
-    "likeCount": 378,
+    "repostCount": 88,
+    "likeCount": 399,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222263,6 +222263,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-07T03:38:20.677Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxb2j2pobc27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxb2j2pobc27",
+    "cid": "bafyreiei6bmzh657jnb6mqmdzdslnvahgxpwk6kcs52miqn2llacwp3muq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "トヨタWECのマイク・コンウェイが今季限りでの現役引退を発表。小林可夢偉らとル・マン2勝  - jp.motorsport.com/wec/news/le-...",
+    "createdAt": "2026-10-07T03:57:43.840Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T03:57:47.077Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/wec/news/le-mans-and-indycar-race-winner-mike-conway-announces-retirement/10862601/",
+        "title": "トヨタWECのマイク・コンウェイが今季限りでの現役引退を発表。小林可夢偉らとル・マン2勝",
+        "description": "トヨタから長らくWECに参戦してきたマイク・コンウェイが、レーシングドライバーとしてのキャリアに終止符を打つことになった。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7mmkrunh4pycpp32rei25pb4ees6sb7fb7utcqevyyduwrqnrdy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
