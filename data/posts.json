@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 488,
+    "repostCount": 97,
+    "likeCount": 495,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222368,6 +222368,29 @@
     "likeCount": 2,
     "indexedAt": "2026-10-07T11:09:30.879Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxc4qj6euk2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxc4qj6euk2f",
+    "cid": "bafyreibf5waeexcmzj63sp6zqrrlibh2owfod6go7u42gyfbzrp35xxrdm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC史上初。ポルティマオとの“同日かけもち”実現のため変則スケジュール採用へ／第7戦バルセロナ  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-10-07T14:10:21.105Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T14:10:23.778Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1359921",
+        "title": "WEC史上初。ポルティマオとの“同日かけもち”実現のため変則スケジュール採用へ／第7戦バルセロナ | ニュース | autosport web",
+        "description": "10月16〜18日にスペイン・バルセロナ郊外のカタルーニャ・サーキットで開催されるWEC世界耐久選手権第7戦『バルセロナ6時間レース』は、日程が重複するGTワ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidwxkfz7yhm4kpq4ogo74s6p7xcsj4i4nxqot6jjcsxgpkpjc4edm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
