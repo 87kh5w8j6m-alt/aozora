@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 99,
-    "likeCount": 440,
+    "repostCount": 101,
+    "likeCount": 442,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 104,
-    "likeCount": 515,
+    "repostCount": 108,
+    "likeCount": 524,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222402,8 +222402,8 @@
     "text": "",
     "createdAt": "2026-10-07T21:38:18.420Z",
     "replyCount": 1,
-    "repostCount": 28,
-    "likeCount": 83,
+    "repostCount": 59,
+    "likeCount": 204,
     "indexedAt": "2026-10-07T21:38:24.487Z",
     "embed": {
       "images": [
@@ -222433,6 +222433,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-07T21:09:28.083Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxcx3rr7n42j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxcx3rr7n42j",
+    "cid": "bafyreibu5b4pqmmdjorzz3wbvbfup766dqoqey57fi4cylktsh7hyue6ha",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第80回聴取終了 ゲスト：佐久間大介",
+    "createdAt": "2026-10-07T22:01:55.978722Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T22:01:56.580Z",
     "embed": null,
     "isRepost": false
   }
