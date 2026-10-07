@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 96,
-    "likeCount": 431,
+    "repostCount": 97,
+    "likeCount": 432,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222216,8 +222216,8 @@
     "text": "",
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
-    "repostCount": 75,
-    "likeCount": 349,
+    "repostCount": 84,
+    "likeCount": 378,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222234,5 +222234,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxb22auqoz2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxb22auqoz2j",
+    "cid": "bafyreian7bzkuihxb3dm2wroinml7k55eeelsydzva5ntnxo6beiltbn6q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "チーム全員での合わせ技一本！　ブルツ、トヨタのWEC富士優勝の舞台裏語る「フォトグラファーも含め、全員で協力した」  - https://jp.motorsport.com/wec/news/toyota-explains-how-a-photographer-helped-secure-dramatic-fuji-wec-win/10862420/",
+    "createdAt": "2026-10-07T03:49:25.871643Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T03:49:27.479Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxazgeykxt27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxazgeykxt27",
+    "cid": "bafyreibymyqm44cz6ctdkx76t7zexzqwghwcnrgendlndqyt4xdf46hyse",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-07T03:38:19.096963Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T03:38:20.677Z",
+    "embed": null,
+    "isRepost": false
   }
 }
