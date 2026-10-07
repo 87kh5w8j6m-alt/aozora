@@ -222053,7 +222053,7 @@
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
     "repostCount": 97,
-    "likeCount": 433,
+    "likeCount": 434,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222217,7 +222217,7 @@
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
     "repostCount": 93,
-    "likeCount": 445,
+    "likeCount": 451,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222283,6 +222283,29 @@
         "title": "トヨタWECのマイク・コンウェイが今季限りでの現役引退を発表。小林可夢偉らとル・マン2勝",
         "description": "トヨタから長らくWECに参戦してきたマイク・コンウェイが、レーシングドライバーとしてのキャリアに終止符を打つことになった。",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7mmkrunh4pycpp32rei25pb4ees6sb7fb7utcqevyyduwrqnrdy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbkwznic227": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxbkwznic227",
+    "cid": "bafyreigvaaslvvbrrepxxyy7oqak74bz3tcgfj6zjl7bvt24ir2m673l3y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "IDCFクラウドに不正アクセス　東日本の第1リージョンで障害  - www.itmedia.co.jp/news/article... くわばらくわばら",
+    "createdAt": "2026-10-07T08:51:52.353Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-07T08:51:59.978Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/article/2610/07/2000002087/",
+        "title": "IDCFクラウドに不正アクセス　東日本の第1リージョンで障害",
+        "description": "法人向けクラウド事業を手掛けるソフトバンク子会社のIDCフロンティア（東京都千代田）は10月7日、パブリッククラウド「IDCFクラウド」の一部システムが第三者から不正アクセスを受け、サービスの一部で障害が発生していると発表した。福島県白河市のデータセンターにある「東日本第1リージョン」が影響を受けているという。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibmwnd2t2vz6z5xoa4ir7mczkkkhu5gvgasw7qj3ggrqi3tjbenfy"
       },
       "$type": "app.bsky.embed.external#view"
     },
