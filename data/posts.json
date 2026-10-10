@@ -222589,7 +222589,7 @@
     "createdAt": "2026-10-09T23:48:03.224Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-10-09T23:48:12.075Z",
     "embed": {
       "images": [
@@ -222616,8 +222616,8 @@
     "text": "",
     "createdAt": "2026-10-09T21:40:31.607Z",
     "replyCount": 1,
-    "repostCount": 64,
-    "likeCount": 256,
+    "repostCount": 73,
+    "likeCount": 301,
     "indexedAt": "2026-10-09T21:40:37.680Z",
     "embed": {
       "images": [
@@ -222645,7 +222645,7 @@
     "createdAt": "2026-10-09T23:39:50.573291Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-10-09T23:39:53.581Z",
     "embed": {
       "images": [
@@ -222662,6 +222662,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxi6jtgokx2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxi6jtgokx2h",
+    "cid": "bafyreifuhicwbr363c5fifrusiewy2zfqkalmptpgjiivvyw3sxtvni6la",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨夜のF1シンガポールGP スプリント予選見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-09T23:58:21.324007Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-09T23:58:22.979Z",
+    "embed": null,
     "isRepost": false
   }
 }
