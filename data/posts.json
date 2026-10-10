@@ -222616,8 +222616,8 @@
     "text": "",
     "createdAt": "2026-10-09T21:40:31.607Z",
     "replyCount": 1,
-    "repostCount": 85,
-    "likeCount": 344,
+    "repostCount": 89,
+    "likeCount": 375,
     "indexedAt": "2026-10-09T21:40:37.680Z",
     "embed": {
       "images": [
@@ -222692,6 +222692,35 @@
     "likeCount": 0,
     "indexedAt": "2026-10-10T01:08:28.177Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxihbknau723": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxihbknau723",
+    "cid": "bafyreicin25nzsfyai25dn2cj7zexg32xlswffrmp4kelhd4ahmbzjdedy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "富山ついた！",
+    "createdAt": "2026-10-10T02:34:47.765706Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-10-10T02:34:49.377Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaamtr4ws2gf2kvjppee2ptfottzbwbz4juwjoz4v7ejfr3v6arnm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaamtr4ws2gf2kvjppee2ptfottzbwbz4juwjoz4v7ejfr3v6arnm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
