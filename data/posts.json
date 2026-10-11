@@ -222856,5 +222856,28 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxlg3xp35p2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxlg3xp35p2h",
+    "cid": "bafyreictipevvkxr622a2xsxvadvra6ysijmy5gnpaksu4d4mwgtvcvcjq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 兼六園 in  金沢市 https://app.foursquare.com/share/checkin/6acb31dafe906f16adde4b6b?s=gJc2BmJjg3OA8hMRE2UVJCFDFpE&lang=ja",
+    "createdAt": "2026-10-11T06:51:45.759499Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-11T06:51:46.881Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6acb31dafe906f16adde4b6b?s=gJc2BmJjg3OA8hMRE2UVJCFDFpE&lang=ja",
+        "title": "jiminy nseries's check in at 兼六園",
+        "description": "https://app.foursquare.com/share/checkin/6acb31dafe906f16adde4b6b?s=gJc2BmJjg3OA8hMRE2UVJCFDFpE&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
