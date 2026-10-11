@@ -222917,8 +222917,8 @@
     "text": "",
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
-    "repostCount": 125,
-    "likeCount": 491,
+    "repostCount": 132,
+    "likeCount": 508,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -222946,7 +222946,7 @@
     "createdAt": "2026-10-11T06:58:53.060724Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 4,
     "indexedAt": "2026-10-11T06:58:54.973Z",
     "embed": {
       "images": [
@@ -222973,6 +222973,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxllexqmjb2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxllexqmjb2l",
+    "cid": "bafyreidkkt3fvzpinzcyohp4hdmoap3tmkwjc56wdi4ybdzo4q6irtvpmi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日のお宿にチェックイン✅",
+    "createdAt": "2026-10-11T08:26:16.290650Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-11T08:26:17.746Z",
+    "embed": null,
     "isRepost": false
   }
 }
