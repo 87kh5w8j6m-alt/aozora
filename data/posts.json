@@ -222867,7 +222867,7 @@
     "createdAt": "2026-10-11T06:51:45.759499Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 2,
     "indexedAt": "2026-10-11T06:51:46.881Z",
     "embed": {
       "external": {
@@ -222877,6 +222877,101 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:pqblmyxaj7km7ssmg2v6mhlf/app.bsky.feed.post/3mxhgeid7tc2m": {
+    "uri": "at://did:plc:pqblmyxaj7km7ssmg2v6mhlf/app.bsky.feed.post/3mxhgeid7tc2m",
+    "cid": "bafyreibggmnepbqniuerj65iylk6htuhddypc64g46ta5f2qthfesgb5am",
+    "author": "osmdmk.bsky.social",
+    "authorName": "おさまだ名菓@青い空",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pqblmyxaj7km7ssmg2v6mhlf/bafkreicdnbcxei4hlk2lqi7xknaxpi6mi5plobwgkkqreymq7xlbfixhsa",
+    "text": "さっちゃん正座でポーズ\n\n#mono \nスカートがどうなってるとか考えたら負け",
+    "createdAt": "2026-10-09T16:45:53.673Z",
+    "replyCount": 0,
+    "repostCount": 21,
+    "likeCount": 47,
+    "indexedAt": "2026-10-09T16:45:56.775Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pqblmyxaj7km7ssmg2v6mhlf/bafkreigti64v6wmcgfgqhz22cebrgbl5e5rt654arv5fazudrpu2nngru4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pqblmyxaj7km7ssmg2v6mhlf/bafkreigti64v6wmcgfgqhz22cebrgbl5e5rt654arv5fazudrpu2nngru4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1300,
+            "width": 919
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxknxzwk4k2q": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxknxzwk4k2q",
+    "cid": "bafyreib7f7kyzpdi2bordbvyd6bcgxat7n2u3t3lxieedrqk4gmizmgzdm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-10T23:40:05.074Z",
+    "replyCount": 1,
+    "repostCount": 125,
+    "likeCount": 491,
+    "indexedAt": "2026-10-10T23:40:19.276Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibjnuyujz7ymmnm73vran4kosph6cyxlkxtihzccbtysl2ucxi5si",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibjnuyujz7ymmnm73vran4kosph6cyxlkxtihzccbtysl2ucxi5si",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxlgip7u2y2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxlgip7u2y2y",
+    "cid": "bafyreihrzrqrvckpegzsick3ae5ydh2apupi25ciw3jitexbjlo6sy5osq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "贅沢なお抹茶タイム",
+    "createdAt": "2026-10-11T06:58:53.060724Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-10-11T06:58:54.973Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifz5ctbxct7mpsjuophjj4lskftcczio6alo4jtvangfi6kpah75q",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifz5ctbxct7mpsjuophjj4lskftcczio6alo4jtvangfi6kpah75q",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaifptkz4ndfuv7l5hq6nyipyjzpzy4qzcjsobn7aig2r7nlu5m3m",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaifptkz4ndfuv7l5hq6nyipyjzpzy4qzcjsobn7aig2r7nlu5m3m",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
