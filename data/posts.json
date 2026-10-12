@@ -222918,7 +222918,7 @@
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
     "repostCount": 161,
-    "likeCount": 650,
+    "likeCount": 652,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -222999,8 +222999,8 @@
     "text": "",
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
-    "repostCount": 124,
-    "likeCount": 429,
+    "repostCount": 128,
+    "likeCount": 451,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223051,7 +223051,7 @@
     "createdAt": "2026-10-12T03:30:45.322375Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-10-12T03:30:47.173Z",
     "embed": {
       "images": [
@@ -223080,7 +223080,7 @@
     "createdAt": "2026-10-12T03:59:12.837241Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 3,
     "indexedAt": "2026-10-12T03:59:14.478Z",
     "embed": {
       "images": [
@@ -223092,6 +223092,64 @@
             "$type": "app.bsky.embed.defs#aspectRatio",
             "height": 4000,
             "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnqh7gkl62l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnqh7gkl62l",
+    "cid": "bafyreiagamjdqqu3c3oeqeutyvibl2xhh5iaq6eycr6btrpjp7wdsw6r3a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "帰りもグランクラス。これはいいものだ",
+    "createdAt": "2026-10-12T05:02:19.734245Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-10-12T05:02:21.476Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiabt2m2kh3rtlcgpjymg5w22riurfmwthxkwp25ykcdbw57exjrym",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiabt2m2kh3rtlcgpjymg5w22riurfmwthxkwp25ykcdbw57exjrym",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnqe3mkzt2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnqe3mkzt2p",
+    "cid": "bafyreiagd3lhmmc3clsgnosezae6qqn52tjxapto66vfkwtleu4drp4m7u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "さらば金沢",
+    "createdAt": "2026-10-12T05:00:34.296205Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-12T05:00:36.882Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihwvimvo34vo3pkyrbfsr2ekjinteef2ojedpz2q67kndx5qdgvi4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihwvimvo34vo3pkyrbfsr2ekjinteef2ojedpz2q67kndx5qdgvi4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
           }
         }
       ],
