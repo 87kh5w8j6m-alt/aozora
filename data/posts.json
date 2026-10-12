@@ -222403,7 +222403,7 @@
     "createdAt": "2026-10-07T21:38:18.420Z",
     "replyCount": 1,
     "repostCount": 113,
-    "likeCount": 546,
+    "likeCount": 547,
     "indexedAt": "2026-10-07T21:38:24.487Z",
     "embed": {
       "images": [
@@ -222917,8 +222917,8 @@
     "text": "",
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
-    "repostCount": 162,
-    "likeCount": 656,
+    "repostCount": 163,
+    "likeCount": 658,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -222999,8 +222999,8 @@
     "text": "",
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
-    "repostCount": 136,
-    "likeCount": 499,
+    "repostCount": 139,
+    "likeCount": 504,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223166,7 +223166,7 @@
     "text": "閘門カード（？）もゲット！これダムカードに数えていいの？",
     "createdAt": "2026-10-12T09:49:09.162300Z",
     "replyCount": 1,
-    "repostCount": 0,
+    "repostCount": 1,
     "likeCount": 1,
     "indexedAt": "2026-10-12T09:49:10.086Z",
     "embed": {
@@ -223253,10 +223253,25 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "水上エレベーター🛗体験してきました！",
     "createdAt": "2026-10-12T10:48:34.349Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-12T10:48:34.975Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxofieypru2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxofieypru2d",
+    "cid": "bafyreifi2ixdjznoazsu5kipm3usa4plqdh2ieva5y7hzdbqbcjzazcvnm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1シンガポールGP スプリント見る\n#F1jp #f1fujitv",
+    "createdAt": "2026-10-12T11:18:48.217985Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-12T11:18:48.878Z",
     "embed": null,
     "isRepost": false
   }
