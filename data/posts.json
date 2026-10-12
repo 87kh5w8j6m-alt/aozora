@@ -222917,8 +222917,8 @@
     "text": "",
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
-    "repostCount": 159,
-    "likeCount": 648,
+    "repostCount": 161,
+    "likeCount": 650,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -222999,8 +222999,8 @@
     "text": "",
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
-    "repostCount": 121,
-    "likeCount": 413,
+    "repostCount": 124,
+    "likeCount": 429,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223051,7 +223051,7 @@
     "createdAt": "2026-10-12T03:30:45.322375Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-12T03:30:47.173Z",
     "embed": {
       "images": [
@@ -223063,6 +223063,35 @@
             "$type": "app.bsky.embed.defs#aspectRatio",
             "height": 3000,
             "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnmwdy4ph2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxnmwdy4ph2f",
+    "cid": "bafyreigtcvdjdxhtruvpgxgdq3gw6izhmiqw7zx6ftumxxos7xjsspgfhq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今回の旅行で21世紀美術館の例のプールの実績解除🔓",
+    "createdAt": "2026-10-12T03:59:12.837241Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-12T03:59:14.478Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidmt3cgwfet7goh6glqadwfjphagzjdhxomxxviwcr66mj7e6nx2e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidmt3cgwfet7goh6glqadwfjphagzjdhxomxxviwcr66mj7e6nx2e",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
           }
         }
       ],
