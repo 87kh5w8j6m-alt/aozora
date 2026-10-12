@@ -223000,7 +223000,7 @@
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
     "repostCount": 136,
-    "likeCount": 486,
+    "likeCount": 490,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223145,6 +223145,94 @@
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihwvimvo34vo3pkyrbfsr2ekjinteef2ojedpz2q67kndx5qdgvi4",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihwvimvo34vo3pkyrbfsr2ekjinteef2ojedpz2q67kndx5qdgvi4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxoai2ybu42h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxoai2ybu42h",
+    "cid": "bafyreicht5a7qpzwt6fdyyoj6s7vg3h6lg3yxrymstp4ryxaytw4t7u6ie",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "閘門カード（？）もゲット！これダムカードに数えていいの？",
+    "createdAt": "2026-10-12T09:49:09.162300Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-12T09:49:10.086Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiebqfj3xux2a3b7omqvkl2ko4wo3qwjjqlm4qustlb5j33rvcuhfi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiebqfj3xux2a3b7omqvkl2ko4wo3qwjjqlm4qustlb5j33rvcuhfi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxoadhyxc52y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxoadhyxc52y",
+    "cid": "bafyreigjjumn3vam3lzfjgh736kqsfilc26uevxozm3oaoko77puloore4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "グランクラスでいく二泊三日富山・金沢旅行から無事帰宅！例のスタバと例のプールの実績解除🔓してきた。三日間天気良すぎて日差しが暑かった。のどぐろはやっぱりうまかった！",
+    "createdAt": "2026-10-12T09:46:35.030306Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-12T09:46:36.578Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihshhuxuu32s6xsyjduwpyt4zjzyguwenc2wnl3kmbkmwn3z5i474",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihshhuxuu32s6xsyjduwpyt4zjzyguwenc2wnl3kmbkmwn3z5i474",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifr5la4tasgbku2geexshm43463ttxqim2i3cbpa5ipajpnbb66gm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifr5la4tasgbku2geexshm43463ttxqim2i3cbpa5ipajpnbb66gm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifieczmhftrtegyoivxztxsiw4ernccp3rwbp33zpvp6o4sggqjle",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifieczmhftrtegyoivxztxsiw4ernccp3rwbp33zpvp6o4sggqjle",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiclwj4ck3sbk6a53w5unbtm5qscd6wbpd3y3d7ozfevgepnve3qou",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiclwj4ck3sbk6a53w5unbtm5qscd6wbpd3y3d7ozfevgepnve3qou",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
