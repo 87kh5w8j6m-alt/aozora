@@ -222918,7 +222918,7 @@
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
     "repostCount": 159,
-    "likeCount": 647,
+    "likeCount": 648,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -222988,6 +222988,57 @@
     "likeCount": 0,
     "indexedAt": "2026-10-11T08:26:17.746Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxmy5tkww22k": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxmy5tkww22k",
+    "cid": "bafyreibphjlwbenvcpstnvknzbhmhtznvwp2sn46gziqyv7oypeghq23fe",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-11T21:47:36.623Z",
+    "replyCount": 2,
+    "repostCount": 112,
+    "likeCount": 387,
+    "indexedAt": "2026-10-11T21:47:43.880Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicojudg2abteegxbjhqvyu6d5cw7ag23lvzuuzsduz7aimhmulpcm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicojudg2abteegxbjhqvyu6d5cw7ag23lvzuuzsduz7aimhmulpcm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxngiuainv2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxngiuainv2h",
+    "cid": "bafyreid645i7rd5kftctee44cgpt2cfta7wucapb5sfcn76zqyd6apzu6e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 金沢駅 in  金沢市 https://app.foursquare.com/share/checkin/6acc400bb59111118a4c854b?s=CaG0tJEmNsdKK6faXRN7Do6CpQg&lang=ja",
+    "createdAt": "2026-10-12T02:04:17.752306Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-12T02:04:18.881Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6acc400bb59111118a4c854b?s=CaG0tJEmNsdKK6faXRN7Do6CpQg&lang=ja",
+        "title": "jiminy nseries's check in at 金沢駅",
+        "description": "https://app.foursquare.com/share/checkin/6acc400bb59111118a4c854b?s=CaG0tJEmNsdKK6faXRN7Do6CpQg&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
