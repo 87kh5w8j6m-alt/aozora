@@ -223000,7 +223000,7 @@
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
     "repostCount": 149,
-    "likeCount": 544,
+    "likeCount": 545,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223272,6 +223272,64 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-12T11:18:48.878Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxphckexgs2m": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxphckexgs2m",
+    "cid": "bafyreifgxu7wkr45w3sgqonjnys6p7bzn335yca6ttop3lpivmmvb6f6ny",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-12T21:24:00.366Z",
+    "replyCount": 1,
+    "repostCount": 29,
+    "likeCount": 99,
+    "indexedAt": "2026-10-12T21:24:05.877Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaye22zd72uoxdpstyklfqzknqavssbbmzcxworleyvzvh4ewd6pe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaye22zd72uoxdpstyklfqzknqavssbbmzcxworleyvzvh4ewd6pe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1040,
+            "width": 915
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxphcdqiqu2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxphcdqiqu2y",
+    "cid": "bafyreic7qqov2cfppfxg3f6e4cyfexlmslmsr42zamw5kmtifffwjjrlzq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1254回聴取終了。",
+    "createdAt": "2026-10-12T21:23:52.896091Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-12T21:23:53.477Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxpfmpt5jp27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxpfmpt5jp27",
+    "cid": "bafyreihbnwo5w76yhvdop66574rjx4qr4ugqkpvtbdc6opavjlyk57bgt4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-10-12T20:53:53.658030Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-12T20:53:54.183Z",
     "embed": null,
     "isRepost": false
   }
