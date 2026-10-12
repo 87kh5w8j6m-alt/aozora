@@ -222918,7 +222918,7 @@
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
     "repostCount": 164,
-    "likeCount": 665,
+    "likeCount": 666,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -223000,7 +223000,7 @@
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 2,
     "repostCount": 149,
-    "likeCount": 545,
+    "likeCount": 548,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223283,9 +223283,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-10-12T21:24:00.366Z",
-    "replyCount": 1,
-    "repostCount": 29,
-    "likeCount": 99,
+    "replyCount": 3,
+    "repostCount": 53,
+    "likeCount": 187,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223330,6 +223330,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-12T20:53:54.183Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxpk36vahv2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxpk36vahv2p",
+    "cid": "bafyreiekdai2s5luvfllmcdj5cipqm6tagn3a4emrl576jw4bwat36vsmi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第482回聴取終了。",
+    "createdAt": "2026-10-12T22:13:34.097131Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-12T22:13:34.776Z",
     "embed": null,
     "isRepost": false
   }
