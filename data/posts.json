@@ -215262,7 +215262,7 @@
     "createdAt": "2026-08-31T00:22:08.686Z",
     "replyCount": 2,
     "repostCount": 247,
-    "likeCount": 1012,
+    "likeCount": 1013,
     "indexedAt": "2026-08-31T00:22:21.007Z",
     "embed": {
       "images": [
@@ -222217,7 +222217,7 @@
     "createdAt": "2026-10-06T22:12:56.010Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 555,
+    "likeCount": 556,
     "indexedAt": "2026-10-06T22:13:08.076Z",
     "embed": {
       "images": [
@@ -222999,7 +222999,7 @@
     "text": "",
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 3,
-    "repostCount": 153,
+    "repostCount": 154,
     "likeCount": 555,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
@@ -223284,8 +223284,8 @@
     "text": "",
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
-    "repostCount": 90,
-    "likeCount": 330,
+    "repostCount": 96,
+    "likeCount": 346,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223362,5 +223362,48 @@
     "indexedAt": "2026-10-13T03:30:58.978Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxq5z7cep22d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxq5z7cep22d",
+    "cid": "bafyreicf762feiesrtkhopelnjojnd3vjgmb4jbw6s2jnk3lusnqm36bve",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "リンリンしか勝たんて",
+    "createdAt": "2026-10-13T04:10:22.818Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-13T04:10:23.274Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mxobml2zic2i": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mxobml2zic2i",
+    "cid": "bafyreigvcxphefqeauz2u2z5eiprgotyhaynvbrb42qrtfcrujlkdkhfli",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
+    "createdAt": "2026-10-12T10:09:34.433Z",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 12,
+    "indexedAt": "2026-10-12T10:09:37.476Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiayrenxrftlsifsoqq3f7u6cxnieisfqivxznzhgh5mnzuxu25ezu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiayrenxrftlsifsoqq3f7u6cxnieisfqivxznzhgh5mnzuxu25ezu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
