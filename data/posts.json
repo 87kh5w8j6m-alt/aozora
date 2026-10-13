@@ -222918,7 +222918,7 @@
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
     "repostCount": 165,
-    "likeCount": 670,
+    "likeCount": 671,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -223285,7 +223285,7 @@
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
     "repostCount": 103,
-    "likeCount": 404,
+    "likeCount": 406,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223387,8 +223387,8 @@
     "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
     "createdAt": "2026-10-12T10:09:34.433Z",
     "replyCount": 0,
-    "repostCount": 6,
-    "likeCount": 17,
+    "repostCount": 7,
+    "likeCount": 18,
     "indexedAt": "2026-10-12T10:09:37.476Z",
     "embed": {
       "images": [
@@ -223449,6 +223449,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-13T11:01:43.973Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxr5kvpquc2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxr5kvpquc2o",
+    "cid": "bafyreifue44ncnv4mudtbwvuhf5c754d3oqgxoprf2uhactl47cp6jmihu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Apple初のスマートディスプレイ「HomeView」発表！「Siri AI」搭載で価格は299ドル - GAME Watch game.watch.impress.co.jp/docs/news/21...  まずは米国からで日本はまだかな？",
+    "createdAt": "2026-10-13T13:35:02.750Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-13T13:35:05.579Z",
+    "embed": {
+      "external": {
+        "uri": "https://game.watch.impress.co.jp/docs/news/2147820.html",
+        "title": "Apple初のスマートディスプレイ「HomeView」発表！「Siri AI」搭載で価格は299ドル 米国では11月13日発売",
+        "description": "Appleは10月13日、スマートディスプレイ「Apple HomeView」を発表した。米国では11月13日発売予定で、価格は299ドル。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifctaqt6hgxta4xz3km5g7b2syragn3urm7vriaqhdp3kwqjatnmq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
