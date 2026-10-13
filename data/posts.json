@@ -223285,7 +223285,7 @@
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
     "repostCount": 101,
-    "likeCount": 382,
+    "likeCount": 388,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223387,8 +223387,8 @@
     "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
     "createdAt": "2026-10-12T10:09:34.433Z",
     "replyCount": 0,
-    "repostCount": 5,
-    "likeCount": 15,
+    "repostCount": 6,
+    "likeCount": 17,
     "indexedAt": "2026-10-12T10:09:37.476Z",
     "embed": {
       "images": [
@@ -223418,6 +223418,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-13T08:42:44.874Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxqsnorlih23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxqsnorlih23",
+    "cid": "bafyreif45kwo2ulb6vbomaekayb6ycvvdnmp2zrx5zslyhjmh4omrjolda",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "いくらAIが英語を翻訳してくれようともエラーメッセージを読まずに「なんか出たからわかんない」と言ってくるやつは変わらない。なんなら日本語でも読まない。ね。",
+    "createdAt": "2026-10-13T10:19:44.079723Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-13T10:19:45.074Z",
     "embed": null,
     "isRepost": false
   }
