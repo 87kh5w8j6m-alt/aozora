@@ -223285,7 +223285,7 @@
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
     "repostCount": 109,
-    "likeCount": 422,
+    "likeCount": 421,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223498,8 +223498,8 @@
     "text": "",
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
-    "repostCount": 80,
-    "likeCount": 301,
+    "repostCount": 83,
+    "likeCount": 314,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223530,6 +223530,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-14T03:30:36.807Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxsp545fbe2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxsp545fbe2h",
+    "cid": "bafyreicec23zca3ousr4bb3rxf3ybl3pq4ypzxc2molfl6qmuyfjplmsfi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1現場に導入された『リアルタイム多言語翻訳』の技術。現時点で50以上の言語に対応  - https://www.as-web.jp/f1/1362251",
+    "createdAt": "2026-10-14T04:22:05.718600Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-14T04:22:07.773Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1362251",
+        "title": "F1現場に導入された『リアルタイム多言語翻訳』の技術。現時点で50以上の言語に対応 | ニュース | autosport web",
+        "description": "　メルセデス-AMG・ペトロナスF1チームのチームパートナーであるアコーディス（Akkodis）は10月13日、多言語AIソリューションの導入を発表した。このソ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic4asooqw23rtzub2pnmk3csken6cikwqzedxj7dfykzor4r54rhi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
