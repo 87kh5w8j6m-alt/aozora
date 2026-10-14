@@ -223000,7 +223000,7 @@
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 4,
     "repostCount": 160,
-    "likeCount": 568,
+    "likeCount": 569,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223499,7 +223499,7 @@
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 421,
+    "likeCount": 424,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223612,6 +223612,64 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-14T22:13:42.985Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxunhziyqs2i": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxunhziyqs2i",
+    "cid": "bafyreigbozklzt33kufsohiy7x3hfk7jzbiu3lm3nwkojnjopnhktdsr7u",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-14T22:57:45.143Z",
+    "replyCount": 0,
+    "repostCount": 37,
+    "likeCount": 142,
+    "indexedAt": "2026-10-14T22:57:54.277Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidcjznm5o37gj7ycp6fhtg7euerprkxbo537zl6ejlwq6bqs6jgri",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreidcjznm5o37gj7ycp6fhtg7euerprkxbo537zl6ejlwq6bqs6jgri",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxunhwk4b72m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxunhwk4b72m",
+    "cid": "bafyreifrq73p5o6fnkfseoreuqoi6b72fhhzjk4r5igdczj4qhyqcrnqrq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ARIAは4文字だったから",
+    "createdAt": "2026-10-14T22:57:41.005531Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-14T22:57:42.075Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxunh37kps27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxunh37kps27",
+    "cid": "bafyreidsbysgpi4t3tnxx7wfefadqv3kkwzwxbsnouzdvf5elwr6o6jqa4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ColoriColoreCreare、略称「ココクレ」だけど、正式名称がいつまでも覚えられない",
+    "createdAt": "2026-10-14T22:57:10.440508Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-14T22:57:13.475Z",
     "embed": null,
     "isRepost": false
   }
