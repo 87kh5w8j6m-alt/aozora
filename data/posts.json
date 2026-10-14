@@ -223000,7 +223000,7 @@
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 4,
     "repostCount": 160,
-    "likeCount": 565,
+    "likeCount": 566,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223285,7 +223285,7 @@
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
     "repostCount": 110,
-    "likeCount": 425,
+    "likeCount": 427,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223499,7 +223499,7 @@
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
     "repostCount": 88,
-    "likeCount": 371,
+    "likeCount": 381,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223553,6 +223553,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxtengmtuk27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxtengmtuk27",
+    "cid": "bafyreifmktvyrxg5axnqqj2awz4bifueneg34tw7wm3s6eda23xdzv2qgm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1シンガポールGP 決勝見る",
+    "createdAt": "2026-10-14T10:47:02.779832Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-14T10:47:05.284Z",
+    "embed": null,
     "isRepost": false
   }
 }
