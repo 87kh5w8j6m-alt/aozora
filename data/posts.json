@@ -223712,8 +223712,8 @@
     "text": "",
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
-    "repostCount": 52,
-    "likeCount": 170,
+    "repostCount": 63,
+    "likeCount": 210,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223730,5 +223730,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxa7zuukc2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxa7zuukc2i",
+    "cid": "bafyreiczgpwzwa3cnemr5roxnr5je2doaju3owrj2sdkinp2zsgeykcxhq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第80話視聴終了。",
+    "createdAt": "2026-10-15T23:38:36.554535Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-15T23:38:37.680Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxa7q2xzb2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxa7q2xzb2n",
+    "cid": "bafyreibvl7p3lfr2uc3dodi46p6qfwvqffjs5fzuituy6gmk42ow7elxs4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第79話視聴終了。",
+    "createdAt": "2026-10-15T23:38:26.205547Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-15T23:38:27.475Z",
+    "embed": null,
+    "isRepost": false
   }
 }
