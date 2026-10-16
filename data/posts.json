@@ -221416,8 +221416,8 @@
     "text": "",
     "createdAt": "2026-09-30T21:47:24.596Z",
     "replyCount": 1,
-    "repostCount": 181,
-    "likeCount": 669,
+    "repostCount": 182,
+    "likeCount": 670,
     "indexedAt": "2026-09-30T21:47:31.082Z",
     "embed": {
       "images": [
@@ -221519,8 +221519,8 @@
     "text": "",
     "createdAt": "2026-10-01T21:51:07.889Z",
     "replyCount": 2,
-    "repostCount": 118,
-    "likeCount": 576,
+    "repostCount": 119,
+    "likeCount": 577,
     "indexedAt": "2026-10-01T21:51:12.783Z",
     "embed": {
       "images": [
@@ -221660,8 +221660,8 @@
     "text": "",
     "createdAt": "2026-10-03T07:19:43.481Z",
     "replyCount": 3,
-    "repostCount": 134,
-    "likeCount": 609,
+    "repostCount": 135,
+    "likeCount": 610,
     "indexedAt": "2026-10-03T07:19:49.678Z",
     "embed": {
       "images": [
@@ -221865,8 +221865,8 @@
     "text": "",
     "createdAt": "2026-10-04T00:57:54.779Z",
     "replyCount": 2,
-    "repostCount": 146,
-    "likeCount": 615,
+    "repostCount": 147,
+    "likeCount": 616,
     "indexedAt": "2026-10-04T00:58:01.678Z",
     "embed": {
       "images": [
@@ -222052,8 +222052,8 @@
     "text": "",
     "createdAt": "2026-10-05T22:11:07.611Z",
     "replyCount": 1,
-    "repostCount": 103,
-    "likeCount": 456,
+    "repostCount": 104,
+    "likeCount": 457,
     "indexedAt": "2026-10-05T22:11:13.084Z",
     "embed": {
       "images": [
@@ -222999,8 +222999,8 @@
     "text": "",
     "createdAt": "2026-10-11T21:47:36.623Z",
     "replyCount": 4,
-    "repostCount": 160,
-    "likeCount": 572,
+    "repostCount": 161,
+    "likeCount": 573,
     "indexedAt": "2026-10-11T21:47:43.880Z",
     "embed": {
       "images": [
@@ -223284,8 +223284,8 @@
     "text": "",
     "createdAt": "2026-10-12T21:24:00.366Z",
     "replyCount": 3,
-    "repostCount": 112,
-    "likeCount": 432,
+    "repostCount": 113,
+    "likeCount": 434,
     "indexedAt": "2026-10-12T21:24:05.877Z",
     "embed": {
       "images": [
@@ -223499,7 +223499,7 @@
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
     "repostCount": 100,
-    "likeCount": 442,
+    "likeCount": 443,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223624,8 +223624,8 @@
     "text": "",
     "createdAt": "2026-10-14T22:57:45.143Z",
     "replyCount": 0,
-    "repostCount": 100,
-    "likeCount": 446,
+    "repostCount": 101,
+    "likeCount": 449,
     "indexedAt": "2026-10-14T22:57:54.277Z",
     "embed": {
       "images": [
@@ -223712,8 +223712,8 @@
     "text": "",
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 429,
+    "repostCount": 109,
+    "likeCount": 432,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -224064,5 +224064,33 @@
     "indexedAt": "2026-10-16T21:36:19.081Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxzkaomd6s2m": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mxzkaomd6s2m",
+    "cid": "bafyreiedjacv5yjhgtyngbjhjyk7saovmx6bu2v5q5x7fxpiy5s5cknj5m",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-16T21:43:16.303Z",
+    "replyCount": 2,
+    "repostCount": 55,
+    "likeCount": 199,
+    "indexedAt": "2026-10-16T21:43:27.578Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigkxho5sepdktv3lurfgrf3uwkuxvefdkg75afvkhilfruxgnd3wq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigkxho5sepdktv3lurfgrf3uwkuxvefdkg75afvkhilfruxgnd3wq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
