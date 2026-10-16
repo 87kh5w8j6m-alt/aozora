@@ -223388,7 +223388,7 @@
     "createdAt": "2026-10-12T10:09:34.433Z",
     "replyCount": 0,
     "repostCount": 7,
-    "likeCount": 20,
+    "likeCount": 21,
     "indexedAt": "2026-10-12T10:09:37.476Z",
     "embed": {
       "images": [
@@ -223713,7 +223713,7 @@
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
     "repostCount": 102,
-    "likeCount": 401,
+    "likeCount": 403,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223885,7 +223885,7 @@
     "createdAt": "2026-10-16T08:00:07.754Z",
     "replyCount": 0,
     "repostCount": 7,
-    "likeCount": 14,
+    "likeCount": 15,
     "indexedAt": "2026-10-16T08:00:23.975Z",
     "embed": {
       "images": [
@@ -223902,5 +223902,108 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxylbh5jp22c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxylbh5jp22c",
+    "cid": "bafyreidiursu6oam5f5powhmwappoy6hjeubmzuzmp7qo5tgtxssexmtom",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ソロなのにスマホはDuoなんだねとかやめて",
+    "createdAt": "2026-10-16T12:28:56.035Z",
+    "replyCount": 0,
+    "repostCount": 2,
+    "likeCount": 7,
+    "indexedAt": "2026-10-16T12:28:57.281Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxykqjmnfw2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxykqjmnfw2y",
+    "cid": "bafyreibn4haz5xrbosn5rezkkaih7g77nhvhxp4qr6q4cqv6hbsc5ud7ze",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "この日の為に貯めてたAppleアカウントの残高が0になった",
+    "createdAt": "2026-10-16T12:19:26.572168Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T12:19:28.373Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxykewqryv23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxykewqryv23",
+    "cid": "bafyreiaro6ti5tmmu6xre7n2ryebvxpw73kdfwuedkllmjpanhlnmiiru4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "気絶してスマホ買ったの久々だな",
+    "createdAt": "2026-10-16T12:12:58.126629Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T12:12:59.377Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxyk7qaby22f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxyk7qaby22f",
+    "cid": "bafyreig2bf5o3hhc2f6sdfeundqk6premrggz3hm3ryqh7clkbh34ompz4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "祝杯あげさせていただきます🍺",
+    "createdAt": "2026-10-16T12:10:03.341083Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-16T12:10:05.677Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibpwwdm5meckw5ld25x6kypei7755nxkh3m5vhugjz3x2tfk2eqy4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibpwwdm5meckw5ld25x6kypei7755nxkh3m5vhugjz3x2tfk2eqy4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3151,
+            "width": 2363
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxyjwd7lt62d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxyjwd7lt62d",
+    "cid": "bafyreifcmfv2imiicpxt45cxxgam422uczexhfzu46irsqon7epgg22njq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はっ！？気絶してたみたいだ……。",
+    "createdAt": "2026-10-16T12:04:47.912051Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 4,
+    "indexedAt": "2026-10-16T12:04:49.774Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigs4rz2wxwrsatlv3df6c2kg66bwqw4frgovnrbhlqafwsg7ciggi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigs4rz2wxwrsatlv3df6c2kg66bwqw4frgovnrbhlqafwsg7ciggi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 831,
+            "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
   }
 }
