@@ -214491,7 +214491,7 @@
     "createdAt": "2026-08-26T23:15:32.154Z",
     "replyCount": 1,
     "repostCount": 189,
-    "likeCount": 786,
+    "likeCount": 787,
     "indexedAt": "2026-08-26T23:15:41.628Z",
     "embed": {
       "images": [
@@ -223499,7 +223499,7 @@
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 436,
+    "likeCount": 437,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223625,7 +223625,7 @@
     "createdAt": "2026-10-14T22:57:45.143Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 435,
+    "likeCount": 437,
     "indexedAt": "2026-10-14T22:57:54.277Z",
     "embed": {
       "images": [
@@ -223712,8 +223712,8 @@
     "text": "",
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
-    "repostCount": 84,
-    "likeCount": 307,
+    "repostCount": 88,
+    "likeCount": 327,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223827,6 +223827,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-16T03:30:40.478Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxorne47423": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxorne47423",
+    "cid": "bafyreidsmbyqsa5zyi5jwcpvwzdeqyjyykl55jji3mx36d6kvxoqmihskq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "木村武史がELMSで栄えあるジェントルマン・オブ・ザ・イヤーを受賞「すごく嬉しかった」  - https://www.as-web.jp/sports-car/1362605 めっちゃスゴイ！",
+    "createdAt": "2026-10-16T03:58:59.862103Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T03:59:05.286Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1362605",
+        "title": "木村武史がELMSで栄えあるジェントルマン・オブ・ザ・イヤーを受賞「すごく嬉しかった」 | ニュース | autosport web",
+        "description": "　10月12日、ポルトガルのポルティマオで行われたヨーロピアン・ル・マン・シリーズ（ELMS）の今季最終戦の後、ポルティマオ・アレーナで2026年シーズンを締め",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifu34xkw5dfhhvbw4vwqqr5272tu6mz2ff7ienr3zmnearirgkdby"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
