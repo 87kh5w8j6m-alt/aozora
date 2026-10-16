@@ -223712,8 +223712,8 @@
     "text": "",
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
-    "repostCount": 77,
-    "likeCount": 285,
+    "repostCount": 84,
+    "likeCount": 307,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223782,6 +223782,51 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxoad76un2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxoad76un2d",
+    "cid": "bafyreiauasjgrkiowmcp7bhcmtgad2im5eutrxvernx2yo77oeolnolja4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "別の世界線の緊急地震速報が漏れて来ちゃった？",
+    "createdAt": "2026-10-16T03:49:14.691072Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T03:49:19.984Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxnweguw52h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxnweguw52h",
+    "cid": "bafyreigpptswhsw5ek62phwwgvwmdtmsls7paajlsj5qtd7yh5ph4sb2va",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "緊急地震速報ビビった。揺れた？",
+    "createdAt": "2026-10-16T03:43:43.729035Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T03:43:45.776Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxn6xmb562i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxn6xmb562i",
+    "cid": "bafyreihd2ik2xt5m52u3wvelkoa3zy54ma56xi7bkxodubc6ywecmthlcm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-16T03:30:38.986591Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-16T03:30:40.478Z",
+    "embed": null,
     "isRepost": false
   }
 }
