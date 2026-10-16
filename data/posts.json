@@ -223625,7 +223625,7 @@
     "createdAt": "2026-10-14T22:57:45.143Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 432,
+    "likeCount": 434,
     "indexedAt": "2026-10-14T22:57:54.277Z",
     "embed": {
       "images": [
@@ -223712,8 +223712,8 @@
     "text": "",
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
-    "repostCount": 63,
-    "likeCount": 210,
+    "repostCount": 68,
+    "likeCount": 244,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223759,6 +223759,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-15T23:38:27.475Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxb623oxk2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mxxb623oxk2d",
+    "cid": "bafyreidoinzifpcgpqubsi5dqinxigweml5h4d7j7hlsjwqnjerwupyyim",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ウイリアムズF1、2027年は車名パターンを変更し『FW50』に。創立50周年を記念、2月の特別イベントでショーカーを展示へ  - https://www.as-web.jp/f1/1362629",
+    "createdAt": "2026-10-15T23:55:23.540433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-15T23:55:25.085Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1362629",
+        "title": "ウイリアムズF1、2027年は車名パターンを変更し『FW50』に。創立50周年を記念、2月の特別イベントでショーカーを展示へ | ニュース | autosport web",
+        "description": "　ウイリアムズF1チームは、創立50周年を迎える2027年に、数々の祝賀イベントを開催することを発表した。また、2027年型マシンの名称は、本来なら『FW49』",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibdpmzcyonj7mcpeqq2iju634zgv4jmjjwn74wp7bu7tqdouv567i"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
