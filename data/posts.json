@@ -224074,8 +224074,8 @@
     "text": "",
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 2,
-    "repostCount": 115,
-    "likeCount": 504,
+    "repostCount": 118,
+    "likeCount": 513,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224249,6 +224249,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my37jnij522b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my37jnij522b",
+    "cid": "bafyreig73a6bahqea3fszvi4nv25zmhcw6thrb2nlpwbexb5htbrj6wcfi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "OM SYSTEM PLAZAに行ってOM-3を改めて触ってみたけれど、ちょっと触った程度ではクリエイティブダイヤルの良さが分からないんだよなー",
+    "createdAt": "2026-10-17T13:36:45.436Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-17T13:36:45.676Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my37dk7al22b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my37dk7al22b",
+    "cid": "bafyreicqnesgzjxtt2jcyv6rkxm7dxdier6aogj4sngdvkzcyacsgd2rrm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "M.ZUIKO DIGITAL ED 40-150mm F4.0 PROのファームウェアアップデート。Ver.1.1で「高速連写SH2」および「プロキャプチャーSH2」で、50コマ/秒の連写撮影に対応。したけど、ボディ側が50コマ/秒に対応してない",
+    "createdAt": "2026-10-17T13:33:20.660Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-17T13:33:21.173Z",
+    "embed": null,
     "isRepost": false
   }
 }
