@@ -218501,7 +218501,7 @@
     "text": "",
     "createdAt": "2026-09-18T21:48:30.129Z",
     "replyCount": 1,
-    "repostCount": 141,
+    "repostCount": 142,
     "likeCount": 679,
     "indexedAt": "2026-09-18T21:48:36.579Z",
     "embed": {
@@ -224074,8 +224074,8 @@
     "text": "",
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 2,
-    "repostCount": 102,
-    "likeCount": 416,
+    "repostCount": 103,
+    "likeCount": 426,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224211,6 +224211,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my2c2m7ffo23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my2c2m7ffo23",
+    "cid": "bafyreia75ujiyku2lxuo7nusbhwgdfe553p2ighgjlvlv5axu25ipqmxku",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ガールズ＆パンツァー 最終章 第5話 観た。ガルパンは面白いなあ。",
+    "createdAt": "2026-10-17T04:49:21.290795Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-17T04:49:22.379Z",
+    "embed": null,
     "isRepost": false
   }
 }
