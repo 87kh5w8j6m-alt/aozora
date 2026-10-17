@@ -224074,8 +224074,8 @@
     "text": "",
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 2,
-    "repostCount": 118,
-    "likeCount": 513,
+    "repostCount": 120,
+    "likeCount": 519,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224279,6 +224279,35 @@
     "likeCount": 0,
     "indexedAt": "2026-10-17T13:33:21.173Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my3c6csiyj2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my3c6csiyj2d",
+    "cid": "bafyreiczr62wvuzbycjqmynlsvluzfotzwmslb2pkal44zrayhcn4zkrs4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying EONIAN -イオニアン- - ELISA connect EFP (EONIAN -イオニアン- - Single)",
+    "createdAt": "2026-10-17T14:24:05.781158Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-17T14:24:06.976Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic2emwpzzu2hswnkyi7o3yjctjamrkvi6ynppbifqcswh6blm6fua",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic2emwpzzu2hswnkyi7o3yjctjamrkvi6ynppbifqcswh6blm6fua",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 1389,
+            "width": 1400
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
