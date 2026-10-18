@@ -223498,8 +223498,8 @@
     "text": "",
     "createdAt": "2026-10-13T22:00:43.595Z",
     "replyCount": 0,
-    "repostCount": 100,
-    "likeCount": 448,
+    "repostCount": 101,
+    "likeCount": 449,
     "indexedAt": "2026-10-13T22:00:49.178Z",
     "embed": {
       "images": [
@@ -223713,7 +223713,7 @@
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 443,
+    "likeCount": 444,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -223985,9 +223985,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "はっ！？気絶してたみたいだ……。",
     "createdAt": "2026-10-16T12:04:47.912051Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 1,
-    "likeCount": 8,
+    "likeCount": 10,
     "indexedAt": "2026-10-16T12:04:49.774Z",
     "embed": {
       "images": [
@@ -224075,7 +224075,7 @@
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 3,
     "repostCount": 124,
-    "likeCount": 542,
+    "likeCount": 543,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224322,6 +224322,80 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-17T19:52:27.279Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4f6hl32s2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4f6hl32s2c",
+    "cid": "bafyreihpbs3rpmelaso32xec5xymn7spkuobcapfnujbjbgsqjpiu7eima",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "久々に稼働部のあるワクワクする端末です。",
+    "createdAt": "2026-10-18T00:50:32.318Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-18T00:50:33.579Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4eh54ds423": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4eh54ds423",
+    "cid": "bafyreiebbsbrda5h65szwz7gvrol6wz3mx3vj4wgcqfw4tttgz23tr2omy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duo（のケース）もう届いた。",
+    "createdAt": "2026-10-18T00:37:29.118722Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-18T00:37:30.276Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifuevw2pwgvqhjcm6vdy3s27kbzp7akgybsehvlcv25ij53qfijzi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifuevw2pwgvqhjcm6vdy3s27kbzp7akgybsehvlcv25ij53qfijzi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4ealjybc2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4ealjybc2y",
+    "cid": "bafyreicypwlxgbdnyo3qhk5oooak7bc2owjgnz4ianuwz5jklavr4eywga",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日の草野球。3-3で引き分け6回完投3失点1打数0安打1四球。よく引き分けに持って行ったよ。",
+    "createdAt": "2026-10-18T00:33:48.316461Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-18T00:33:49.876Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4e6qms5m2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4e6qms5m2h",
+    "cid": "bafyreiffbvwqrg4dqwbj6hixqwusfz7bppi7aeq2a6unb6svsow4ai4kyu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "帰宅ってシャワったー",
+    "createdAt": "2026-10-18T00:32:47.589709Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-18T00:32:48.176Z",
     "embed": null,
     "isRepost": false
   }
