@@ -223713,7 +223713,7 @@
     "createdAt": "2026-10-15T21:37:45.351Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 444,
+    "likeCount": 445,
     "indexedAt": "2026-10-15T21:37:56.579Z",
     "embed": {
       "images": [
@@ -224075,7 +224075,7 @@
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 3,
     "repostCount": 124,
-    "likeCount": 543,
+    "likeCount": 544,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224333,7 +224333,7 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "久々に稼働部のあるワクワクする端末です。",
     "createdAt": "2026-10-18T00:50:32.318Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-18T00:50:33.579Z",
@@ -224396,6 +224396,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-18T00:32:48.176Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4fhel4uc2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my4fhel4uc2c",
+    "cid": "bafyreieycxscw4po52647dh4uw2ghxjohwi4xg6wcvhi5fimyjnm2bl5u4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "何度目かのモバイル端末でノートPCが不要になるのを夢見て。",
+    "createdAt": "2026-10-18T00:55:31.166Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-18T00:55:32.281Z",
     "embed": null,
     "isRepost": false
   }
