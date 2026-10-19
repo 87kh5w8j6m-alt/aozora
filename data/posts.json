@@ -223624,7 +223624,7 @@
     "text": "",
     "createdAt": "2026-10-14T22:57:45.143Z",
     "replyCount": 0,
-    "repostCount": 103,
+    "repostCount": 104,
     "likeCount": 465,
     "indexedAt": "2026-10-14T22:57:54.277Z",
     "embed": {
@@ -224524,8 +224524,8 @@
     "text": "",
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
-    "repostCount": 79,
-    "likeCount": 323,
+    "repostCount": 80,
+    "likeCount": 333,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224542,5 +224542,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my7txgzoxs2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3my7txgzoxs2f",
+    "cid": "bafyreicijsdp3w46xh7ynahkafhadm573r6lb3gp4ar6u5j34ri2nnsjyi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duo ガラスフィルムがことごとくApple純正iPhone Duoケースに対応してないのなんで",
+    "createdAt": "2026-10-19T09:53:02.211Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-19T09:53:04.182Z",
+    "embed": null,
+    "isRepost": false
   }
 }
