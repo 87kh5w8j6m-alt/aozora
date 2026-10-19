@@ -224452,7 +224452,7 @@
     "createdAt": "2026-10-18T03:10:39.711Z",
     "replyCount": 0,
     "repostCount": 115,
-    "likeCount": 515,
+    "likeCount": 516,
     "indexedAt": "2026-10-18T03:10:47.375Z",
     "embed": {
       "images": [
@@ -224524,8 +224524,8 @@
     "text": "",
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 360,
+    "repostCount": 87,
+    "likeCount": 364,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224621,7 +224621,7 @@
     "createdAt": "2026-10-19T12:26:52.442821Z",
     "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-10-19T12:26:52.981Z",
     "embed": null,
     "isRepost": false
@@ -224675,6 +224675,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myabilevyk2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myabilevyk2b",
+    "cid": "bafyreig3f6imsez3ae4egnujr2pqqvna5zczg4pe6ky5dtln6qjmmxw4ki",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Netflixで空の境界見られるのか。ちょうどサブスク復活させたし配信開始されたら見よう。",
+    "createdAt": "2026-10-19T13:55:15.840Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-19T13:55:16.584Z",
+    "embed": null,
     "isRepost": false
   }
 }
