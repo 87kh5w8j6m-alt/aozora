@@ -224451,8 +224451,8 @@
     "text": "",
     "createdAt": "2026-10-18T03:10:39.711Z",
     "replyCount": 0,
-    "repostCount": 114,
-    "likeCount": 512,
+    "repostCount": 115,
+    "likeCount": 513,
     "indexedAt": "2026-10-18T03:10:47.375Z",
     "embed": {
       "images": [
@@ -224524,8 +224524,8 @@
     "text": "",
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
-    "repostCount": 81,
-    "likeCount": 339,
+    "repostCount": 83,
+    "likeCount": 349,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224594,6 +224594,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mya5qw3lns2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mya5qw3lns2w",
+    "cid": "bafyreieyyezp7mlwzh6ifoagnodremj5pme62dattebt77b3tjj6hwo62y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まーまー、もちつけ。発作みたいなもんだから。",
+    "createdAt": "2026-10-19T12:48:20.536Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-19T12:48:20.984Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mya4kk5a5r2j": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mya4kk5a5r2j",
+    "cid": "bafyreibrr746spbeywhthojjctry5ipajkhycbnwmxurnj7ci6qt7rfhri",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "不定期に訪れる物欲の波が押し寄せてきている。少しやり過ごせば引いていくはず",
+    "createdAt": "2026-10-19T12:26:52.442821Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-19T12:26:52.981Z",
+    "embed": null,
     "isRepost": false
   }
 }
