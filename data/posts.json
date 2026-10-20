@@ -224716,8 +224716,8 @@
     "text": "",
     "createdAt": "2026-10-19T22:09:52.201Z",
     "replyCount": 0,
-    "repostCount": 87,
-    "likeCount": 389,
+    "repostCount": 88,
+    "likeCount": 397,
     "indexedAt": "2026-10-19T22:09:59.177Z",
     "embed": {
       "images": [
@@ -224768,6 +224768,90 @@
         "title": "二度のGT300王者織戸学が2026年最終戦もてぎでスーパーGTを引退へ「誇りを胸に、最後まで全力で」 | ニュース | autosport web",
         "description": "　10月19日、1997年／2009年のGT300チャンピオンである織戸学が、自身のSNSで2026年最終戦となる第3戦／第8戦モビリティリゾートもてぎを最後に",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicc6z7hhtxpiydvjmu352tjfy7axkhbtohqwwt6a7yl2ttfbztahm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myckujjkas2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myckujjkas2z",
+    "cid": "bafyreiaqixucx65m62urdgnlmewdrwiql24yvfzkl5lztbdaau6occsefu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "なんか昨年も波が来てたらしい。秋は物欲。財布は軽く。",
+    "createdAt": "2026-10-20T11:48:19.699Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-20T11:48:20.468Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3m3mlmsyoy62f",
+        "cid": "bafyreihm4kqmqshaiajdywt7fl3wktgeswb63dovx7uyi33emquegws3ju",
+        "author": {
+          "did": "did:plc:zmxcnz6t2ktcy3g7x5y4ozvc",
+          "handle": "jiminynseries.bsky.social",
+          "displayName": "じみニー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false
+          },
+          "labels": [],
+          "createdAt": "2023-04-28T15:10:42.311Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2025-10-20T10:17:18.026440Z",
+          "facets": [],
+          "langs": [
+            "ja"
+          ],
+          "text": "ヘッドホン🎧欲しい波が来てるの。うっかり買っちゃわないように波が過ぎ去るのを大人しく待ってる",
+          "via": "skythrow"
+        },
+        "labels": [],
+        "likeCount": 0,
+        "replyCount": 0,
+        "repostCount": 0,
+        "quoteCount": 1,
+        "indexedAt": "2025-10-20T10:17:55.222Z",
+        "embeds": [],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mycjt5glpt2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mycjt5glpt2h",
+    "cid": "bafyreibxyxc4arpxyyarh7ojn37bryly6sobng5cjtrpwb3tvwx2de72ei",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第10戦 富士スピードウェイ スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/112812-V",
+    "createdAt": "2026-10-20T11:29:39.223492Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-20T11:29:40.271Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/112812-V",
+        "title": "予選 第10戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第10戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigk6ayvekbzrsmby7nh4oiooimvolj3mui354fmidt7bs6yyatapi"
       },
       "$type": "app.bsky.embed.external#view"
     },
