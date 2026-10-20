@@ -224075,7 +224075,7 @@
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 3,
     "repostCount": 126,
-    "likeCount": 563,
+    "likeCount": 564,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -224452,7 +224452,7 @@
     "createdAt": "2026-10-18T03:10:39.711Z",
     "replyCount": 0,
     "repostCount": 115,
-    "likeCount": 516,
+    "likeCount": 517,
     "indexedAt": "2026-10-18T03:10:47.375Z",
     "embed": {
       "images": [
@@ -224525,7 +224525,7 @@
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
     "repostCount": 92,
-    "likeCount": 395,
+    "likeCount": 396,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224716,8 +224716,8 @@
     "text": "",
     "createdAt": "2026-10-19T22:09:52.201Z",
     "replyCount": 0,
-    "repostCount": 66,
-    "likeCount": 294,
+    "repostCount": 69,
+    "likeCount": 305,
     "indexedAt": "2026-10-19T22:09:59.177Z",
     "embed": {
       "images": [
@@ -224748,6 +224748,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-20T03:32:22.580Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mybqetvuws2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mybqetvuws2f",
+    "cid": "bafyreigcduzjn7hquq6oj7bspfaxj47fli27v57i5c3jqvldzfydkk7ewm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "二度のGT300王者織戸学が2026年最終戦もてぎでスーパーGTを引退へ「誇りを胸に、最後まで全力で」  - https://www.as-web.jp/supergt/1363925",
+    "createdAt": "2026-10-20T03:54:14.862773Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-20T03:54:17.078Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/supergt/1363925",
+        "title": "二度のGT300王者織戸学が2026年最終戦もてぎでスーパーGTを引退へ「誇りを胸に、最後まで全力で」 | ニュース | autosport web",
+        "description": "　10月19日、1997年／2009年のGT300チャンピオンである織戸学が、自身のSNSで2026年最終戦となる第3戦／第8戦モビリティリゾートもてぎを最後に",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicc6z7hhtxpiydvjmu352tjfy7axkhbtohqwwt6a7yl2ttfbztahm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
