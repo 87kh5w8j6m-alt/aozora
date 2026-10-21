@@ -224882,7 +224882,7 @@
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
     "repostCount": 103,
-    "likeCount": 479,
+    "likeCount": 485,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -225102,6 +225102,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-21T21:59:06.870Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygdqcindb2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygdqcindb2t",
+    "cid": "bafyreif47ns6lrhg4vdfiq6shahtw67h7hborcsirb6hoiqe5lqbodkpyy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「箸にも棒にもかからなくなるまで」生産終了から10年、ランエボで走り続けるシンリョウの流儀【S耐マシンフォーカス】  - https://www.as-web.jp/domestic/1364637",
+    "createdAt": "2026-10-21T23:51:19.915683Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T23:51:21.476Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1364637",
+        "title": "「箸にも棒にもかからなくなるまで」生産終了から10年、ランエボで走り続けるシンリョウの流儀【S耐マシンフォーカス】 | 国内レース他 | autosport web",
+        "description": "　ENEOSスーパー耐久シリーズ2026 Empowered by",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreierqinhpt6g23nzgorhllnagresm7bbnqboi44rfwrvd5hnmlcqzu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
