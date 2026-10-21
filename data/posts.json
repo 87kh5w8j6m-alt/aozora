@@ -224525,7 +224525,7 @@
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
     "repostCount": 102,
-    "likeCount": 411,
+    "likeCount": 412,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224881,8 +224881,8 @@
     "text": "",
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
-    "repostCount": 79,
-    "likeCount": 334,
+    "repostCount": 80,
+    "likeCount": 344,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -224928,6 +224928,67 @@
     "likeCount": 2,
     "indexedAt": "2026-10-21T03:01:11.973Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myec65pi2i2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myec65pi2i2d",
+    "cid": "bafyreig47ubqmigqkrgfa75den6jmatw6czz7xjgejow2gegyy7zg5izce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ポルシェ、将来を見据えたビジョンモデル『ミッションS』を発表。デザインの融合とドライバー体験を重視  - https://www.as-web.jp/car/1364155 カッチョいい！",
+    "createdAt": "2026-10-21T04:17:57.452905Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T04:17:59.272Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/car/1364155",
+        "title": "ポルシェ、将来を見据えたビジョンモデル『ミッションS』を発表。デザインの融合とドライバー体験を重視 | クルマ | autosport web",
+        "description": "　ポルシェは10月16日、同社のブランドを象徴するデザインアイデンティティの次なる進化として『ミッションS』と名付けられたビジョンモデルを発表した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibtinklbxo4vj7frcki46bvkdtzjzlem7gwhocvgu23eb5glzybce"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myebmae5pk25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myebmae5pk25",
+    "cid": "bafyreihoepwgfylvrfyethtzdylkxesxx6bfujwo24y5vmvglk4raafot4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "こち亀で両津が草野球の試合かけもちしてる話があったね",
+    "createdAt": "2026-10-21T04:07:53.315433Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T04:07:59.474Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myebmae4qc25": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myebmae4qc25",
+    "cid": "bafyreics66bif4preajto72zczrezazxgpa5agdzawhduxxiixf44xebge",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「まるでロックスター」な片道1000kmのかけもち出場。トラブルで2時間睡眠も表彰台獲得／第7戦  - https://www.as-web.jp/sports-car/1364327 かけもち参戦たまに聞くけどどうかしてる。",
+    "createdAt": "2026-10-21T04:07:53.314433Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T04:07:59.473Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1364327",
+        "title": "「まるでロックスター」な片道1000kmのかけもち出場。トラブルで2時間睡眠も表彰台獲得／第7戦 | ニュース | autosport web",
+        "description": "　ガレージ59のマクラーレンを駆るトム・フレミングは、ふたつのシリーズをかけもちするという「クレイジー」な週末を過ごし、わずか2時間しか眠っていない状態でWEC",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif3sztj4mqssx74oshwogef4wnxnfz4nqxhganfqd3q34geqibxmm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
