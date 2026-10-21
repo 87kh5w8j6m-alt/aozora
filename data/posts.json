@@ -224882,7 +224882,7 @@
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
     "repostCount": 91,
-    "likeCount": 404,
+    "likeCount": 408,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -224986,6 +224986,59 @@
         "title": "「まるでロックスター」な片道1000kmのかけもち出場。トラブルで2時間睡眠も表彰台獲得／第7戦 | ニュース | autosport web",
         "description": "　ガレージ59のマクラーレンを駆るトム・フレミングは、ふたつのシリーズをかけもちするという「クレイジー」な週末を過ごし、わずか2時間しか眠っていない状態でWEC",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif3sztj4mqssx74oshwogef4wnxnfz4nqxhganfqd3q34geqibxmm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myexowpapy2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myexowpapy2m",
+    "cid": "bafyreic6iskw6bzqe4jy7nsiwtumonov7rgroommjo6djijbjzuqlw77aa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「23時にパッチが公開されるから公開されたら速やかに適用してね」って言ったあなたは帰るんだ？",
+    "createdAt": "2026-10-21T10:43:08.972663Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T10:43:10.573Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myewzr5r4224": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myewzr5r4224",
+    "cid": "bafyreibsjlsogq5i36c4quwytjsat34t3mqtt5qbesvb5px3pp22pziv5u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "止めてないサービスの方が怖いやろ…",
+    "createdAt": "2026-10-21T10:31:18.749680Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-21T10:31:19.977Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myewyhwwy522": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myewyhwwy522",
+    "cid": "bafyreifzibbfcyysxkk3twiavngm2nxwvqho4bkbyvqjwrntr3gqaxewfe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か  - https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+    "createdAt": "2026-10-21T10:30:35.546553Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-21T10:30:37.270Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+        "title": "著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か",
+        "description": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる。（1/2 ページ）",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiar4mm53qdgpgtlhjntij2un5vgyfooehnkf2m3epcqcgvrkhutvi"
       },
       "$type": "app.bsky.embed.external#view"
     },
