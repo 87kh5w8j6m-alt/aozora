@@ -224882,7 +224882,7 @@
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 493,
+    "likeCount": 495,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -225155,6 +225155,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-22T03:30:26.670Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygruyk4wc27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygruyk4wc27",
+    "cid": "bafyreiaave5x3adma47ng5f3km3augtxinfmcpig5jmnkvsohzzuiufy3y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "群雄割拠のハイパーカーでもトヨタは強い！　小林可夢偉「勝てる力がないと言われたけど……」  - jp.motorsport.com/wec/news/toy... 見たかぁ！",
+    "createdAt": "2026-10-22T04:04:30.596Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-22T04:04:35.768Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/wec/news/toyota-answers-critics-who-doubted-it-could-win-in-wecs-competitive-hypercar-era/10866451/",
+        "title": "群雄割拠のハイパーカーでもトヨタは強い！　小林可夢偉「勝てる力がないと言われたけど……」",
+        "description": "トヨタは、WECバルセロナでのワンツーフィニッシュでマニュファクチャラーズタイトルを獲得。小林可夢偉は、これがトヨタの実力を甘く見ていた人々への反論になると語った。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7ozkjekbqcmkigsjq4rudkpw3qjcnnyxcot4dbj2ct22kfmin7i"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
