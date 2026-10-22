@@ -224717,7 +224717,7 @@
     "createdAt": "2026-10-19T22:09:52.201Z",
     "replyCount": 0,
     "repostCount": 103,
-    "likeCount": 465,
+    "likeCount": 467,
     "indexedAt": "2026-10-19T22:09:59.177Z",
     "embed": {
       "images": [
@@ -224882,7 +224882,7 @@
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 490,
+    "likeCount": 493,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -225125,6 +225125,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygqlyq43c2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygqlyq43c2d",
+    "cid": "bafyreiaclvfeuobksumtzhy6b533bkmubdravnx3zulhc6brin4hehc72m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日も脆弱性対応だけどご飯は食べないと戦はできぬ。ていうか今日と昨日がよくわかんなくなってきた",
+    "createdAt": "2026-10-22T03:41:32.854516Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-22T03:41:35.170Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygpy364tf2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mygpy364tf2w",
+    "cid": "bafyreifle6ocdlls57rjni6l7aattptuh4pl36w5yaz64fb6awqako64em",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-22T03:30:25.317951Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-22T03:30:26.670Z",
+    "embed": null,
     "isRepost": false
   }
 }
