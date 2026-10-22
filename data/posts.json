@@ -225209,5 +225209,28 @@
     "indexedAt": "2026-10-22T20:48:11.368Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myiltbwxx22f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myiltbwxx22f",
+    "cid": "bafyreiebgpgu2422hz6p3dgd34mtaez57bshuwor4rsj2vms5rlo3kli4i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "スーパー耐久第6戦岡山にGR Team ORC Fieldが新車投入。GRヤリスMコンセプトがクーペボディに  - www.as-web.jp/domestic/136...",
+    "createdAt": "2026-10-22T21:21:30.371Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-22T21:21:33.271Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1365148",
+        "title": "スーパー耐久第6戦岡山にGR Team ORC Fieldが新車投入。GRヤリスMコンセプトがクーペボディに | 国内レース他 | autosport web",
+        "description": "10月22日、岡山県の岡山国際サーキットで10月24〜26日に開催されるENEOSスーパー耐久シリーズ2026 Empowered by",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifrnpeeuqfqx6d2hh6ylyud66s4jiudaycvyh5wqix3w6b7oizcim"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
