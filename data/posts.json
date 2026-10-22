@@ -225179,5 +225179,20 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myhqrgo3bo2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myhqrgo3bo2k",
+    "cid": "bafyreidyfo2lol2ucshi7oytphi4d4p2bwmgmuvii4kqpagnaq6puvchg4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ぷちきゅあ～Precure Fairies～ 第81話視聴終了。",
+    "createdAt": "2026-10-22T13:17:16.765133Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-22T13:17:17.272Z",
+    "embed": null,
+    "isRepost": false
   }
 }
