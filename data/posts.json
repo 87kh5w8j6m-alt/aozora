@@ -225247,5 +225247,78 @@
     "indexedAt": "2026-10-23T03:31:20.267Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjuqqfbp725": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjuqqfbp725",
+    "cid": "bafyreiajdoyvc75rmy4rltf4quko3anvr7kb2ilc2ifk2nrfp5hbpljn6u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "重いのは重い",
+    "createdAt": "2026-10-23T09:33:47.287713Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-23T09:33:48.572Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjuh5n4ii2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjuh5n4ii2w",
+    "cid": "bafyreieg5scugbsmdcisitjwbru5gtgzynvuahcmhlo4byhzptopl4c3im",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "胸ポケットへの収まりもいい",
+    "createdAt": "2026-10-23T09:28:25.645673Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-23T09:28:26.671Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3myizgwobmc2i": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3myizgwobmc2i",
+    "cid": "bafyreif2wxwzgkbm5fnkekjqaxuxnc22imdsgbhicklxbjodn2go5iyjsy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-23T01:25:08.284Z",
+    "replyCount": 0,
+    "repostCount": 71,
+    "likeCount": 284,
+    "indexedAt": "2026-10-23T01:25:16.475Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibrs2xjelft5w7doo3bgjsx3hyxyrhx3jrqclmfavvh3zqjcjth7y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibrs2xjelft5w7doo3bgjsx3hyxyrhx3jrqclmfavvh3zqjcjth7y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjttmf3nb2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myjttmf3nb2p",
+    "cid": "bafyreidrl2oczw2ffoopbpvrbzfrn52ahfdvquny3e5n27clborahkhcgq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "仕事帰りにApple Storeに寄ってiPhone Duo触ってきた。スマホリングがあれば余裕で片手で使えそう。早く届いてほしい！",
+    "createdAt": "2026-10-23T09:17:29.757295Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-23T09:17:31.168Z",
+    "embed": null,
+    "isRepost": false
   }
 }
