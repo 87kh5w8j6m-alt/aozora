@@ -225287,8 +225287,8 @@
     "text": "",
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
-    "repostCount": 76,
-    "likeCount": 308,
+    "repostCount": 78,
+    "likeCount": 312,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225343,5 +225343,33 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3myjy2li3ds2o": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3myjy2li3ds2o",
+    "cid": "bafyreich2epmawcmtfzfvtgmn7xxcr7wjk3wcamaylgnimrgjxeaxixdye",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "黒須あろま😈プリパラ🎃",
+    "createdAt": "2026-10-23T10:32:59.874Z",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 11,
+    "indexedAt": "2026-10-23T10:33:02.468Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreieyy3h3352f45nd6j2faz5nudoy367jfxqbktmc7tkqr5z5t6zvh4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreieyy3h3352f45nd6j2faz5nudoy367jfxqbktmc7tkqr5z5t6zvh4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
