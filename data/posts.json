@@ -225287,8 +225287,8 @@
     "text": "",
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
-    "repostCount": 75,
-    "likeCount": 301,
+    "repostCount": 76,
+    "likeCount": 308,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225319,6 +225319,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-23T09:17:31.168Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myk5avyxxq2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myk5avyxxq2w",
+    "cid": "bafyreid6wp6aw2npsnezecc7ivhpswyvh5uppftln2kgq7mkkkj4kwsxhq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第10戦 富士スピードウェイ スーパーフォーミュラ 2026 https://jod.jsports.co.jp/p/motor/super_formula/112813-V",
+    "createdAt": "2026-10-23T12:06:00.484436Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-23T12:06:04.571Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/super_formula/112813-V",
+        "title": "決勝 第10戦 富士スピードウェイ スーパーフォーミュラ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第10戦 富士スピードウェイ スーパーフォーミュラ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreif7rtkkejot6drwm6ojwd3y2glvhgnhdsa2wx6j2ltlqiaq6yzvo4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
