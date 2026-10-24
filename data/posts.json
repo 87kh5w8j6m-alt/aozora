@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 82,
-    "likeCount": 347,
+    "likeCount": 349,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 1,
-    "repostCount": 96,
-    "likeCount": 358,
+    "repostCount": 101,
+    "likeCount": 390,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225689,6 +225689,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-24T13:14:45.770Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mymveagtz224": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mymveagtz224",
+    "cid": "bafyreidrm6vim2yqw2jspuoxwttl33ogimhixw6dv7laopayrlfdrlb4hy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日は除湿機をしまった",
+    "createdAt": "2026-10-24T14:22:41.400203Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T14:22:41.970Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mymto52vvk2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mymto52vvk2r",
+    "cid": "bafyreigf7kavwo2r7iadbknj5t3v47he6igsypm6c5vco4rx3nd55b4u4q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "watchOSを27.0.1にアップデート",
+    "createdAt": "2026-10-24T13:52:26.374Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T13:52:27.174Z",
     "embed": null,
     "isRepost": false
   }
