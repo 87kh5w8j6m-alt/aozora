@@ -225537,5 +225537,58 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym76v2dyf2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym76v2dyf2g",
+    "cid": "bafyreig4wojyurc7lmchwtmrscfwk2fhxwza3i3eh7ghuk53e2rfrxfr4u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "年末調整やったった",
+    "createdAt": "2026-10-24T07:45:59.338728Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T07:45:59.970Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym76ckuam24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym76ckuam24",
+    "cid": "bafyreih7ntfxvvgascz7gibolfuhis6quuphnd6qybnv2r7uxfjmr77hl4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "金沢土産の金箔入りドリップコーヒーで休憩☕️",
+    "createdAt": "2026-10-24T07:45:39.883126Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T07:45:40.673Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym5tccr4623": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym5tccr4623",
+    "cid": "bafyreidutfhgkjog2ygy7g6h6cz4qopb62wfdkhuqhd4b3ydesqwlaegz4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 第6戦 スポーツランドSUGO SUPER GT 2026 AFTER THE DRIVE https://jod.jsports.co.jp/p/motor/supergt/111745-V",
+    "createdAt": "2026-10-24T07:21:36.811758Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T07:21:38.169Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/111745-V",
+        "title": "第6戦 スポーツランドSUGO SUPER GT 2026 AFTER THE DRIVE｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "第6戦 スポーツランドSUGO SUPER GT 2026 AFTER THE DRIVEを楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifj2zpoqq5lytefufmyvq5wzcrv6dapfcjwwfh5drnfcn2ghjsvem"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
