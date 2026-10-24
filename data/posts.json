@@ -225476,5 +225476,20 @@
     "indexedAt": "2026-10-24T04:14:33.469Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylwmvrvbx2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylwmvrvbx2o",
+    "cid": "bafyreih2ze22ah2g54fnt6gu2jxrurelxcjgr7i2zb6dfo2uv4svspcxly",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "シャーリー・メディスン 3巻読了。シャーリーの過去話読めて嬉しい☺️",
+    "createdAt": "2026-10-24T05:12:46.205925Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T05:12:46.774Z",
+    "embed": null,
+    "isRepost": false
   }
 }
