@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 82,
-    "likeCount": 340,
+    "likeCount": 341,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225384,6 +225384,51 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-24T02:50:34.470Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylovex5nq2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylovex5nq2i",
+    "cid": "bafyreifw52ccn52b2xzgnp3gtaec3msugq3wmw55jinan3igldukc3ynjm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "寝てる間にamazonから荷物届いてた。宅配ボックスにギリギリ入る段ボールは取り出すのムズい",
+    "createdAt": "2026-10-24T02:54:20.526775Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T02:54:21.172Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylotrw5s22o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylotrw5s22o",
+    "cid": "bafyreibjasas4jie3uicdd3p3yuhhcvq6xmcimk6sa5r7wmh6vyihoml4i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アメリカGP FP1見る。",
+    "createdAt": "2026-10-24T02:53:27.088633Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T02:53:27.670Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylosu66vc2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylosu66vc2i",
+    "cid": "bafyreic75curkuc4kbbqbmq2y42zgn4tkxmq5x6w6rusnccy4nkq2c4k7i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよー、よかったセーフか。",
+    "createdAt": "2026-10-24T02:52:56.367Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T02:52:57.374Z",
     "embed": null,
     "isRepost": false
   }
