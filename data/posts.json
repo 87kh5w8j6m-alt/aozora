@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 121,
-    "likeCount": 462,
+    "repostCount": 122,
+    "likeCount": 463,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225719,6 +225719,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-24T13:52:27.174Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynkzy3zck22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynkzy3zck22",
+    "cid": "bafyreigm4h3v7hsmzjeni4xohar6vxjopsdbzl7tg6bnzzrdvajkzssxia",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アメリカGP 予選見る。",
+    "createdAt": "2026-10-24T20:50:39.382335Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T20:50:39.971Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynjmip3ex2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynjmip3ex2x",
+    "cid": "bafyreifqqeyuueamndkq2fqv3vydahckdofj3myekw232673sfaqcq3ovm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-10-24T20:25:13.268108Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T20:25:13.970Z",
     "embed": null,
     "isRepost": false
   }
