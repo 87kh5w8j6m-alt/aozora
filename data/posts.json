@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 82,
-    "likeCount": 341,
+    "likeCount": 342,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225354,7 +225354,7 @@
     "createdAt": "2026-10-23T10:32:59.874Z",
     "replyCount": 0,
     "repostCount": 6,
-    "likeCount": 16,
+    "likeCount": 17,
     "indexedAt": "2026-10-23T10:33:02.468Z",
     "embed": {
       "images": [
@@ -225429,6 +225429,51 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-24T02:52:57.374Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltgmujgx2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltgmujgx2w",
+    "cid": "bafyreiapyfkgm2m67coudhg5zrkofrtr7dh42oxj77d7mxqvjehdtogywi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "紙が溜まってきたので黙々とスキャン",
+    "createdAt": "2026-10-24T04:15:34.276745Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T04:15:34.873Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltfxxcfs2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltfxxcfs2g",
+    "cid": "bafyreibbxtrzopdzibzdcfeafjnygetwz3jg4fwz3e6oud2favbkfu6pgu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フリー走行は雨の日に作業しながら流しとくのにちょうどいいな。",
+    "createdAt": "2026-10-24T04:15:12.331539Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T04:15:12.967Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltesb7os23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myltesb7os23",
+    "cid": "bafyreidthdgf3j3vfswry5nszl7aazwjqrzdkwaxcuqbhd6gnqbhmrnqxa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "続けてF1アメリカGP FP2見る。",
+    "createdAt": "2026-10-24T04:14:32.835037Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T04:14:33.469Z",
     "embed": null,
     "isRepost": false
   }
