@@ -223387,8 +223387,8 @@
     "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
     "createdAt": "2026-10-12T10:09:34.433Z",
     "replyCount": 0,
-    "repostCount": 8,
-    "likeCount": 22,
+    "repostCount": 9,
+    "likeCount": 24,
     "indexedAt": "2026-10-12T10:09:37.476Z",
     "embed": {
       "images": [
@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 82,
-    "likeCount": 342,
+    "likeCount": 344,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225490,6 +225490,52 @@
     "likeCount": 0,
     "indexedAt": "2026-10-24T05:12:46.774Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym46o3rf62g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mym46o3rf62g",
+    "cid": "bafyreifhu5x6uxmfwgh2d76ikbr3i7utm2a76542tbotp4rch7xpzlaq6y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | GTV 2026 ～SUPER GT トークバラエティ～ #6 https://jod.jsports.co.jp/p/motor/supergt/112808-V",
+    "createdAt": "2026-10-24T06:52:10.817207Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T06:52:11.974Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/112808-V",
+        "title": "GTV 2026 ～SUPER GT トークバラエティ～ #6｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "GTV 2026 ～SUPER GT トークバラエティ～ #6を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiemca3t2xhvv2q6lqtjtkn2dtj3y5ftcoz45zgpi4w6fyu6d7x5km"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylyuhhxu22t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mylyuhhxu22t",
+    "cid": "bafyreihtlxzevy55bzzhdysf6c2dx3ovlmc74wd7opx5rapacgd7wsu2ce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | レビュー 第13戦 ラリー・イタリア・サルディニア WRC世界ラリー選手権 2026 https://jod.jsports.co.jp/p/motor/wrc/112824-V",
+    "createdAt": "2026-10-24T05:52:47.102398Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T05:52:48.269Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/wrc/112824-V",
+        "title": "レビュー 第13戦 ラリー・イタリア・サルディニア WRC世界ラリー選手権 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "レビュー 第13戦 ラリー・イタリア・サルディニア WRC世界ラリー選手権 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihhmhyvkicnji3wzm4v5rim3fyu7nuuxvfo6md7k2nra6q4bu6szq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
