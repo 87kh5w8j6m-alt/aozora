@@ -221866,7 +221866,7 @@
     "createdAt": "2026-10-04T00:57:54.779Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 620,
+    "likeCount": 619,
     "indexedAt": "2026-10-04T00:58:01.678Z",
     "embed": {
       "images": [
@@ -224525,7 +224525,7 @@
     "createdAt": "2026-10-19T00:30:23.003Z",
     "replyCount": 0,
     "repostCount": 106,
-    "likeCount": 425,
+    "likeCount": 426,
     "indexedAt": "2026-10-19T00:30:35.377Z",
     "embed": {
       "images": [
@@ -224882,7 +224882,7 @@
     "createdAt": "2026-10-20T21:47:20.779Z",
     "replyCount": 0,
     "repostCount": 107,
-    "likeCount": 515,
+    "likeCount": 516,
     "indexedAt": "2026-10-20T21:47:33.372Z",
     "embed": {
       "images": [
@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 82,
-    "likeCount": 354,
+    "likeCount": 355,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 135,
-    "likeCount": 514,
+    "repostCount": 136,
+    "likeCount": 517,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225629,7 +225629,7 @@
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
     "repostCount": 106,
-    "likeCount": 444,
+    "likeCount": 445,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
       "images": [
@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
-    "repostCount": 138,
-    "likeCount": 552,
+    "repostCount": 139,
+    "likeCount": 561,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -225957,6 +225957,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myp4trivau2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myp4trivau2i",
+    "cid": "bafyreiejug5qlxl2v2q6pv3ajhftr4ddjgk2urllfhddg2zcctvkjydthm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "逆転3ラン！！",
+    "createdAt": "2026-10-25T11:41:57.876728Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-25T11:41:59.069Z",
+    "embed": null,
     "isRepost": false
   }
 }
