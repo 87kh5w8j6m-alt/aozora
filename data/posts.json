@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 125,
-    "likeCount": 485,
+    "repostCount": 126,
+    "likeCount": 487,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 0,
-    "repostCount": 89,
-    "likeCount": 362,
+    "repostCount": 99,
+    "likeCount": 395,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -225828,8 +225828,38 @@
     "createdAt": "2026-10-25T01:02:34.268Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-25T01:02:35.069Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myo5ek6zqr2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myo5ek6zqr2g",
+    "cid": "bafyreidm2chqfwxexrvlirpivtgiu7dsmraes3go2oo66uzgmynrzim3ei",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "令和はネットで示し合わせてとある車両の乗客全員iPhone Duo持ってるオフとかしないんですね。",
+    "createdAt": "2026-10-25T02:18:40.721196Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-25T02:18:41.874Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myo4djusvm2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myo4djusvm2o",
+    "cid": "bafyreid7fodct7zsvz3u7wpkselaee5or5oiai4ugajxix3qpv42wee2uq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "北陸旅行の時も暑かったけれど、今日も暑くて秋用に新調したパーカーがちょうどいい気温にならない。",
+    "createdAt": "2026-10-25T02:00:13.633213Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-25T02:00:14.274Z",
     "embed": null,
     "isRepost": false
   }
