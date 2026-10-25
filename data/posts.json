@@ -225601,7 +225601,7 @@
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
     "repostCount": 124,
-    "likeCount": 478,
+    "likeCount": 482,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225628,7 +225628,7 @@
     "text": "",
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
-    "repostCount": 105,
+    "repostCount": 106,
     "likeCount": 443,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
@@ -225765,6 +225765,57 @@
     "likeCount": 0,
     "indexedAt": "2026-10-24T22:20:39.170Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mynoae53yc2k": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mynoae53yc2k",
+    "cid": "bafyreiezoi4psj3v5loubtihlvyyozgbzib6bxekn5xi4ovhp2jvz77cjy",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-24T21:47:55.053Z",
+    "replyCount": 0,
+    "repostCount": 85,
+    "likeCount": 326,
+    "indexedAt": "2026-10-24T21:48:02.868Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicxnkdqr3joajqobsshbyus4p6a4blgo4neim2jqpnvvckuxwgkre",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreicxnkdqr3joajqobsshbyus4p6a4blgo4neim2jqpnvvckuxwgkre",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynvfnbswa2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mynvfnbswa2e",
+    "cid": "bafyreifou77mspzblqebjxpmfkluhzvgpweuviox32jnatnyzxg7epug7e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第7戦 オートポリス SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/112798-V",
+    "createdAt": "2026-10-24T23:56:08.149142Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-24T23:56:09.169Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/112798-V",
+        "title": "予選 第7戦 オートポリス SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第7戦 オートポリス SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiee7jasvmyatp7cv7seeytnfzcbhqcjbvdqbgamk6of7ukjwk4hqy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
