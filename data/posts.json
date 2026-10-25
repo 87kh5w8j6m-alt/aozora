@@ -224075,7 +224075,7 @@
     "createdAt": "2026-10-16T21:43:16.303Z",
     "replyCount": 3,
     "repostCount": 131,
-    "likeCount": 578,
+    "likeCount": 579,
     "indexedAt": "2026-10-16T21:43:27.578Z",
     "embed": {
       "images": [
@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 132,
-    "likeCount": 507,
+    "repostCount": 135,
+    "likeCount": 512,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
-    "repostCount": 129,
-    "likeCount": 535,
+    "repostCount": 135,
+    "likeCount": 542,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -225933,6 +225933,29 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myowcsli2k2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myowcsli2k2t",
+    "cid": "bafyreiffthrizxuf6rotxylddjscpcdrqgopgu2co4zvhoi6t2mdof5gde",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ケースよし！保護ガラスよし！Apple Pencilよし！iPhone Duo本体到着が待ち遠しい #flickr flic.kr/p/2sJ7ZDN",
+    "createdAt": "2026-10-25T09:45:06.987Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-25T09:45:09.569Z",
+    "embed": {
+      "external": {
+        "uri": "https://flic.kr/p/2sJ7ZDN",
+        "title": "iPhone Duo Accessories",
+        "description": "",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid36xycxyq5zw2vzoraff7vlrj7t3mexdr45bpjhdy7hzxseybo5u"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
   }
