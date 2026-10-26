@@ -226064,5 +226064,20 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrfxrb6g22e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrfxrb6g22e",
+    "cid": "bafyreibt2erdc2ez5ndljirylsx3wii4zivgrb6wlmu2zlmcje7c6hqgjy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "最近は打ち合わせが増えてきて疲れる。PCと対話してる方が楽",
+    "createdAt": "2026-10-26T09:30:34.853118Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T09:30:35.967Z",
+    "embed": null,
+    "isRepost": false
   }
 }
