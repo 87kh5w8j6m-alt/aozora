@@ -226094,5 +226094,56 @@
     "indexedAt": "2026-10-26T11:24:59.768Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrsurvcis2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrsurvcis2k",
+    "cid": "bafyreihtrydmynuaundqq4kcuzvshmqnyrij7pucfdldy7j5g3zgklt3ci",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MAZDA FAN FESTA 2026 at FUJI SPEEDWAY イベントムービー youtu.be/o_taC4i_jGk?...",
+    "createdAt": "2026-10-26T13:21:34.486Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T13:21:36.374Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/o_taC4i_jGk?si=7XNXEl14qRqYj4Lk",
+        "title": "MAZDA FAN FESTA 2026 at FUJI SPEEDWAY イベントムービー",
+        "description": "YouTube video by Mazda Official",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigbfmsu63klv3imqniwltnl672gmgznlxug32f42ar6j2jbdt46ku"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3myq7wywdtc2x": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3myq7wywdtc2x",
+    "cid": "bafyreiezqh65mhfajhwh6bncawlqhbgz5wfixifss32oyuqetux2r2appm",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-10-25T22:10:08.137Z",
+    "replyCount": 1,
+    "repostCount": 94,
+    "likeCount": 402,
+    "indexedAt": "2026-10-25T22:10:13.871Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig22qwhttfx4nh4uhc6nggoqzpta4ls6qwwfd2zpxhhtco3craujq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig22qwhttfx4nh4uhc6nggoqzpta4ls6qwwfd2zpxhhtco3craujq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
