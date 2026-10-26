@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
-    "repostCount": 155,
-    "likeCount": 630,
+    "repostCount": 157,
+    "likeCount": 631,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -226077,6 +226077,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-26T09:30:35.967Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrmed3tbf2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myrmed3tbf2o",
+    "cid": "bafyreic6wiwscbxq7rhr42tvtanyqa5qrwborkve4wj2ch3dei6by7um6a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1アメリカGP決勝レース見た。",
+    "createdAt": "2026-10-26T11:24:59.129100Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T11:24:59.768Z",
     "embed": null,
     "isRepost": false
   }
