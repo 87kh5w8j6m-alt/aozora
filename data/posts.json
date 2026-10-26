@@ -226105,7 +226105,7 @@
     "createdAt": "2026-10-26T13:21:34.486Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-26T13:21:36.374Z",
     "embed": {
       "external": {
@@ -226128,7 +226128,7 @@
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
     "repostCount": 100,
-    "likeCount": 433,
+    "likeCount": 435,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226189,6 +226189,52 @@
     "likeCount": 2,
     "indexedAt": "2026-10-26T21:05:21.769Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysuwsmwy72x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysuwsmwy72x",
+    "cid": "bafyreif6zi4cgk7iigtfcbbgxlzqff3mpway4jrroql24cy5eiamxcghiy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アジアン・ル・マンに参戦する“青いフェラーリ499P”がアンベイル「新たな章の始まり」  - https://www.as-web.jp/sports-car/1367183 AsLMSまたFSWに来てくれないか",
+    "createdAt": "2026-10-26T23:31:08.585355Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T23:31:10.164Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1367183",
+        "title": "アジアン・ル・マンに参戦する“青いフェラーリ499P”がアンベイル「新たな章の始まり」 | ニュース | autosport web",
+        "description": "　11月にポール・リカールで開催されるシーズン開幕戦を控え、アジアン・ル・マン・シリーズのハイパーカークラスに参戦するチェティラー・レーシングのマシンカラーリン",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifdpsw5gm3vj72eqxzemejxc6x46glwmsosjxs24mbevnsx4yzawa"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysuqzv7ex24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysuqzv7ex24",
+    "cid": "bafyreidqltw4ah5udo6zjufxz2wl5zdm6oyhgwjdj232xu55otfsljnrlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "【2027年放送決定！】「デュアルシャドウ～Precure Villain Heroines～」【超ティザーPV】 https://youtu.be/4H3qrB9yaJA?si=Fh7G_vJqIVgTGEB9",
+    "createdAt": "2026-10-26T23:27:54.889660Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-26T23:27:56.465Z",
+    "embed": {
+      "external": {
+        "uri": "https://youtu.be/4H3qrB9yaJA?si=Fh7G_vJqIVgTGEB9",
+        "title": "【2027年放送決定！】「デュアルシャドウ～Precure Villain Heroines～」【超ティザーPV】",
+        "description": "「プリキュア」シリーズのスピンオフ最新作として、TVアニメ「デュアルシャドウ～Precure Villain Heroines～」の制作が決定！！【作品情報】タイトル: 「デュアルシャドウ～Precure Villain Heroines～」公式 HP：https://www.toei-anim.co.jp/tv...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib5g56bviayoxgiq5yzh76sqwovdlwm4liazximyouer3shelfkj4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
