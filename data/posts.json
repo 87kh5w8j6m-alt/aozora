@@ -225629,7 +225629,7 @@
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 459,
+    "likeCount": 460,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
       "images": [
@@ -225777,7 +225777,7 @@
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
     "repostCount": 159,
-    "likeCount": 636,
+    "likeCount": 637,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -226128,7 +226128,7 @@
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
     "repostCount": 98,
-    "likeCount": 428,
+    "likeCount": 430,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226145,5 +226145,50 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysofl26rl2e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysofl26rl2e",
+    "cid": "bafyreifjdfpl76oxmxkhzvfzubc5ofo4typkcxbiz7pe3bbaf7xidpviwy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "いかに自分にはiPhone Duoが必要ないかを語るpost興味深い",
+    "createdAt": "2026-10-26T21:34:08.211241Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T21:34:08.874Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysod56clm2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysod56clm2i",
+    "cid": "bafyreidbywlkpdsdfavlxnevrboqhqt5wta24pui6admeea2ybysg7fi3a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第484回聴取終了。",
+    "createdAt": "2026-10-26T21:32:46.610168Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-26T21:32:47.172Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysms3xcot2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mysms3xcot2i",
+    "cid": "bafyreifc4g7gu6p3zajgdz5t4qpnfsj4h7uuvyfjx7ektsy2ysxjejqipy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-10-26T21:05:21.154373Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-10-26T21:05:21.769Z",
+    "embed": null,
+    "isRepost": false
   }
 }
