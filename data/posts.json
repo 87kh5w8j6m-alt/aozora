@@ -225287,8 +225287,8 @@
     "text": "",
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
-    "repostCount": 85,
-    "likeCount": 362,
+    "repostCount": 86,
+    "likeCount": 363,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 142,
-    "likeCount": 542,
+    "repostCount": 143,
+    "likeCount": 543,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225628,8 +225628,8 @@
     "text": "",
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
-    "repostCount": 109,
-    "likeCount": 462,
+    "repostCount": 110,
+    "likeCount": 463,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
       "images": [
@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
-    "repostCount": 164,
-    "likeCount": 654,
+    "repostCount": 165,
+    "likeCount": 656,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -226127,8 +226127,8 @@
     "text": "",
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
-    "repostCount": 103,
-    "likeCount": 439,
+    "repostCount": 104,
+    "likeCount": 442,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226261,8 +226261,8 @@
     "text": "",
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
-    "repostCount": 82,
-    "likeCount": 330,
+    "repostCount": 85,
+    "likeCount": 337,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226289,8 +226289,8 @@
     "text": "",
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
-    "repostCount": 40,
-    "likeCount": 137,
+    "repostCount": 71,
+    "likeCount": 254,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226320,6 +226320,21 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-10-27T21:09:49.471Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myvabf7sik2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myvabf7sik2t",
+    "cid": "bafyreig3655pwwemsroprrfy4zrtselon3qo6ihpyzezuojhw3iovvugc4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MacBook ProはiPhone Duoより安いんか",
+    "createdAt": "2026-10-27T21:59:15.267Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-27T21:59:15.673Z",
     "embed": null,
     "isRepost": false
   }
