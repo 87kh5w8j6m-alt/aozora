@@ -225287,8 +225287,8 @@
     "text": "",
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 363,
+    "repostCount": 87,
+    "likeCount": 364,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225628,8 +225628,8 @@
     "text": "",
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
-    "repostCount": 110,
-    "likeCount": 464,
+    "repostCount": 111,
+    "likeCount": 465,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
       "images": [
@@ -225776,8 +225776,8 @@
     "text": "",
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 1,
-    "repostCount": 165,
-    "likeCount": 657,
+    "repostCount": 166,
+    "likeCount": 658,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -226127,8 +226127,8 @@
     "text": "",
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
-    "repostCount": 104,
-    "likeCount": 445,
+    "repostCount": 105,
+    "likeCount": 446,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226261,8 +226261,8 @@
     "text": "",
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
-    "repostCount": 89,
-    "likeCount": 361,
+    "repostCount": 90,
+    "likeCount": 362,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226289,8 +226289,8 @@
     "text": "",
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
-    "repostCount": 129,
-    "likeCount": 544,
+    "repostCount": 132,
+    "likeCount": 546,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226448,6 +226448,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-28T21:38:41.767Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxs5uzgrs2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxs5uzgrs2g",
+    "cid": "bafyreicrlf7cmdkhoj6vyyuoqx2lzrk44b4pkav43mosnhod7ywkpenvjq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第83回聴取終了",
+    "createdAt": "2026-10-28T22:24:42.295668Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-28T22:24:44.568Z",
     "embed": null,
     "isRepost": false
   }
