@@ -226289,8 +226289,8 @@
     "text": "",
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
-    "repostCount": 117,
-    "likeCount": 481,
+    "repostCount": 118,
+    "likeCount": 488,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226381,6 +226381,29 @@
     "likeCount": 0,
     "indexedAt": "2026-10-28T03:59:30.966Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mywgfozhym2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mywgfozhym2g",
+    "cid": "bafyreiapnesy3tnmlkehvlmitggbst5oyowafqyu6hc3cwfv7n4zkvt3y4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第7戦 オートポリス SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/112799-V",
+    "createdAt": "2026-10-28T09:21:40.918395Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-28T09:21:42.666Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/112799-V",
+        "title": "決勝 第7戦 オートポリス SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第7戦 オートポリス SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaqmyigz2ahjb57cfgqtw6tdyojv54wyuypeiu6thwopi33alg2wq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
