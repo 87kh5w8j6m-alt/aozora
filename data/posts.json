@@ -226465,5 +226465,51 @@
     "indexedAt": "2026-10-28T22:24:44.568Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxwzhgkap2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxwzhgkap2t",
+    "cid": "bafyreicjlm4zrnjr2q2wplzoa7qoiwlnljzlakqmztrlj3p7kuwrxgma5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「最悪の3年」を経て二兎を追わず着実に。IMSAで戴冠のキャデラックチームがル・マン復帰へ準備を加速  - https://www.as-web.jp/sports-car/1367467 「以前は、『まあ、たまたまフランスでもうひとつのレースがあるんだ、行ってみよう！』意外にもそんな感じなんだ",
+    "createdAt": "2026-10-28T23:51:43.570025Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-28T23:51:45.266Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1367467",
+        "title": "「最悪の3年」を経て二兎を追わず着実に。IMSAで戴冠のキャデラックチームがル・マン復帰へ準備を加速 | ニュース | autosport web",
+        "description": "　2026年のIMSA",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreial7b3rsrp5tiihof7rjfusgbq2qoxmveasoasdysubyawoojyina"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxwtkv4wy24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myxwtkv4wy24",
+    "cid": "bafyreicla47z3vnbsxf4pkazpgdbcqyjiftexjniiv745uhqk7cngouohq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アウディCEOはF1に前向き。参戦をきっかけに『ヌヴォラーリ』誕生【F1参戦メーカーのフラッグシップモデル】  - https://www.as-web.jp/f1/1367460 『F1に参戦しているのにスポーツカーがないのは、いいこととは言えないのではないか』？？？聞いてるー？",
+    "createdAt": "2026-10-28T23:48:25.955285Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-28T23:48:27.574Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1367460",
+        "title": "アウディCEOはF1に前向き。参戦をきっかけに『ヌヴォラーリ』誕生【F1参戦メーカーのフラッグシップモデル】 | クルマ, ニュース | autosport web",
+        "description": "　2026年シーズンのFIA",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih5xbaoiicxhnlq56qd2y6ujirjf66gbm7lkqtnxtfbtgintyyf2i"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
