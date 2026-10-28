@@ -226262,7 +226262,7 @@
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
     "repostCount": 88,
-    "likeCount": 353,
+    "likeCount": 354,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226290,7 +226290,7 @@
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
     "repostCount": 120,
-    "likeCount": 508,
+    "likeCount": 515,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226418,6 +226418,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-10-28T10:52:36.365Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mywrzxpjcs24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mywrzxpjcs24",
+    "cid": "bafyreie2c2emvwqlcmmmaxr62b2ssyrobd52lgbzxsthom6nat7s63h4le",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Appleアカウント、決済保留中だと見た目の残高が0円でも保留中の金額と合計して30万円を越える金額はチャージ出来ないのね。早く出荷してくれ",
+    "createdAt": "2026-10-28T12:49:53.311Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-28T12:49:54.166Z",
     "embed": null,
     "isRepost": false
   }
