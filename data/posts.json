@@ -226290,7 +226290,7 @@
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
     "repostCount": 133,
-    "likeCount": 553,
+    "likeCount": 555,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226569,6 +226569,51 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-29T03:31:50.169Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfwx2nrs2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfwx2nrs2p",
+    "cid": "bafyreigb5hixmvlnrfzjophtjdwdrz7adgoggxrpukpkl3wntqoegxpfwa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "別に脆弱性対応自体はこれまでもやってきて、「そして次の脆弱性が始まるのです」なのは分かっているのに、このところの対応はそれにしても果てしなくて参る",
+    "createdAt": "2026-10-29T04:18:46.540Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T04:18:47.666Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfrrcfhc2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfrrcfhc2p",
+    "cid": "bafyreiarrlttqhbu4a7z37bbqnzbpbw4cpyw24vzfcycduc4juk4mrbnpi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "もう疲れた",
+    "createdAt": "2026-10-29T04:15:52.730Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T04:15:53.070Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfres6ss2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyfres6ss2p",
+    "cid": "bafyreievwnkrlzga2gqwrwesnj6zvxf6flzpby7tohzkeqvsijdrvcv5ym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "グッスマ草も生えない",
+    "createdAt": "2026-10-29T04:15:39.616Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T04:15:39.964Z",
     "embed": null,
     "isRepost": false
   }
