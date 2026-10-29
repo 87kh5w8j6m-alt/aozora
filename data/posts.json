@@ -226616,5 +226616,50 @@
     "indexedAt": "2026-10-29T04:15:39.964Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myzbsdxq3n2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myzbsdxq3n2r",
+    "cid": "bafyreievjqov6ar532z5yg6qfkhngify3ydr52sm3lvkas72yll3bzhnei",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": " iPhone Duoの一部の個体がヒンジに沿って割れちゃうの、YouTuberはむしろその個体を引きたいまであるだろ",
+    "createdAt": "2026-10-29T12:37:16.513845Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T12:37:17.170Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myzbh7ibmb22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myzbh7ibmb22",
+    "cid": "bafyreiggsz24t3joxoljswdtrgpcrtxi7cyihygckf5kseowglljjzgvn4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPadOSも27.2にアップデート",
+    "createdAt": "2026-10-29T12:31:02.686566Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T12:31:05.374Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myz7loitn62i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myz7loitn62i",
+    "cid": "bafyreiaovrn7n7eawobzu2hygpfrdtalk7enuwqdq7epvdee64cwz6z54u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOS27.2にアップデートちう",
+    "createdAt": "2026-10-29T11:57:45.234665Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T11:57:45.869Z",
+    "embed": null,
+    "isRepost": false
   }
 }
