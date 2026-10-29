@@ -226671,8 +226671,8 @@
     "text": "ハロウィン絵間に合った🎃",
     "createdAt": "2026-10-29T11:18:40.542Z",
     "replyCount": 0,
-    "repostCount": 25,
-    "likeCount": 75,
+    "repostCount": 28,
+    "likeCount": 91,
     "indexedAt": "2026-10-29T11:18:42.864Z",
     "embed": {
       "images": [
@@ -226699,8 +226699,8 @@
     "text": "",
     "createdAt": "2026-10-28T21:48:15.840Z",
     "replyCount": 1,
-    "repostCount": 93,
-    "likeCount": 342,
+    "repostCount": 94,
+    "likeCount": 343,
     "indexedAt": "2026-10-28T21:48:24.464Z",
     "embed": {
       "images": [
@@ -226717,5 +226717,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz265bch222w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz265bch222w",
+    "cid": "bafyreifbadid3l2ycb3h6rhjvmtk3ukdv2loduqvstou3n2ch3ohyge6du",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-10-29T21:04:27.681159Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 3,
+    "indexedAt": "2026-10-29T21:04:28.267Z",
+    "embed": null,
+    "isRepost": false
   }
 }
