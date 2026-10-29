@@ -226262,7 +226262,7 @@
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
     "repostCount": 90,
-    "likeCount": 362,
+    "likeCount": 363,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226290,7 +226290,7 @@
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
     "repostCount": 133,
-    "likeCount": 552,
+    "likeCount": 553,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226510,6 +226510,66 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myydfdtpu622": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myydfdtpu622",
+    "cid": "bafyreihpztwpolchtijwf3bhmev3u5hdemvu57p4mnch3t3joo66ez6ao4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "次期MacBook Airも同じように軽くして欲しいけれど、記事では新しいOLEDを採用したから軽くなったようなのでMBAにも採用するとまた値段が上がりそうだなあ。",
+    "createdAt": "2026-10-29T03:33:07.259674Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T03:33:08.567Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyde227xw2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyde227xw2o",
+    "cid": "bafyreia3zt2itgxqoh5qx6aytmb5bvy7kdknndfkzkpmk6kfaoykeonora",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "しかし、タッチパネルのありなしは選べないんだ。標準モデルにもタッチパネルはいずれ降りてくるのかしらん。",
+    "createdAt": "2026-10-29T03:32:23.647972Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T03:32:24.767Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyddhos4n2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myyddhos4n2g",
+    "cid": "bafyreig64nwncxsbyueww7hkqkz6457ldre3ltiips6tbngpm7ybbtyf5a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "タッチ対応のMacBook Pro関係ないやと思ってスルーしてたが、軽くなってるじゃん！",
+    "createdAt": "2026-10-29T03:32:04.383998Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T03:32:05.581Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myydcz3lpd2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3myydcz3lpd2w",
+    "cid": "bafyreiczbbj7brbdo6dzxcl2f4yvhd43wngzvropetqhnlxqeojy2ujrd4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-29T03:31:48.919029Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-29T03:31:50.169Z",
+    "embed": null,
     "isRepost": false
   }
 }
