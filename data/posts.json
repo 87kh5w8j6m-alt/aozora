@@ -226672,7 +226672,7 @@
     "createdAt": "2026-10-29T11:18:40.542Z",
     "replyCount": 0,
     "repostCount": 41,
-    "likeCount": 134,
+    "likeCount": 136,
     "indexedAt": "2026-10-29T11:18:42.864Z",
     "embed": {
       "images": [
@@ -226818,7 +226818,7 @@
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
     "repostCount": 83,
-    "likeCount": 311,
+    "likeCount": 318,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226829,6 +226829,62 @@
           "aspectRatio": {
             "height": 1391,
             "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mz3dfhswcy2p": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mz3dfhswcy2p",
+    "cid": "bafyreidglxwvjl7a34x3tlhdv3ya3e4hpajramivzb57uomz6ykuc3e3d4",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "アニメ「沈黙の艦隊」30年を経て初のBlu-ray化、来年3月発売　特典にステッカー3枚セット\r\nhttps://natalie.mu/comic/news/695983?utm_source=bluesky&utm_medium=social\r\n\r\nかわぐちかいじ＆髙橋良輔監督からコメントも\r\n\r\n#沈黙の艦隊",
+    "createdAt": "2026-10-30T17:11:09+09:00",
+    "replyCount": 0,
+    "repostCount": 6,
+    "likeCount": 8,
+    "indexedAt": "2026-10-30T08:11:12.764Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreib6q7itqd4iogq55iged23pfbttu6mtiksetommx6tcwj5r5rsirm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreib6q7itqd4iogq55iged23pfbttu6mtiksetommx6tcwj5r5rsirm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 848,
+            "width": 1200
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mz3k47bhfc2g": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mz3k47bhfc2g",
+    "cid": "bafyreigzjrhrz74aojunodghvddkqtronhlmfp7othzte2wfo66z3sj7iy",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "四乃宮リンリン🐻‍🎃ひみつのアイプリ✨",
+    "createdAt": "2026-10-30T10:11:17.092Z",
+    "replyCount": 0,
+    "repostCount": 3,
+    "likeCount": 7,
+    "indexedAt": "2026-10-30T10:11:20.264Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicbk5bsr3v5fig6tso74h77r2dfhkoujljmwfsksnhbu24v4p3hki",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicbk5bsr3v5fig6tso74h77r2dfhkoujljmwfsksnhbu24v4p3hki",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
           }
         }
       ],
