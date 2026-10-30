@@ -226671,8 +226671,8 @@
     "text": "ハロウィン絵間に合った🎃",
     "createdAt": "2026-10-29T11:18:40.542Z",
     "replyCount": 0,
-    "repostCount": 37,
-    "likeCount": 118,
+    "repostCount": 38,
+    "likeCount": 124,
     "indexedAt": "2026-10-29T11:18:42.864Z",
     "embed": {
       "images": [
@@ -226700,7 +226700,7 @@
     "createdAt": "2026-10-28T21:48:15.840Z",
     "replyCount": 1,
     "repostCount": 94,
-    "likeCount": 346,
+    "likeCount": 347,
     "indexedAt": "2026-10-28T21:48:24.464Z",
     "embed": {
       "images": [
@@ -226730,6 +226730,81 @@
     "repostCount": 0,
     "likeCount": 3,
     "indexedAt": "2026-10-29T21:04:28.267Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2trxjibs2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2trxjibs2m",
+    "cid": "bafyreiheccilgwi2rtcw7uwm3wowabeibf7yi5y62aejiol7ciymkjcj7y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ここまで運営がgdgdだとここらが潮時かなって。世界選手権だけ追ってても、世界に出てくる選手はSFやSGT通らないので支障ないもんね。",
+    "createdAt": "2026-10-30T03:31:45.437789Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-30T03:31:52.670Z",
+    "embed": {
+      "external": {
+        "uri": "https://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
+        "title": "SUPER GT 第7戦　それぞれに説明責任が必要では",
+        "description": "主にNASCAR、フォーミュラE、SUPER GT、F1、グランツーリスモ、鉄道の話題で占められたブログです。"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2trxjgdc2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2trxjgdc2m",
+    "cid": "bafyreih4pgtl5owuhepwrirc6baiqhoibc4bdxvxpt5hbxspomazisqzdu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "自分が引っかかっていたAutoSports Webの記事タイトルにも言及されていた｜SUPER GT 第7戦　それぞれに説明責任が必要では\nhttps://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
+    "createdAt": "2026-10-30T03:31:45.436789Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-30T03:31:52.669Z",
+    "embed": {
+      "external": {
+        "uri": "https://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
+        "title": "SUPER GT 第7戦　それぞれに説明責任が必要では",
+        "description": "主にNASCAR、フォーミュラE、SUPER GT、F1、グランツーリスモ、鉄道の話題で占められたブログです。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifgimcankxcck6fpbp5vx4rtew3fqvcchfarxg42lucasgl5p6zoe"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2tql3ynt2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2tql3ynt2k",
+    "cid": "bafyreiahsqj64bxgj6zfcfnx6oktq3qjzo4fffkjcnl6jmtmrs7n3xxqne",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ね、ねむい",
+    "createdAt": "2026-10-30T03:31:03.509959Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-30T03:31:05.166Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2tq5hbfc24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz2tq5hbfc24",
+    "cid": "bafyreiavjespzuazutbom2gkbwpr67aajwtiny2tparhznvbldvyyflyym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-10-30T03:30:50.223Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-30T03:30:50.567Z",
     "embed": null,
     "isRepost": false
   }
