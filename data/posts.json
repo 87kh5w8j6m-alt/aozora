@@ -226818,7 +226818,7 @@
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
     "repostCount": 89,
-    "likeCount": 340,
+    "likeCount": 341,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226873,8 +226873,8 @@
     "text": "四乃宮リンリン🐻‍🎃ひみつのアイプリ✨",
     "createdAt": "2026-10-30T10:11:17.092Z",
     "replyCount": 0,
-    "repostCount": 4,
-    "likeCount": 11,
+    "repostCount": 7,
+    "likeCount": 14,
     "indexedAt": "2026-10-30T10:11:20.264Z",
     "embed": {
       "images": [
@@ -226891,5 +226891,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz4trrw2e22k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz4trrw2e22k",
+    "cid": "bafyreiguvqs3cxsglv5lenzxxoimwch43bsoy2mpm2yr5yam2cdhuobv54",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-10-30T22:37:04.710Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-10-30T22:37:06.168Z",
+    "embed": null,
+    "isRepost": false
   }
 }
