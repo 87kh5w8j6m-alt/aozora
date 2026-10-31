@@ -221416,8 +221416,8 @@
     "text": "",
     "createdAt": "2026-09-30T21:47:24.596Z",
     "replyCount": 1,
-    "repostCount": 183,
-    "likeCount": 675,
+    "repostCount": 184,
+    "likeCount": 676,
     "indexedAt": "2026-09-30T21:47:31.082Z",
     "embed": {
       "images": [
@@ -225600,8 +225600,8 @@
     "text": "",
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
-    "repostCount": 145,
-    "likeCount": 546,
+    "repostCount": 146,
+    "likeCount": 547,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -226127,8 +226127,8 @@
     "text": "",
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
-    "repostCount": 106,
-    "likeCount": 449,
+    "repostCount": 107,
+    "likeCount": 450,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226262,7 +226262,7 @@
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
     "repostCount": 90,
-    "likeCount": 369,
+    "likeCount": 370,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226290,7 +226290,7 @@
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
     "repostCount": 135,
-    "likeCount": 564,
+    "likeCount": 565,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226671,8 +226671,8 @@
     "text": "ハロウィン絵間に合った🎃",
     "createdAt": "2026-10-29T11:18:40.542Z",
     "replyCount": 0,
-    "repostCount": 41,
-    "likeCount": 143,
+    "repostCount": 42,
+    "likeCount": 145,
     "indexedAt": "2026-10-29T11:18:42.864Z",
     "embed": {
       "images": [
@@ -226699,8 +226699,8 @@
     "text": "",
     "createdAt": "2026-10-28T21:48:15.840Z",
     "replyCount": 1,
-    "repostCount": 99,
-    "likeCount": 362,
+    "repostCount": 100,
+    "likeCount": 364,
     "indexedAt": "2026-10-28T21:48:24.464Z",
     "embed": {
       "images": [
@@ -226818,7 +226818,7 @@
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
     "repostCount": 91,
-    "likeCount": 345,
+    "likeCount": 348,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226919,6 +226919,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-31T00:30:06.966Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz5amhdodn2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz5amhdodn2i",
+    "cid": "bafyreidiulcq77odudhafup4ac2ohvuu7myuzoqs6466tod45pf2wtrv5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1メキシコGP FP1見る。",
+    "createdAt": "2026-10-31T02:26:43.944331Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-31T02:26:44.662Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz57onq3lf23": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz57onq3lf23",
+    "cid": "bafyreicy4iyihjh2txfq2cuw74jbq2uf6qglecxpm4sydkhb2tnmdowdti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "インフルエンザ予防接種done.",
+    "createdAt": "2026-10-31T02:10:03.525551Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-31T02:10:05.875Z",
     "embed": null,
     "isRepost": false
   }
