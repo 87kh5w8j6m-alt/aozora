@@ -226817,8 +226817,8 @@
     "text": "",
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
-    "repostCount": 90,
-    "likeCount": 342,
+    "repostCount": 91,
+    "likeCount": 344,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226845,7 +226845,7 @@
     "text": "アニメ「沈黙の艦隊」30年を経て初のBlu-ray化、来年3月発売　特典にステッカー3枚セット\r\nhttps://natalie.mu/comic/news/695983?utm_source=bluesky&utm_medium=social\r\n\r\nかわぐちかいじ＆髙橋良輔監督からコメントも\r\n\r\n#沈黙の艦隊",
     "createdAt": "2026-10-30T17:11:09+09:00",
     "replyCount": 0,
-    "repostCount": 7,
+    "repostCount": 8,
     "likeCount": 8,
     "indexedAt": "2026-10-30T08:11:12.764Z",
     "embed": {
@@ -226874,7 +226874,7 @@
     "createdAt": "2026-10-30T10:11:17.092Z",
     "replyCount": 0,
     "repostCount": 8,
-    "likeCount": 15,
+    "likeCount": 16,
     "indexedAt": "2026-10-30T10:11:20.264Z",
     "embed": {
       "images": [
@@ -226904,6 +226904,21 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-10-30T22:37:06.168Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz523vstny2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mz523vstny2k",
+    "cid": "bafyreihttccag2ehgwedy7bdqjfiid7e22z4o7t72eoj7i7hc3tajdoyji",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "初めて街中でiPhone Duo使ってる人見た。閉じてるとほんとちっちゃいな",
+    "createdAt": "2026-10-31T00:30:06.340219Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-10-31T00:30:06.966Z",
     "embed": null,
     "isRepost": false
   }
