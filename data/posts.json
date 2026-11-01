@@ -226128,7 +226128,7 @@
     "createdAt": "2026-10-25T22:10:08.137Z",
     "replyCount": 1,
     "repostCount": 107,
-    "likeCount": 454,
+    "likeCount": 455,
     "indexedAt": "2026-10-25T22:10:13.871Z",
     "embed": {
       "images": [
@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 452,
+    "likeCount": 455,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227197,8 +227197,8 @@
     "text": "",
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
-    "repostCount": 48,
-    "likeCount": 154,
+    "repostCount": 62,
+    "likeCount": 200,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227215,5 +227215,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzby5ejsom2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzby5ejsom2i",
+    "cid": "bafyreigmmxy2tnfuuqs5hnuitaraghx5cebvbn4okjbkofwxvw5kjmn7ja",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "アントネッリ、F1ワールドチャンピオンおめでとう🍾",
+    "createdAt": "2026-11-01T23:38:25.957967Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T23:38:27.071Z",
+    "embed": null,
+    "isRepost": false
   }
 }
