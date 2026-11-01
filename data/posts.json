@@ -226966,5 +226966,20 @@
     "indexedAt": "2026-11-01T04:41:38.667Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mza5ap2c722k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mza5ap2c722k",
+    "cid": "bafyreicmqnhcyfjnxz5fzjsnwyjmhm5cetl6pyxk7cd3iusxnb26s4gyh4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1メキシコシティGP 予選見る",
+    "createdAt": "2026-11-01T06:04:27.400911Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T06:04:28.062Z",
+    "embed": null,
+    "isRepost": false
   }
 }
