@@ -226991,8 +226991,8 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 85,
-    "likeCount": 343,
+    "repostCount": 87,
+    "likeCount": 365,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227037,5 +227037,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzarncrw3222": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzarncrw3222",
+    "cid": "bafyreicmkytgriaowwxfr46l6eeeuprtvuv76eg3jmkoxoj35ylo44vxx4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ホンダの『500戦』は多いのか、少ないのか。33年で500戦を達成したF1ジャーナリスト尾張正博氏の願い【ギョロ目でチェック】  - www.as-web.jp/f1/1368336",
+    "createdAt": "2026-11-01T12:09:26.099Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T12:09:28.764Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1368336",
+        "title": "ホンダの『500戦』は多いのか、少ないのか。33年で500戦を達成したF1ジャーナリスト尾張正博氏の願い【ギョロ目でチェック】 | ニュース | autosport web",
+        "description": "ホンダが2026年のF1第18戦アメリカGPでF1参戦通算500戦目を迎えた。これを多いととらえるか、少ないととらえるかは人によって異なるだろう。そこで自分の",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicop2kruucfxh4tzux5mylth5duo6akjxx5fiqgx5eq3dqxqsk6dq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
