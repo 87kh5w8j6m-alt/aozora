@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 442,
+    "likeCount": 444,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 152,
-    "likeCount": 669,
+    "likeCount": 672,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227085,8 +227085,8 @@
     "text": "「ぼっち・ざ・ろっく！」劇場アニメ化！伊地知姉妹が主人公の前日譚、特報映像も（動画あり / コメントあり）\r\nhttps://natalie.mu/comic/news/696248?utm_source=bluesky&utm_medium=social\r\n\r\n#ぼっち・ざ・ろっく",
     "createdAt": "2026-11-01T21:54:09+09:00",
     "replyCount": 0,
-    "repostCount": 38,
-    "likeCount": 46,
+    "repostCount": 39,
+    "likeCount": 47,
     "indexedAt": "2026-11-01T12:54:15.267Z",
     "embed": {
       "images": [
@@ -227172,5 +227172,48 @@
     "indexedAt": "2026-11-01T20:00:06.089Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzbrppgea22u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzbrppgea22u",
+    "cid": "bafyreif6ngi46b4sa2eflrpbpc7izgzitwxiriyotm4jtwgskhm6vdipli",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "せっかく早起きしたのに赤旗のおかげで会社行く時間になって途中までしか見られないじゃないか",
+    "createdAt": "2026-11-01T21:43:26.200Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T21:43:26.663Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzbre5x3is2f": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzbre5x3is2f",
+    "cid": "bafyreic3dudronnnvty53ett66w56cqwyuga54kstyqkpzew3codp7hoqi",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-01T21:36:58.774Z",
+    "replyCount": 0,
+    "repostCount": 23,
+    "likeCount": 59,
+    "indexedAt": "2026-11-01T21:37:10.167Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreif65dzz3asj4gm5rn5ftedfondjb3fdchvlt46ea7nfx5xoz2kvzi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreif65dzz3asj4gm5rn5ftedfondjb3fdchvlt46ea7nfx5xoz2kvzi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
