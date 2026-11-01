@@ -226991,8 +226991,8 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 381,
+    "repostCount": 97,
+    "likeCount": 397,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227085,8 +227085,8 @@
     "text": "「ぼっち・ざ・ろっく！」劇場アニメ化！伊地知姉妹が主人公の前日譚、特報映像も（動画あり / コメントあり）\r\nhttps://natalie.mu/comic/news/696248?utm_source=bluesky&utm_medium=social\r\n\r\n#ぼっち・ざ・ろっく",
     "createdAt": "2026-11-01T21:54:09+09:00",
     "replyCount": 0,
-    "repostCount": 30,
-    "likeCount": 31,
+    "repostCount": 33,
+    "likeCount": 38,
     "indexedAt": "2026-11-01T12:54:15.267Z",
     "embed": {
       "images": [
@@ -227112,5 +227112,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzaxwr42fc2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzaxwr42fc2u",
+    "cid": "bafyreif43yz5g7auwvx6n3dvdxv7decz2fddhnbbzayd2xceyla5hf42ya",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "最低限やらなきゃいけないことはやってた。しかし、そろそろじみスタ号のエンジンかけないといい加減よくない",
+    "createdAt": "2026-11-01T14:02:05.553Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T14:02:06.065Z",
+    "embed": null,
+    "isRepost": false
   }
 }
