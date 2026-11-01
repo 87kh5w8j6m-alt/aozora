@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 437,
+    "likeCount": 442,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227086,7 +227086,7 @@
     "createdAt": "2026-11-01T21:54:09+09:00",
     "replyCount": 0,
     "repostCount": 38,
-    "likeCount": 45,
+    "likeCount": 46,
     "indexedAt": "2026-11-01T12:54:15.267Z",
     "embed": {
       "images": [
@@ -227140,6 +227140,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-01T19:38:01.371Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzbm2qkbm62t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzbm2qkbm62t",
+    "cid": "bafyreiao6gwxaw7ou52ws7ppuohcvf2lmanb4waeqgvisgsys7ndhalrnu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほっちゃんのスクールカレンダーをめくり。",
+    "createdAt": "2026-11-01T20:02:13.539118Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T20:02:14.073Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzblww5mbl2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzblww5mbl2k",
+    "cid": "bafyreif2zmeb42vyszpbcpdyqpg5c3lzbj2ffr4j2xs5eptd2xmn4sca6e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日は美容院ですごい待たされる夢見たし、今朝はスポーツジムですごく待たされる夢を見た。何なんだ。",
+    "createdAt": "2026-11-01T20:00:05.188322Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-01T20:00:06.089Z",
     "embed": null,
     "isRepost": false
   }
