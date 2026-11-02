@@ -226262,7 +226262,7 @@
     "createdAt": "2026-10-26T23:58:57.975Z",
     "replyCount": 0,
     "repostCount": 90,
-    "likeCount": 374,
+    "likeCount": 375,
     "indexedAt": "2026-10-26T23:59:05.969Z",
     "embed": {
       "images": [
@@ -226290,7 +226290,7 @@
     "createdAt": "2026-10-27T21:27:13.570Z",
     "replyCount": 0,
     "repostCount": 136,
-    "likeCount": 571,
+    "likeCount": 573,
     "indexedAt": "2026-10-27T21:27:20.565Z",
     "embed": {
       "images": [
@@ -226818,7 +226818,7 @@
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
     "repostCount": 93,
-    "likeCount": 361,
+    "likeCount": 362,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 466,
+    "likeCount": 471,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 154,
-    "likeCount": 676,
+    "likeCount": 677,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227197,8 +227197,8 @@
     "text": "",
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 307,
+    "repostCount": 89,
+    "likeCount": 323,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227228,6 +227228,90 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-01T23:38:27.071Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchqqoipp2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchqqoipp2i",
+    "cid": "bafyreic7q5ialvukp7gq5bfk5ctume62jcj7im3najpe4ftdoput3slpt4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "平川亮、正式結果で10位に繰り上がり。F1デビュー戦で入賞果たす／メキシコシティGP  - https://www.as-web.jp/f1/1369403 持ってるなあ",
+    "createdAt": "2026-11-02T04:17:42.429731Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-02T04:17:43.964Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1369403",
+        "title": "平川亮、正式結果で10位に繰り上がり。F1デビュー戦で入賞果たす／メキシコシティGP | ニュース | autosport web",
+        "description": "　2026年F1第19戦メキシコシティGP決勝後、3名のドライバーに対しペナルティが下った。それにより、暫定13位だった平川亮（ハース）が正式結果で10位に繰り",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiegg4pqgwt25zbdv4fsdkpxiky3mktv2zltopktapm6emfisefhoy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchmhczig2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchmhczig2i",
+    "cid": "bafyreih5u27cyloyqcqfqbiririfsd6maffcziscxsk6slc6hjcme2vz44",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "豊田章男会長、F1初参戦を終えた平川亮に「またきっと私たちに夢を見せてくれると信じています」／コメント全文  - https://www.as-web.jp/f1/1369380",
+    "createdAt": "2026-11-02T04:15:18.338601Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-02T04:15:19.968Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1369380",
+        "title": "豊田章男会長、F1初参戦を終えた平川亮に「またきっと私たちに夢を見せてくれると信じています」／コメント全文 | ニュース | autosport web",
+        "description": "　現地時間11月1日に行われた2026年F1第19戦メキシコシティGPの決勝レースで、平川亮（TGRハースF1チーム）は暫定13位でチェッカーを受けた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiet5hme3kxvayrekorvazymy77svrblshsn6mk26lnn4nho4sjud4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchaleobm2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzchaleobm2x",
+    "cid": "bafyreiadui5vgyflyez2z6ziyhzh7tr5nzlj5nph2lmakvzsiwctem6xje",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F4デビューから5年52日でF1王者に。アントネッリの並外れたレース遍歴／初戴冠記念企画  - https://www.as-web.jp/f1/1368208",
+    "createdAt": "2026-11-02T04:08:39.917198Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-02T04:08:41.472Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1368208",
+        "title": "F4デビューから5年52日でF1王者に。アントネッリの並外れたレース遍歴／初戴冠記念企画 | ニュース | autosport web",
+        "description": "　現地時間11月1日、2026年F1第19戦メキシコシティGPでアンドレア・キミ・アントネッリ（メルセデス）がドライバーズタイトルを獲得し、20歳68日でF1史",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifo2wscfzigm7dvjxv6xvqgj47ekhe5utdyd3dezu2ht3bj5ulfuy"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzcgfk4kjy2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzcgfk4kjy2g",
+    "cid": "bafyreidn73vzf46ud35j2leofgkwusjr3jooa7laaa7rjbnchqbux46k34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-02T03:53:32.643470Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-02T03:53:33.766Z",
     "embed": null,
     "isRepost": false
   }
