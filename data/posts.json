@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 119,
-    "likeCount": 485,
+    "likeCount": 487,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 154,
-    "likeCount": 681,
+    "likeCount": 682,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227085,8 +227085,8 @@
     "text": "「ぼっち・ざ・ろっく！」劇場アニメ化！伊地知姉妹が主人公の前日譚、特報映像も（動画あり / コメントあり）\r\nhttps://natalie.mu/comic/news/696248?utm_source=bluesky&utm_medium=social\r\n\r\n#ぼっち・ざ・ろっく",
     "createdAt": "2026-11-01T21:54:09+09:00",
     "replyCount": 0,
-    "repostCount": 45,
-    "likeCount": 59,
+    "repostCount": 46,
+    "likeCount": 60,
     "indexedAt": "2026-11-01T12:54:15.267Z",
     "embed": {
       "images": [
@@ -227198,7 +227198,7 @@
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
     "repostCount": 105,
-    "likeCount": 399,
+    "likeCount": 405,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227314,5 +227314,33 @@
     "indexedAt": "2026-11-02T03:53:33.766Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mzd7z5wsqc2t": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mzd7z5wsqc2t",
+    "cid": "bafyreigcsnn25tiwkll2dv7wab7pagyrrtujs23u46p6kg55duilntbaui",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
+    "createdAt": "2026-11-02T11:31:55.524Z",
+    "replyCount": 0,
+    "repostCount": 2,
+    "likeCount": 5,
+    "indexedAt": "2026-11-02T11:31:58.265Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiflllmockgavupx7d2tsz6g22yqqsfhzgthuwzcp6nyaxzyew7pem",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreiflllmockgavupx7d2tsz6g22yqqsfhzgthuwzcp6nyaxzyew7pem",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
