@@ -226817,8 +226817,8 @@
     "text": "",
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
-    "repostCount": 93,
-    "likeCount": 363,
+    "repostCount": 94,
+    "likeCount": 364,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226991,8 +226991,8 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 119,
-    "likeCount": 491,
+    "repostCount": 120,
+    "likeCount": 492,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227019,8 +227019,8 @@
     "text": "",
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
-    "repostCount": 154,
-    "likeCount": 682,
+    "repostCount": 155,
+    "likeCount": 683,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227086,7 +227086,7 @@
     "createdAt": "2026-11-01T21:54:09+09:00",
     "replyCount": 0,
     "repostCount": 46,
-    "likeCount": 61,
+    "likeCount": 62,
     "indexedAt": "2026-11-01T12:54:15.267Z",
     "embed": {
       "images": [
@@ -227342,5 +227342,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzeaka52r72r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzeaka52r72r",
+    "cid": "bafyreifelxnze5tiwxfazqn4tm2talajmiom2s367qrpy6vyeggewzwd4i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1257回聴取終了。天たまハロウィン。概念コーデ回。",
+    "createdAt": "2026-11-02T21:14:07.482779Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-02T21:14:08.076Z",
+    "embed": null,
+    "isRepost": false
   }
 }
