@@ -227447,5 +227447,79 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzemw6bzds2r": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzemw6bzds2r",
+    "cid": "bafyreic7kp3ohx43d7sgca3hgnm7vyspd3jtbgtf7evu7jvq7vxe2fw4ia",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-03T00:55:33.618Z",
+    "replyCount": 0,
+    "repostCount": 79,
+    "likeCount": 255,
+    "indexedAt": "2026-11-03T00:55:43.567Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreid46vlxdc3s65sqnuxoyrwgczjc4c563mzhlndxfidrhcuhjkyqca",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreid46vlxdc3s65sqnuxoyrwgczjc4c563mzhlndxfidrhcuhjkyqca",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzetc4tqqs2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzetc4tqqs2u",
+    "cid": "bafyreiedwr2eljkvrw6wpszbmgfgelnccrbzywjbdron7fchi4g2kleapa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\n富山・金沢旅行に行ってきました（金沢編） - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/1...\n#はてなブログ",
+    "createdAt": "2026-11-03T02:49:37.207Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-03T02:49:55.167Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/11/03/114918",
+        "title": "富山・金沢旅行に行ってきました（金沢編） - Jiminy Nseries",
+        "description": "翌日は新幹線で金沢へ移動。近江町市場でランチの後は金沢21世紀美術館へ。 例のプールも実績解除。展示では村上慧氏の発泡スチロールで作った「自分の家」を体に背負い、日本中を歩いて移動しながら生活するパフォーマンスおよびプロジェクト、「移住する生活」が興味深かったです。 なんというか、日々の生活に追われている私たちが出来ないことを探求してくれるのが芸術家なのかなって。 「記憶の部屋」も無数の窓ひとつひ...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifks2ectoscuyr33efdtlnfo23pk5iixcoa6dswrhvjpnzylbwhey"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzetaxyr7k2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzetaxyr7k2u",
+    "cid": "bafyreigy6cfx3kzqbqoj6xuldtcxwda4zqqahjo64oojl56dlfjr7rqoue",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\n富山・金沢旅行に行ってきました（富山編） - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/1...\n#はてなブログ",
+    "createdAt": "2026-11-03T02:48:58.575Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-03T02:49:05.070Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/11/03/114835",
+        "title": "富山・金沢旅行に行ってきました（富山編） - Jiminy Nseries",
+        "description": "10月10日から二泊三日で富山・石川旅行に行ってきました。初日は富山に一泊、二日目に石川に移動して金沢観光。 以前に電車で石川に行ったのは北陸新幹線開通直前だったので、今回が北陸新幹線に初乗車です。今回はグランクラスで移動しました。 グランクラス、これはいいものだ。。。 連休初日とあって新幹線は全席指定の列車もあり混雑していましたが、グランクラスは席数が少ないこともあって混雑とは無縁で快適に移動で...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihiu53xtqpzok74irku3aeokwl3w7f7gzldmblri6mm3y5ce4mc7y"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
