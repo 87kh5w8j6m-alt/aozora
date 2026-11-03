@@ -226700,7 +226700,7 @@
     "createdAt": "2026-10-28T21:48:15.840Z",
     "replyCount": 1,
     "repostCount": 100,
-    "likeCount": 373,
+    "likeCount": 374,
     "indexedAt": "2026-10-28T21:48:24.464Z",
     "embed": {
       "images": [
@@ -226818,7 +226818,7 @@
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
     "repostCount": 94,
-    "likeCount": 365,
+    "likeCount": 366,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 496,
+    "likeCount": 498,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227198,7 +227198,7 @@
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 437,
+    "likeCount": 438,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227368,7 +227368,7 @@
     "createdAt": "2026-11-03T01:26:55.405260Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-03T01:26:57.165Z",
     "embed": {
       "images": [
@@ -227430,7 +227430,7 @@
     "createdAt": "2026-11-03T01:08:08.592Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-03T01:08:14.066Z",
     "embed": {
       "images": [
@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 110,
-    "likeCount": 391,
+    "repostCount": 117,
+    "likeCount": 429,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227558,6 +227558,55 @@
     "likeCount": 0,
     "indexedAt": "2026-11-03T03:40:25.863Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzfb372rg32e": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzfb372rg32e",
+    "cid": "bafyreiauwgahdjpj5iqeef5o74cb7p4lpod42n2sv6bfo2l5odbos6ywtm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マリーゴールドの丘をめぐる冒険ドライブから無事帰宅。ちょうどいい気温のうちに爽やかオープンドライブが出来て良かった！",
+    "createdAt": "2026-11-03T06:56:16.468993Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-03T06:56:17.669Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiapvged3hsg5hlxl4yarbqg6rihdnnigvn2ehm3galff6zspkeseq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiapvged3hsg5hlxl4yarbqg6rihdnnigvn2ehm3galff6zspkeseq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaubppbexough7kfkevadeqcdoch6m2momvoxv2bki62iezv43ypu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaubppbexough7kfkevadeqcdoch6m2momvoxv2bki62iezv43ypu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidszetu6us7ucwk27cz2afac25v2etismku3vavebephz3pbnwnde",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidszetu6us7ucwk27cz2afac25v2etismku3vavebephz3pbnwnde",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
