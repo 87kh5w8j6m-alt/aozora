@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 155,
-    "likeCount": 684,
+    "likeCount": 685,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227198,7 +227198,7 @@
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
     "repostCount": 114,
-    "likeCount": 434,
+    "likeCount": 437,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227325,7 +227325,7 @@
     "createdAt": "2026-11-02T11:31:55.524Z",
     "replyCount": 0,
     "repostCount": 8,
-    "likeCount": 17,
+    "likeCount": 18,
     "indexedAt": "2026-11-02T11:31:58.265Z",
     "embed": {
       "images": [
@@ -227356,6 +227356,96 @@
     "likeCount": 0,
     "indexedAt": "2026-11-02T21:14:08.076Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzeoobsiho2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzeoobsiho2o",
+    "cid": "bafyreiccrhyg2dvsj7mbmf33bntw6bojgs4exfl6wqe6p6vxlxzsuyeisu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マリーゴルドの丘公園、昨年も来た気がするけど結構気に入っている",
+    "createdAt": "2026-11-03T01:26:55.405260Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-03T01:26:57.165Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifpjkst3x4kag5mrdhbu3m2gzypuycn37umfq2h3kbyny2bbsv3eu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifpjkst3x4kag5mrdhbu3m2gzypuycn37umfq2h3kbyny2bbsv3eu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibnv5h2sdiyyyijb6cmnw7jpcvriixqsggl34b2pqhcg7vsju5iru",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibnv5h2sdiyyyijb6cmnw7jpcvriixqsggl34b2pqhcg7vsju5iru",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzensvalpe2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzensvalpe2g",
+    "cid": "bafyreiapwuyjqj2wnhzyhlowsvltp2iruybskexio5tplmz3wgopyqrjxm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at マリーゴールドの丘公園 in  本庄市 https://app.foursquare.com/share/checkin/6ae934adbcac7379630161b5?s=v4d3UjZHyZwLP65JPGYYpaoEzV4&lang=ja",
+    "createdAt": "2026-11-03T01:11:36.113217Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-03T01:11:37.270Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6ae934adbcac7379630161b5?s=v4d3UjZHyZwLP65JPGYYpaoEzV4&lang=ja",
+        "title": "jiminy nseries's check in at マリーゴールドの丘公園",
+        "description": "https://app.foursquare.com/share/checkin/6ae934adbcac7379630161b5?s=v4d3UjZHyZwLP65JPGYYpaoEzV4&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzenmoc3l22d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzenmoc3l22d",
+    "cid": "bafyreiaicyc26e4aijv7f4gflriqus2kwaqto2ccms56s2fty35e2ilis4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日のBluesky…",
+    "createdAt": "2026-11-03T01:08:08.592Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-03T01:08:14.066Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieqabhpwqjcshufh6yphrf3qhjeud4gl4rqev6mqbpkhockl3zroy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieqabhpwqjcshufh6yphrf3qhjeud4gl4rqev6mqbpkhockl3zroy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
