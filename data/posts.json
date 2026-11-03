@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 121,
-    "likeCount": 498,
+    "likeCount": 499,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 118,
-    "likeCount": 442,
+    "repostCount": 120,
+    "likeCount": 457,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227486,7 +227486,7 @@
     "createdAt": "2026-11-03T02:49:37.207Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-03T02:49:55.167Z",
     "embed": {
       "external": {
@@ -227622,6 +227622,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-03T08:51:00.863Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzfjbsmuo22l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzfjbsmuo22l",
+    "cid": "bafyreihrcsgt2gnihbmmdwh3yzvu2tq2hvghywpf76pspahfuwwo26aj2q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名車『セリカ』復活！ トヨタ、2027年WRCは2チーム体制で参戦。世界王者3名抱える超豪華布陣に  - www.as-web.jp/rally/1369723",
+    "createdAt": "2026-11-03T09:23:08.815Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-03T09:23:11.563Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/rally/1369723",
+        "title": "名車『セリカ』復活！ トヨタ、2027年WRCは2チーム計6台で参戦。世界王者3名抱える超豪華布陣に | ニュース | autosport web",
+        "description": "トヨタとGAZOO",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicv7owpzwq6eubmsahisj5264yo5kmivvipiws236yuvncgzwgi3m"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
