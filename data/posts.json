@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 155,
-    "likeCount": 686,
+    "likeCount": 687,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 142,
-    "likeCount": 576,
+    "repostCount": 143,
+    "likeCount": 578,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227686,8 +227686,8 @@
     "text": "",
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
-    "repostCount": 81,
-    "likeCount": 307,
+    "repostCount": 85,
+    "likeCount": 322,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227704,5 +227704,51 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzibirdumk2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzibirdumk2l",
+    "cid": "bafyreigolxlld4e5shbx37wizzkjwrhdpryfbr7vixqqc6rjlgfwks6l7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "GT300最多勝ドライバーの新田守男が2026年をもってドライバーとしての活動に「ひと区切り」と発表  - www.as-web.jp/supergt/1370...",
+    "createdAt": "2026-11-04T11:41:51.633Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-04T11:41:53.764Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/supergt/1370306",
+        "title": "GT300最多勝ドライバーの新田守男が2026年をもってドライバーとしての活動に「ひと区切り」と発表 | ニュース | autosport web",
+        "description": "11月4日、スーパーGT GT300クラスにK-tunes",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigjlb2pl4idy3o4umurknvedqsnfiia5ljvbotakt5lijh5rygfbq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzib5opj5s2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzib5opj5s2l",
+    "cid": "bafyreieh26lb2zfadz3y25dik7fympsppik4h3nj45wfjy4hs7qlyrebd4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "WEC富士で耐久の名門チームWRTに助っ人参戦。現場で感じた“綺麗好きと冷静沈着”【トミー小笹の米国メカニック通信：特別編】  - www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-11-04T11:35:39.771Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-04T11:35:42.268Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1369956",
+        "title": "WEC富士で耐久の名門チームWRTに助っ人参戦。現場で感じた“綺麗好きと冷静沈着”【トミー小笹の米国メカニック通信：特別編】 | コラム | autosport web",
+        "description": "WEC世界耐久選手権の富士6時間レースで、終盤まで表彰台争いを展開したBMW M Team",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiecch5lyoo3oyrftguvyhmyzqs6hycii2nzwbqsgmei772psoz4c4"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
