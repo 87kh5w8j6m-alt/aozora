@@ -227686,8 +227686,8 @@
     "text": "",
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
-    "repostCount": 93,
-    "likeCount": 397,
+    "repostCount": 96,
+    "likeCount": 401,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227763,6 +227763,36 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-11-04T21:08:57.166Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzjejifi7t2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzjejifi7t2o",
+    "cid": "bafyreienyj25qd2r65iowdehhsta3p6fvohvoawr2opq7fcpxgrtgclnau",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第485回聴取終了。",
+    "createdAt": "2026-11-04T22:08:35.443214Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-04T22:08:36.865Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzje6y7cvg2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzje6y7cvg2w",
+    "cid": "bafyreihmicuudkeglafe2pok3qdihwlk7sc5jc2oherejaklx3pir4hiw4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第84回聴取終了",
+    "createdAt": "2026-11-04T22:02:43.190747Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-04T22:02:44.462Z",
     "embed": null,
     "isRepost": false
   }
