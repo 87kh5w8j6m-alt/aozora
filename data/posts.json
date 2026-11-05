@@ -227687,7 +227687,7 @@
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
     "repostCount": 100,
-    "likeCount": 419,
+    "likeCount": 420,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227805,8 +227805,8 @@
     "text": "",
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
-    "repostCount": 70,
-    "likeCount": 171,
+    "repostCount": 72,
+    "likeCount": 173,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -227823,5 +227823,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzkkculoy624": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzkkculoy624",
+    "cid": "bafyreictcg56az5ldlmwgr6lzbhtvhwhqlaan326c4jmvy3i73a43vknze",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ドコモ障害出てんの",
+    "createdAt": "2026-11-05T09:24:55.871726Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-05T09:24:56.964Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzkiugkvjq2t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzkiugkvjq2t",
+    "cid": "bafyreigfnkg3hvx455w6wl7xvccv3w4qxzo5fbze2rbkcq6oz3evk22zzq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "久々に一日中データセンター缶詰でちかれた",
+    "createdAt": "2026-11-05T08:58:57.502654Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-05T08:58:58.768Z",
+    "embed": null,
+    "isRepost": false
   }
 }
