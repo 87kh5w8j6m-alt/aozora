@@ -227687,7 +227687,7 @@
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
     "repostCount": 102,
-    "likeCount": 424,
+    "likeCount": 425,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227805,8 +227805,8 @@
     "text": "",
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 219,
+    "repostCount": 92,
+    "likeCount": 222,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -227864,7 +227864,7 @@
     "createdAt": "2026-11-05T01:11:42.992Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 412,
+    "likeCount": 414,
     "indexedAt": "2026-11-05T01:11:52.869Z",
     "embed": {
       "images": [
@@ -227896,5 +227896,62 @@
     "indexedAt": "2026-11-05T22:11:35.070Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzlzyqxeop2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzlzyqxeop2i",
+    "cid": "bafyreicascmuldbccyxcgoofd4e3ifgwyf6ol7cfllyjrh7drp44lvshm4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying Yahho!! - 堀江由衣 (「堀江由衣 Live Tour 2024-2025 文学少女倶楽部Ⅲ～The Walking Yui～」黒ネコ同盟限定Cd)",
+    "createdAt": "2026-11-05T23:38:16.038118Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-05T23:38:17.363Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidaxhepzj5tq6rwkiygmozion5ahby2q6ozwdv52j55hdr2gp4eyu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidaxhepzj5tq6rwkiygmozion5ahby2q6ozwdv52j55hdr2gp4eyu",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 400,
+            "width": 400
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzltdt6evs2p": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzltdt6evs2p",
+    "cid": "bafyreibmlvcltmsydbuodurkn4zsntgtulst77ktqoee7wghn32btcgmva",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-05T21:39:12.346Z",
+    "replyCount": 0,
+    "repostCount": 61,
+    "likeCount": 248,
+    "indexedAt": "2026-11-05T21:39:18.773Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigd64tawtovplbu46hij7aumby7oec2i6paxh5omjmchl6c2q6n44",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreigd64tawtovplbu46hij7aumby7oec2i6paxh5omjmchl6c2q6n44",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
