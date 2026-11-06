@@ -226817,8 +226817,8 @@
     "text": "",
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
-    "repostCount": 95,
-    "likeCount": 372,
+    "repostCount": 96,
+    "likeCount": 374,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226991,8 +226991,8 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 123,
-    "likeCount": 509,
+    "repostCount": 124,
+    "likeCount": 510,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227019,8 +227019,8 @@
     "text": "",
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
-    "repostCount": 156,
-    "likeCount": 693,
+    "repostCount": 157,
+    "likeCount": 694,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227197,8 +227197,8 @@
     "text": "",
     "createdAt": "2026-11-01T21:36:58.774Z",
     "replyCount": 0,
-    "repostCount": 115,
-    "likeCount": 448,
+    "repostCount": 116,
+    "likeCount": 449,
     "indexedAt": "2026-11-01T21:37:10.167Z",
     "embed": {
       "images": [
@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 146,
-    "likeCount": 589,
+    "repostCount": 147,
+    "likeCount": 590,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227686,8 +227686,8 @@
     "text": "",
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
-    "repostCount": 103,
-    "likeCount": 433,
+    "repostCount": 104,
+    "likeCount": 434,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227863,8 +227863,8 @@
     "text": "",
     "createdAt": "2026-11-05T01:11:42.992Z",
     "replyCount": 0,
-    "repostCount": 104,
-    "likeCount": 435,
+    "repostCount": 105,
+    "likeCount": 436,
     "indexedAt": "2026-11-05T01:11:52.869Z",
     "embed": {
       "images": [
@@ -227935,8 +227935,8 @@
     "text": "",
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
-    "repostCount": 108,
-    "likeCount": 485,
+    "repostCount": 109,
+    "likeCount": 486,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227964,7 +227964,7 @@
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
     "repostCount": 65,
-    "likeCount": 107,
+    "likeCount": 109,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
       "images": [
@@ -227981,5 +227981,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzoh5gks7j2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzoh5gks7j2a",
+    "cid": "bafyreiagiaylwwoefg77jp6rpnlx5llrcigf2pq5nntkmhdtrrymsh5iui",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-11-06T22:38:51.581079Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-06T22:38:52.463Z",
+    "embed": null,
+    "isRepost": false
   }
 }
