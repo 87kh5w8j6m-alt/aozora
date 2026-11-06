@@ -226991,7 +226991,7 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 124,
+    "repostCount": 125,
     "likeCount": 510,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
@@ -227936,7 +227936,7 @@
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
     "repostCount": 109,
-    "likeCount": 486,
+    "likeCount": 487,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227963,8 +227963,8 @@
     "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
-    "repostCount": 65,
-    "likeCount": 109,
+    "repostCount": 67,
+    "likeCount": 110,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
       "images": [
@@ -227994,6 +227994,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-06T22:38:52.463Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzokqn2fwh2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzokqn2fwh2f",
+    "cid": "bafyreifoq4wpmow5iuhx5cnnsbvj2ngxm6poemj7sxsqgdr32jykclqa3m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1サンパウロGP FP1見る",
+    "createdAt": "2026-11-06T23:43:17.131537Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-06T23:43:17.765Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzoklyeecy27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzoklyeecy27",
+    "cid": "bafyreihmskwjnat6sg3msx5g3livtjig4wf3xij6zmkubglqy3brx3euna",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第55回聴取終了。",
+    "createdAt": "2026-11-06T23:40:41.139068Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-06T23:40:41.872Z",
     "embed": null,
     "isRepost": false
   }
