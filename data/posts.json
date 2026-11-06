@@ -227935,8 +227935,8 @@
     "text": "",
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
-    "repostCount": 101,
-    "likeCount": 432,
+    "repostCount": 103,
+    "likeCount": 440,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227947,6 +227947,34 @@
           "aspectRatio": {
             "height": 1391,
             "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mzmzhv3xmi22": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3mzmzhv3xmi22",
+    "cid": "bafyreifzzmnspyiuhnuvih54wskpyr5aiosmhmwarghsltomojlnqll5du",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
+    "createdAt": "2026-11-06T18:01:28+09:00",
+    "replyCount": 2,
+    "repostCount": 39,
+    "likeCount": 42,
+    "indexedAt": "2026-11-06T09:01:31.769Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreifnvcugjslbdwe4bqoi4tcr2ogemfenxi7qj2ewko26iv2krveoxy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreifnvcugjslbdwe4bqoi4tcr2ogemfenxi7qj2ewko26iv2krveoxy",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1000,
+            "width": 708
           }
         }
       ],
