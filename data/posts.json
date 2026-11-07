@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 111,
-    "likeCount": 402,
+    "repostCount": 112,
+    "likeCount": 410,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228213,6 +228213,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-07T12:45:23.867Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzq2qrasro2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzq2qrasro2w",
+    "cid": "bafyreihvjmv3des3vxdcx3whlml7bcg7oeuu5dietlryfbpuq4ifslx3ru",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第3戦 モビリティリゾートもてぎ SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/113026-V",
+    "createdAt": "2026-11-07T14:02:21.190333Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-07T14:02:22.369Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/113026-V",
+        "title": "決勝 第3戦 モビリティリゾートもてぎ SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第3戦 モビリティリゾートもてぎ SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibuh4pl6snhk6kzqzqbuwo7q5bbovw3thypupddw4tq3yxregclmq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
