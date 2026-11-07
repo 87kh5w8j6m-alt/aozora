@@ -227936,7 +227936,7 @@
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 492,
+    "likeCount": 493,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227963,8 +227963,8 @@
     "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
-    "repostCount": 69,
-    "likeCount": 113,
+    "repostCount": 70,
+    "likeCount": 114,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
       "images": [
@@ -228040,6 +228040,44 @@
     "likeCount": 0,
     "indexedAt": "2026-11-07T01:03:29.168Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzovktlo4x27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzovktlo4x27",
+    "cid": "bafyreigwyouikr65yrjj4a2xtd7ndbdnonr6mr6tgxim5kvyvbifmb3w3m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今週末は、スーパーGTが茂木土日2レース開催な上にF1サンパウロGPとWEC最終戦があるのか。とても時間が足りないなぁ",
+    "createdAt": "2026-11-07T02:56:53.839244Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-07T02:56:54.468Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzovdznacl2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzovdznacl2z",
+    "cid": "bafyreienaobnzlswqs24giudg3jduoxnus7bek22bpwi6vfw6eazdnbrbi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 予選 第3戦 モビリティリゾートもてぎ SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/113025-V",
+    "createdAt": "2026-11-07T02:53:05.324116Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-07T02:53:06.562Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/113025-V",
+        "title": "予選 第3戦 モビリティリゾートもてぎ SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "予選 第3戦 モビリティリゾートもてぎ SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie6tvieedd5342op4m6bwsryty7iszfocgalvdvw27gntq24sruxq"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
