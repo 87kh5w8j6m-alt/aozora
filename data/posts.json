@@ -226699,8 +226699,8 @@
     "text": "",
     "createdAt": "2026-10-28T21:48:15.840Z",
     "replyCount": 1,
-    "repostCount": 102,
-    "likeCount": 379,
+    "repostCount": 103,
+    "likeCount": 380,
     "indexedAt": "2026-10-28T21:48:24.464Z",
     "embed": {
       "images": [
@@ -226817,8 +226817,8 @@
     "text": "",
     "createdAt": "2026-10-29T22:56:16.625Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 374,
+    "repostCount": 97,
+    "likeCount": 375,
     "indexedAt": "2026-10-29T22:56:22.163Z",
     "embed": {
       "images": [
@@ -226992,7 +226992,7 @@
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
     "repostCount": 125,
-    "likeCount": 509,
+    "likeCount": 510,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 147,
-    "likeCount": 590,
+    "repostCount": 148,
+    "likeCount": 591,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227863,8 +227863,8 @@
     "text": "",
     "createdAt": "2026-11-05T01:11:42.992Z",
     "replyCount": 0,
-    "repostCount": 106,
-    "likeCount": 439,
+    "repostCount": 107,
+    "likeCount": 440,
     "indexedAt": "2026-11-05T01:11:52.869Z",
     "embed": {
       "images": [
@@ -227936,7 +227936,7 @@
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 497,
+    "likeCount": 498,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227963,8 +227963,8 @@
     "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
-    "repostCount": 71,
-    "likeCount": 116,
+    "repostCount": 72,
+    "likeCount": 117,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
       "images": [
@@ -228128,7 +228128,7 @@
     "createdAt": "2026-11-07T05:21:00.354182Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-07T05:21:02.063Z",
     "embed": {
       "images": [
@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 97,
-    "likeCount": 343,
+    "repostCount": 103,
+    "likeCount": 366,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228184,5 +228184,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzppsx24bw2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzppsx24bw2m",
+    "cid": "bafyreidlucnvzg3vjeuis7h2g5jlp22mgc362n5sax75thhpnwlq4jgqce",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プチ同窓会でよっぱ。みんな変わってなかった",
+    "createdAt": "2026-11-07T10:46:42.555530Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-07T10:46:43.864Z",
+    "embed": null,
+    "isRepost": false
   }
 }
