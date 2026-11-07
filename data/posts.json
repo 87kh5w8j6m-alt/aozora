@@ -227864,7 +227864,7 @@
     "createdAt": "2026-11-05T01:11:42.992Z",
     "replyCount": 0,
     "repostCount": 107,
-    "likeCount": 443,
+    "likeCount": 444,
     "indexedAt": "2026-11-05T01:11:52.869Z",
     "embed": {
       "images": [
@@ -227963,8 +227963,8 @@
     "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
-    "repostCount": 73,
-    "likeCount": 120,
+    "repostCount": 75,
+    "likeCount": 121,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
       "images": [
@@ -228167,7 +228167,7 @@
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
     "repostCount": 120,
-    "likeCount": 440,
+    "likeCount": 442,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228321,5 +228321,33 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:uumfghmqnvxxmztie2ipnw3h/app.bsky.feed.post/3mzq3thrzqs26": {
+    "uri": "at://did:plc:uumfghmqnvxxmztie2ipnw3h/app.bsky.feed.post/3mzq3thrzqs26",
+    "cid": "bafyreifg6oqsjvputmjtvvi5vn4sbptf27doh35ceiz4iguoreuehpr7k4",
+    "author": "mondgarten.bsky.social",
+    "authorName": "水月",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uumfghmqnvxxmztie2ipnw3h/bafkreiczmqqxmqy7xeym4pimaytffeitvzz3ye4bdmxcecdszd7rbvwa4u",
+    "text": "",
+    "createdAt": "2026-11-07T14:21:46.166Z",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 10,
+    "indexedAt": "2026-11-07T14:21:48.265Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uumfghmqnvxxmztie2ipnw3h/bafkreiaet5f4gzaw4nm6e4end2cvkcjviffjmfbyhhruvi2ykzhgm54zju",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uumfghmqnvxxmztie2ipnw3h/bafkreiaet5f4gzaw4nm6e4end2cvkcjviffjmfbyhhruvi2ykzhgm54zju",
+          "alt": "",
+          "aspectRatio": {
+            "height": 560,
+            "width": 600
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
