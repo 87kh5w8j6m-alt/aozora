@@ -228237,5 +228237,20 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqmfsf5c22y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqmfsf5c22y",
+    "cid": "bafyreicsq243uujjpfnz67kp2tiwabndcwhoowqwiq47gwiloipvuxytia",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "mkr 愛知で地震？",
+    "createdAt": "2026-11-07T19:18:20.632872Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-07T19:18:21.266Z",
+    "embed": null,
+    "isRepost": false
   }
 }
