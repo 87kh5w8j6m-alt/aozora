@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 434,
+    "repostCount": 120,
+    "likeCount": 440,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228251,6 +228251,75 @@
     "likeCount": 0,
     "indexedAt": "2026-11-07T19:18:21.266Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqxqsr7bk26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqxqsr7bk26",
+    "cid": "bafyreig33jgbmgwiql2tuxqq4esemwaszxdkt4hojlxf5xaymumxutjipm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "4℃の山中湖早朝アタックに成功！",
+    "createdAt": "2026-11-07T22:41:21.776Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-07T22:41:34.369Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6rz3a7b4seduywnu2v5cz2isvjub5jprsl7vx43zcbr2wf2kzgm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6rz3a7b4seduywnu2v5cz2isvjub5jprsl7vx43zcbr2wf2kzgm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidimkt7llrgkejfpkq5orvmemgvkg73pkodlx2tfgkmgldabrojqi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidimkt7llrgkejfpkq5orvmemgvkg73pkodlx2tfgkmgldabrojqi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiepkeuk65nwrsiwxziqzog2hetokcnjofqvplhb7twcvhkyvug7ky",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiepkeuk65nwrsiwxziqzog2hetokcnjofqvplhb7twcvhkyvug7ky",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqxperhow2g": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzqxperhow2g",
+    "cid": "bafyreidkuutsvglqmr5qlhdollp4lbb3iay63hyp3q26btqbhndqvjqkr4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "山中湖早朝アタック成功！(@ 山中湖 in 山中湖村)\nhttps://app.foursquare.com/share/checkin/6aefa8c19fb4464b05198d1b?s=6j8r0J0HHz87jeSFt9qmwMfVoi0&lang=ja",
+    "createdAt": "2026-11-07T22:40:32.588712Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-07T22:40:34.065Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6aefa8c19fb4464b05198d1b?s=6j8r0J0HHz87jeSFt9qmwMfVoi0&lang=ja",
+        "title": "jiminy nseries's check in at 山中湖",
+        "description": "山中湖早朝アタック成功！",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreieciiqfrxbs6uyu2fmueqthl7kqe26p6cvejpggrc7di6hwjiom74"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
