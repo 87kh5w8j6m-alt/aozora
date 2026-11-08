@@ -228167,7 +228167,7 @@
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
     "repostCount": 120,
-    "likeCount": 442,
+    "likeCount": 445,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228349,5 +228349,28 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzr6zpl3c727": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzr6zpl3c727",
+    "cid": "bafyreidgpr62md76ch74rhp4onkwur2kgtabcbkpnx7zi2wlfutuputrsa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 深城ダム in  大月市 https://app.foursquare.com/share/checkin/6aefc7808f60646e273be482?s=-CwvDtrARBXtIeQR1sUCuP524QU&lang=ja",
+    "createdAt": "2026-11-08T00:51:35.669438Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T00:51:37.166Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6aefc7808f60646e273be482?s=-CwvDtrARBXtIeQR1sUCuP524QU&lang=ja",
+        "title": "jiminy nseries's check in at 深城ダム",
+        "description": "https://app.foursquare.com/share/checkin/6aefc7808f60646e273be482?s=-CwvDtrARBXtIeQR1sUCuP524QU&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih25f5wql34fav7q7akmmrurpyrampzx7d4vj33ysklyzgfowtkhm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
