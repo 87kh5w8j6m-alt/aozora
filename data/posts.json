@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 163,
-    "likeCount": 493,
+    "repostCount": 170,
+    "likeCount": 510,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 1,
-    "repostCount": 94,
-    "likeCount": 337,
+    "repostCount": 107,
+    "likeCount": 387,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228778,5 +228778,33 @@
     "indexedAt": "2026-11-08T12:17:16.864Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mzs57hibis2z": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3mzs57hibis2z",
+    "cid": "bafyreif4ye44vkmbjmiguabtej2waoen7u54zcrylg6mk5y5mb3tatd6ju",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "黒須あろま😈🍁🍂プリパラ",
+    "createdAt": "2026-11-08T09:51:41.713Z",
+    "replyCount": 0,
+    "repostCount": 4,
+    "likeCount": 15,
+    "indexedAt": "2026-11-08T09:51:43.468Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreigca7ja35nurbvngku3zurv2xxlcj2ipitv6pgpklw7cv7ld5plfu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreigca7ja35nurbvngku3zurv2xxlcj2ipitv6pgpklw7cv7ld5plfu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
