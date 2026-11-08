@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 88,
-    "likeCount": 371,
+    "likeCount": 372,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225601,7 +225601,7 @@
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
     "repostCount": 145,
-    "likeCount": 549,
+    "likeCount": 550,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 127,
-    "likeCount": 461,
+    "repostCount": 128,
+    "likeCount": 462,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 153,
-    "likeCount": 454,
+    "repostCount": 157,
+    "likeCount": 468,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 1,
-    "repostCount": 68,
-    "likeCount": 251,
+    "repostCount": 79,
+    "likeCount": 289,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228725,5 +228725,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzscdw76bp2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzscdw76bp2m",
+    "cid": "bafyreieseqxyegevdegkvxk5jtk4cqbirrupwctcfzzk32abcyo56u5vmm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "スーパーGTは予選で使ったタイヤでスタートするってレギュレーションってことは、決勝にタイヤ無交換作戦取ってるところは予選決勝を1セットで走りきってるってこと！？\n#SUPERGT #スーパーGT",
+    "createdAt": "2026-11-08T11:23:39.571012Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-08T11:23:40.167Z",
+    "embed": null,
+    "isRepost": false
   }
 }
