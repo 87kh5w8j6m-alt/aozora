@@ -227805,8 +227805,8 @@
     "text": "",
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
-    "repostCount": 98,
-    "likeCount": 236,
+    "repostCount": 99,
+    "likeCount": 237,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 120,
-    "likeCount": 448,
+    "repostCount": 121,
+    "likeCount": 449,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228332,7 +228332,7 @@
     "createdAt": "2026-11-07T14:21:46.166Z",
     "replyCount": 0,
     "repostCount": 5,
-    "likeCount": 11,
+    "likeCount": 12,
     "indexedAt": "2026-11-07T14:21:48.265Z",
     "embed": {
       "images": [
@@ -228360,7 +228360,7 @@
     "createdAt": "2026-11-08T00:51:35.669438Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-08T00:51:37.166Z",
     "embed": {
       "external": {
@@ -228368,6 +228368,165 @@
         "title": "jiminy nseries's check in at 深城ダム",
         "description": "https://app.foursquare.com/share/checkin/6aefc7808f60646e273be482?s=-CwvDtrARBXtIeQR1sUCuP524QU&lang=ja",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih25f5wql34fav7q7akmmrurpyrampzx7d4vj33ysklyzgfowtkhm"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:fh7pc5jruunbublztep52mz3/app.bsky.feed.post/3mzrecx4mk22a": {
+    "uri": "at://did:plc:fh7pc5jruunbublztep52mz3/app.bsky.feed.post/3mzrecx4mk22a",
+    "cid": "bafyreigxoddfkj5pbi5pfilrhfqjblhemcykv6i32vavzdn3clc5754pna",
+    "author": "buruburu2.bsky.social",
+    "authorName": "あるえ@skeb募集中",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fh7pc5jruunbublztep52mz3/bafkreifd6kxw3nqmca7vmnkz6w7euj76efnqzmrx2g4m776fay4nyvzyoi",
+    "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
+    "createdAt": "2026-11-08T02:26:15.231Z",
+    "replyCount": 1,
+    "repostCount": 22,
+    "likeCount": 58,
+    "indexedAt": "2026-11-08T02:26:19.963Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fh7pc5jruunbublztep52mz3/bafkreidedcul7dhmljksn66in3dyunraqm3mt3iyyrubeoultpzmz2yuxi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fh7pc5jruunbublztep52mz3/bafkreidedcul7dhmljksn66in3dyunraqm3mt3iyyrubeoultpzmz2yuxi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1860,
+            "width": 1254
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzreh4tgkx2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzreh4tgkx2a",
+    "cid": "bafyreibl3ifyzwsnlqkeaennautinjl3omaj67fltn2kkvl5mim3de6brm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 小河内ダム in  奥多摩町 https://app.foursquare.com/share/checkin/6aefde2a835e083e26d78a22?s=1ZuJAUKDXM4-7ASL1CsllYBDrgs&lang=ja",
+    "createdAt": "2026-11-08T02:28:34.484746Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T02:28:36.167Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7tlao6y7ibk4yc2jkzo4sy2xnbctymrl5thdmyil3hall35btyi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreia7tlao6y7ibk4yc2jkzo4sy2xnbctymrl5thdmyil3hall35btyi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzref4ddvd2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzref4ddvd2y",
+    "cid": "bafyreiatlps6mghh623ff4hp2yq2fsrl3m33ii5vxli7ierlfnzufdq76q",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "秋じゃー🍂",
+    "createdAt": "2026-11-08T02:27:26.818305Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-08T02:27:28.468Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreign2vzvd6nudfrnvvrh5viflb4p3vq2bb3mdcniyblpmwh5tjhmfa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreign2vzvd6nudfrnvvrh5viflb4p3vq2bb3mdcniyblpmwh5tjhmfa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihihdbk2wzj57srcpadpq6ijw4jzb4fpa7pihq4n2gubyhzrpe5bq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihihdbk2wzj57srcpadpq6ijw4jzb4fpa7pihq4n2gubyhzrpe5bq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihjddnczqysgfc52sv4ktfyxh7rfbpte722b3nbbbftdjdhj6zm44",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihjddnczqysgfc52sv4ktfyxh7rfbpte722b3nbbbftdjdhj6zm44",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdx2ers72f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdx2ers72f",
+    "cid": "bafyreigu6mshc7u6tqckxq6o2zceomscae2ear2pferirfh45skkyc6xi4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "水と緑のふれあい館の駐車場は真ん中の列がなくなっていたのね。",
+    "createdAt": "2026-11-08T02:19:34.781222Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T02:19:36.163Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdrfxyew2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdrfxyew2a",
+    "cid": "bafyreihy2i3xlxrazu3f22vypfld66wgsxzhop7hdawnujhksezlyv2eri",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "大麦代駐車場にはビートの群れがいた",
+    "createdAt": "2026-11-08T02:16:25.766509Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-08T02:16:26.965Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdeuzwmg2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrdeuzwmg2o",
+    "cid": "bafyreic5qy2nwxypl7eehfuqobxspvrszpzvcwdpfvbnhpwdpynrgtfyui",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あの日以来の奥多摩湖(@ 奥多摩湖 in 奥多摩町)\nhttps://app.foursquare.com/share/checkin/6aefd9b1369e46308230b623?s=RIx49viV3ILy_O0MZvmzs5vyoe4&lang=ja",
+    "createdAt": "2026-11-08T02:09:25.414782Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-08T02:09:27.263Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6aefd9b1369e46308230b623?s=RIx49viV3ILy_O0MZvmzs5vyoe4&lang=ja",
+        "title": "jiminy nseries's check in at 奥多摩湖",
+        "description": "あの日以来の奥多摩湖",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidzapyqrdpgvyzije6thc3lc4jqqef7ahljzvfixfqoesfdefkx7a"
       },
       "$type": "app.bsky.embed.external#view"
     },
