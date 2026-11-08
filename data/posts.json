@@ -227457,8 +227457,8 @@
     "text": "",
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
-    "repostCount": 148,
-    "likeCount": 592,
+    "repostCount": 149,
+    "likeCount": 593,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -227936,7 +227936,7 @@
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 501,
+    "likeCount": 502,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -227963,7 +227963,7 @@
     "text": "「ゆるキャン△ SEASON4」は2027年4月放送、メインビジュアル＆PV公開（動画あり）\r\nhttps://natalie.mu/comic/news/696907?utm_source=bluesky&utm_medium=social\r\n\r\n#ゆるキャン",
     "createdAt": "2026-11-06T18:01:28+09:00",
     "replyCount": 2,
-    "repostCount": 75,
+    "repostCount": 76,
     "likeCount": 121,
     "indexedAt": "2026-11-06T09:01:31.769Z",
     "embed": {
@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 122,
-    "likeCount": 453,
+    "repostCount": 124,
+    "likeCount": 455,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 94,
-    "likeCount": 283,
+    "repostCount": 99,
+    "likeCount": 311,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228530,6 +228530,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrpvg4bug2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrpvg4bug2a",
+    "cid": "bafyreigs3ksx3wlictjqgzc2prz3o5qtvadv3rwvj5emggu6hy2tfhjp5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第486回聴取終了。",
+    "createdAt": "2026-11-08T05:53:24.847885Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T05:53:26.166Z",
+    "embed": null,
     "isRepost": false
   }
 }
