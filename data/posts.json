@@ -225288,7 +225288,7 @@
     "createdAt": "2026-10-23T01:25:08.284Z",
     "replyCount": 0,
     "repostCount": 88,
-    "likeCount": 372,
+    "likeCount": 373,
     "indexedAt": "2026-10-23T01:25:16.475Z",
     "embed": {
       "images": [
@@ -225601,7 +225601,7 @@
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
     "repostCount": 145,
-    "likeCount": 550,
+    "likeCount": 551,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225629,7 +225629,7 @@
     "createdAt": "2026-10-22T01:34:00.869Z",
     "replyCount": 0,
     "repostCount": 111,
-    "likeCount": 470,
+    "likeCount": 471,
     "indexedAt": "2026-10-22T01:34:06.470Z",
     "embed": {
       "images": [
@@ -225777,7 +225777,7 @@
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 2,
     "repostCount": 170,
-    "likeCount": 679,
+    "likeCount": 680,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -227020,7 +227020,7 @@
     "createdAt": "2026-10-31T02:15:06.743Z",
     "replyCount": 1,
     "repostCount": 157,
-    "likeCount": 696,
+    "likeCount": 697,
     "indexedAt": "2026-10-31T02:15:11.969Z",
     "embed": {
       "images": [
@@ -227687,7 +227687,7 @@
     "createdAt": "2026-11-04T03:53:54.861Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 438,
+    "likeCount": 439,
     "indexedAt": "2026-11-04T03:53:59.668Z",
     "embed": {
       "images": [
@@ -227936,7 +227936,7 @@
     "createdAt": "2026-11-05T21:39:12.346Z",
     "replyCount": 0,
     "repostCount": 110,
-    "likeCount": 503,
+    "likeCount": 504,
     "indexedAt": "2026-11-05T21:39:18.773Z",
     "embed": {
       "images": [
@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 128,
-    "likeCount": 462,
+    "repostCount": 129,
+    "likeCount": 464,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 157,
-    "likeCount": 468,
+    "repostCount": 163,
+    "likeCount": 493,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228587,7 +228587,7 @@
     "createdAt": "2026-11-08T07:16:59.529Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 4,
+    "likeCount": 5,
     "indexedAt": "2026-11-08T07:17:06.468Z",
     "embed": {
       "images": [
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 1,
-    "repostCount": 79,
-    "likeCount": 289,
+    "repostCount": 94,
+    "likeCount": 337,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228738,6 +228738,44 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-08T11:23:40.167Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzsgozcoql2c": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzsgozcoql2c",
+    "cid": "bafyreibes5llhpohpz2gyqq5p3ovredvqyjvir5a5vq63cg4zctfqitnca",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 決勝 第8戦 モビリティリゾートもてぎ 【最終戦】SUPER GT 2026 https://jod.jsports.co.jp/p/motor/supergt/112804-V",
+    "createdAt": "2026-11-08T12:41:26.911709Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T12:41:30.674Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/supergt/112804-V",
+        "title": "決勝 第8戦 モビリティリゾートもてぎ 【最終戦】SUPER GT 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "決勝 第8戦 モビリティリゾートもてぎ 【最終戦】SUPER GT 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidxmtl3ec5c2ousxc2feqd5ob3i7odqo4rg3wxxeefdzfvgsxisva"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzsfdrukig2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzsfdrukig2a",
+    "cid": "bafyreifvyhgdfivfvpvflysm3o6r6eddd5piei2sz5btb5752vjqrmllkm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "サッシャさんこの土日は朝からスーパーGT予選決勝と深夜にF1の実況してるのか。いつ寝てるの？",
+    "createdAt": "2026-11-08T12:17:16.292510Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T12:17:16.864Z",
     "embed": null,
     "isRepost": false
   }
