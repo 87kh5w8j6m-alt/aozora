@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
-    "repostCount": 198,
-    "likeCount": 593,
+    "repostCount": 200,
+    "likeCount": 601,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228708,7 +228708,7 @@
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 2,
     "repostCount": 143,
-    "likeCount": 553,
+    "likeCount": 564,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228819,6 +228819,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-08T21:30:48.363Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mztlgxmhec2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mztlgxmhec2s",
+    "cid": "bafyreig6rxpuu6sg6b63qtj2zuoqejjuf6ortxkg4cehpitaqqdjyrbgou",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1サンパウロGP決勝見た。ノリス優勝おめでとー🏆",
+    "createdAt": "2026-11-08T23:39:04.705906Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T23:39:05.765Z",
     "embed": null,
     "isRepost": false
   }
