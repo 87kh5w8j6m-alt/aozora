@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 99,
-    "likeCount": 311,
+    "repostCount": 117,
+    "likeCount": 370,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228545,6 +228545,119 @@
     "likeCount": 0,
     "indexedAt": "2026-11-08T05:53:26.166Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrunov46n2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrunov46n2m",
+    "cid": "bafyreid55iaofdcrbhe5dixeyn3y6xqzwsrmjetpuliswgwkbf5p5ueida",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1サンパウロGP FP3見る",
+    "createdAt": "2026-11-08T07:18:35.121964Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T07:18:35.666Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrun364lc2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrun364lc2q",
+    "cid": "bafyreiafhcte2xnaoaqmukjv5dqskjcfywnjdtjlvdpdsvmlrtsrurgnqa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "大事に育ててきたブラウザのタブが全部消えた。なにもわからない",
+    "createdAt": "2026-11-08T07:18:14.890Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T07:18:15.669Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzruktchpk2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzruktchpk2q",
+    "cid": "bafyreiffvf34h74n5fwc6wobpqfbifcsqt2jtoisbumeqahg336mjfmxim",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まったく偶然だけれど、今日のドライブを終えておうちについたらピッタリ70,000km",
+    "createdAt": "2026-11-08T07:16:59.529Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-08T07:17:06.468Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidb5xozuv2yriqeanqzbjzhy5t5ap3qtnnpyjrtdu7rxwigwyre6u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidb5xozuv2yriqeanqzbjzhy5t5ap3qtnnpyjrtdu7rxwigwyre6u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrugt2tck2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrugt2tck2q",
+    "cid": "bafyreid6r6gzz3lwm4ujnvcdc5n7v6ahbfug7nm7g6u4jw6ivcs3swql7u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "早朝山中湖アタックから深城ダムを経由して奥多摩湖で秋をめぐるドライブから無事帰宅！！",
+    "createdAt": "2026-11-08T07:14:45.048Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-08T07:15:05.563Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigtbghwnx3twytyc232lolpzpjn42a25b6mbbgl5d4fkyl7b6olki",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigtbghwnx3twytyc232lolpzpjn42a25b6mbbgl5d4fkyl7b6olki",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 2999
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifwfa7xbi2jj6xsjb3kaoray3txj52ybs56edd6q5uv6aq5tjxvqi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifwfa7xbi2jj6xsjb3kaoray3txj52ybs56edd6q5uv6aq5tjxvqi",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidclajr4uvwnxlo7pfco44fcvmoeshclrdy364s2l63ww2qaexl6u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidclajr4uvwnxlo7pfco44fcvmoeshclrdy364s2l63ww2qaexl6u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifgqlfwam2ez25qy7vchnfnv57k4pki7elsm7t7ifvjzwwlmyb6di",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifgqlfwam2ez25qy7vchnfnv57k4pki7elsm7t7ifvjzwwlmyb6di",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
