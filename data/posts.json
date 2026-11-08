@@ -228166,8 +228166,8 @@
     "text": "",
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
-    "repostCount": 124,
-    "likeCount": 455,
+    "repostCount": 126,
+    "likeCount": 457,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 1,
-    "repostCount": 117,
-    "likeCount": 370,
+    "repostCount": 136,
+    "likeCount": 406,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228587,7 +228587,7 @@
     "createdAt": "2026-11-08T07:16:59.529Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 3,
     "indexedAt": "2026-11-08T07:17:06.468Z",
     "embed": {
       "images": [
@@ -228615,7 +228615,7 @@
     "createdAt": "2026-11-08T07:14:45.048Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-08T07:15:05.563Z",
     "embed": {
       "images": [
@@ -228658,6 +228658,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrz6ykaiy2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzrz6ykaiy2a",
+    "cid": "bafyreihriduuqdogcjaibfhkmz22xh6e6dyuqhgot7np763mhnm3z5tdb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1サンパウロGP 予選見る",
+    "createdAt": "2026-11-08T08:39:50.602304Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-08T08:39:51.164Z",
+    "embed": null,
     "isRepost": false
   }
 }
