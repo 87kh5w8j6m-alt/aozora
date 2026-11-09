@@ -228708,7 +228708,7 @@
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 2,
     "repostCount": 155,
-    "likeCount": 633,
+    "likeCount": 635,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228861,8 +228861,8 @@
     "text": "",
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
-    "repostCount": 128,
-    "likeCount": 532,
+    "repostCount": 131,
+    "likeCount": 540,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -228879,5 +228879,66 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuzt3thnn27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuzt3thnn27",
+    "cid": "bafyreie647embw7q3varexb2d4xuipavwuurgsuwikjsaejda7xeiib7oq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "J SPORTSオンデマンド | 鈴鹿1000kmレース 第4戦 インターコンチネンタルGTチャレンジ 2026 https://jod.jsports.co.jp/p/motor/motor_others/111946-V",
+    "createdAt": "2026-11-09T13:29:04.371089Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-09T13:29:05.565Z",
+    "embed": {
+      "external": {
+        "uri": "https://jod.jsports.co.jp/p/motor/motor_others/111946-V",
+        "title": "鈴鹿1000kmレース 第4戦 インターコンチネンタルGTチャレンジ 2026｜視聴画面｜J SPORTSオンデマンド【公式】",
+        "description": "鈴鹿1000kmレース 第4戦 インターコンチネンタルGTチャレンジ 2026を楽しむなら、J SPORTS（ジェイスポーツ）オンデマンドで。PC、スマホ、タブレット、スマートテレビ（Chromecastなど）で、スポーツをいつでもどこでも楽しもう。登録無料のJ SPORTS IDで今すぐログイン。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreie52yrsssi4ww2mvq3o4bfr2tirc32mvkdww62yepthqvxz5u7t4u"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuyyr4ptc27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuyyr4ptc27",
+    "cid": "bafyreifgbenn3l2pgzeojl6rqdtoaqq5kkmxburlvnoffncenmp5iryy6m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Feedspot のシェアボタンにいつの間にかBlueskyが追加されてた。便利",
+    "createdAt": "2026-11-09T13:14:21.190Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-09T13:14:21.773Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuygqvzqk2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzuygqvzqk2r",
+    "cid": "bafyreidtkg2vl6agnf26zhyxm6h7dbdlb3267rajadxrqqsd7apqbcvbl4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "クラフト・バンブーがマカオに挑む2台のカラーを発表。『頭文字D』FD3Sと『ポムポムプリン』カラーに www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-11-09T13:04:16.993Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-09T13:04:19.464Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1373352",
+        "title": "クラフト・バンブーがマカオに挑む2台のカラーを発表。『頭文字D』FD3Sと『ポムポムプリン』カラーに | ニュース | autosport web",
+        "description": "11月9日、クラフト・バンブー・レーシングは、11月19〜22日にマカオのギア・サーキットで開催されるFIA",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihk56cgte4sqtnokipqbs4aekcrjd6pjtbmvolokt4ctfxvcoo4hi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
