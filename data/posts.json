@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
-    "repostCount": 203,
-    "likeCount": 610,
+    "repostCount": 204,
+    "likeCount": 615,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228708,7 +228708,7 @@
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 2,
     "repostCount": 151,
-    "likeCount": 598,
+    "likeCount": 602,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228834,6 +228834,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-08T23:39:05.765Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mztyiojky22s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mztyiojky22s",
+    "cid": "bafyreidcru26h5wy2kivfqfcoyrkwsqevplhxt6cv2iiegnqpk5hpzsvga",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-09T03:32:40.850752Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-09T03:32:41.967Z",
     "embed": null,
     "isRepost": false
   }
