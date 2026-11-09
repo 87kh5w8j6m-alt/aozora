@@ -224976,7 +224976,7 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "「まるでロックスター」な片道1000kmのかけもち出場。トラブルで2時間睡眠も表彰台獲得／第7戦  - https://www.as-web.jp/sports-car/1364327 かけもち参戦たまに聞くけどどうかしてる。",
     "createdAt": "2026-10-21T04:07:53.314433Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-21T04:07:59.473Z",
@@ -228383,7 +228383,7 @@
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
     "repostCount": 208,
-    "likeCount": 637,
+    "likeCount": 638,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 2,
-    "repostCount": 155,
-    "likeCount": 639,
+    "repostCount": 156,
+    "likeCount": 640,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228861,8 +228861,8 @@
     "text": "",
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
-    "repostCount": 132,
-    "likeCount": 567,
+    "repostCount": 133,
+    "likeCount": 571,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -228939,6 +228939,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzvuhtxh3o2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzvuhtxh3o2s",
+    "cid": "bafyreihfx7eeuc62negrsvwvu5k26efhwmy6iaptsdounzejnlco5y6p2y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-11-09T21:25:58.027186Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-09T21:25:58.575Z",
+    "embed": null,
     "isRepost": false
   }
 }
