@@ -224976,7 +224976,7 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "「まるでロックスター」な片道1000kmのかけもち出場。トラブルで2時間睡眠も表彰台獲得／第7戦  - https://www.as-web.jp/sports-car/1364327 かけもち参戦たまに聞くけどどうかしてる。",
     "createdAt": "2026-10-21T04:07:53.314433Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-10-21T04:07:59.473Z",
@@ -226763,9 +226763,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "自分が引っかかっていたAutoSports Webの記事タイトルにも言及されていた｜SUPER GT 第7戦　それぞれに説明責任が必要では\nhttps://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
     "createdAt": "2026-10-30T03:31:45.436789Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-30T03:31:52.669Z",
     "embed": {
       "external": {
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 2,
-    "repostCount": 156,
-    "likeCount": 640,
+    "repostCount": 158,
+    "likeCount": 642,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -228861,8 +228861,8 @@
     "text": "",
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
-    "repostCount": 133,
-    "likeCount": 571,
+    "repostCount": 134,
+    "likeCount": 573,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -228955,5 +228955,33 @@
     "indexedAt": "2026-11-09T21:25:58.575Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzvvdyncak2i": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3mzvvdyncak2i",
+    "cid": "bafyreif2rpi4uhnqf7ldflnwpyclgzp2y472qxkpxcslvhtamvxnbent5a",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-09T21:41:42.945Z",
+    "replyCount": 1,
+    "repostCount": 48,
+    "likeCount": 157,
+    "indexedAt": "2026-11-09T21:41:50.165Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreido5iqlovud7c3dks2aoq7vs2rrgznfnvk75mne4aob2tyudnpkai",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreido5iqlovud7c3dks2aoq7vs2rrgznfnvk75mne4aob2tyudnpkai",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
