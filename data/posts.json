@@ -228966,7 +228966,7 @@
     "createdAt": "2026-11-09T21:41:42.945Z",
     "replyCount": 1,
     "repostCount": 94,
-    "likeCount": 394,
+    "likeCount": 395,
     "indexedAt": "2026-11-09T21:41:50.165Z",
     "embed": {
       "images": [
@@ -228996,6 +228996,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-10T04:03:55.465Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzxfkfbbyt2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzxfkfbbyt2n",
+    "cid": "bafyreiamvsgs66txqt243hkaahrphi4bezy3nezbb5iwr5wg65t7hizqs4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "一日データセンター缶詰の後に会議はキツイって",
+    "createdAt": "2026-11-10T12:04:16.171187Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-10T12:04:17.166Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzxfjmoqzn2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzxfjmoqzn2r",
+    "cid": "bafyreia6r3lriu6il6odyqtjt6m3n4k4e4sliv4wdwnv2w5w2jdvogkliu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "しごおわ",
+    "createdAt": "2026-11-10T12:03:50.397582Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-10T12:03:51.464Z",
     "embed": null,
     "isRepost": false
   }
