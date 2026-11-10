@@ -226763,9 +226763,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "自分が引っかかっていたAutoSports Webの記事タイトルにも言及されていた｜SUPER GT 第7戦　それぞれに説明責任が必要では\nhttps://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
     "createdAt": "2026-10-30T03:31:45.436789Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 0,
     "indexedAt": "2026-10-30T03:31:52.669Z",
     "embed": {
       "external": {
@@ -228965,8 +228965,8 @@
     "text": "",
     "createdAt": "2026-11-09T21:41:42.945Z",
     "replyCount": 1,
-    "repostCount": 87,
-    "likeCount": 329,
+    "repostCount": 90,
+    "likeCount": 343,
     "indexedAt": "2026-11-09T21:41:50.165Z",
     "embed": {
       "images": [
@@ -228983,5 +228983,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzwkpglyzv2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzwkpglyzv2k",
+    "cid": "bafyreihoemtoetxnra7dcwkxrhjyimsrrrhxjwacjk6htanpo6trdeeday",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-10T04:03:54.284982Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-10T04:03:55.465Z",
+    "embed": null,
+    "isRepost": false
   }
 }
