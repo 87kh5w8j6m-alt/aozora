@@ -227806,7 +227806,7 @@
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
     "repostCount": 100,
-    "likeCount": 241,
+    "likeCount": 243,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -228383,7 +228383,7 @@
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
     "repostCount": 208,
-    "likeCount": 642,
+    "likeCount": 643,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -229053,8 +229053,8 @@
     "text": "",
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
-    "repostCount": 114,
-    "likeCount": 434,
+    "repostCount": 116,
+    "likeCount": 438,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229097,8 +229097,67 @@
     "createdAt": "2026-11-11T08:45:23.607064Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-11T08:45:24.663Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmvaeahs22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmvaeahs22",
+    "cid": "bafyreihfkbz2wkkdkagxog4fucs74cdqkcb2koa22c23g7c5mt6nnfr5x4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "来年のWEC Fujiの前売りチケット購入",
+    "createdAt": "2026-11-11T09:20:55.750703Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-11T09:20:56.767Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmseve6x2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmseve6x2r",
+    "cid": "bafyreiau5gaobwgvassyhbti74hdkaazlgmwgu4cmhadm6vkevzajcaee4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duoの発送通知が来てた",
+    "createdAt": "2026-11-11T09:19:19.834909Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-11T09:19:21.263Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigluwjjl6lhsfh2avjwjxer5seaxztubo3e55puc3nfzf2lxxy3om",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigluwjjl6lhsfh2avjwjxer5seaxztubo3e55puc3nfzf2lxxy3om",
+          "alt": "iPhone Duoの出荷通知画面のスクリーンショット",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 609,
+            "width": 1206
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmo7wczy2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzmo7wczy2m",
+    "cid": "bafyreid3buac5xnauemunduck4x33ocmf6ejvuoe5fsf7jmllqj7czr5b4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "寒くなってきてのでお風呂沸くのを待ってる一瞬で寝落ちする回数が増える",
+    "createdAt": "2026-11-11T09:17:00.334860Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-11T09:17:01.466Z",
     "embed": null,
     "isRepost": false
   }
