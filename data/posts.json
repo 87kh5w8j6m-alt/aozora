@@ -229054,7 +229054,7 @@
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
     "repostCount": 124,
-    "likeCount": 483,
+    "likeCount": 485,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229173,6 +229173,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-11T21:24:37.363Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n22xatv3tb2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n22xatv3tb2a",
+    "cid": "bafyreifnggfx3moivb5j7afhlv43hhzvluycysvlcopkxc6ra4zeuxlpji",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第85回聴取終了",
+    "createdAt": "2026-11-11T21:59:02.991307Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-11T21:59:03.665Z",
     "embed": null,
     "isRepost": false
   }
