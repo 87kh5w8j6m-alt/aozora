@@ -228966,7 +228966,7 @@
     "createdAt": "2026-11-09T21:41:42.945Z",
     "replyCount": 1,
     "repostCount": 103,
-    "likeCount": 435,
+    "likeCount": 437,
     "indexedAt": "2026-11-09T21:41:50.165Z",
     "embed": {
       "images": [
@@ -229053,8 +229053,8 @@
     "text": "",
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
-    "repostCount": 112,
-    "likeCount": 425,
+    "repostCount": 114,
+    "likeCount": 434,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229084,6 +229084,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-11T03:33:42.671Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzkvowgyl26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3mzzkvowgyl26",
+    "cid": "bafyreichkyzqcupkumqazxnxlgtsqgtykcrthca7odgrrzdh7p5vhjadl4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "楽しいデータセンター　〜終〜",
+    "createdAt": "2026-11-11T08:45:23.607064Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-11T08:45:24.663Z",
     "embed": null,
     "isRepost": false
   }
