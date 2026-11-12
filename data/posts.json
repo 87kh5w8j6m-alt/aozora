@@ -225601,7 +225601,7 @@
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
     "repostCount": 145,
-    "likeCount": 551,
+    "likeCount": 552,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -226991,8 +226991,8 @@
     "text": "",
     "createdAt": "2026-11-01T03:47:49.806Z",
     "replyCount": 0,
-    "repostCount": 125,
-    "likeCount": 514,
+    "repostCount": 126,
+    "likeCount": 515,
     "indexedAt": "2026-11-01T03:47:56.662Z",
     "embed": {
       "images": [
@@ -229053,8 +229053,8 @@
     "text": "",
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
-    "repostCount": 128,
-    "likeCount": 507,
+    "repostCount": 129,
+    "likeCount": 508,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229188,6 +229188,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-11T21:59:03.665Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n23kszj2ck2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n23kszj2ck2n",
+    "cid": "bafyreiacsy2r7mqynzzbyfmqyf7mec3rpmc2qz7slhjwf3kznvbwlp6sjm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フェラーリ、新規則では“性能調整の撤廃”を目指すべきと主張「純粋な実力主義に基づいて運営できる可能性が高まる」 www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-11-12T03:49:14.443Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-12T03:49:20.666Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1373917",
+        "title": "フェラーリ、新規則では“性能調整の撤廃”を目指すべきと主張「純粋な実力主義に基づいて運営できる可能性が高まる」 | ニュース | autosport web",
+        "description": "フェラーリの耐久レース部門グローバル責任者であるアントネッロ・コレッタは、現在策定が進められているWEC世界耐久選手権の2030年のトップクラスの新車両規定に",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic7oswxws7mfkixxjwnhhoqmebp2elx7v32l42iqayehexpbtpf4e"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n23jrdv4xc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n23jrdv4xc2n",
+    "cid": "bafyreiekxcfj26l2us66yvokkhqubwav5svwmbjj7jifuedfoc4htqwxfm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-12T03:30:24.471Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-12T03:30:25.067Z",
     "embed": null,
     "isRepost": false
   }
