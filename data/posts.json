@@ -222365,7 +222365,7 @@
     "createdAt": "2026-10-07T11:09:27.963Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-10-07T11:09:30.879Z",
     "embed": null,
     "isRepost": false
@@ -229054,7 +229054,7 @@
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 512,
+    "likeCount": 513,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229226,6 +229226,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-12T03:30:25.067Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n247bkxey22m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n247bkxey22m",
+    "cid": "bafyreial7jf7jfoedwhuii55hyqi6euo3wuyxpnawonsnmkqnel6qw7vca",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あれ前回iPhone買ったときにblog更新してなかったか",
+    "createdAt": "2026-11-12T09:55:17.336Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-12T09:55:17.763Z",
     "embed": null,
     "isRepost": false
   }
