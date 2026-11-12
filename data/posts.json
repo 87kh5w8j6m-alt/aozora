@@ -229054,7 +229054,7 @@
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 519,
+    "likeCount": 521,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229311,8 +229311,8 @@
     "text": "",
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 421,
+    "repostCount": 92,
+    "likeCount": 425,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229344,5 +229344,48 @@
     "indexedAt": "2026-11-12T21:09:20.170Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n25nl6crik2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n25nl6crik2x",
+    "cid": "bafyreiew37yqmtqyytesv7vztgt2yfcg232xhrzw7srcn5ho4v2quajlum",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MS365障害で仕事にならん人は『#楽園追放 心のレゾナンス』を見に行きましょう",
+    "createdAt": "2026-11-12T23:43:51.746Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-12T23:43:52.867Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n25hpr3v2k2n": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n25hpr3v2k2n",
+    "cid": "bafyreic5lt7rrffmahazppaq2eg253rum5takshgnak3lz37kc7wkw73qu",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-12T21:59:03.210Z",
+    "replyCount": 0,
+    "repostCount": 48,
+    "likeCount": 179,
+    "indexedAt": "2026-11-12T21:59:14.166Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibaui776stgem4w24gq62rbbxsufnvsxlz6ybzs4rwtdcbxm7aytu",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreibaui776stgem4w24gq62rbbxsufnvsxlz6ybzs4rwtdcbxm7aytu",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
