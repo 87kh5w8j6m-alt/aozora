@@ -229054,7 +229054,7 @@
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
     "repostCount": 131,
-    "likeCount": 524,
+    "likeCount": 525,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 87,
-    "likeCount": 380,
+    "repostCount": 88,
+    "likeCount": 385,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229453,6 +229453,79 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-13T13:18:25.266Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n276isw6y22p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n276isw6y22p",
+    "cid": "bafyreicco5i73nmo2l5ttzdm6vziq7nzkwmyzae7cfnnq7uytycnncvqdm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ウッヒョー！！折り畳みじゃーい！！ひっさびさにワクワクする端末だー！！",
+    "createdAt": "2026-11-13T14:19:26.004Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-13T14:19:33.669Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicfvnzmdvzhvbiy3qbn33p5jtfxadz2u6e3ib7wglxhlg3js4wqky",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicfvnzmdvzhvbiy3qbn33p5jtfxadz2u6e3ib7wglxhlg3js4wqky",
+          "alt": "",
+          "aspectRatio": {
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275gtvphk2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275gtvphk2q",
+    "cid": "bafyreiei6qeoph43mmcga76qnhxbblvram2z4fz7lqdu36m2prt2ic5u34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "まず少し画面の大きいiPhone Air見に行ったんだけど、たしかに大きいけど大して変わらんなと。",
+    "createdAt": "2026-11-13T14:00:26.222449Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T14:00:26.871Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275gtvoic2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275gtvoic2q",
+    "cid": "bafyreidbx6rlcztp4c2nmadyfj6zszi6xdcmwhyk4kuo5hsjfgduqsx2oi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フォルダブル高いし重いしで最初は興味なかったんだけど、電車内でWBC見てる時にiPhoneの画面が急に小さく感じてフォルダブルもありかもってなったんだよね。",
+    "createdAt": "2026-11-13T14:00:26.221449Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T14:00:26.869Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275fgutdt2o": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n275fgutdt2o",
+    "cid": "bafyreieruor2rofvtypqpz2ejdrowfhiwvrmkq42mfn3z42mywjm47gwwm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "12、14、16と私のiPhone、板だった。",
+    "createdAt": "2026-11-13T13:59:38.148568Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T13:59:39.164Z",
     "embed": null,
     "isRepost": false
   }
