@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 64,
-    "likeCount": 265,
+    "repostCount": 71,
+    "likeCount": 282,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229400,6 +229400,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-12T23:53:45.165Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n263a3iovc2n": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n263a3iovc2n",
+    "cid": "bafyreidrkjy2cypuky3b7k3kblv7jwoqssa2lwzue56djlb343vlrkw734",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "第7戦オートポリスでの正式結果改訂についてスーパーGTが説明。判定プロセスの改善に向け、設備投資も検討 jp.motorsport.com/supergt/news...",
+    "createdAt": "2026-11-13T03:48:12.080Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T03:48:16.764Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/supergt/news/2026-sgt-r8-gta-presser/10874022/?utm_source=RSS",
+        "title": "第7戦オートポリスでの正式結果改訂についてスーパーGTが説明。判定プロセスの改善に向け、設備投資も検討",
+        "description": "スーパーGT第7戦ではGT300クラスの正式結果がレースウィーク翌週に改訂されるという出来事があった。プロモーターのGTAはこの一件について会見で説明すると共に、今後は追加の設備投資も検討していくと述べた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihgccsgsnz7ot2p7iyiawgxnyahlzakxza47dnya2xv4e4jiuvuqu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n262aerbz223": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n262aerbz223",
+    "cid": "bafyreicgyzdbaoupxpqrn42g22wk6p2d4hrhpripfmws4p5p3rwpmo7n2e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-13T03:30:27.122101Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T03:30:28.166Z",
     "embed": null,
     "isRepost": false
   }
