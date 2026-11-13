@@ -228862,7 +228862,7 @@
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
     "repostCount": 141,
-    "likeCount": 608,
+    "likeCount": 609,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -228966,7 +228966,7 @@
     "createdAt": "2026-11-09T21:41:42.945Z",
     "replyCount": 1,
     "repostCount": 107,
-    "likeCount": 447,
+    "likeCount": 448,
     "indexedAt": "2026-11-09T21:41:50.165Z",
     "embed": {
       "images": [
@@ -229312,7 +229312,7 @@
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 443,
+    "likeCount": 444,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 93,
-    "likeCount": 403,
+    "repostCount": 94,
+    "likeCount": 406,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229539,9 +229539,37 @@
     "createdAt": "2026-11-13T21:13:50.159390Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-13T21:13:50.765Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n27xbnatok2l": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n27xbnatok2l",
+    "cid": "bafyreihw7msxcphadv4fznq72c54hsrmea4lyglxzzvkfbbrp2zrakyy3y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-13T21:42:48.761Z",
+    "replyCount": 0,
+    "repostCount": 43,
+    "likeCount": 139,
+    "indexedAt": "2026-11-13T21:42:54.970Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiczli63kgjl46rplqjxe2wrohjtqmk6msfnukyks7txn2eggoncxm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiczli63kgjl46rplqjxe2wrohjtqmk6msfnukyks7txn2eggoncxm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
