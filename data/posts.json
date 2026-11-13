@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 94,
-    "likeCount": 406,
+    "repostCount": 95,
+    "likeCount": 408,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229553,8 +229553,8 @@
     "text": "",
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
-    "repostCount": 43,
-    "likeCount": 139,
+    "repostCount": 51,
+    "likeCount": 189,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229571,5 +229571,59 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2a67d3xcd2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2a67d3xcd2m",
+    "cid": "bafyreieoeeo5hp2hc7gcv6pnp76okvegr2njrnfkc6lefpw5j6p66tjtv4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ロードスターはオープンカーなので基本がオープンで屋根が閉められるクルマ。iPhone Duoもロードスターと同じで基本は開いてて持ち運び時に畳めるスマホ。だって開いてないと Duoじゃないから",
+    "createdAt": "2026-11-13T23:46:46.730920Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T23:46:47.870Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicszwnvvksfxmorhpafgdn2gnbiasw5p6qsi6cabveuba2ai423bq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicszwnvvksfxmorhpafgdn2gnbiasw5p6qsi6cabveuba2ai423bq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibupjvdgr7pnz34qlfnp42mg2kfuk3trjzableusvsdq3nb3xwxbq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibupjvdgr7pnz34qlfnp42mg2kfuk3trjzableusvsdq3nb3xwxbq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2a5zkrqul24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2a5zkrqul24",
+    "cid": "bafyreiehfadnvk5pwdzncihvjpew5i226fnpubuyk5h24vrakva73ogvvq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1259回聴取終了。",
+    "createdAt": "2026-11-13T23:43:33.468537Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T23:43:34.063Z",
+    "embed": null,
+    "isRepost": false
   }
 }
