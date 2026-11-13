@@ -229311,8 +229311,8 @@
     "text": "",
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
-    "repostCount": 92,
-    "likeCount": 425,
+    "repostCount": 93,
+    "likeCount": 428,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 48,
-    "likeCount": 179,
+    "repostCount": 59,
+    "likeCount": 219,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229387,5 +229387,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n25o4u5gkn2y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n25o4u5gkn2y",
+    "cid": "bafyreicarp7sjzjt35ciatggo53h6fp4534h6odcf76kd7x4am7lka2pma",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今さらWEC Fujiを見直しているが、ドローンカメラとAコーナー外側のクレーン以外は国内レースとそれほどカメラ台数も位置も変わらないのかな。GTWC Asiaでは別位置のカメラもあったように思うけれど。",
+    "createdAt": "2026-11-12T23:53:43.987231Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-12T23:53:45.165Z",
+    "embed": null,
+    "isRepost": false
   }
 }
