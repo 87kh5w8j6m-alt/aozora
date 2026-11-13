@@ -228382,8 +228382,8 @@
     "text": "ぼっちざろっくのぼっちちゃんと喜多ちゃんを描きました～(*‘∀‘)",
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
-    "repostCount": 208,
-    "likeCount": 645,
+    "repostCount": 209,
+    "likeCount": 646,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -229369,8 +229369,8 @@
     "text": "",
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
-    "repostCount": 85,
-    "likeCount": 377,
+    "repostCount": 87,
+    "likeCount": 380,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229438,6 +229438,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-13T03:30:28.166Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2733pncsm24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2733pncsm24",
+    "cid": "bafyreicwvdpohugc2edosjh5ytxqo4o3olx2oaeqlwgqxrusqjyyk5pvb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duoに移行して一通りのアプリにログインやら何やら出来たかな",
+    "createdAt": "2026-11-13T13:18:24.722630Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-13T13:18:25.266Z",
     "embed": null,
     "isRepost": false
   }
