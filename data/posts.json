@@ -229312,7 +229312,7 @@
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 446,
+    "likeCount": 447,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229370,7 +229370,7 @@
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 411,
+    "likeCount": 413,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229553,8 +229553,8 @@
     "text": "",
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
-    "repostCount": 73,
-    "likeCount": 261,
+    "repostCount": 77,
+    "likeCount": 276,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229623,6 +229623,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-13T23:43:34.063Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ah6mwkls2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ah6mwkls2s",
+    "cid": "bafyreibr7sl6u4oq76tye7prkhsc267onz55vomr2curi2lyiwfhszg5ua",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "しかしiPhone Duoの大きさに慣れてないから落としそうでな",
+    "createdAt": "2026-11-14T02:27:26.587022Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-14T02:27:27.672Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2agyoiyg524": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2agyoiyg524",
+    "cid": "bafyreih3bawmtisshfuws4vsrvz3nnqpbv4lqkgoq5des7dimonpavvpli",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "髪斬ったー",
+    "createdAt": "2026-11-14T02:24:06.933966Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-14T02:24:08.269Z",
     "embed": null,
     "isRepost": false
   }
