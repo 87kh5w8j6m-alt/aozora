@@ -222917,8 +222917,8 @@
     "text": "",
     "createdAt": "2026-10-10T23:40:05.074Z",
     "replyCount": 1,
-    "repostCount": 167,
-    "likeCount": 687,
+    "repostCount": 166,
+    "likeCount": 686,
     "indexedAt": "2026-10-10T23:40:19.276Z",
     "embed": {
       "images": [
@@ -228331,7 +228331,7 @@
     "text": "",
     "createdAt": "2026-11-07T14:21:46.166Z",
     "replyCount": 0,
-    "repostCount": 5,
+    "repostCount": 6,
     "likeCount": 15,
     "indexedAt": "2026-11-07T14:21:48.265Z",
     "embed": {
@@ -228707,8 +228707,8 @@
     "text": "",
     "createdAt": "2026-11-08T08:33:21.529Z",
     "replyCount": 3,
-    "repostCount": 164,
-    "likeCount": 658,
+    "repostCount": 166,
+    "likeCount": 660,
     "indexedAt": "2026-11-08T08:33:26.863Z",
     "embed": {
       "images": [
@@ -229311,8 +229311,8 @@
     "text": "",
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 447,
+    "repostCount": 95,
+    "likeCount": 446,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229554,7 +229554,7 @@
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 380,
+    "likeCount": 381,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229756,6 +229756,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-14T11:57:49.959Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2bnsqyfz22p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2bnsqyfz22p",
+    "cid": "bafyreifdn5pwbhu4w6xzztprx6pxsn72curtjuc5fjsdhbcgg5hekjpsi4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\nmy new gear...iPhone Duo - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/1...\n#はてなブログ",
+    "createdAt": "2026-11-14T13:58:45.164Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-14T13:58:47.760Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/11/14/225820",
+        "title": "my new gear...iPhone Duo - Jiminy Nseries",
+        "description": "iPhone Duoを購入しました。今回購入したのは512GBのStar White。予約開始日10月16日21時04分に予約完了しましたが、到着予定日11月10日〜17日となり、実際に届いたのは11月12日でした。 届くまでにアクセサリも揃えて準備万端。（Belkinのスクリーンプロテクターは純正ケースと干渉するようなのでPDA工房の保護フィルムを調達） とりあえず移行は完了。これまでのiPho...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifplqvxi5ymmoo5cjf7maj62f5dw2tho344kvacsiih77uccssbem"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
