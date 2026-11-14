@@ -229554,7 +229554,7 @@
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
     "repostCount": 99,
-    "likeCount": 372,
+    "likeCount": 378,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229741,6 +229741,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2bh2jke5k2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2bh2jke5k2d",
+    "cid": "bafyreiaudnjnt5uorvwxcxxy5rm6xvbw5swyx3lewfju4qx64wsvbfdo6m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プロジェクトXのLRTの回見てた",
+    "createdAt": "2026-11-14T11:57:49.605Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-14T11:57:49.959Z",
+    "embed": null,
     "isRepost": false
   }
 }
