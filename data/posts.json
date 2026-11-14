@@ -228861,8 +228861,8 @@
     "text": "",
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
-    "repostCount": 141,
-    "likeCount": 609,
+    "repostCount": 142,
+    "likeCount": 610,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -228966,7 +228966,7 @@
     "createdAt": "2026-11-09T21:41:42.945Z",
     "replyCount": 1,
     "repostCount": 107,
-    "likeCount": 448,
+    "likeCount": 449,
     "indexedAt": "2026-11-09T21:41:50.165Z",
     "embed": {
       "images": [
@@ -229370,7 +229370,7 @@
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
     "repostCount": 95,
-    "likeCount": 416,
+    "likeCount": 417,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229553,8 +229553,8 @@
     "text": "",
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
-    "repostCount": 86,
-    "likeCount": 325,
+    "repostCount": 87,
+    "likeCount": 334,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229676,6 +229676,70 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2atypyai62d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2atypyai62d",
+    "cid": "bafyreihvuac5ro2qeuz4sy7zjwap3ikxeile3dhpgzrfjl5vdfsv3bg7jq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "でも前作の圧倒的な感じがなかったのはそう。",
+    "createdAt": "2026-11-14T06:16:47.075862Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-14T06:16:48.254Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2atxkbn7j2s": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2atxkbn7j2s",
+    "cid": "bafyreiadicwn47x35sxf62fkkone4iz5s3ihgkyvjjfc7xq3uwuhdusvlq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "楽園追放 心のレゾナンス 観た。アーハーン？あの「楽園追放」の続編なのだからそりゃあ難しいと思って見に行ったのもあって序盤は期待に応えてくれていたけれど、途中から様子が変わってきた。パンフ読んでから判断したい",
+    "createdAt": "2026-11-14T06:16:07.575419Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-14T06:16:09.255Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifs2unvy6x5ue7lhcmjltduuofndfwwaxggpujiweyqvhaji6pyym",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifs2unvy6x5ue7lhcmjltduuofndfwwaxggpujiweyqvhaji6pyym",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic5mbw3npjs7yhink7qyq7u4qtyqydvn7vb4s6lxo72d3u3nbjssi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic5mbw3npjs7yhink7qyq7u4qtyqydvn7vb4s6lxo72d3u3nbjssi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaaftbtwiezwhj455hjnbbkw2itf36c22ozpg7knoqbf54h5uhk3y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaaftbtwiezwhj455hjnbbkw2itf36c22ozpg7knoqbf54h5uhk3y",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
