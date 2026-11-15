@@ -228167,7 +228167,7 @@
     "createdAt": "2026-11-07T01:24:49.985Z",
     "replyCount": 1,
     "repostCount": 133,
-    "likeCount": 478,
+    "likeCount": 479,
     "indexedAt": "2026-11-07T01:24:55.765Z",
     "embed": {
       "images": [
@@ -229054,7 +229054,7 @@
     "createdAt": "2026-11-10T21:30:30.415Z",
     "replyCount": 0,
     "repostCount": 134,
-    "likeCount": 532,
+    "likeCount": 533,
     "indexedAt": "2026-11-10T21:30:36.967Z",
     "embed": {
       "images": [
@@ -229312,7 +229312,7 @@
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 448,
+    "likeCount": 449,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -229370,7 +229370,7 @@
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 424,
+    "likeCount": 425,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229554,7 +229554,7 @@
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
     "repostCount": 107,
-    "likeCount": 411,
+    "likeCount": 412,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229820,8 +229820,8 @@
     "text": "",
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
-    "repostCount": 96,
-    "likeCount": 361,
+    "repostCount": 104,
+    "likeCount": 393,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -229838,5 +229838,35 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2cxuonw2j2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2cxuonw2j2r",
+    "cid": "bafyreih5ulkrvkixluqw4jnpbznvbuxl4tdv2k7cwkacsaxvigbritzowq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "右手でApple Pencil使うから左手でiPhone Duoを保持するので本当なら左側にスマホリングつけて保持したい。 Duoをひっくり返せば一応そうなるけど。",
+    "createdAt": "2026-11-15T02:31:26.484516Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-15T02:31:27.060Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2cxp6iap426": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2cxp6iap426",
+    "cid": "bafyreidiezvstaognyse7jpgs7nblrxa6avysongreywaxka4ravqnpoeq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": " iPhone  Duoでアプリ2つ並べて使えるのマジで楽。こういうのが欲しかったんだよ。こういうのが",
+    "createdAt": "2026-11-15T02:28:21.779126Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-15T02:28:22.357Z",
+    "embed": null,
+    "isRepost": false
   }
 }
