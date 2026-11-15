@@ -225601,7 +225601,7 @@
     "createdAt": "2026-10-24T08:04:43.104Z",
     "replyCount": 2,
     "repostCount": 146,
-    "likeCount": 553,
+    "likeCount": 554,
     "indexedAt": "2026-10-24T08:04:53.570Z",
     "embed": {
       "images": [
@@ -225777,7 +225777,7 @@
     "createdAt": "2026-10-24T21:47:55.053Z",
     "replyCount": 2,
     "repostCount": 171,
-    "likeCount": 682,
+    "likeCount": 683,
     "indexedAt": "2026-10-24T21:48:02.868Z",
     "embed": {
       "images": [
@@ -229370,7 +229370,7 @@
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
     "repostCount": 97,
-    "likeCount": 425,
+    "likeCount": 426,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229554,7 +229554,7 @@
     "createdAt": "2026-11-13T21:42:48.761Z",
     "replyCount": 0,
     "repostCount": 107,
-    "likeCount": 414,
+    "likeCount": 417,
     "indexedAt": "2026-11-13T21:42:54.970Z",
     "embed": {
       "images": [
@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 117,
-    "likeCount": 466,
+    "likeCount": 475,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -229911,6 +229911,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-15T03:00:17.958Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2dgjvf3dk2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2dgjvf3dk2b",
+    "cid": "bafyreibsa4m6jzfxz5os47wytxkdvz76krev2fbpgmzomnfoqrwuutj4kq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "週末の特急券の手配をした。頑張って早起きしろ",
+    "createdAt": "2026-11-15T06:53:50.533526Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-15T06:53:51.256Z",
     "embed": null,
     "isRepost": false
   }
