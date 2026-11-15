@@ -229820,8 +229820,8 @@
     "text": "",
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
-    "repostCount": 127,
-    "likeCount": 511,
+    "repostCount": 128,
+    "likeCount": 518,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -229927,6 +229927,52 @@
     "likeCount": 0,
     "indexedAt": "2026-11-15T06:53:51.256Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2e2jqrwgk2l": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2e2jqrwgk2l",
+    "cid": "bafyreibqmx7qve4ouekf2j2imhuaubmx5eu36bqc7axt5vbhn2rbo3yj6i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "半世紀を駆け抜けた名門プライベーター、浅野武夫がスーパー耐久で現役引退。“思い出の富士”で感動フィナーレ www.as-web.jp/domestic/137...",
+    "createdAt": "2026-11-15T12:51:41.080Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-15T12:51:42.958Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/domestic/1374651",
+        "title": "半世紀を駆け抜けた名門プライベーター、浅野武夫がスーパー耐久で現役引退。“思い出の富士”で感動フィナーレ | 国内レース他 | autosport web",
+        "description": "半世紀以上にわたり、日本のツーリングカーレース界を走り続けてきたひとりのプライベーターが、その長いキャリアに区切りをつけた。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigqtopxnw6cexldrnnafzqgh7zyyvjptnvhcqqks3endxlxfr2pnu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2dy4rr7o22p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2dy4rr7o22p",
+    "cid": "bafyreiea6dzhc7lfmjc7yzhscudvuocwo5ixaa7ua3qdhyv67nsnpxvcqm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "はてなブログに投稿しました\niPhone16 ProからDuoに買い替えたこと - Jiminy Nseries jiminynseries.hatenablog.com/entry/2026/1...\n#はてなブログ",
+    "createdAt": "2026-11-15T12:08:38.416Z",
+    "replyCount": 0,
+    "repostCount": 1,
+    "likeCount": 0,
+    "indexedAt": "2026-11-15T12:08:40.759Z",
+    "embed": {
+      "external": {
+        "uri": "https://jiminynseries.hatenablog.com/entry/2026/11/15/210816",
+        "title": "iPhone16 ProからDuoに買い替えたこと - Jiminy Nseries",
+        "description": "iPhone Duoの前はiPhone16 Proを使用していましたが、何故かblogに残していませんでした。 例年通り14 Proから2年に一度の買い替えでホワイトチタニウムの256GBモデルを購入しています。206gだった14 Proからは7g軽くなった199gですが、スキップした15 Proの187gからは12g重くなっているので、購入した時は軽くなったことはあんまり実感できませんでした。 ...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigf4vhcp5ipn3oclppk3kilkmo7gkrmzzagngo5kjlsib5iebxifi"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
