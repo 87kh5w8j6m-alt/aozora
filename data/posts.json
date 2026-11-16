@@ -228862,7 +228862,7 @@
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
     "repostCount": 143,
-    "likeCount": 612,
+    "likeCount": 613,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 137,
-    "likeCount": 566,
+    "likeCount": 567,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230100,8 +230100,8 @@
     "text": "",
     "createdAt": "2026-11-16T02:23:32.372Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 539,
+    "repostCount": 112,
+    "likeCount": 540,
     "indexedAt": "2026-11-16T02:23:41.457Z",
     "embed": {
       "images": [
@@ -230129,7 +230129,7 @@
     "createdAt": "2026-11-16T13:08:48.772Z",
     "replyCount": 1,
     "repostCount": 8,
-    "likeCount": 19,
+    "likeCount": 22,
     "indexedAt": "2026-11-16T13:08:52.354Z",
     "embed": {
       "images": [
@@ -230157,9 +230157,170 @@
     "createdAt": "2026-11-16T20:50:52.712205Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-16T20:50:53.260Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hhzd6j5d2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hhzd6j5d2v",
+    "cid": "bafyreidojx5ffp6wdowmnox6g7ti3jnlmjpcmcoirhs65x7yjkvuwetx5y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iOS 27.3 adds new face unlock feature for iPhone Duo - 9to5Mac\nhttps://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
+    "createdAt": "2026-11-16T21:31:00.855637Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-16T21:31:02.357Z",
+    "embed": {
+      "external": {
+        "uri": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
+        "title": "iOS 27.3 adds new face unlock feature for iPhone Duo - 9to5Mac",
+        "description": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, it adds a...",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifthlspcjlb7qzyeqiwzpurg6hrcqhesnjd2pwcuwwhrynjjpc2iu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hg27tv7c2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hg27tv7c2w",
+    "cid": "bafyreiblywzhx4y3uouvh63agmgsdhhi7j5po74mhpcmy367b2q4io7sj4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「履歴のスレッド内で投稿の順番が入れ替わる問題を修正」これも助かる。 skythrow.com/history/",
+    "createdAt": "2026-11-16T20:55:44.122Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-16T20:55:44.255Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hfwwpsss2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hfwwpsss2w",
+    "cid": "bafyreihj6fhdao7inbx7cu5qjdmwqujvr2as7yy6bdnpkh6jtzfgxynw4a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「Blueskyへの接続を待たずに、すぐアカウントを選べるように」これ嬉しい。",
+    "createdAt": "2026-11-16T20:53:53.886Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-16T20:53:54.058Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:5nor25cnkgdkhfgkgmgz4tn5/app.bsky.feed.post/3n2f67psgbs2v",
+        "cid": "bafyreifb7hkfex6xrysqthrn4oyimsm4z6xgwyxepwcs5szbd4u5ngfkd4",
+        "author": {
+          "did": "did:plc:5nor25cnkgdkhfgkgmgz4tn5",
+          "handle": "skythrow.com",
+          "displayName": "SkyThrow",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5nor25cnkgdkhfgkgmgz4tn5/bafkreihfjpiwnw6275g5xf57esi6ztxgsjzkggxrpdi62fotmn6rbhuw6i",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false,
+            "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3lqjjep7h2r2k"
+          },
+          "labels": [],
+          "createdAt": "2024-04-03T20:31:56.856Z",
+          "verification": {
+            "verifications": [
+              {
+                "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                "issuerDisplayName": "Bluesky",
+                "issuerHandle": "bsky.app",
+                "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mndreik7ob27",
+                "isValid": true,
+                "createdAt": "2026-06-02T23:40:09.547Z"
+              }
+            ],
+            "verifiedStatus": "valid",
+            "trustedVerifierStatus": "none"
+          }
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-11-15T23:30:19.208Z",
+          "embed": {
+            "$type": "app.bsky.embed.external",
+            "external": {
+              "description": "SkyThrow is a Bluesky client for posting only.",
+              "thumb": {
+                "$type": "blob",
+                "ref": {
+                  "$link": "bafkreifolb6mha6dqn7f5swtyjwvywzbojkn3gegspksju7uaavohiubmq"
+                },
+                "mimeType": "image/jpeg",
+                "size": 519341
+              },
+              "title": "SkyThrow | Bluesky posting only client",
+              "uri": "https://skythrow.com/"
+            }
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "SkyThrow"
+                }
+              ],
+              "index": {
+                "byteEnd": 660,
+                "byteStart": 651
+              }
+            },
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://skythrow.com/"
+                }
+              ],
+              "index": {
+                "byteEnd": 673,
+                "byteStart": 661
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "Bluesky投稿特化クライアント”SkyThrow” for iOS / Android ver.1.5.8 をリリースしました。\n今回のアップデート内容は以下の通りです。\n- 接続を待たずにアカウントを選べるように\n- オフライン・未ログインでも投稿作成・下書き編集に対応\n- 他アプリとの画像共有を10枚まで拡張\n- 遅い回線で画像付き投稿が失敗・停止する問題を修正、キャンセルに対応\n- スレッド分割の文字数超過・投稿抜けを修正\n- スレッドの二重投稿・返信のつながりを修正\n- リンクカード・引用・下書き保存を改善\n#SkyThrow\nskythrow.com"
+        },
+        "labels": [],
+        "likeCount": 7,
+        "replyCount": 0,
+        "repostCount": 5,
+        "quoteCount": 2,
+        "indexedAt": "2026-11-15T23:30:22.758Z",
+        "embeds": [
+          {
+            "external": {
+              "uri": "https://skythrow.com/",
+              "title": "SkyThrow | Bluesky posting only client",
+              "description": "SkyThrow is a Bluesky client for posting only.",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5nor25cnkgdkhfgkgmgz4tn5/bafkreifolb6mha6dqn7f5swtyjwvywzbojkn3gegspksju7uaavohiubmq"
+            },
+            "$type": "app.bsky.embed.external#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
     "isRepost": false
   }
 }
