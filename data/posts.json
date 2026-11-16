@@ -230100,8 +230100,8 @@
     "text": "",
     "createdAt": "2026-11-16T02:23:32.372Z",
     "replyCount": 0,
-    "repostCount": 104,
-    "likeCount": 494,
+    "repostCount": 105,
+    "likeCount": 503,
     "indexedAt": "2026-11-16T02:23:41.457Z",
     "embed": {
       "images": [
@@ -230112,6 +230112,34 @@
           "aspectRatio": {
             "height": 1391,
             "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:klcx6juev6sj5kclcfxdorjs/app.bsky.feed.post/3n2glxcdeus2i": {
+    "uri": "at://did:plc:klcx6juev6sj5kclcfxdorjs/app.bsky.feed.post/3n2glxcdeus2i",
+    "cid": "bafyreifvgvwg2u63mgcdocsm4nt5cp3fysdhetzb34f2msitqdv22mko6i",
+    "author": "ru-maru.bsky.social",
+    "authorName": "るぅ(るぅ・まるぅ)",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:klcx6juev6sj5kclcfxdorjs/bafkreihghmukbvynauuymrrd24vanljtpv66xxazlewitwvlgqm54tz42e",
+    "text": "「酷道を通るルート検索が可能になりました」\nなんてバカで、なんて素晴らしいアップデートなんだ…",
+    "createdAt": "2026-11-16T13:08:48.772Z",
+    "replyCount": 1,
+    "repostCount": 6,
+    "likeCount": 11,
+    "indexedAt": "2026-11-16T13:08:52.354Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:klcx6juev6sj5kclcfxdorjs/bafkreicnirxgi2xm5nstrjypkc6mn54uk35vr72iclx7kwdeabrb5lvt5u",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:klcx6juev6sj5kclcfxdorjs/bafkreicnirxgi2xm5nstrjypkc6mn54uk35vr72iclx7kwdeabrb5lvt5u",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1498,
+            "width": 1290
           }
         }
       ],
