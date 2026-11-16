@@ -227806,7 +227806,7 @@
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 244,
+    "likeCount": 245,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -230101,7 +230101,7 @@
     "createdAt": "2026-11-16T02:23:32.372Z",
     "replyCount": 0,
     "repostCount": 112,
-    "likeCount": 540,
+    "likeCount": 544,
     "indexedAt": "2026-11-16T02:23:41.457Z",
     "embed": {
       "images": [
@@ -230128,8 +230128,8 @@
     "text": "「酷道を通るルート検索が可能になりました」\nなんてバカで、なんて素晴らしいアップデートなんだ…",
     "createdAt": "2026-11-16T13:08:48.772Z",
     "replyCount": 1,
-    "repostCount": 8,
-    "likeCount": 22,
+    "repostCount": 11,
+    "likeCount": 25,
     "indexedAt": "2026-11-16T13:08:52.354Z",
     "embed": {
       "images": [
@@ -230157,7 +230157,7 @@
     "createdAt": "2026-11-16T20:50:52.712205Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-16T20:50:53.260Z",
     "embed": null,
     "isRepost": false
@@ -230321,6 +230321,21 @@
       },
       "$type": "app.bsky.embed.record#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hmasqlbc2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2hmasqlbc2w",
+    "cid": "bafyreidvw2p4yqh7pddfoxu6muvbi33qqti4dpijplcsrho47nn3sjezjy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "起きたらなんかMac落ちてた",
+    "createdAt": "2026-11-16T22:46:47.714Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-16T22:46:48.059Z",
+    "embed": null,
     "isRepost": false
   }
 }
