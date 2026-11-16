@@ -229820,8 +229820,8 @@
     "text": "",
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
-    "repostCount": 134,
-    "likeCount": 556,
+    "repostCount": 135,
+    "likeCount": 560,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230058,6 +230058,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-15T22:22:43.958Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2fgxnh5cj2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2fgxnh5cj2b",
+    "cid": "bafyreibynpva6u746ksw7ibvs774v5medlczwch2okp53j7j6vzmvcpvaa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ドコモまた通信障害起きてるな。前回、前々回は影響受けなかったが、今回は影響を受けた。幸いにも5Gをオフにすれば回避できるのはわかっているからとりあえず通信はできているが。流石に厳しいって。",
+    "createdAt": "2026-11-16T02:06:50.983541Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-16T02:06:52.058Z",
     "embed": null,
     "isRepost": false
   }
