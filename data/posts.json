@@ -230301,7 +230301,7 @@
           "text": "Bluesky投稿特化クライアント”SkyThrow” for iOS / Android ver.1.5.8 をリリースしました。\n今回のアップデート内容は以下の通りです。\n- 接続を待たずにアカウントを選べるように\n- オフライン・未ログインでも投稿作成・下書き編集に対応\n- 他アプリとの画像共有を10枚まで拡張\n- 遅い回線で画像付き投稿が失敗・停止する問題を修正、キャンセルに対応\n- スレッド分割の文字数超過・投稿抜けを修正\n- スレッドの二重投稿・返信のつながりを修正\n- リンクカード・引用・下書き保存を改善\n#SkyThrow\nskythrow.com"
         },
         "labels": [],
-        "likeCount": 7,
+        "likeCount": 8,
         "replyCount": 0,
         "repostCount": 5,
         "quoteCount": 2,
@@ -230348,7 +230348,7 @@
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 374,
+    "likeCount": 387,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
