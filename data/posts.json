@@ -230347,8 +230347,8 @@
     "text": "",
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
-    "repostCount": 99,
-    "likeCount": 429,
+    "repostCount": 100,
+    "likeCount": 433,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
@@ -230402,6 +230402,21 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2j6qruzd22w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2j6qruzd22w",
+    "cid": "bafyreihwekfr3juvdmgomrmho6kfequ2mn4nloi5taswr5jjmtw2qqilti",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "突然ぱにぽにが見たくなって「ぱにぽにだっしゅ！ 第17話 天道は親なし」 を見てた",
+    "createdAt": "2026-11-17T13:50:30.772Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-17T13:50:31.254Z",
+    "embed": null,
     "isRepost": false
   }
 }
