@@ -230348,7 +230348,7 @@
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 414,
+    "likeCount": 420,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
@@ -230379,6 +230379,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-17T03:32:09.956Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2iurcegj22z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2iurcegj22z",
+    "cid": "bafyreidp6kn5nbedp7vofwd3e2w4ggz5dfhpylql2tup2vi3j23d7lq3ji",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フェルナンド・アロンソ、2027年のダカール・ラリー参戦を発表。マシンはアストンマーティン「F1とダカール……両方に全身全霊を傾ける」 jp.motorsport.com/dakar/news/e...",
+    "createdAt": "2026-11-17T10:51:50.633Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-17T10:51:59.557Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/dakar/news/embargo-9am-uk-fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874967/?utm_source=RSS",
+        "title": "フェルナンド・アロンソ、2027年のダカール・ラリー参戦を発表。マシンはアストンマーティン「F1とダカール……両方に全身全霊を傾ける」",
+        "description": "フェルナンド・アロンソが、2027年のダカール・ラリーに参戦することが発表された。このラリーレイドでアロンソは、アストンマーティン・ドレッドノートを駆る。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigdd6jwru4wln2yfabb7v7gfnldyxdrox2yn3uafxdzxk4kwlpm3e"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
