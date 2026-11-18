@@ -230444,7 +230444,7 @@
     "createdAt": "2026-11-17T21:39:20.756Z",
     "replyCount": 0,
     "repostCount": 118,
-    "likeCount": 469,
+    "likeCount": 477,
     "indexedAt": "2026-11-17T21:39:27.456Z",
     "embed": {
       "images": [
@@ -230502,7 +230502,7 @@
     "createdAt": "2026-11-18T10:11:30.217Z",
     "replyCount": 0,
     "repostCount": 3,
-    "likeCount": 6,
+    "likeCount": 7,
     "indexedAt": "2026-11-18T10:11:32.156Z",
     "embed": {
       "images": [
@@ -230519,5 +230519,103 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2llxbpcm72v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2llxbpcm72v",
+    "cid": "bafyreietn2zbgpey237ex3kht2ktymo3cbv6nipmfpeehsnpq6j2qkf6mq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "これまではわざわざiPhoneの壁紙用に縦位置で撮影してたのが不要になるわけ。マイクロフォーサーズならそのまま4:3だし。",
+    "createdAt": "2026-11-18T12:52:06.176595Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-18T12:52:06.859Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2llu7tbor2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2llu7tbor2b",
+    "cid": "bafyreict52mtefnwaxpd3xda7jqw7ekv5jnpbghnxzkfhtbv6ghfom3qi4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": " Duoになったら横位置で撮影した写真を壁紙に設定できて嬉しい！嬉しい！これが、こうじゃ！",
+    "createdAt": "2026-11-18T12:50:23.611157Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-18T12:50:25.159Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicw5tmv2fos5x5xd6ubyus7ayimzoscrevj34hlst3pq5jqc4ol4e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreicw5tmv2fos5x5xd6ubyus7ayimzoscrevj34hlst3pq5jqc4ol4e",
+          "alt": "iPhone Duoのアウターディスプレイにロードスターの写真を壁紙に設定したスクリーショット",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 2034,
+            "width": 1371
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibupg4e65tskwyrrmn7mnpjyk4kgknoehyr6krpgj5wf2yewr3bka",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibupg4e65tskwyrrmn7mnpjyk4kgknoehyr6krpgj5wf2yewr3bka",
+          "alt": "iPhone Duoのインナーディスプレイにロードスターの写真を壁紙に設定したスクリーショット",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 2007,
+            "width": 2853
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2lkwj2ytl2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2lkwj2ytl2v",
+    "cid": "bafyreiavnj3rbzqj6t4qatyqggwjpyyxi6x4xfhfhi4mjougnxjwizfczq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "Duo持ちはApple Pencilは収納に困るので後付けのペンクリップを取り付けてみたけれど、重量バランスが悪くなってしまって使いづらい。次のApple Pencilは Duoにマグネットで取り付けられる長さにするか、最初からペンクリップを付けたのを出してくれ。",
+    "createdAt": "2026-11-18T12:33:46.731443Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-18T12:33:47.856Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihajvegfgry7lw32ppkhn22kfliydd4sue5js6p74szsglfz3gjrq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihajvegfgry7lw32ppkhn22kfliydd4sue5js6p74szsglfz3gjrq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3024,
+            "width": 3024
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ljfzdyqc2w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ljfzdyqc2w",
+    "cid": "bafyreidybfip66a5cnpmpkke6dqhdjvirhbbcjllmvi2qsfc635emyjaym",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「♪〜♪〜お風呂が沸きました♪」って聞こえたからお風呂入ったら浴槽が空だった……。え？",
+    "createdAt": "2026-11-18T12:06:40.141Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-18T12:06:40.554Z",
+    "embed": null,
+    "isRepost": false
   }
 }
