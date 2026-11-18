@@ -230347,8 +230347,8 @@
     "text": "",
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
-    "repostCount": 107,
-    "likeCount": 470,
+    "repostCount": 108,
+    "likeCount": 472,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
@@ -230443,8 +230443,8 @@
     "text": "",
     "createdAt": "2026-11-17T21:39:20.756Z",
     "replyCount": 0,
-    "repostCount": 123,
-    "likeCount": 503,
+    "repostCount": 124,
+    "likeCount": 504,
     "indexedAt": "2026-11-17T21:39:27.456Z",
     "embed": {
       "images": [
@@ -230630,6 +230630,64 @@
     "repostCount": 0,
     "likeCount": 2,
     "indexedAt": "2026-11-18T21:05:45.456Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2mklhviwz2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2mklhviwz2u",
+    "cid": "bafyreiclvxdviia4muzuf33qxcwgdoxlkodftoqkrrz3cujpgpbj723qxu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第86回聴取終了 ゲスト：井上和",
+    "createdAt": "2026-11-18T22:00:16.160803Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-18T22:00:16.757Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2mjciequs2v": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2mjciequs2v",
+    "cid": "bafyreibdr5jeojtvz4tgq5blilutds5jxsj2nvz43mc6v4pkqe2psy4w5y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-18T21:37:21.414Z",
+    "replyCount": 0,
+    "repostCount": 40,
+    "likeCount": 153,
+    "indexedAt": "2026-11-18T21:37:27.461Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig254ecwfsmsuudfjavhmbselubue2jnttvc7ewtmt2a3u5pn4laa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreig254ecwfsmsuudfjavhmbselubue2jnttvc7ewtmt2a3u5pn4laa",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2mkfspxfc2d": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2mkfspxfc2d",
+    "cid": "bafyreiejtx2urzo3r5wj3avwjes4qiqaydwbbt73d63yqe6fqqlpcpcmhu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ほしい物リストに入れた本が家にあった。いつ買った？もちろん積んでる",
+    "createdAt": "2026-11-18T21:57:06.673Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-18T21:57:07.057Z",
     "embed": null,
     "isRepost": false
   }
