@@ -229370,7 +229370,7 @@
     "createdAt": "2026-11-12T21:59:03.210Z",
     "replyCount": 0,
     "repostCount": 98,
-    "likeCount": 433,
+    "likeCount": 434,
     "indexedAt": "2026-11-12T21:59:14.166Z",
     "embed": {
       "images": [
@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 138,
-    "likeCount": 572,
+    "likeCount": 574,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230101,7 +230101,7 @@
     "createdAt": "2026-11-16T02:23:32.372Z",
     "replyCount": 0,
     "repostCount": 117,
-    "likeCount": 566,
+    "likeCount": 567,
     "indexedAt": "2026-11-16T02:23:41.457Z",
     "embed": {
       "images": [
@@ -230348,7 +230348,7 @@
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
     "repostCount": 107,
-    "likeCount": 467,
+    "likeCount": 468,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
@@ -230444,7 +230444,7 @@
     "createdAt": "2026-11-17T21:39:20.756Z",
     "replyCount": 0,
     "repostCount": 118,
-    "likeCount": 464,
+    "likeCount": 469,
     "indexedAt": "2026-11-17T21:39:27.456Z",
     "embed": {
       "images": [
@@ -230476,5 +230476,48 @@
     "indexedAt": "2026-11-18T03:35:34.158Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2lhulowoz2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2lhulowoz2v",
+    "cid": "bafyreichhf3pye5n7qsa2ut7iz2ir6v3lz5vhzvu5luimwdtiibxkziefy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duoで左右のアプリ入れ替えるのどうすんのかなと思ってたけど直感の通り簡単に出来るんだね。",
+    "createdAt": "2026-11-18T11:38:57.030013Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-18T11:39:01.755Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3n2lcy3k3vc2v": {
+    "uri": "at://did:plc:qriukts3uada7wlvdc6ef66s/app.bsky.feed.post/3n2lcy3k3vc2v",
+    "cid": "bafyreih4xeeokqyzxxsz4tx5rlqnz2nepp65xnngbqul6njww7fygufeza",
+    "author": "unamikan.bsky.social",
+    "authorName": "みかん🍊",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreicemgju6cflfoejireqgy5acigakao2mtplgieqwts3w2zx5xggri",
+    "text": "四乃宮リンリン🐻‍ひみつのアイプリ✨",
+    "createdAt": "2026-11-18T10:11:30.217Z",
+    "replyCount": 0,
+    "repostCount": 3,
+    "likeCount": 6,
+    "indexedAt": "2026-11-18T10:11:32.156Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreifes423xdqr5ufhxubgjfya4gfduh7qiw32c6vyidzzggwccsrbpm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qriukts3uada7wlvdc6ef66s/bafkreifes423xdqr5ufhxubgjfya4gfduh7qiw32c6vyidzzggwccsrbpm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 2048,
+            "width": 1443
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
