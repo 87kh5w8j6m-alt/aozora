@@ -230658,7 +230658,7 @@
     "createdAt": "2026-11-18T21:37:21.414Z",
     "replyCount": 0,
     "repostCount": 84,
-    "likeCount": 432,
+    "likeCount": 436,
     "indexedAt": "2026-11-18T21:37:27.461Z",
     "embed": {
       "images": [
@@ -230718,6 +230718,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-19T13:22:38.256Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2oacri7qv2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2oacri7qv2r",
+    "cid": "bafyreighphbk65dbegpzrdoryaclf5wcp6kpykboib7y7cdb26yencd5pi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今度の遠征はMacBookもiPadも置いていって、iPhone Duoだけで何とかやってみようと思う",
+    "createdAt": "2026-11-19T14:01:46.339129Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-19T14:01:46.857Z",
     "embed": null,
     "isRepost": false
   }
