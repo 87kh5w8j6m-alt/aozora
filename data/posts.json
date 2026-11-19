@@ -230657,8 +230657,8 @@
     "text": "",
     "createdAt": "2026-11-18T21:37:21.414Z",
     "replyCount": 0,
-    "repostCount": 83,
-    "likeCount": 424,
+    "repostCount": 84,
+    "likeCount": 432,
     "indexedAt": "2026-11-18T21:37:27.461Z",
     "embed": {
       "images": [
@@ -230703,6 +230703,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-19T03:33:41.054Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2o64rkpzk2q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2o64rkpzk2q",
+    "cid": "bafyreifonqg6mqtlgpgtcp2ohpbbhezx7qm5x2vusndtxt7g57ifp7x5bm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ドラミ風のび太？",
+    "createdAt": "2026-11-19T13:22:38.033Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-19T13:22:38.256Z",
     "embed": null,
     "isRepost": false
   }
