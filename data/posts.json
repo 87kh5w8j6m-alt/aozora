@@ -230852,5 +230852,20 @@
     "indexedAt": "2026-11-20T07:18:53.154Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2q4xtnaxq2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2q4xtnaxq2v",
+    "cid": "bafyreidgsxaa4bzzfcy5333inx67fs2etnpaezqn37xpfznebfgva7r2x4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ケビン・エストレがTOYOTA Racing入り！絶対人気でるじゃん！！",
+    "createdAt": "2026-11-20T08:07:17.434085Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T08:07:18.354Z",
+    "embed": null,
+    "isRepost": false
   }
 }
