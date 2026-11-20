@@ -230966,8 +230966,8 @@
     "text": "",
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
-    "repostCount": 98,
-    "likeCount": 400,
+    "repostCount": 99,
+    "likeCount": 402,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 0,
-    "repostCount": 62,
-    "likeCount": 184,
+    "repostCount": 78,
+    "likeCount": 245,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231054,6 +231054,67 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rqiywa222y": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rqiywa222y",
+    "cid": "bafyreicokddx6cbkc7et5peotzojjnpjre5zhmat3e2sb4j5npugk6us7u",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FIA、2030年F1のV8エンジン復活を正式発表。全会一致の合意が達成、魅力的なサウンドとバトル促進を目指す www.as-web.jp/f1/1375864",
+    "createdAt": "2026-11-20T23:29:34.974Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T23:29:38.559Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/f1/1375864",
+        "title": "FIA、2030年F1のV8エンジン復活を正式発表。全会一致の合意が達成、魅力的なサウンドとバトル促進を目指す | ニュース | autosport web",
+        "description": "国際自動車連盟FIAは11月20日、2030年から導入するF1パワーユニット（PU）の技術的な枠組みについて、FIA、フォーミュラ・ワン・マネジメント（FOM",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreid4o2ajq2zaol5rul5exrv76qmvl67jslehb2tmxqjmltjd7r5ksa"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rqa6lbds2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rqa6lbds2u",
+    "cid": "bafyreidhgfrop77puizwyqmt2e2roggxwkwuiz5k4ado47lqqnpmn2d7ra",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "スーツケースはホテルに送っておいて正解。この混雑具合じゃあコインロッカー確保できたかどうか。",
+    "createdAt": "2026-11-20T23:24:38.188934Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T23:24:39.056Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rom2n2zm26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rom2n2zm26",
+    "cid": "bafyreiawysqgf64uefvnsc55t4nzk6jhyvhgw4huj6opteoe2il6gbhz74",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 東海道新幹線 名古屋駅 in  名古屋市 https://app.foursquare.com/share/checkin/6b00cfca6bbc5e2c168e1abd?s=qvECB7x6A1BKu2DhbB3PoOci5VM&lang=ja",
+    "createdAt": "2026-11-20T22:55:29.337581Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T22:55:30.057Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b00cfca6bbc5e2c168e1abd?s=qvECB7x6A1BKu2DhbB3PoOci5VM&lang=ja",
+        "title": "jiminy nseries's check in at 東海道新幹線 名古屋駅",
+        "description": "https://app.foursquare.com/share/checkin/6b00cfca6bbc5e2c168e1abd?s=qvECB7x6A1BKu2DhbB3PoOci5VM&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
   }
