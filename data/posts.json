@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 138,
-    "likeCount": 581,
+    "likeCount": 582,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230835,6 +230835,21 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-20T03:53:14.056Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2q2baz6ak26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2q2baz6ak26",
+    "cid": "bafyreicsgk52rr44pduskghxx3dylkp6rpamfc36gucrmjememr6e25afq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "会社の自販機にやっとホットが入った",
+    "createdAt": "2026-11-20T07:18:52.351884Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T07:18:53.154Z",
     "embed": null,
     "isRepost": false
   }
