@@ -230822,5 +230822,20 @@
     "indexedAt": "2026-11-20T03:34:17.657Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2porjjd5n2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2porjjd5n2b",
+    "cid": "bafyreig2xoikv3icr4vbjrvk7dorbarsqejxxltqyjkl6nfkq7ebjh7x7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "次から次へと沸いてくる脆弱性の対応にぐったりしている",
+    "createdAt": "2026-11-20T03:53:13.280202Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T03:53:14.056Z",
+    "embed": null,
+    "isRepost": false
   }
 }
