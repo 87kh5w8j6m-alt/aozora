@@ -230878,8 +230878,23 @@
     "createdAt": "2026-11-20T19:44:24.069667Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-20T19:44:24.656Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rh7g347g26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rh7g347g26",
+    "cid": "bafyreierosmyvau7fhl43nvvu7azz6eilu7w7ucefp6jymtri2nkvybiii",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1260回聴取終了。",
+    "createdAt": "2026-11-20T20:43:08.885998Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T20:43:09.653Z",
     "embed": null,
     "isRepost": false
   }
