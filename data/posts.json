@@ -230908,7 +230908,7 @@
     "createdAt": "2026-11-20T21:47:26.983766Z",
     "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 3,
     "indexedAt": "2026-11-20T21:47:28.456Z",
     "embed": {
       "images": [
@@ -230955,6 +230955,106 @@
     "likeCount": 0,
     "indexedAt": "2026-11-20T21:20:20.856Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2pajvf6e22n": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2pajvf6e22n",
+    "cid": "bafyreig2az7pg5uce5fx3hllt2d3ooa4cy3fnc753uprzkr6xnf4jbspge",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-19T23:38:25.478Z",
+    "replyCount": 0,
+    "repostCount": 98,
+    "likeCount": 400,
+    "indexedAt": "2026-11-19T23:38:33.158Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiehabavgzri4vsfjpzyzgawrcffyh6hwzd7yzl6mio2ti6wisoewe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiehabavgzri4vsfjpzyzgawrcffyh6hwzd7yzl6mio2ti6wisoewe",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2rkp3d6cc2w": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2rkp3d6cc2w",
+    "cid": "bafyreid7jkjp6lk67bgsqssldrn6rukhnbvnkbq7dbukayueezf57seyxq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-20T21:45:36.372Z",
+    "replyCount": 0,
+    "repostCount": 62,
+    "likeCount": 184,
+    "indexedAt": "2026-11-20T21:45:50.253Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieespqcsze6dzpnhwwevh55hpukdlcimkrsj3cwvj2kvkjxfkg46y",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieespqcsze6dzpnhwwevh55hpukdlcimkrsj3cwvj2kvkjxfkg46y",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rn32vwex26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rn32vwex26",
+    "cid": "bafyreidx53lazzcbrecwjdr6ayos4yus4blwdofjnned75yocr5252m2li",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プリキュアとゆるキャン△の推し旅ボイスコンテンツ聴取。",
+    "createdAt": "2026-11-20T22:28:04.374928Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T22:28:06.157Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rmdctlp42v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rmdctlp42v",
+    "cid": "bafyreicp5yl7wiwy3vq46p2ccl52eoqtcbmfhewkbwkl6va4pyvpqicckm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "このために窓側の席取ったんだから",
+    "createdAt": "2026-11-20T22:14:48.376475Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-20T22:14:49.563Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigcifwtvlk26edbfoergoyvkxmqiduyzqrvdkw3xcy5rnhmo2q25e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigcifwtvlk26edbfoergoyvkxmqiduyzqrvdkw3xcy5rnhmo2q25e",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
