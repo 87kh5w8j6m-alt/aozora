@@ -230878,7 +230878,7 @@
     "createdAt": "2026-11-20T19:44:24.069667Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-20T19:44:24.656Z",
     "embed": null,
     "isRepost": false
@@ -230895,6 +230895,65 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-20T20:43:09.653Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rksfmadx2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rksfmadx2m",
+    "cid": "bafyreic4pug6vvybvdyj2rrwlzwo2p4izx2f7vthu57xjkehfnqg5uuzoq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよう富士山🗻",
+    "createdAt": "2026-11-20T21:47:26.983766Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-20T21:47:28.456Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic2lvar255fncqpqermswwoka4spqcmypx7aam7rpvaipnfaa5mfm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreic2lvar255fncqpqermswwoka4spqcmypx7aam7rpvaipnfaa5mfm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rjudw3zq2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rjudw3zq2z",
+    "cid": "bafyreiadvpvftaveepcuio4k6t7atfyzhplatibjv3s3u7hd42v5ykdgbe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "連休だから新幹線混んでるのね。",
+    "createdAt": "2026-11-20T21:30:38.735806Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T21:30:39.465Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rjbvx6mu2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rjbvx6mu2b",
+    "cid": "bafyreigf2q45637mxtzz5zvdwlz5uqq7a3mvmrqrlzsikut4xvtd4iwa5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "浅野真澄・堀江由衣のHappy Birthday わたしたち 第57回聴取終了。",
+    "createdAt": "2026-11-20T21:20:20.055709Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-20T21:20:20.856Z",
     "embed": null,
     "isRepost": false
   }
