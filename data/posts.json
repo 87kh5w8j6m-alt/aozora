@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 103,
-    "likeCount": 412,
+    "likeCount": 413,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
-    "repostCount": 118,
-    "likeCount": 406,
+    "repostCount": 122,
+    "likeCount": 428,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231315,7 +231315,7 @@
     "createdAt": "2026-11-21T03:51:42.251466Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-21T03:51:42.954Z",
     "embed": null,
     "isRepost": false
@@ -231344,14 +231344,93 @@
     "text": "ミリしらだけれどウマ娘130Rを一応回収",
     "createdAt": "2026-11-21T03:34:58.576470Z",
     "replyCount": 0,
-    "repostCount": 0,
-    "likeCount": 0,
+    "repostCount": 1,
+    "likeCount": 1,
     "indexedAt": "2026-11-21T03:34:59.658Z",
     "embed": {
       "images": [
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihbqioejjeov6tlw2c2m2j5s3zlroilonj5kcmebdztr2j3ehay5e",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihbqioejjeov6tlw2c2m2j5s3zlroilonj5kcmebdztr2j3ehay5e",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sadqvpci2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sadqvpci2m",
+    "cid": "bafyreicdnvplflh3yjbs4ux64uarrqscjl3xdgqrtomunoapwccwzhpncm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FSWもこのくらいの身軽装備でもいいのでは？",
+    "createdAt": "2026-11-21T04:12:58.060858Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T04:12:58.759Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sacwdym32i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sacwdym32i",
+    "cid": "bafyreiaduubonjxrgtybokzm57ssa3wpvvjpqqwi7fzblog3s4jxluwohq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今回はいつものFSWでの観戦のような行軍装備ではなくバックパック一つの身軽装備",
+    "createdAt": "2026-11-21T04:12:30.131908Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T04:12:30.953Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s7j73jmu2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s7j73jmu2f",
+    "cid": "bafyreici3hpkw64tf6e2jkgs5bx5qzq6jaioiy3xvpwbofpsxxj3obsy5a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "鈴鹿サーキット散歩",
+    "createdAt": "2026-11-21T03:58:07.014810Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-21T03:58:08.160Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidk7gvtdaf5jfhaqillx53yqo7obs7uwrss4l2e5nppyj642ivnjq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidk7gvtdaf5jfhaqillx53yqo7obs7uwrss4l2e5nppyj642ivnjq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihatpmapkyyjlwreltfadq7zb7xhqowt2237row7kyc6y22asc6ii",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihatpmapkyyjlwreltfadq7zb7xhqowt2237row7kyc6y22asc6ii",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidggvoxfbnnqcflhnmm2kgum2jmmgycsnqrtgmn3um3tm5q2kirkq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidggvoxfbnnqcflhnmm2kgum2jmmgycsnqrtgmn3um3tm5q2kirkq",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
