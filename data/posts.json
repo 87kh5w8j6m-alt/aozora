@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
-    "repostCount": 111,
-    "likeCount": 379,
+    "repostCount": 118,
+    "likeCount": 406,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231038,7 +231038,7 @@
     "createdAt": "2026-11-20T22:14:48.376475Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 4,
+    "likeCount": 5,
     "indexedAt": "2026-11-20T22:14:49.563Z",
     "embed": {
       "images": [
@@ -231247,7 +231247,7 @@
     "createdAt": "2026-11-21T02:47:29.080917Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-21T02:47:30.258Z",
     "embed": {
       "images": [
@@ -231293,6 +231293,65 @@
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidcepoazu7cw6fp3lf6iaap7rahbcjsu4a47u2y6bl3xnzyvdol2u",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidcepoazu7cw6fp3lf6iaap7rahbcjsu4a47u2y6bl3xnzyvdol2u",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s75q77rk2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s75q77rk2b",
+    "cid": "bafyreiggwaaezvtaegrdrkexrmxkqa3r6id6gw4l2dyppqua43khn2bwb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "FSWよりもコースに近いところが多いな",
+    "createdAt": "2026-11-21T03:51:42.251466Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T03:51:42.954Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s74oja6t2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s74oja6t2v",
+    "cid": "bafyreibqaeg6cz4ttum3fa4zvzjp7sdwz7n4lxfxn3vsrcb2csbsvq4dau",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ピットウォークは早めに切り上げてランチにしたのは大正解。腹ごなしにスプーンカーブまでお散歩",
+    "createdAt": "2026-11-21T03:51:06.878216Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T03:51:07.754Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s67szgnk2m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2s67szgnk2m",
+    "cid": "bafyreiakskzsiy2zckvx7xcnyzc7r6a22z2e65m2qmkiaojto5cdgd5bkm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ミリしらだけれどウマ娘130Rを一応回収",
+    "createdAt": "2026-11-21T03:34:58.576470Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T03:34:59.658Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihbqioejjeov6tlw2c2m2j5s3zlroilonj5kcmebdztr2j3ehay5e",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihbqioejjeov6tlw2c2m2j5s3zlroilonj5kcmebdztr2j3ehay5e",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
