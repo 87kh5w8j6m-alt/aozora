@@ -230908,7 +230908,7 @@
     "createdAt": "2026-11-20T21:47:26.983766Z",
     "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 4,
     "indexedAt": "2026-11-20T21:47:28.456Z",
     "embed": {
       "images": [
@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 100,
-    "likeCount": 405,
+    "likeCount": 406,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230993,9 +230993,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
-    "replyCount": 0,
-    "repostCount": 91,
-    "likeCount": 300,
+    "replyCount": 1,
+    "repostCount": 102,
+    "likeCount": 347,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231038,7 +231038,7 @@
     "createdAt": "2026-11-20T22:14:48.376475Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 4,
     "indexedAt": "2026-11-20T22:14:49.563Z",
     "embed": {
       "images": [
@@ -231143,7 +231143,7 @@
     "createdAt": "2026-11-21T00:43:24.174291Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-21T00:43:25.056Z",
     "embed": {
       "external": {
@@ -231176,6 +231176,64 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rvjhmutj2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rvjhmutj2f",
+    "cid": "bafyreidzw6cdiy2hqgznlw7t3b3alvi3dolm6lsmo6tgolt25eadfnf4f4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "最終コーナーの感じが映像で見るのと全然違ってビックリ！めちゃくちゃ狭い。",
+    "createdAt": "2026-11-21T00:59:18.488481Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-21T00:59:19.654Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjsaztcvmbv3nu5uhr5kgyos2yppozuhmpn3b2yizbpmybo257wy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifjsaztcvmbv3nu5uhr5kgyos2yppozuhmpn3b2yizbpmybo257wy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rvbbztc22b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rvbbztc22b",
+    "cid": "bafyreifku5tiw4tjv7pmxi37wqr3u4jrtiv7rj5lofl3osth4gyeg7ix34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "来たぜ鈴鹿サーキット！",
+    "createdAt": "2026-11-21T00:54:44.171245Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-21T00:54:45.554Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidmit3iak5rcye6ctzctd5gpxvi3ll74ozayrwmntkavqx6ziycnq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidmit3iak5rcye6ctzctd5gpxvi3ll74ozayrwmntkavqx6ziycnq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
