@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 105,
-    "likeCount": 422,
+    "likeCount": 423,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 150,
-    "likeCount": 543,
+    "likeCount": 545,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231699,7 +231699,7 @@
     "createdAt": "2026-11-21T22:48:03.362615Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-21T22:48:04.057Z",
     "embed": null,
     "isRepost": false
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 0,
-    "repostCount": 55,
-    "likeCount": 178,
+    "repostCount": 85,
+    "likeCount": 268,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -231731,5 +231731,125 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uc2wwkw22f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uc2wwkw22f",
+    "cid": "bafyreidep2dea7dme3bajxaqeapqgdldhmxm6z566u55jpkkayu4gglym4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日もBluesky…",
+    "createdAt": "2026-11-21T23:49:09.353673Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-21T23:49:10.453Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib7audhsh4vneotrotb2sfybfvwelhpjzw2yvjshbp2oklrjtnnjq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib7audhsh4vneotrotb2sfybfvwelhpjzw2yvjshbp2oklrjtnnjq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubvhl3lh22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubvhl3lh22",
+    "cid": "bafyreigxsgrxg4kkjg4xl6lw636xxxe7kgbvzo5k2niuot3c6rphrias7i",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日は目視確認だっけど、今日はちゃんと二次元コード読み取るんだ",
+    "createdAt": "2026-11-21T23:46:05.366742Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T23:46:06.155Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubtky44k2p": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubtky44k2p",
+    "cid": "bafyreiepaa7vyvip33jrkesmiohh7ccaaqxvlmdym5kip3q42n4zpjqlda",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 鈴鹿サーキット in  鈴鹿市 https://app.foursquare.com/share/checkin/6b022cdebc43865164cbe17d?s=txhWRC8aKzav-xe2TJLADItWOD8&lang=ja",
+    "createdAt": "2026-11-21T23:45:01.939821Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T23:45:02.558Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b022cdebc43865164cbe17d?s=txhWRC8aKzav-xe2TJLADItWOD8&lang=ja",
+        "title": "jiminy nseries's check in at 鈴鹿サーキット",
+        "description": "https://app.foursquare.com/share/checkin/6b022cdebc43865164cbe17d?s=txhWRC8aKzav-xe2TJLADItWOD8&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubm5ar6v2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ubm5ar6v2r",
+    "cid": "bafyreicpcympc2ywhnjxpof4cn47lo7eaohsfvb42umm742ybkuzk2jnva",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "MacBook Pro重たいから次はAirにしようと思ってたけれど、 Duoでcasement使えばMacBook持ち運ぶ必要ないからしばらく買い替えなくていいのでは。",
+    "createdAt": "2026-11-21T23:40:52.725131Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T23:40:53.360Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uaidgnmx2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uaidgnmx2i",
+    "cid": "bafyreihnsgau4d4sipyxtruz7zylkkgpf5cwzq3pbpchkcpiiycjmh5ypa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "陸戦型ガンダムのコンテナみたいなカメラバッグ担いで観戦する人すごいな。こちとらせいぜい高起動型ザクIIのバックパックくらいなものででも重たいというのに。",
+    "createdAt": "2026-11-21T23:20:50.971414Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-21T23:20:51.859Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ua2gmp562a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ua2gmp562a",
+    "cid": "bafyreicz6k4ui3ma6hfeyp776fety5xvoatvrayl3tkil3rdt5rvc5hgfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 白子駅 in  鈴鹿市 https://app.foursquare.com/share/checkin/6b02256dda826721958b041f?s=di0LHvRv8niLidCvajUSWSFasJk&lang=ja",
+    "createdAt": "2026-11-21T23:13:04.741576Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-21T23:13:05.554Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b02256dda826721958b041f?s=di0LHvRv8niLidCvajUSWSFasJk&lang=ja",
+        "title": "jiminy nseries's check in at 白子駅",
+        "description": "https://app.foursquare.com/share/checkin/6b02256dda826721958b041f?s=di0LHvRv8niLidCvajUSWSFasJk&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
   }
 }
