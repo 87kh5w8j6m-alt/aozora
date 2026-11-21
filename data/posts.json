@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 150,
-    "likeCount": 541,
+    "likeCount": 543,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231688,5 +231688,48 @@
     "indexedAt": "2026-11-21T21:24:31.570Z",
     "embed": null,
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2u6nor4jd2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2u6nor4jd2a",
+    "cid": "bafyreibpgmywxfding3zo2jt5ee4trrbwurya36ctkmscrvrigoijzgzny",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "PASMOのオートチャージ対象エリア外だから手動でチャージしないとだ",
+    "createdAt": "2026-11-21T22:48:03.362615Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T22:48:04.057Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2u3c7hqec2k": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2u3c7hqec2k",
+    "cid": "bafyreiaqdbf33xhh6sgivyv746lyb32l5kwnj5dnkgqr7rkp2qg2ewvg6y",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-21T21:47:57.595Z",
+    "replyCount": 0,
+    "repostCount": 55,
+    "likeCount": 178,
+    "indexedAt": "2026-11-21T21:48:05.256Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieqzadl3v3h6px5qtxk3zg5db67w5wigci6nomu6f7nu73vmkfxty",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreieqzadl3v3h6px5qtxk3zg5db67w5wigci6nomu6f7nu73vmkfxty",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
