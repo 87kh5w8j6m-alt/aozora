@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 139,
-    "likeCount": 584,
+    "likeCount": 585,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
-    "repostCount": 133,
-    "likeCount": 487,
+    "repostCount": 137,
+    "likeCount": 499,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231500,6 +231500,147 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-21T06:28:19.256Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2svfuaipl2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2svfuaipl2u",
+    "cid": "bafyreiffn52xgdwrzocbmrw3kc4nptmoffexog2ocfjozpmoanh3ocycqa",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "そういえば今回は公共交通機関でサーキット入りしてるのでレース見ながらおビール飲んでもいいんだ",
+    "createdAt": "2026-11-21T10:29:57.027524Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T10:29:57.956Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sveho3ez2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sveho3ez2b",
+    "cid": "bafyreihq3e72wvftbpfughnc4fxb5bwxim4erlswn2hgbkoaa2bmhpkiea",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "送っておいたスーツケースを受け取り。本当に送っておいてよかった。",
+    "createdAt": "2026-11-21T10:29:10.393989Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T10:29:11.156Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.feed.post/3n2stuj2fzc26": {
+    "uri": "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.feed.post/3n2stuj2fzc26",
+    "cid": "bafyreicqj2aykahe4hnvdrp3jm5o6telmta6cvxedlamekm7jp2jlulj4q",
+    "author": "aoa30.bsky.social",
+    "authorName": "いけち",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:of4fr4ranpets7xlri2u6b34/bafkreifwtlie663ux6bn6inumukcnkzvmfeyrdpkb2uo4n6my7jfulsdya",
+    "text": "ある日突然、あなたに12本ものビールが届いたらどうしますか？ それも……とびっきりかわいくて とびっきり素直で とびっきり愛らしくて とびっきりの淋しがりや。 しかも、そのうえ…… 彼女達はみんなみんな、とびっきり！ 美味しいんです\n\nというわけで今日も飲んでる",
+    "createdAt": "2026-11-21T10:02:21.948Z",
+    "replyCount": 1,
+    "repostCount": 4,
+    "likeCount": 29,
+    "indexedAt": "2026-11-21T10:02:22.255Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.feed.post/3n2qagoahwc2v",
+        "cid": "bafyreicrpf5duhga3modb47jjjdwc3lvta7orfr24jyrnjqxpjhjnip3lm",
+        "author": {
+          "did": "did:plc:of4fr4ranpets7xlri2u6b34",
+          "handle": "aoa30.bsky.social",
+          "displayName": "いけち",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:of4fr4ranpets7xlri2u6b34/bafkreifwtlie663ux6bn6inumukcnkzvmfeyrdpkb2uo4n6my7jfulsdya",
+          "associated": {
+            "chat": {
+              "allowIncoming": "following"
+            },
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false,
+            "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3jvliapyxqt26",
+            "followedBy": "at://did:plc:of4fr4ranpets7xlri2u6b34/app.bsky.graph.follow/3jvlicr4z7e2p"
+          },
+          "labels": [],
+          "createdAt": "2023-05-13T04:19:29.279Z"
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-11-20T09:09:17.060Z",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1521,
+                  "width": 2028
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreihscuk2le2ykr3x6sccovya4phmovgcy45yxncznasiygcztrx2q4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 1360994
+                }
+              }
+            ]
+          },
+          "langs": [
+            "ja"
+          ],
+          "text": "金曜夕方に税のおびーるが届いたので今日は宴じゃ"
+        },
+        "labels": [],
+        "likeCount": 17,
+        "replyCount": 0,
+        "repostCount": 1,
+        "quoteCount": 1,
+        "indexedAt": "2026-11-20T09:09:46.355Z",
+        "embeds": [
+          {
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:of4fr4ranpets7xlri2u6b34/bafkreihscuk2le2ykr3x6sccovya4phmovgcy45yxncznasiygcztrx2q4",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:of4fr4ranpets7xlri2u6b34/bafkreihscuk2le2ykr3x6sccovya4phmovgcy45yxncznasiygcztrx2q4",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1521,
+                  "width": 2028
+                }
+              }
+            ],
+            "$type": "app.bsky.embed.images#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sv4bbv372m": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2sv4bbv372m",
+    "cid": "bafyreifbac3usszupqa3szo2iepsj2raiybbml5omnxxzvb4aiulftnsfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "本日のお宿にチェックイン✅",
+    "createdAt": "2026-11-21T10:24:35.358618Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-21T10:24:36.056Z",
     "embed": null,
     "isRepost": false
   }
