@@ -230658,7 +230658,7 @@
     "createdAt": "2026-11-18T21:37:21.414Z",
     "replyCount": 0,
     "repostCount": 93,
-    "likeCount": 465,
+    "likeCount": 466,
     "indexedAt": "2026-11-18T21:37:27.461Z",
     "embed": {
       "images": [
@@ -230966,8 +230966,8 @@
     "text": "",
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
-    "repostCount": 99,
-    "likeCount": 402,
+    "repostCount": 100,
+    "likeCount": 405,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 0,
-    "repostCount": 78,
-    "likeCount": 245,
+    "repostCount": 91,
+    "likeCount": 300,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231038,7 +231038,7 @@
     "createdAt": "2026-11-20T22:14:48.376475Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-11-20T22:14:49.563Z",
     "embed": {
       "images": [
@@ -231112,6 +231112,67 @@
         "uri": "https://app.foursquare.com/share/checkin/6b00cfca6bbc5e2c168e1abd?s=qvECB7x6A1BKu2DhbB3PoOci5VM&lang=ja",
         "title": "jiminy nseries's check in at 東海道新幹線 名古屋駅",
         "description": "https://app.foursquare.com/share/checkin/6b00cfca6bbc5e2c168e1abd?s=qvECB7x6A1BKu2DhbB3PoOci5VM&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rusf64uk2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rusf64uk2f",
+    "cid": "bafyreigl6kh6j7gotn43y7725vixyoorkzyvbdjswnlzt5whaevnrfqlhe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "なんとか予選に間に合った！",
+    "createdAt": "2026-11-21T00:46:23.891809Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T00:46:24.855Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rumzn6cs2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rumzn6cs2i",
+    "cid": "bafyreigwcwsa6bjh4kvajcj3u5abcu3rtkg7f4dwg3m7ev3scacybnyinu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "初鈴鹿！(@ 鈴鹿サーキット in 鈴鹿市)\nhttps://app.foursquare.com/share/checkin/6b00e916a492133cd74a86fa?s=mUPk6UAG5yprgzBxeffshvFmMxs&lang=ja",
+    "createdAt": "2026-11-21T00:43:24.174291Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T00:43:25.056Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b00e916a492133cd74a86fa?s=mUPk6UAG5yprgzBxeffshvFmMxs&lang=ja",
+        "title": "jiminy nseries's check in at 鈴鹿サーキット",
+        "description": "初鈴鹿！",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rsuyuyr42v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2rsuyuyr42v",
+    "cid": "bafyreig54ewkloekhb4rxz7xbelpuk4kuen2rvmxeqa47byvdnmpsfyrgi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 白子駅 in  鈴鹿市 https://app.foursquare.com/share/checkin/6b00e1ba0932fb2a95e1236f?s=bZk-EtEdwANBsUfkTxDIVG9k86Q&lang=ja",
+    "createdAt": "2026-11-21T00:12:04.406605Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-21T00:12:05.254Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b00e1ba0932fb2a95e1236f?s=bZk-EtEdwANBsUfkTxDIVG9k86Q&lang=ja",
+        "title": "jiminy nseries's check in at 白子駅",
+        "description": "https://app.foursquare.com/share/checkin/6b00e1ba0932fb2a95e1236f?s=bZk-EtEdwANBsUfkTxDIVG9k86Q&lang=ja",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
