@@ -227806,7 +227806,7 @@
     "createdAt": "2026-11-04T21:31:29.248Z",
     "replyCount": 0,
     "repostCount": 101,
-    "likeCount": 245,
+    "likeCount": 246,
     "indexedAt": "2026-11-04T21:31:32.963Z",
     "embed": {
       "images": [
@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 151,
-    "likeCount": 552,
+    "likeCount": 553,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
-    "repostCount": 123,
-    "likeCount": 478,
+    "repostCount": 126,
+    "likeCount": 489,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232100,6 +232100,60 @@
         {
           "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidnensa5gin4sar2se77eejifqkjndsb3gmsoecuwamkvan2677mq",
           "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidnensa5gin4sar2se77eejifqkjndsb3gmsoecuwamkvan2677mq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ux4aok5k2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ux4aok5k2f",
+    "cid": "bafyreibewi3zprhmerinjk7nvowwz66pz6kaxmnmpfrng7fll6tuh6m4i4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日教訓を得たので今日はレースフィニッシュと同時に撤収開始",
+    "createdAt": "2026-11-22T06:05:41.307337Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-22T06:05:42.359Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ux26kxi52a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ux26kxi52a",
+    "cid": "bafyreihgi5zirs3akkl6yvltculnfzxegwo2yz3hdlgivgx4keezreyv6m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "観覧車なんて乗ったのいつ以来だろう。でもサーキットに観覧車がある理由がわかった。これは楽しい",
+    "createdAt": "2026-11-22T06:04:32.068850Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T06:04:33.854Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib5w5obahekad7jvhyccj63uiepzbqok55xwqjyb2eqoonb2xljbq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreib5w5obahekad7jvhyccj63uiepzbqok55xwqjyb2eqoonb2xljbq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibaghwwxacq354ma43hfv7zogzxadh4xqz5lxen5wuqkdqqpdouku",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibaghwwxacq354ma43hfv7zogzxadh4xqz5lxen5wuqkdqqpdouku",
           "alt": "",
           "aspectRatio": {
             "$type": "app.bsky.embed.defs#aspectRatio",
