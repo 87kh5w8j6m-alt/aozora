@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 150,
-    "likeCount": 545,
+    "likeCount": 546,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 0,
-    "repostCount": 85,
-    "likeCount": 268,
+    "repostCount": 99,
+    "likeCount": 334,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -231742,7 +231742,7 @@
     "createdAt": "2026-11-21T23:49:09.353673Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-21T23:49:10.453Z",
     "embed": {
       "images": [
@@ -231846,6 +231846,133 @@
         "uri": "https://app.foursquare.com/share/checkin/6b02256dda826721958b041f?s=di0LHvRv8niLidCvajUSWSFasJk&lang=ja",
         "title": "jiminy nseries's check in at 白子駅",
         "description": "https://app.foursquare.com/share/checkin/6b02256dda826721958b041f?s=di0LHvRv8niLidCvajUSWSFasJk&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ufhbuucz22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ufhbuucz22",
+    "cid": "bafyreicky3sva2y4svcele3p4wz62z44tyk6ch5ynns3k2blzsmoi4tzby",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今回は40-150mm F4.0 PRO一本勝負",
+    "createdAt": "2026-11-22T00:49:44.656076Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T00:49:45.453Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uebtfbs22b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uebtfbs22b",
+    "cid": "bafyreicr6f6k7doo2kpqtnugkls7ve7yxbx5hgvmk77vrixxk5k6xuvkae",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "鈴鹿サーキット激感エリア流し撮りチャレンジ",
+    "createdAt": "2026-11-22T00:28:48.020951Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T00:28:49.155Z",
+    "embed": {
+      "items": [
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaal27harcjzf5jx2zeatepurduiyvvjmy3ceak43rz5hv7cnxnd4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaal27harcjzf5jx2zeatepurduiyvvjmy3ceak43rz5hv7cnxnd4",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihpj2yqkm4sd76m5z5wnywnemazxsemne7grbae7m62ngrwu6cila",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihpj2yqkm4sd76m5z5wnywnemazxsemne7grbae7m62ngrwu6cila",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigluzfe5k7azqrddaioqjapfcb73yi6napmrgpsudz6k47legwily",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigluzfe5k7azqrddaioqjapfcb73yi6napmrgpsudz6k47legwily",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiesqeudfaa7xsx7awsilrbt4qrpe6lofvb4zpxphusw4bqliwc2hm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiesqeudfaa7xsx7awsilrbt4qrpe6lofvb4zpxphusw4bqliwc2hm",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        },
+        {
+          "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihnpkt26g73nauzxsh5i5xsc4dvnnc6amgbygymbwxezzoz2fovgy",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihnpkt26g73nauzxsh5i5xsc4dvnnc6amgbygymbwxezzoz2fovgy",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          },
+          "$type": "app.bsky.embed.gallery#viewImage"
+        }
+      ],
+      "$type": "app.bsky.embed.gallery#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2udhxdp2w2v": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2udhxdp2w2v",
+    "cid": "bafyreih4hnvgssdzmcoqsjjfny4on6s4u4wpsbd3tkzze47urqmmiyyqhe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日はほとんど撮影しなかったので今日は激感エリアで流し撮りチャレンジ",
+    "createdAt": "2026-11-22T00:14:19.714079Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T00:14:20.361Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2udguzpxx2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2udguzpxx2f",
+    "cid": "bafyreigd3mjn4t2wbzs2k5zmfzhkgfd6mrkpkxyy3pe62ylaccnj7ln5mi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 激感エリア in  鈴鹿市 https://app.foursquare.com/share/checkin/6b0233a5bc3cae0f9f5e8c29?s=1sadLcPMtsHxCLOo_v7kgiQLw-k&lang=ja",
+    "createdAt": "2026-11-22T00:13:43.508690Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T00:13:44.657Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b0233a5bc3cae0f9f5e8c29?s=1sadLcPMtsHxCLOo_v7kgiQLw-k&lang=ja",
+        "title": "jiminy nseries's check in at 激感エリア",
+        "description": "https://app.foursquare.com/share/checkin/6b0233a5bc3cae0f9f5e8c29?s=1sadLcPMtsHxCLOo_v7kgiQLw-k&lang=ja",
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
       },
       "$type": "app.bsky.embed.external#view"
