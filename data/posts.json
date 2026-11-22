@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 105,
-    "likeCount": 423,
+    "likeCount": 424,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 151,
-    "likeCount": 547,
+    "likeCount": 548,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231712,9 +231712,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
-    "replyCount": 0,
-    "repostCount": 107,
-    "likeCount": 381,
+    "replyCount": 1,
+    "repostCount": 109,
+    "likeCount": 416,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -231742,7 +231742,7 @@
     "createdAt": "2026-11-21T23:49:09.353673Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 2,
+    "likeCount": 3,
     "indexedAt": "2026-11-21T23:49:10.453Z",
     "embed": {
       "images": [
@@ -231877,7 +231877,7 @@
     "createdAt": "2026-11-22T00:28:48.020951Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-22T00:28:49.155Z",
     "embed": {
       "items": [
@@ -231977,6 +231977,36 @@
       },
       "$type": "app.bsky.embed.external#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ulvou4du2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ulvou4du2b",
+    "cid": "bafyreibwbufa335krayunmejsypueqyi3ue7hsenvnmxyv3numd4tdibnm",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "鈴鹿サーキット初めてきたけどいつも行く富士スピードウェイとは全然違う雰囲気。各観戦ポイントを回るのはFSWのが楽だけれど、家族で楽しい気分になるのは鈴鹿サーキットかも。なのにもでぎはどうして。",
+    "createdAt": "2026-11-22T02:45:10.347261Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T02:45:11.353Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ukgr4sqp26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2ukgr4sqp26",
+    "cid": "bafyreia5iqoiqeh3dlk37fxokeevzwbhddbwpfjcjkuj4uetolyayw54ru",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今日はピットウォークはパス。早めにランチにして混雑回避",
+    "createdAt": "2026-11-22T02:18:55.706404Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T02:18:56.555Z",
+    "embed": null,
     "isRepost": false
   }
 }
