@@ -228383,7 +228383,7 @@
     "createdAt": "2026-11-08T02:26:15.231Z",
     "replyCount": 2,
     "repostCount": 209,
-    "likeCount": 650,
+    "likeCount": 651,
     "indexedAt": "2026-11-08T02:26:19.963Z",
     "embed": {
       "images": [
@@ -230100,8 +230100,8 @@
     "text": "",
     "createdAt": "2026-11-16T02:23:32.372Z",
     "replyCount": 0,
-    "repostCount": 121,
-    "likeCount": 589,
+    "repostCount": 122,
+    "likeCount": 590,
     "indexedAt": "2026-11-16T02:23:41.457Z",
     "embed": {
       "images": [
@@ -230347,8 +230347,8 @@
     "text": "",
     "createdAt": "2026-11-16T21:36:34.809Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 481,
+    "repostCount": 112,
+    "likeCount": 482,
     "indexedAt": "2026-11-16T21:36:43.554Z",
     "embed": {
       "images": [
@@ -230443,8 +230443,8 @@
     "text": "",
     "createdAt": "2026-11-17T21:39:20.756Z",
     "replyCount": 0,
-    "repostCount": 126,
-    "likeCount": 522,
+    "repostCount": 127,
+    "likeCount": 523,
     "indexedAt": "2026-11-17T21:39:27.456Z",
     "embed": {
       "images": [
@@ -230657,8 +230657,8 @@
     "text": "",
     "createdAt": "2026-11-18T21:37:21.414Z",
     "replyCount": 0,
-    "repostCount": 94,
-    "likeCount": 469,
+    "repostCount": 95,
+    "likeCount": 470,
     "indexedAt": "2026-11-18T21:37:27.461Z",
     "embed": {
       "images": [
@@ -230966,8 +230966,8 @@
     "text": "",
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 425,
+    "repostCount": 107,
+    "likeCount": 427,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
-    "repostCount": 151,
-    "likeCount": 557,
+    "repostCount": 152,
+    "likeCount": 558,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
-    "repostCount": 132,
-    "likeCount": 537,
+    "repostCount": 135,
+    "likeCount": 546,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232231,6 +232231,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2vih4vzpd22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2vih4vzpd22",
+    "cid": "bafyreihzt5x7ioewxrsg2c7sswh76nbk3clegtrtn7535qqnsvyiaa3xb4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "昨日18,000歩、今日16,000歩。この二日間鈴鹿サーキットをよく歩いた。",
+    "createdAt": "2026-11-22T11:16:00.402115Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-22T11:16:01.156Z",
+    "embed": null,
     "isRepost": false
   }
 }
