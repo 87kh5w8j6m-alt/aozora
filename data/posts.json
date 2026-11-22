@@ -229821,7 +229821,7 @@
     "createdAt": "2026-11-14T22:15:22.906Z",
     "replyCount": 0,
     "repostCount": 141,
-    "likeCount": 587,
+    "likeCount": 588,
     "indexedAt": "2026-11-14T22:15:29.859Z",
     "embed": {
       "images": [
@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 151,
-    "likeCount": 551,
+    "likeCount": 552,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231712,9 +231712,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
-    "replyCount": 1,
-    "repostCount": 116,
-    "likeCount": 443,
+    "replyCount": 2,
+    "repostCount": 122,
+    "likeCount": 466,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -231989,7 +231989,7 @@
     "createdAt": "2026-11-22T02:45:10.347261Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-22T02:45:11.353Z",
     "embed": null,
     "isRepost": false
@@ -232046,6 +232046,65 @@
             "$type": "app.bsky.embed.defs#aspectRatio",
             "height": 4000,
             "width": 2697
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uqztdaaa2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2uqztdaaa2b",
+    "cid": "bafyreibwffpdoj5dzcefe6y7yiwg4yj7r2got3blkedcjpcwtdmvbfyo3m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "レコノサンスラップ。いよいよ決勝レース",
+    "createdAt": "2026-11-22T04:16:58.168841Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T04:16:59.656Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreialkk6crtkh4ev4elvqzoem5svnfoscbjukrqqswatnhlwx5rv4xi",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreialkk6crtkh4ev4elvqzoem5svnfoscbjukrqqswatnhlwx5rv4xi",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaynuyofbicvxysrpa7f4a3ptyga5rqftyxuh6we6wo5v7r562yki",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiaynuyofbicvxysrpa7f4a3ptyga5rqftyxuh6we6wo5v7r562yki",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifcwlwmc56vqvah4ga7xmjf7jlthe5zgn6luea6w6kcpvedo27z54",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifcwlwmc56vqvah4ga7xmjf7jlthe5zgn6luea6w6kcpvedo27z54",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidnensa5gin4sar2se77eejifqkjndsb3gmsoecuwamkvan2677mq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidnensa5gin4sar2se77eejifqkjndsb3gmsoecuwamkvan2677mq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
           }
         }
       ],
