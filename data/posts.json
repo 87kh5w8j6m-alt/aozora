@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 151,
-    "likeCount": 553,
+    "likeCount": 554,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
-    "repostCount": 126,
-    "likeCount": 489,
+    "repostCount": 127,
+    "likeCount": 502,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -231877,7 +231877,7 @@
     "createdAt": "2026-11-22T00:28:48.020951Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 2,
     "indexedAt": "2026-11-22T00:28:49.155Z",
     "embed": {
       "items": [
@@ -232137,7 +232137,7 @@
     "createdAt": "2026-11-22T06:04:32.068850Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-11-22T06:04:33.854Z",
     "embed": {
       "images": [
@@ -232163,6 +232163,29 @@
         }
       ],
       "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2v4wui2xm2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2v4wui2xm2i",
+    "cid": "bafyreig7v4puwv2dvrrdpcy42uy4t2mc5io4jlkicnlbl6tykvadzshzuq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at 山本屋本店 名古屋駅前店 in  名古屋市 https://app.foursquare.com/share/checkin/6b029e97bc3cae0f9f448043?s=R8fse22mLruoQDkklvJFs1_QR5g&lang=ja",
+    "createdAt": "2026-11-22T07:50:03.520562Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-22T07:50:04.357Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b029e97bc3cae0f9f448043?s=R8fse22mLruoQDkklvJFs1_QR5g&lang=ja",
+        "title": "jiminy nseries's check in at 山本屋本店 名古屋駅前店",
+        "description": "https://app.foursquare.com/share/checkin/6b029e97bc3cae0f9f448043?s=R8fse22mLruoQDkklvJFs1_QR5g&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
   }
