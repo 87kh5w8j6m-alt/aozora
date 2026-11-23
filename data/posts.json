@@ -230657,8 +230657,8 @@
     "text": "",
     "createdAt": "2026-11-18T21:37:21.414Z",
     "replyCount": 0,
-    "repostCount": 95,
-    "likeCount": 471,
+    "repostCount": 96,
+    "likeCount": 473,
     "indexedAt": "2026-11-18T21:37:27.461Z",
     "embed": {
       "images": [
@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 445,
+    "likeCount": 447,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -231714,7 +231714,7 @@
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
     "repostCount": 147,
-    "likeCount": 611,
+    "likeCount": 613,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232491,8 +232491,8 @@
     "text": "",
     "createdAt": "2026-11-23T10:53:09.774Z",
     "replyCount": 1,
-    "repostCount": 82,
-    "likeCount": 352,
+    "repostCount": 83,
+    "likeCount": 360,
     "indexedAt": "2026-11-23T10:53:22.357Z",
     "embed": {
       "images": [
@@ -232635,6 +232635,49 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-23T22:52:23.459Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2z73vda222u": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2z73vda222u",
+    "cid": "bafyreigwo6fyexyd2egkitxj3ancmuyw4yjgmgc7byimda3i3rcvyn5q5e",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-23T22:39:19.295Z",
+    "replyCount": 0,
+    "repostCount": 56,
+    "likeCount": 185,
+    "indexedAt": "2026-11-23T22:39:24.455Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib42hatayvw7dyqwupmhbywe3cwrejq3ioiie24mynqyxva2qwnoq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreib42hatayvw7dyqwupmhbywe3cwrejq3ioiie24mynqyxva2qwnoq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z7vcpghf2f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z7vcpghf2f",
+    "cid": "bafyreiex543eokcfaackfqj52nl4uclgjz4ufgbhtgr7jim62tlqt4ew3y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "田村ゆかりの乙女心♡症候群 第488回聴取終了。",
+    "createdAt": "2026-11-23T22:53:31.558452Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T22:53:32.258Z",
     "embed": null,
     "isRepost": false
   }
