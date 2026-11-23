@@ -232407,5 +232407,20 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2xbizmwun2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2xbizmwun2b",
+    "cid": "bafyreia4fvtjskix36ctvtxi4bjjuifuin3t6izrtagfqopyqxyd7nlfky",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "名古屋駅完全に理解したと思った直後にスーツケースを預けたコインロッカーの場所がわからなくなって迷子。AirTag入れておけばよかった。名古屋駅なんもわからん。",
+    "createdAt": "2026-11-23T04:17:07.431635Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T04:17:08.153Z",
+    "embed": null,
+    "isRepost": false
   }
 }
