@@ -227458,7 +227458,7 @@
     "createdAt": "2026-11-03T00:55:33.618Z",
     "replyCount": 0,
     "repostCount": 152,
-    "likeCount": 604,
+    "likeCount": 605,
     "indexedAt": "2026-11-03T00:55:43.567Z",
     "embed": {
       "images": [
@@ -232480,6 +232480,94 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2xxn6m5mk2x": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n2xxn6m5mk2x",
+    "cid": "bafyreidrt6dbrf4db6mfuomnxnjemzhfimithyitlrmpg6wf3e6tc5wxze",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-23T10:53:09.774Z",
+    "replyCount": 0,
+    "repostCount": 48,
+    "likeCount": 168,
+    "indexedAt": "2026-11-23T10:53:22.357Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiarhb7z3sqimtrwix7uth236m4u4wbkhj2zsaiyysdxue75t2lgiq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiarhb7z3sqimtrwix7uth236m4u4wbkhj2zsaiyysdxue75t2lgiq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvikzk2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvikzk2a",
+    "cid": "bafyreibkla2jzdnxz4bjqryntv4tqkiw4lmuw4tvaadw5chxvic55ollsy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "あとはDuoはどこまでいってもiPhoneなので画面の外部出力が拡張表示できないのが残念な",
+    "createdAt": "2026-11-23T12:19:07.602Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T12:19:08.162Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvik2c2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvik2c2a",
+    "cid": "bafyreiamftxgd3prdmdkyzpa5dlf22fwz5657qjv25l6hh2wkbfm4vgm7y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "それにしても荷物がかなり軽くなるのはありがたい",
+    "createdAt": "2026-11-23T12:19:07.601Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T12:19:08.160Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvie6s2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4gvie6s2a",
+    "cid": "bafyreicumpk242rakwvpo4p63tmsawadwfx4dlcea7enow3ebsfop6jwl4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "今回MacBook ProもiPad Proも持って行かなかったけれど、iPhone Duo + casementでなんとかなった。ポインティングデバイスが課題。Apple Pencilで細かい位置はかなり正確にタップできるけれどなぜか右クリック判定になってしまうことがよくある",
+    "createdAt": "2026-11-23T12:19:07.600Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T12:19:08.158Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4bnipok2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y4bnipok2a",
+    "cid": "bafyreictxcnrxx7odqahx36m4fz2lqwvmxd4fawrjbnnhvkjbmbloqdqxu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "mkr. ちょっと復活した",
+    "createdAt": "2026-11-23T12:16:11.450Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T12:16:11.855Z",
+    "embed": null,
     "isRepost": false
   }
 }
