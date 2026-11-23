@@ -230994,8 +230994,8 @@
     "text": "",
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
-    "repostCount": 153,
-    "likeCount": 562,
+    "repostCount": 154,
+    "likeCount": 564,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231713,8 +231713,8 @@
     "text": "",
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
-    "repostCount": 145,
-    "likeCount": 595,
+    "repostCount": 146,
+    "likeCount": 597,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232366,6 +232366,45 @@
         "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrdkp5bznwtchhy76zb56vl7j4zj4khaezm6hgdxpoqq6suvlwqa"
       },
       "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wyshklcp2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wyshklcp2u",
+    "cid": "bafyreibmh3c2z4xalv4njkgnjmhfsoretlawgmbe4pze4wmfvcvu3ufi34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "600トンプレスとか溶接ロボットが実際に動くところ見せられたら釘付けになるのはしょうがない",
+    "createdAt": "2026-11-23T01:41:20.265105Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T01:41:21.458Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiafssk5b5xmg6yadxf4useex4gf6yewkf7so7ll4c457t4j67e774",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiafssk5b5xmg6yadxf4useex4gf6yewkf7so7ll4c457t4j67e774",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifausbyy6ufshasvnglfiyb6c4jksfmzbpa6a55ub2442pzavhosa",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreifausbyy6ufshasvnglfiyb6c4jksfmzbpa6a55ub2442pzavhosa",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 4000,
+            "width": 3000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
     },
     "isRepost": false
   }
