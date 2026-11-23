@@ -230995,7 +230995,7 @@
     "createdAt": "2026-11-20T21:45:36.372Z",
     "replyCount": 1,
     "repostCount": 153,
-    "likeCount": 561,
+    "likeCount": 562,
     "indexedAt": "2026-11-20T21:45:50.253Z",
     "embed": {
       "images": [
@@ -231714,7 +231714,7 @@
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
     "repostCount": 145,
-    "likeCount": 593,
+    "likeCount": 595,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232261,6 +232261,112 @@
     "likeCount": 2,
     "indexedAt": "2026-11-22T21:31:14.456Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvwweons27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvwweons27",
+    "cid": "bafyreibwkewwxv3iu5t663dr66nlpq4chp6yuwhbsspo7e26fxlnzd7g3e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "以前は展示の説明を隅から隅まで読まないと進めなかったのが、ほどほどで見て回れるようになった。",
+    "createdAt": "2026-11-23T00:50:09.467698Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:50:10.358Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvwwenok27": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvwwenok27",
+    "cid": "bafyreidjeeppqpvjkd4657xsmi5eaysib7x5f5oi3zahvirc7qkcz3m3jy",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "これはまた見て回るのに時間のかかる展示規模だけれど、今回は帰りの新幹線までの時間制限があるのと、昨日、一昨日と歩きまくってるのでじっくり見て回るのは難しそう。推奨見学ルートでほどほどに見て回ろう。",
+    "createdAt": "2026-11-23T00:50:09.466698Z",
+    "replyCount": 1,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:50:10.356Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvms3gpw2b": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvms3gpw2b",
+    "cid": "bafyreicfq6oabaoy2yzjukrv43cklkuvbautimw64zqyz77wqjfvxk2t7m",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "前回に名古屋来た時はトヨタ博物館しか行けなかったから今回トヨタ産業技術記念館にやっと来られた。",
+    "createdAt": "2026-11-23T00:44:28.692535Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:44:29.557Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvd2pruk26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wvd2pruk26",
+    "cid": "bafyreicbksrtxbrwyzkeg33gw5s7si66m3opfadsdd56tv4nmzwxyoahdu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "I'm at トヨタ産業技術記念館 in  名古屋市 https://app.foursquare.com/share/checkin/6b038b106592c368fddafd6a?s=xj1YGFG16qbLR6pypnvE9PojjOE&lang=ja",
+    "createdAt": "2026-11-23T00:39:02.236697Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:39:03.153Z",
+    "embed": {
+      "external": {
+        "uri": "https://app.foursquare.com/share/checkin/6b038b106592c368fddafd6a?s=xj1YGFG16qbLR6pypnvE9PojjOE&lang=ja",
+        "title": "jiminy nseries's check in at トヨタ産業技術記念館",
+        "description": "https://app.foursquare.com/share/checkin/6b038b106592c368fddafd6a?s=xj1YGFG16qbLR6pypnvE9PojjOE&lang=ja",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreih6raur4sgn2iui64iojkdn5kqw43y6ahjnd7i5rh3p6krmxhmmge"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wu33wx6q2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wu33wx6q2r",
+    "cid": "bafyreihtek7uymucy3iriogw7gl4xapmawg2m3bfzemjufxysnoi4p3kqq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "マカオGPで凄いことが起こっていたのね。J SPORTS放送ないからYouTubeで見るしかないのか",
+    "createdAt": "2026-11-23T00:16:41.077956Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:16:42.156Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wtt55ijk2h": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2wtt55ijk2h",
+    "cid": "bafyreihn5y4jatm2yadik2cusdsmozxhfnrwy4gsx7xj7tuqndfhii3jyi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "中村紀庵ベルタ、マカオGP優勝には「奇跡が必要だと思っていました」／FRワールドカップ www.as-web.jp/overseas/137...",
+    "createdAt": "2026-11-23T00:12:14.869Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T00:12:18.453Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/overseas/1376807",
+        "title": "中村紀庵ベルタ、マカオGP優勝には「奇跡が必要だと思っていました」／FRワールドカップ | 海外レース他 | autosport web",
+        "description": "2026年11月22日に行われた第73回マカオグランプリ",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigrdkp5bznwtchhy76zb56vl7j4zj4khaezm6hgdxpoqq6suvlwqa"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
