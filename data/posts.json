@@ -230967,7 +230967,7 @@
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
     "repostCount": 108,
-    "likeCount": 430,
+    "likeCount": 431,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -232491,8 +232491,8 @@
     "text": "",
     "createdAt": "2026-11-23T10:53:09.774Z",
     "replyCount": 0,
-    "repostCount": 48,
-    "likeCount": 168,
+    "repostCount": 54,
+    "likeCount": 207,
     "indexedAt": "2026-11-23T10:53:22.357Z",
     "embed": {
       "images": [
@@ -232567,6 +232567,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-23T12:16:11.855Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y7sthnsd2u": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2y7sthnsd2u",
+    "cid": "bafyreidupgadqvd77g32jao6ntktzegopx2drhinymsrwgivg3cseovfwe",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "6年生なのに！ 2巻読了",
+    "createdAt": "2026-11-23T13:19:28.905496Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T13:19:29.555Z",
     "embed": null,
     "isRepost": false
   }
