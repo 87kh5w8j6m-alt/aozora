@@ -230966,8 +230966,8 @@
     "text": "",
     "createdAt": "2026-11-19T23:38:25.478Z",
     "replyCount": 0,
-    "repostCount": 112,
-    "likeCount": 443,
+    "repostCount": 113,
+    "likeCount": 444,
     "indexedAt": "2026-11-19T23:38:33.158Z",
     "embed": {
       "images": [
@@ -232433,7 +232433,7 @@
     "createdAt": "2026-11-23T07:26:59.278393Z",
     "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 3,
+    "likeCount": 4,
     "indexedAt": "2026-11-23T07:27:00.354Z",
     "embed": {
       "images": [
@@ -232491,8 +232491,8 @@
     "text": "",
     "createdAt": "2026-11-23T10:53:09.774Z",
     "replyCount": 1,
-    "repostCount": 75,
-    "likeCount": 333,
+    "repostCount": 79,
+    "likeCount": 340,
     "indexedAt": "2026-11-23T10:53:22.357Z",
     "embed": {
       "images": [
@@ -232582,6 +232582,44 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-23T13:19:29.555Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z3cp7klk2a": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z3cp7klk2a",
+    "cid": "bafyreidumbgrohlmybrh66edppq2ranl65ghuvtqj6m7x2ka4eqnx25ovq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "プジョーがWEC撤退を正式発表。親会社のモータースポーツ大幅縮小の決定を受け、即時活動停止 www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-11-23T21:31:32.797Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T21:31:34.556Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1377265",
+        "title": "プジョーがWEC撤退を正式発表。親会社のモータースポーツ大幅縮小の決定を受け、即時活動停止 | ニュース | autosport web",
+        "description": "プジョーは、親会社であるステランティスが社内の広範なコスト削減策の一環として来シーズンのモータースポーツ活動を大幅に縮小する決定を受け、WEC世界耐久選手権か",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihjz5fdhtgccjscp26ht7e7ijz3eddthor6qhnjkreuclbh2stgeu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z27wl6di26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2z27wl6di26",
+    "cid": "bafyreia4jgc2hs5mkou3s72quy2htdgparxss5uqpaeir4mw6v3qkvephi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-11-23T21:12:05.662491Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T21:12:06.257Z",
     "embed": null,
     "isRepost": false
   }
