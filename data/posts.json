@@ -231714,7 +231714,7 @@
     "createdAt": "2026-11-21T21:47:57.595Z",
     "replyCount": 2,
     "repostCount": 146,
-    "likeCount": 600,
+    "likeCount": 602,
     "indexedAt": "2026-11-21T21:48:05.256Z",
     "embed": {
       "images": [
@@ -232421,6 +232421,65 @@
     "likeCount": 0,
     "indexedAt": "2026-11-23T04:17:08.153Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2xm4jnfta2z": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n2xm4jnfta2z",
+    "cid": "bafyreia4qetslmruj4ibsfzn4dzicznumvqj45mffop2wcigrv37aaloee",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "二泊三日のスーパーフォーミュラ鈴鹿初観戦旅行から無事帰宅！たくさん歩いて疲れた。btr",
+    "createdAt": "2026-11-23T07:26:59.278393Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-23T07:27:00.354Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihhwatp6ontfhjrzenxkzom6kuysv6qxpkknadtryabclge2vuvry",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihhwatp6ontfhjrzenxkzom6kuysv6qxpkknadtryabclge2vuvry",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihpj2yqkm4sd76m5z5wnywnemazxsemne7grbae7m62ngrwu6cila",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreihpj2yqkm4sd76m5z5wnywnemazxsemne7grbae7m62ngrwu6cila",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiepp5b3fqa5c2u2b6azqs2f53jqnv5jqas5egfcuhm2gzngi7mycq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreiepp5b3fqa5c2u2b6azqs2f53jqnv5jqas5egfcuhm2gzngi7mycq",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7kxmaho2fvsiw34ofuk6cm333wtrr6gehuwrvxrk5tob4r6yyqe",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig7kxmaho2fvsiw34ofuk6cm333wtrr6gehuwrvxrk5tob4r6yyqe",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 3000,
+            "width": 4000
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
     "isRepost": false
   }
 }
