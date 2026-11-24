@@ -232491,8 +232491,8 @@
     "text": "",
     "createdAt": "2026-11-23T10:53:09.774Z",
     "replyCount": 1,
-    "repostCount": 89,
-    "likeCount": 393,
+    "repostCount": 90,
+    "likeCount": 394,
     "indexedAt": "2026-11-23T10:53:22.357Z",
     "embed": {
       "images": [
@@ -232647,8 +232647,8 @@
     "text": "",
     "createdAt": "2026-11-23T22:39:19.295Z",
     "replyCount": 0,
-    "repostCount": 102,
-    "likeCount": 439,
+    "repostCount": 104,
+    "likeCount": 444,
     "indexedAt": "2026-11-23T22:39:24.455Z",
     "embed": {
       "images": [
@@ -232708,6 +232708,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-24T12:28:06.055Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n32qth7aha2r": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n32qth7aha2r",
+    "cid": "bafyreigh62r5qpcrr66orpfinuzjprfqlqfrv4ldv2cbbw7odzfxofls5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "iPhone Duoこうやったらもっと便利になるって試したいアイディアが沸いてくるのでずっと触っちゃう。",
+    "createdAt": "2026-11-24T13:29:22.645986Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-24T13:29:23.256Z",
     "embed": null,
     "isRepost": false
   }
