@@ -232648,7 +232648,7 @@
     "createdAt": "2026-11-23T22:39:19.295Z",
     "replyCount": 0,
     "repostCount": 104,
-    "likeCount": 444,
+    "likeCount": 448,
     "indexedAt": "2026-11-23T22:39:24.455Z",
     "embed": {
       "images": [
@@ -232724,6 +232724,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-24T13:29:23.256Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n32syzij4s26": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n32syzij4s26",
+    "cid": "bafyreiajdrplomdrz3i7hddloufuv5fbtpt5myw2hsvobut3weirxzphw4",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」っていうITmedia NEWSの記事 www.itmedia.co.jp/news/article...",
+    "createdAt": "2026-11-24T14:08:17.574Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-24T14:08:20.054Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
+        "title": "ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」",
+        "description": "ソフトバンクが傘下のアイティメディアの売却を検討していると日本経済新聞が報じた。ITmedia NEWSの取材に対し、ソフトバンクは「コメントを控える」、アイティメディアは「現時点で決定した事実はない」と回答した。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibeqpvgxr3keydyzonobmlumpflrhhqjpzvwowu47phlle22n5kse"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
