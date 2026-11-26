@@ -232774,7 +232774,7 @@
     "createdAt": "2026-11-24T21:48:14.867Z",
     "replyCount": 2,
     "repostCount": 117,
-    "likeCount": 521,
+    "likeCount": 522,
     "indexedAt": "2026-11-24T21:48:20.554Z",
     "embed": {
       "images": [
@@ -232846,8 +232846,8 @@
     "text": "",
     "createdAt": "2026-11-25T21:39:21.998Z",
     "replyCount": 0,
-    "repostCount": 106,
-    "likeCount": 367,
+    "repostCount": 108,
+    "likeCount": 384,
     "indexedAt": "2026-11-25T21:39:28.454Z",
     "embed": {
       "images": [
@@ -232874,8 +232874,8 @@
     "text": "プリキュア第24弾は「ファンたじっくプリキュア！」\r\n\r\n✨キャッチコピーは「かがやけ！みんなの笑顔！ファンたじっくなパーティーへようこそ！」\r\n🎉ロゴにはクラッカーやガーランド、“FUNtasic Precure!”の文字も\r\n\r\nhttps://natalie.mu/comic/news/699631?utm_source=bluesky&utm_medium=social",
     "createdAt": "2026-11-26T06:00:10+09:00",
     "replyCount": 0,
-    "repostCount": 50,
-    "likeCount": 60,
+    "repostCount": 52,
+    "likeCount": 62,
     "indexedAt": "2026-11-25T21:00:13.857Z",
     "embed": {
       "images": [
@@ -232920,6 +232920,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-25T23:52:49.161Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n36tdkrpi22f": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n36tdkrpi22f",
+    "cid": "bafyreihvwyglfendyujedkk72zh622ai4lule5xrpxxdq6l7m7at4obyfq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "お昼ごはんとする",
+    "createdAt": "2026-11-26T04:24:50.200Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-26T04:24:50.459Z",
     "embed": null,
     "isRepost": false
   }
