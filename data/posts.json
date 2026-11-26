@@ -232491,8 +232491,8 @@
     "text": "",
     "createdAt": "2026-11-23T10:53:09.774Z",
     "replyCount": 1,
-    "repostCount": 92,
-    "likeCount": 407,
+    "repostCount": 93,
+    "likeCount": 408,
     "indexedAt": "2026-11-23T10:53:22.357Z",
     "embed": {
       "images": [
@@ -232960,5 +232960,77 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3ar2bm55w22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3ar2bm55w22",
+    "cid": "bafyreibantrmoesgqv4w5prcspg6azwmn4vummgfqcqxzd3jmv2p5hl55a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "#NowPlaying ラブアテンション - 堀江由衣 (文学少女の歌集 II -月とカエルと文学少女-)",
+    "createdAt": "2026-11-26T22:49:09.964330Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-26T22:49:11.056Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig754tmsir6pseg743a366vynt2lh3z5sglwtzcxqel6lnjyzt3ua",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreig754tmsir6pseg743a366vynt2lh3z5sglwtzcxqel6lnjyzt3ua",
+          "alt": "",
+          "aspectRatio": {
+            "$type": "app.bsky.embed.defs#aspectRatio",
+            "height": 803,
+            "width": 900
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3aqxwauls2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3aqxwauls2i",
+    "cid": "bafyreiht35qyzlpth6xhwngw3ofphcvcpckh3emfauwu6f7yxssgy5znbi",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-11-26T22:47:51.571Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-26T22:47:51.859Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n3apdaaf422o": {
+    "uri": "at://did:plc:z2sj6a2kzzpoagqzezypodos/app.bsky.feed.post/3n3apdaaf422o",
+    "cid": "bafyreidhbscbkmd547fg3s2gamhjbzb7c3a4rvbjlr6zg4u6tydkn5kavq",
+    "author": "jyagi.bsky.social",
+    "authorName": "じゃぎ",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreiaeg6bjnklpye7qwhtgir2mjc7nonrxy4wrcknxemvafqf7sjebqi",
+    "text": "",
+    "createdAt": "2026-11-26T22:18:23.654Z",
+    "replyCount": 0,
+    "repostCount": 38,
+    "likeCount": 130,
+    "indexedAt": "2026-11-26T22:18:29.060Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifumrmggp2aw3tkzr54p2lse73kanxa3nq3ajhfawnoeflqndp42i",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z2sj6a2kzzpoagqzezypodos/bafkreifumrmggp2aw3tkzr54p2lse73kanxa3nq3ajhfawnoeflqndp42i",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1391,
+            "width": 861
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
