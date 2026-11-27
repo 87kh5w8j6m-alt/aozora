@@ -232874,8 +232874,8 @@
     "text": "プリキュア第24弾は「ファンたじっくプリキュア！」\r\n\r\n✨キャッチコピーは「かがやけ！みんなの笑顔！ファンたじっくなパーティーへようこそ！」\r\n🎉ロゴにはクラッカーやガーランド、“FUNtasic Precure!”の文字も\r\n\r\nhttps://natalie.mu/comic/news/699631?utm_source=bluesky&utm_medium=social",
     "createdAt": "2026-11-26T06:00:10+09:00",
     "replyCount": 0,
-    "repostCount": 77,
-    "likeCount": 98,
+    "repostCount": 79,
+    "likeCount": 99,
     "indexedAt": "2026-11-25T21:00:13.857Z",
     "embed": {
       "images": [
@@ -233014,8 +233014,8 @@
     "text": "",
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
-    "repostCount": 111,
-    "likeCount": 477,
+    "repostCount": 112,
+    "likeCount": 483,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233357,5 +233357,50 @@
       "$type": "app.bsky.embed.images#view"
     },
     "isRepost": true
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dbksxeih24": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dbksxeih24",
+    "cid": "bafyreie42s5saegfzakfpiunq7skh6zgrj6owuefavu6dip6ggqydmxd2y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "堀江由衣の天使のたまご 第1261回聴取終了。",
+    "createdAt": "2026-11-27T22:50:04.546385Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-27T22:50:05.155Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dabs47c322": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dabs47c322",
+    "cid": "bafyreicdcqoh2t53uiukytfjp6dwftt627yy5awfcw6h77gayrgq4yetvu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "佐倉綾音 論理×ロンリー 第87回聴取終了 ゲスト：中島かずき",
+    "createdAt": "2026-11-27T22:27:07.906890Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-27T22:27:08.456Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3da6v6yq22w": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3da6v6yq22w",
+    "cid": "bafyreicwn6kd2xx3ohd4punhfurzyfbkebzzbfoyuhlujxi4nnpbec3t4a",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "おはよ",
+    "createdAt": "2026-11-27T22:25:30.500720Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 1,
+    "indexedAt": "2026-11-27T22:25:31.054Z",
+    "embed": null,
+    "isRepost": false
   }
 }
