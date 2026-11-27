@@ -233015,7 +233015,7 @@
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
     "repostCount": 96,
-    "likeCount": 411,
+    "likeCount": 415,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233070,5 +233070,264 @@
       "$type": "app.bsky.embed.external#view"
     },
     "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3btfhpos22i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3btfhpos22i",
+    "cid": "bafyreicilpilirijpdir5j3u6j2ymmilo4oxbw2njxsr5rhwuhkqoecgqq",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "「小学生の頃にリアルタイムで楽しんでいた長年愛され続けているアニメの最新作」はっ！？",
+    "createdAt": "2026-11-27T09:03:53.311Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "indexedAt": "2026-11-27T09:03:56.155Z",
+    "embed": {
+      "record": {
+        "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3n3bt7rl3pd24",
+        "cid": "bafyreidp4oxczqwn3kau5m5uwodzd3ppccmpebgtkp5pahjzgrpgyhyybu",
+        "author": {
+          "did": "did:plc:5ttg43yfww3kidboxtclpxct",
+          "handle": "comic.natalie.mu",
+          "displayName": "コミックナタリー",
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+          "associated": {
+            "activitySubscription": {
+              "allowSubscriptions": "followers"
+            }
+          },
+          "viewer": {
+            "muted": false,
+            "mutedOnlyReposts": false,
+            "mutedOnlyQuoteposts": false,
+            "blockedBy": false,
+            "following": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.graph.follow/3ma7soehrbu2o"
+          },
+          "labels": [],
+          "createdAt": "2024-02-07T02:38:36.825Z",
+          "verification": {
+            "verifications": [
+              {
+                "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                "issuerDisplayName": "Bluesky",
+                "issuerHandle": "bsky.app",
+                "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3mamnrsvwcp2o",
+                "isValid": true,
+                "createdAt": "2025-12-23T02:02:28.164Z"
+              }
+            ],
+            "verifiedStatus": "valid",
+            "trustedVerifierStatus": "none"
+          }
+        },
+        "value": {
+          "$type": "app.bsky.feed.post",
+          "createdAt": "2026-11-27T18:00:35+09:00",
+          "embed": {
+            "$type": "app.bsky.embed.images",
+            "images": [
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1698,
+                  "width": 1200
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreih52gndxuhejsp7mmf6rlf7plgrqywwmieypjoqctsfzmpzbbqzna"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 383377
+                }
+              },
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreicz7nyo2i4spwqtcnctesnxvaqylplaoffvlea45gzgar4saomrfq"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 113167
+                }
+              },
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreidhsfu547355epvphcdt3vjn4e6gcronivrnwhjjeowlrawjk56vm"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 49235
+                }
+              },
+              {
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                },
+                "image": {
+                  "$type": "blob",
+                  "ref": {
+                    "$link": "bafkreibk6unossrgrtwruuvcmabhs3d67mycikwm3ftwgetzfsh4ntipg4"
+                  },
+                  "mimeType": "image/jpeg",
+                  "size": 117571
+                }
+              }
+            ]
+          },
+          "facets": [
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#link",
+                  "uri": "https://natalie.mu/comic/news/699948?utm_source=bluesky&utm_medium=social"
+                }
+              ],
+              "index": {
+                "byteEnd": 231,
+                "byteStart": 158
+              }
+            },
+            {
+              "features": [
+                {
+                  "$type": "app.bsky.richtext.facet#tag",
+                  "tag": "物語シリーズ"
+                }
+              ],
+              "index": {
+                "byteEnd": 254,
+                "byteStart": 235
+              }
+            }
+          ],
+          "langs": [
+            "ja"
+          ],
+          "text": "〈物語〉シリーズ「かれんオウガ」は12月31日放送　PVで本編映像初公開、主題歌も発表（動画あり / コメントあり）\r\nhttps://natalie.mu/comic/news/699948?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ"
+        },
+        "labels": [],
+        "likeCount": 8,
+        "replyCount": 0,
+        "repostCount": 5,
+        "quoteCount": 1,
+        "indexedAt": "2026-11-27T09:00:44.154Z",
+        "embeds": [
+          {
+            "images": [
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreih52gndxuhejsp7mmf6rlf7plgrqywwmieypjoqctsfzmpzbbqzna",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreih52gndxuhejsp7mmf6rlf7plgrqywwmieypjoqctsfzmpzbbqzna",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 1698,
+                  "width": 1200
+                }
+              },
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicz7nyo2i4spwqtcnctesnxvaqylplaoffvlea45gzgar4saomrfq",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicz7nyo2i4spwqtcnctesnxvaqylplaoffvlea45gzgar4saomrfq",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                }
+              },
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreidhsfu547355epvphcdt3vjn4e6gcronivrnwhjjeowlrawjk56vm",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreidhsfu547355epvphcdt3vjn4e6gcronivrnwhjjeowlrawjk56vm",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                }
+              },
+              {
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreibk6unossrgrtwruuvcmabhs3d67mycikwm3ftwgetzfsh4ntipg4",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreibk6unossrgrtwruuvcmabhs3d67mycikwm3ftwgetzfsh4ntipg4",
+                "alt": "",
+                "aspectRatio": {
+                  "height": 675,
+                  "width": 1200
+                }
+              }
+            ],
+            "$type": "app.bsky.embed.images#view"
+          }
+        ],
+        "$type": "app.bsky.embed.record#viewRecord"
+      },
+      "$type": "app.bsky.embed.record#view"
+    },
+    "isRepost": false
+  },
+  "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3n3bt7rl3pd24": {
+    "uri": "at://did:plc:5ttg43yfww3kidboxtclpxct/app.bsky.feed.post/3n3bt7rl3pd24",
+    "cid": "bafyreidp4oxczqwn3kau5m5uwodzd3ppccmpebgtkp5pahjzgrpgyhyybu",
+    "author": "comic.natalie.mu",
+    "authorName": "コミックナタリー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreieeb7ggvw2ftc7ao2dl2cbdjzdcqubug5m5hii5khe7xsnxcgyd4e",
+    "text": "〈物語〉シリーズ「かれんオウガ」は12月31日放送　PVで本編映像初公開、主題歌も発表（動画あり / コメントあり）\r\nhttps://natalie.mu/comic/news/699948?utm_source=bluesky&utm_medium=social\r\n\r\n#物語シリーズ",
+    "createdAt": "2026-11-27T18:00:35+09:00",
+    "replyCount": 0,
+    "repostCount": 5,
+    "likeCount": 8,
+    "indexedAt": "2026-11-27T09:00:44.154Z",
+    "embed": {
+      "images": [
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreih52gndxuhejsp7mmf6rlf7plgrqywwmieypjoqctsfzmpzbbqzna",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreih52gndxuhejsp7mmf6rlf7plgrqywwmieypjoqctsfzmpzbbqzna",
+          "alt": "",
+          "aspectRatio": {
+            "height": 1698,
+            "width": 1200
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicz7nyo2i4spwqtcnctesnxvaqylplaoffvlea45gzgar4saomrfq",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreicz7nyo2i4spwqtcnctesnxvaqylplaoffvlea45gzgar4saomrfq",
+          "alt": "",
+          "aspectRatio": {
+            "height": 675,
+            "width": 1200
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreidhsfu547355epvphcdt3vjn4e6gcronivrnwhjjeowlrawjk56vm",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreidhsfu547355epvphcdt3vjn4e6gcronivrnwhjjeowlrawjk56vm",
+          "alt": "",
+          "aspectRatio": {
+            "height": 675,
+            "width": 1200
+          }
+        },
+        {
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreibk6unossrgrtwruuvcmabhs3d67mycikwm3ftwgetzfsh4ntipg4",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ttg43yfww3kidboxtclpxct/bafkreibk6unossrgrtwruuvcmabhs3d67mycikwm3ftwgetzfsh4ntipg4",
+          "alt": "",
+          "aspectRatio": {
+            "height": 675,
+            "width": 1200
+          }
+        }
+      ],
+      "$type": "app.bsky.embed.images#view"
+    },
+    "isRepost": true
   }
 }
