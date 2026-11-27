@@ -232774,7 +232774,7 @@
     "createdAt": "2026-11-24T21:48:14.867Z",
     "replyCount": 2,
     "repostCount": 119,
-    "likeCount": 530,
+    "likeCount": 531,
     "indexedAt": "2026-11-24T21:48:20.554Z",
     "embed": {
       "images": [
@@ -232847,7 +232847,7 @@
     "createdAt": "2026-11-25T21:39:21.998Z",
     "replyCount": 0,
     "repostCount": 129,
-    "likeCount": 491,
+    "likeCount": 493,
     "indexedAt": "2026-11-25T21:39:28.454Z",
     "embed": {
       "images": [
@@ -233014,8 +233014,8 @@
     "text": "",
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
-    "repostCount": 82,
-    "likeCount": 330,
+    "repostCount": 86,
+    "likeCount": 344,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233046,6 +233046,29 @@
     "likeCount": 1,
     "indexedAt": "2026-11-27T03:33:17.854Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3bcgdnnak2i": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3bcgdnnak2i",
+    "cid": "bafyreiebgykcivrl2664h2hwwhjtg25q3662fgyt2nozjalnvaizaj3tum",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "フォード、新型LMDh『GT41』を正式発表。ネーミングは寸法に由来、2027年WECデビューへ www.as-web.jp/sports-car/1...",
+    "createdAt": "2026-11-27T04:00:08.994Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-27T04:00:13.454Z",
+    "embed": {
+      "external": {
+        "uri": "https://www.as-web.jp/sports-car/1377969",
+        "title": "フォード、新型LMDh『GT41』を正式発表。ネーミングは寸法に由来、2027年WECデビューへ | ニュース | autosport web",
+        "description": "11月26日、フォードが2027年のWEC世界耐久選手権ハイパーカークラスに送り込む新型マシンが正式発表され、そのネーミングは『GT41』となることが明らかに",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreigjthv3xoyijdb7eauoy5kvyckfdtwkkmpvbkds4enygvwlyv2ode"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
