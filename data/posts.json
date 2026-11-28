@@ -233015,7 +233015,7 @@
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 492,
+    "likeCount": 494,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233505,6 +233505,21 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-28T03:28:09.655Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dunphsa22x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dunphsa22x",
+    "cid": "bafyreiawcu2lfhrzs7udwiy4iomtj2qj56vt3ndoarfzuxd4oqfewvnwom",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "引っ越し前のSeesaaブログが長期間、新規記事の投稿がないでの削除するよってお知らせが来たので自分で閉じてきた。",
+    "createdAt": "2026-11-28T04:31:43.097Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T04:31:43.757Z",
     "embed": null,
     "isRepost": false
   }
