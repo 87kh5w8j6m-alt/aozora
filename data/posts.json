@@ -226763,9 +226763,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "自分が引っかかっていたAutoSports Webの記事タイトルにも言及されていた｜SUPER GT 第7戦　それぞれに説明責任が必要では\nhttps://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
     "createdAt": "2026-10-30T03:31:45.436789Z",
-    "replyCount": 1,
+    "replyCount": 0,
     "repostCount": 0,
-    "likeCount": 0,
+    "likeCount": 1,
     "indexedAt": "2026-10-30T03:31:52.669Z",
     "embed": {
       "external": {
@@ -233015,7 +233015,7 @@
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 485,
+    "likeCount": 490,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233340,7 +233340,7 @@
     "createdAt": "2026-11-27T11:10:51.365Z",
     "replyCount": 0,
     "repostCount": 3,
-    "likeCount": 9,
+    "likeCount": 10,
     "indexedAt": "2026-11-27T11:10:52.656Z",
     "embed": {
       "images": [
@@ -233400,6 +233400,36 @@
     "repostCount": 0,
     "likeCount": 1,
     "indexedAt": "2026-11-27T22:25:31.054Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dg2oqbzk2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dg2oqbzk2x",
+    "cid": "bafyreiefwyzazli7la4nainn7fa4jfghxr5udqrez6or6h2gng6gqvwbzu",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "そして次のグランプリはもう始まっている",
+    "createdAt": "2026-11-28T00:10:32.406Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T00:10:32.662Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dfutwtpc2x": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dfutwtpc2x",
+    "cid": "bafyreidyhjc4ebp4jgabnpiagvwtk2m25fgxff3eptxr4lkie4cm3xbida",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "やっと先週のF1 ラスベガスGP FP1, FP2, FP3, 予選, 決勝を見た。なんてレースだ！",
+    "createdAt": "2026-11-28T00:07:16.538Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T00:07:17.454Z",
     "embed": null,
     "isRepost": false
   }
