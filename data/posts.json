@@ -226763,9 +226763,9 @@
     "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
     "text": "自分が引っかかっていたAutoSports Webの記事タイトルにも言及されていた｜SUPER GT 第7戦　それぞれに説明責任が必要では\nhttps://zurasportsweb.blogspot.com/2026/10/supergt-2026-round7-other-topics.html",
     "createdAt": "2026-10-30T03:31:45.436789Z",
-    "replyCount": 0,
+    "replyCount": 1,
     "repostCount": 0,
-    "likeCount": 1,
+    "likeCount": 0,
     "indexedAt": "2026-10-30T03:31:52.669Z",
     "embed": {
       "external": {
@@ -233015,7 +233015,7 @@
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
     "repostCount": 113,
-    "likeCount": 490,
+    "likeCount": 492,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233430,6 +233430,36 @@
     "repostCount": 0,
     "likeCount": 0,
     "indexedAt": "2026-11-28T00:07:17.454Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dmq6dvcy2k": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dmq6dvcy2k",
+    "cid": "bafyreibc4lde4rdwcqqmb3gxpdh5lbkp23pmyvxtck4vuthjgge7qlzk2y",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1カタールGP FP1見る",
+    "createdAt": "2026-11-28T02:09:55.341376Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T02:09:55.955Z",
+    "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dmjtvxt22t": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dmjtvxt22t",
+    "cid": "bafyreie6yqkackwvqu6it4hvfsujhmojtj7c57y5qbw3zgafr3kmrum5ny",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "雨だけどじみスタ号キレイにしてもらってきた",
+    "createdAt": "2026-11-28T02:06:23.156918Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T02:06:23.754Z",
     "embed": null,
     "isRepost": false
   }
