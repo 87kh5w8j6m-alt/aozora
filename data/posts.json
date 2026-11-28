@@ -229311,8 +229311,8 @@
     "text": "",
     "createdAt": "2026-11-12T00:27:35.091Z",
     "replyCount": 0,
-    "repostCount": 97,
-    "likeCount": 458,
+    "repostCount": 98,
+    "likeCount": 459,
     "indexedAt": "2026-11-12T00:27:43.168Z",
     "embed": {
       "images": [
@@ -233014,8 +233014,8 @@
     "text": "",
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
-    "repostCount": 113,
-    "likeCount": 494,
+    "repostCount": 114,
+    "likeCount": 498,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233521,6 +233521,29 @@
     "likeCount": 0,
     "indexedAt": "2026-11-28T04:31:43.757Z",
     "embed": null,
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dvybp53c22": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3dvybp53c22",
+    "cid": "bafyreicz3k3bwoqocmnxftt5rb25xoh7n7d562pinnkil2ut5ziz7idp5e",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "ハジャーが提案した、自転車レースのような戦略……しかしレッドブルはその効果を理解できず「スリップストリームを過小評価していたみたい」 jp.motorsport.com/f1/news/isac...",
+    "createdAt": "2026-11-28T04:55:31.497Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T04:55:33.455Z",
+    "embed": {
+      "external": {
+        "uri": "https://jp.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877583/?utm_source=RSS",
+        "title": "ハジャーが提案した、自転車レースのような戦略……しかしレッドブルはその効果を理解できず「スリップストリームを過小評価していたみたい」",
+        "description": "レッドブルのアイザック・ハジャーは、F1ラスベガスGPで自転車ロードレースのような戦術を提案。チームとしてはその成長ぶりに感銘を受けているという。",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreidyesmbatndykvmnmdr2kfimcjc6zovjqncf7ipwimjiwzldwlafu"
+      },
+      "$type": "app.bsky.embed.external#view"
+    },
     "isRepost": false
   }
 }
