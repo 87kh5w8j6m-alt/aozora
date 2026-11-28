@@ -228862,7 +228862,7 @@
     "createdAt": "2026-11-08T22:15:46.705Z",
     "replyCount": 0,
     "repostCount": 144,
-    "likeCount": 618,
+    "likeCount": 619,
     "indexedAt": "2026-11-08T22:15:53.664Z",
     "embed": {
       "images": [
@@ -230444,7 +230444,7 @@
     "createdAt": "2026-11-17T21:39:20.756Z",
     "replyCount": 0,
     "repostCount": 128,
-    "likeCount": 525,
+    "likeCount": 526,
     "indexedAt": "2026-11-17T21:39:27.456Z",
     "embed": {
       "images": [
@@ -233015,7 +233015,7 @@
     "createdAt": "2026-11-26T22:18:23.654Z",
     "replyCount": 0,
     "repostCount": 115,
-    "likeCount": 506,
+    "likeCount": 507,
     "indexedAt": "2026-11-26T22:18:29.060Z",
     "embed": {
       "images": [
@@ -233555,8 +233555,8 @@
     "text": "",
     "createdAt": "2026-11-28T07:11:48.275Z",
     "replyCount": 0,
-    "repostCount": 105,
-    "likeCount": 362,
+    "repostCount": 115,
+    "likeCount": 409,
     "indexedAt": "2026-11-28T07:11:55.954Z",
     "embed": {
       "images": [
@@ -233601,6 +233601,21 @@
       ],
       "$type": "app.bsky.embed.images#view"
     },
+    "isRepost": false
+  },
+  "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3enczxde52q": {
+    "uri": "at://did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/app.bsky.feed.post/3n3enczxde52q",
+    "cid": "bafyreigryllek4yqmyxedq6idzxstx3iynwfbvbeoerg4ocawnlebngr34",
+    "author": "jiminynseries.bsky.social",
+    "authorName": "じみニー",
+    "authorAvatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmxcnz6t2ktcy3g7x5y4ozvc/bafkreibezpqayvrdh5bzny37n7jaubujsuuu6igerpqovrakqnvga76pme",
+    "text": "F1カタールGP FP2見る",
+    "createdAt": "2026-11-28T11:53:08.049987Z",
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 0,
+    "indexedAt": "2026-11-28T11:53:08.654Z",
+    "embed": null,
     "isRepost": false
   }
 }
